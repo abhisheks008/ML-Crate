@@ -28,6 +28,14 @@ As we all know the BGMI Loot Crate comes with so many resources for the gamers, 
   </tr>
 </table>
 
+<h2> ⚔️ Mentors </h2>
+<table>
+  <tr>
+    <td align='center'><a href='https://github.com/abhisheks008'><img src="https://avatars.githubusercontent.com/u/68724349?v=4" width="80px;" alt=""/><br /><sub><b>Abhishek Sharma</b></sub></a></td>
+    <td align='center'><a href='https://github.com/vaibhavgupta2499'><img src='https://avatars.githubusercontent.com/u/51874705?v=4' width='80px;' alt=''/><br/><sub><b>Vaibhab Gupta</b></sub></a></td>
+    </tr>
+  </table>
+
 **************************************************************
 © 2021 Abhishek Sharma
 

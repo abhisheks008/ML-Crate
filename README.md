@@ -17,8 +17,16 @@ As we all know the BGMI Loot Crate comes with so many resources for the gamers, 
 </tr>
 </table>
   
+*************************************************************
+## 📊 Points Category
+| Level of Issues | Points Allocated |
+| - | - |
+| Level 1 | 10 Points 🟡|
+| Level 2 | 20 Points 🟠|
+| Level 3 | 30 Points 🔴|
 
 
+*************************************************************
 
 <h2>✔Project Admin</h2>
 

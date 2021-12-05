@@ -1,8 +1,8 @@
-## Related Issue 
+## Issue Title :
 
-- Info about the related issue 
+- Info about the related issue (Aim of the project)
 
-- [ ] Hacktoberfest2021 Participant 
+- [ ] SWOC Participant 
 - [ ] Contributor
 
 Closes: #issue number that will be closed through this PR
@@ -42,9 +42,5 @@ Example how to mark a checkbox:-
 - [ ] I have added things that prove my fix is effective or that my feature works.
 - [ ] Any dependent changes have been merged and published in downstream modules.
 
-## Screenshots (Only for Front End and UI/UX Designers)
 
- Original           | Updated
- :--------------------: |:--------------------:
- Original Screenshot | Updated Screenshot |
  

@@ -44,6 +44,7 @@ As we all know the BGMI Loot Crate comes with so many resources for the gamers, 
     <td align='center'><a href='https://github.com/hpnightowl'><img src='https://avatars.githubusercontent.com/u/48650798?v=4' width='80px;' alt=''/><br/><sub><b>Harsh Pal</b></sub></a></td>
     <td align='center'><a href='https://github.com/neelshah2409'><img src='https://avatars.githubusercontent.com/u/71593494?v=4' width='80px;' alt=''/><br/><sub><b>Neel Shah</b></sub></a></td>
     <td align='center'><a href='https://github.com/rohansharma4050'><img src='https://avatars.githubusercontent.com/u/69635604?v=4' width='80px;' alt=''/><br/><sub><b>Rohan Sharma</b></sub></a></td>
+    <td align='center'><a href='https://github.com/shreyapy'><img src='https://avatars.githubusercontent.com/u/32763445?v=4' width='80px;' alt=''/><br/><sub><b>Shreya Pandey</b></sub></a></td>
     </tr>
   </table>
 

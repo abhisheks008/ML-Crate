@@ -8,6 +8,19 @@
 ## 🔴 Welcome contributors!
 As we all know the BGMI Loot Crate comes with so many resources for the gamers, this ML Crate will be the hub of various ML projects which will be the resources for the ML enthusiasts!
 
+## Structure of the Projects 📝
+This repository consists of various machine learning projects, and all of the projects must follow a certain template. I wish the contributors will take care of this while contributing in this repository. <br><br>
+**Dataset** - This folder stores the dataset used in this project. If the Dataset is not being able to uploaded in this folder due to the large size, then put a README.md file inside the Dataset folder and put the link of the collected dataset in it. That'll work!<br><br>
+**Images** - This folder is used to store the images generated during the data analysis, data visualization, data segmentation of the project.<br><br>
+**Model** - This folder would have your project file (that is .ipynb file) be it analysis or prediction. Other than project file, it should also have a **'README.md'** using this [template](https://github.com/abhisheks008/ML-Crate/blob/main/.github/readme_template.md) and **'requirements.txt'** file which would be enclosed with all needed add-ons and libraries that are included in the project.
+
+## 🧮 Workflow
+- Fork the repository
+- Clone your forked repository using terminal or gitbash.
+- Make changes to the cloned repository
+- Add, Commit and Push
+- Then in Github, in your cloned repository find the option to make a pull request
+
 ## ❄️Open Source Programs!
 <table>
 <tr>
@@ -49,6 +62,21 @@ As we all know the BGMI Loot Crate comes with so many resources for the gamers, 
   </table>
 
 **************************************************************
+<h2>⭐Give this Project a Star</h2>
+
+[![GitHub followers](https://img.shields.io/github/followers/abhisheks008.svg?label=Follow%20@abhisheks008&style=social)](https://github.com/abhisheks008/)  [![Twitter Follow](https://img.shields.io/twitter/follow/Abhishe08346491?style=social)](https://twitter.com/Abhishe08346491)
+
+If you liked working on this project, do ⭐ and share this repository.
+
+🎉 🎊 😃 Happy Contributing 😃 🎊 🎉
+
+<h2>📬 Contact</h2>
+
+If you want to contact me, you can reach me through social handles.
+
+<a href="https://twitter.com/Abhishe08346491"><img src="https://upload.wikimedia.org/wikipedia/fr/thumb/c/c8/Twitter_Bird.svg/1200px-Twitter_Bird.svg.png" width="25"></img></a>&nbsp;&nbsp; <a href="https://www.linkedin.com/in/abhishek-sharma-aa06a9183/"><img src="https://www.felberpr.com/wp-content/uploads/linkedin-logo.png" width="25"></img></a>
+
+
 © 2021 Abhishek Sharma
 
 

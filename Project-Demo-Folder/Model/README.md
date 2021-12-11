@@ -1,6 +1,7 @@
 This folder will be for storing the model created for the ML project. The file format should be in `.ipynb`.
 
 After providing the model, fill out this README.md file like this,
+
 **PROJECT TITLE**
 
 **GOAL**

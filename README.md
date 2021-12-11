@@ -34,10 +34,10 @@ This repository consists of various machine learning projects, and all of the pr
 ## 📊 Points Category
 | Level of Issues | Points Allocated |
 | - | - |
-| Beginner | 10 Points 🟡|
-| Easy | 20 Points 🟠|
-| Medium | 30 Points 🔴|
-| Hard | 40 Points 🟣 |
+| Beginner | 10 Points 🔰|
+| Easy | 20 Points 🌱|
+| Medium | 30 Points 🌕|
+| Hard | 40 Points 🔥 |
 
 
 *************************************************************

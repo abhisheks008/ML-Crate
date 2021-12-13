@@ -48,10 +48,11 @@ I also tried using 4 layers and played around with the number of hidden units an
 
 So in conclusion I ended up selecting the 3 layer NN with 64 hidden units as the most optimal option.
 
-![3 layer NN](https://www.google.com/url?sa=i&url=https%3A%2F%2Ftowardsdatascience.com%2Fexploring-activation-functions-for-neural-networks-73498da59b02&psig=AOvVaw3r14SkcNXbuGrgiAjdC2Xo&ust=1639492085856000&source=images&cd=vfe&ved=0CAsQjRxqFwoTCOjptfT-4PQCFQAAAAAdAAAAABAE"3 layer Neural Network")
+![image](https://user-images.githubusercontent.com/90238742/145832775-c7c5cc8b-4886-4635-8107-fe105e96cd37.png)
 
 
-Name: Yagyesh Bobde 
-Github: https://github.com/yagyesh-bobde
-medium: https://medium.com/@Yagyesh_bobde
+
+Name: Yagyesh Bobde \
+Github: https://github.com/yagyesh-bobde \
+medium: https://medium.com/@Yagyesh_bobde \
 linkedin: https://www.linkedin.com/in/yagyesh-bobde-177523220/

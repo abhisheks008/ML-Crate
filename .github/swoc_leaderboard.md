@@ -37,9 +37,9 @@
 ****************************************************************
 🔴 **Yagyesh Bobde** (Participant ID : 1131) (GitHub Link : https://github.com/yagyesh-bobde)<br/>
 🔴 **Assigned Issues** : #6 <br/>
-🔴 **Merged PRs** : - <br/>
-🔴 **Projects** : - <br/>
-🔴 **Total Points** : - <br/>
+🔴 **Merged PRs** : #25 <br/>
+🔴 **Projects** : MNIST Dataset Classification (40 Points) <br/>
+🔴 **Total Points** : 40 <br/>
 
 ****************************************************************
 🔴 **Sankalp Srivastava** (Participant ID : 857) (GitHub Link : http://www.github.com/sankalp-srivastava)<br/>

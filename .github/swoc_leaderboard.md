@@ -49,3 +49,10 @@
 🔴 **Total Points** : 40 <br/>
 
 ****************************************************************
+🔴 **Suyog Kokaje** (Participant ID : 1032) (GitHub Link : https://github.com/suyogkokaje)<br/>
+🔴 **Assigned Issues** : #4 <br/>
+🔴 **Merged PRs** : - <br/>
+🔴 **Projects** : - <br/>
+🔴 **Total Points** : - <br/>
+
+****************************************************************

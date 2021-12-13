@@ -1,1 +1,5 @@
-This folder is for storing the dataset that have been used in this project.
+
+**DATASET**
+Dataset can be found at below link.
+
+https://www.kaggle.com/mlg-ulb/creditcardfraud

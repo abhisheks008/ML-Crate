@@ -1,5 +1,3 @@
-*This folder will be for storing the model created for the ML project. The file format should be in .ipynb.*
-
 # MNIST Dataset Classification
 
 ### Goal  
@@ -51,8 +49,9 @@ So in conclusion I ended up selecting the 3 layer NN with 64 hidden units as the
 ![image](https://user-images.githubusercontent.com/90238742/145832775-c7c5cc8b-4886-4635-8107-fe105e96cd37.png)
 
 
+**CONTRIBUTION BY**
 
-Name: Yagyesh Bobde \
-Github: https://github.com/yagyesh-bobde \
-medium: https://medium.com/@Yagyesh_bobde \
-linkedin: https://www.linkedin.com/in/yagyesh-bobde-177523220/
+*Yagyesh Bobde*
+
+  
+[![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/yagyesh-bobde-177523220/) [![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)](https://github.com/yagyesh-bobde)

@@ -43,7 +43,7 @@
 
 ****************************************************************
 🔴 **Sankalp Srivastava** (Participant ID : 857) (GitHub Link : http://www.github.com/sankalp-srivastava)<br/>
-🔴 **Assigned Issues** : #15 <br/>
+🔴 **Assigned Issues** : #15, #14 <br/>
 🔴 **Merged PRs** : #26 <br/>
 🔴 **Projects** : Credit Card Fraud Detection (40 Points) <br/>
 🔴 **Total Points** : 40 <br/>

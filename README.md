@@ -29,6 +29,11 @@ This repository consists of various machine learning projects, and all of the pr
  </td>
 </tr>
 </table>
+
+***********************************************************
+| Serial No. | Project Name | Goal of the Project | Link |
+| :-: | :-: | :-: | :-: |
+| 01 | Credit Card Fraud Detection | The main aim of the project is to make a model that helps to predict credit card fraud based on the given dataset. | [Click Here](/Credit%20Card%20Fraud%20Detection) |
   
 *************************************************************
 ## 📊 Points Category

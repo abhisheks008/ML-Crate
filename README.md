@@ -49,7 +49,7 @@ This repository consists of various machine learning projects, and all of the pr
 
 ## Checkout your Leaderboard here, [SWOC 2.0 Leaderboard for ML-Crate](https://github.com/abhisheks008/ML-Crate/blob/main/.github/swoc_leaderboard.md)
 ****************************************************************
-<h2>✨top Contributors</h2>   
+<h2>✨Top Contributors</h2>   
 
 Thanks goes to these Wonderful People. Contributions of any kind are welcome!🚀 
 

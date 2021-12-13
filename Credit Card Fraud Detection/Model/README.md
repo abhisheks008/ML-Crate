@@ -54,6 +54,7 @@ The main aim of the project is to make a model that helps to predict credit card
 6. LightGBM : Light GBM is prefixed as Light because of its high speed. Light GBM can handle the large size of data and takes lower memory to run. it is so popular is because **it focuses on accuracy of results**.
 
 **LIBRARIES NEEDED**
+
 * Numpy
 * Pandas
 * Matplotlib
@@ -66,7 +67,8 @@ The main aim of the project is to make a model that helps to predict credit card
   
 
 **ACCURACIES**
-![Model Accuracies](..\Images\model_accuracy.jpg "Model Accuracies")
+
+![Model Accuracies](https://github.com/sankalp-srivastava/ML-Crate/blob/Credit_Card_Fraud_Detection/Credit%20Card%20Fraud%20Detection/Images/model_accuracy.jpg?raw=true "Model Accuracies")
   
 
 **CONCLUSION**
@@ -83,6 +85,7 @@ We followed with an lightGBM Classifier model and optimizing it using Bayesian o
   
 
 **CONTRIBUTION BY**
+
 *Sankalp Srivastava*
 
   

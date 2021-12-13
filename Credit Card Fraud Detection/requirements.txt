@@ -1,1 +1,9 @@
-This folder will provide the required libraries for configuring the project in any ones system. 
+Install the following python libraies
+1.Numpy
+2.Pandas
+3.Matplotlib
+4.scikit-learn
+5.xgboost
+6.skopt
+7.lightgbm
+8.seaborn

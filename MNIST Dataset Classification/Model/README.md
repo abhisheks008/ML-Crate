@@ -46,8 +46,7 @@ I also tried using 4 layers and played around with the number of hidden units an
 
 So in conclusion I ended up selecting the 3 layer NN with 64 hidden units as the most optimal option.
 
-![image](https://user-images.githubusercontent.com/90238742/145832775-c7c5cc8b-4886-4635-8107-fe105e96cd37.png)
-
+![3 layer Neural Network](https://github.com/yagyesh-bobde/ML-Crate/blob/mnist/MNIST%20Dataset%20Classification/Images/featured1.png?raw=true "3 layer Neural Network")
 
 **CONTRIBUTION BY**
 

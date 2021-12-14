@@ -29,6 +29,12 @@ This repository consists of various machine learning projects, and all of the pr
  </td>
 </tr>
 </table>
+
+***********************************************************
+| Serial No. | Project Name | Goal of the Project | Link |
+| :-: | :-: | :-: | :-: |
+| 01 | Credit Card Fraud Detection | The main aim of the project is to make a model that helps to predict credit card fraud based on the given dataset. | [Click Here](/Credit%20Card%20Fraud%20Detection) |
+| 02 | MNIST Dataset Classification | Implement a machine learning classification algorithm on image to recognize handwritten digits from a paper. | [Click Here](/MNIST%20Dataset%20Classification) |
   
 *************************************************************
 ## 📊 Points Category
@@ -43,6 +49,22 @@ This repository consists of various machine learning projects, and all of the pr
 *************************************************************
 
 ## Checkout your Leaderboard here, [SWOC 2.0 Leaderboard for ML-Crate](https://github.com/abhisheks008/ML-Crate/blob/main/.github/swoc_leaderboard.md)
+****************************************************************
+<h2>✨Top Contributors</h2>   
+
+Thanks goes to these Wonderful People. Contributions of any kind are welcome!🚀 
+
+<!-- ALL-CONTRIBUTORS-LIST:START - Do not remove or modify this section -->
+<!-- prettier-ignore-start -->
+<!-- markdownlint-disable -->
+
+<a href="https://github.com/abhisheks008/ML-Crate/graphs/contributors">
+  <img src="https://contrib.rocks/image?repo=abhisheks008/ML-Crate" />
+</a>
+
+<!-- markdownlint-enable -->
+<!-- prettier-ignore-end -->
+<!-- ALL-CONTRIBUTORS-LIST:END -->
 
 *************************************************************
 

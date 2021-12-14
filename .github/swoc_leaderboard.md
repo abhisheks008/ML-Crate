@@ -39,17 +39,17 @@
 
 ****************************************************************
 🔴 **Yagyesh Bobde** (Participant ID : 1131) (GitHub Link : https://github.com/yagyesh-bobde)<br/>
-🔴 **Assigned Issues** : #6 <br/>
+🔴 **Assigned Issues** : #6, #21 <br/>
 🔴 **Merged PRs** : #25 <br/>
 🔴 **Projects** : MNIST Dataset Classification (40 Points) <br/>
 🔴 **Total Points** : 40 <br/>
 
 ****************************************************************
 🔴 **Sankalp Srivastava** (Participant ID : 857) (GitHub Link : http://www.github.com/sankalp-srivastava)<br/>
-🔴 **Assigned Issues** : #15, #14 <br/>
-🔴 **Merged PRs** : #26 <br/>
-🔴 **Projects** : Credit Card Fraud Detection (40 Points) <br/>
-🔴 **Total Points** : 40 <br/>
+🔴 **Assigned Issues** : #15, #14, #5 <br/>
+🔴 **Merged PRs** : #26, #29 <br/>
+🔴 **Projects** : Credit Card Fraud Detection (40 Points) | Character Recognition (30 Points) <br/>
+🔴 **Total Points** : 70 <br/>
 
 ****************************************************************
 🔴 **Suyog Kokaje** (Participant ID : 1032) (GitHub Link : https://github.com/suyogkokaje)<br/>

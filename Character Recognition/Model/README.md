@@ -1,4 +1,5 @@
 **Character Recognition**
+-
 
 **GOAL**
 
@@ -59,9 +60,12 @@ Keras allows us to train our model on a single GPU or use multiple GPUs. It prov
 
 **PERFORMANCE**
 
-![Model Accuracy](..\Images\accuracy.jpg "Model Accuracies")
-![Model loss](..\Images\loss.jpg "Model Loss")
-![examples](..\Images\example.jpg "Examples")
+<p float="left">
+<img src="../Images/accuracy.jpg" alt="Model Accuracy" style="width:40%;" title="Model Accuracy"/>
+<img src="../Images/loss.jpg" alt="Model Loss" style="width:43%;"title="Model Loss"/>
+</p>
+
+![examples](../Images/example.jpg "Examples")
   
 
 **CONCLUSION**

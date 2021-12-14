@@ -59,13 +59,14 @@ Thanks goes to these Wonderful People. Contributions of any kind are welcome!ðŸš
 <!-- prettier-ignore-start -->
 <!-- markdownlint-disable -->
 
-<a href="https://github.com/abhisheks008/ML-Crate/graphs/contributor">
+<a href="https://github.com/abhisheks008/ML-Crate/graphs/contributors">
   <img src="https://contrib.rocks/image?repo=abhisheks008/ML-Crate" />
 </a>
 
 <!-- markdownlint-enable -->
 <!-- prettier-ignore-end -->
 <!-- ALL-CONTRIBUTORS-LIST:END -->
+
 
 *************************************************************
 

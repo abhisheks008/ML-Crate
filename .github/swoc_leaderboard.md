@@ -1,4 +1,7 @@
-### SWOC LeaderBoard - Project : ML-Crate
+<div align = 'center'>
+  <h2> SWOC Leaderboard | Project : ML-Crate 📊 </h2>
+  </div>
+
 
 🔴 **Deepthi M.** (Participant ID : 294) (GitHub Link : https://github.com/deepthi1107) <br/>
 🔴 **Assigned Issues** : #9 <br/>

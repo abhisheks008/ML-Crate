@@ -28,6 +28,7 @@ For this project we'll be using the *spambase dataset*. This dataset has about 4
 
 - Numpy 
 - pandas
+- matplotlib
 - sklearn
 
 **Model Used and Their ACCURACIES**   
@@ -36,7 +37,7 @@ For this project we'll be using the *spambase dataset*. This dataset has about 4
 
 **CONCLUSION**
 
-As we can see that the KMeansClustering algorithm has the highest accuracy of ~95%, and logistic regression also has has a pretty high accuracy, despite it's simplicity it's a very effective model and this why in many of the classification problems the first approach is always Logistic regression.   
+As we can see that the RandomforestClassifier algorithm has the highest accuracy of ~95%, and logistic regression also has has a pretty high accuracy, despite it's simplicity it's a very effective model and this why in many of the classification problems the first approach is always Logistic regression.   
 
 **CONTRIBUTION BY**  
 

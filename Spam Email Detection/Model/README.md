@@ -31,8 +31,7 @@ For this project we'll be using the *spambase dataset*. This dataset has about 4
 - sklearn
 
 **Model Used and Their ACCURACIES**
-![Model Accuracies](/Users/pranav/Desktop/ML-Crate/Spam Email Detection/Images/base_models.png)
-
+<img src="../Images/base_models.png" alt="Accuracies" style="height: 400px; width:400px;"/>
 **CONCLUSION**
 
 As we can see that the _ algorithm has the highest accuracy, this is also the reason why Naive byes algorithm is used very widely in the field of NLP.

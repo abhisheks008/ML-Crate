@@ -31,7 +31,7 @@ For this project we'll be using the *spambase dataset*. This dataset has about 4
 - sklearn
 
 **Model Used and Their ACCURACIES**
-
+![Model Accuracies](/Users/pranav/Desktop/ML-Crate/Spam Email Detection/Images/base_models.png)
 
 **CONCLUSION**
 

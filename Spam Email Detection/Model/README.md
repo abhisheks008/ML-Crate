@@ -1,44 +1,47 @@
-This folder will be for storing the model created for the ML project. The file format should be in `.ipynb`.
-
-After providing the model, fill out this README.md file like this,
-
-**PROJECT TITLE**
+**Spam Email Detection**
 
 **GOAL**
 
-Write the main goal of project and what's the purpose of it
+To build a model that can identify your emails as spam or non-spam
 
 **DATASET**
 
-Add a link to dataset and from where it's taken.
+https://archive.ics.uci.edu/ml/datasets/Spambase
 
 **DESCRIPTION**
 
-Brief description about the project
+In this project we aim to find the most accurate algorithm which correctly categorizes our emails as spam or non-spam. \
+For this project we'll be using the *spambase dataset*. This dataset has about 4.6K rows and the each row contains numerical information regarding the email. So there is no need for us to process the data. \
 
 **WHAT I HAD DONE**
+1. Load the dataset
+2. Analyse the dataset
+<u>Since there is no need for data processing</u>
+3. Train/Test Split 
+4. Selecting A Model
+5. Generating Predictions
+(Optional, recommended)
+6. Save the model
 
-Write down the step by step procedure of how project works using points.
-
-**MODELS USED**
-
-List out all the algorithms or models used in this project
-Why have you choosed that algorithms should also be stated
 
 **LIBRARIES NEEDED**
 
-Add all the libraries needed in this project in points
+- Numpy 
+- pandas
+- sklearn
 
-**ACCURACIES**
+**Model Used and Their ACCURACIES**
 
-Add all the algorithms used with their accuracies and results
-
-INCLUSION OF **SCREENSHOT** IS MUST FOR FRONT END DESIGNERS AND UI/UX DESIGNERS.
 
 **CONCLUSION**
 
-What's the conclusion derived from this project and also showcase the accuracy results if it's applicable. Be briefer
+As we can see that the _ algorithm has the highest accuracy, this is also the reason why Naive byes algorithm is used very widely in the field of NLP.
 
-**YOUR NAME**
+**CONTRIBUTION BY**
 
-Add your name at the end of the file, along with social media handles if applicable.
+*Yagyesh Bobde*
+
+  
+[![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/yagyesh-bobde-177523220/) [![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)](https://github.com/yagyesh-bobde)
+
+

@@ -59,3 +59,17 @@
 🔴 **Total Points** : - <br/>
 
 ****************************************************************
+🔴 **Ahan Anupam** (Participant ID : 63) (GitHub Link : https://github.com/ahananupam33)<br/>
+🔴 **Assigned Issues** : #18 <br/>
+🔴 **Merged PRs** : - <br/>
+🔴 **Projects** : - <br/>
+🔴 **Total Points** : - <br/>
+
+****************************************************************
+🔴 **Karishni Mehta** (Participant ID : 466) (GitHub Link : https://github.com/karishni)<br/>
+🔴 **Assigned Issues** : #11 <br/>
+🔴 **Merged PRs** : - <br/>
+🔴 **Projects** : - <br/>
+🔴 **Total Points** : - <br/>
+
+****************************************************************

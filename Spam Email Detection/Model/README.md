@@ -30,17 +30,17 @@ For this project we'll be using the *spambase dataset*. This dataset has about 4
 - pandas
 - sklearn
 
-**Model Used and Their ACCURACIES** \
+**Model Used and Their ACCURACIES**   
 
-<img src="../Images/base_models.png" alt="Accuracies" style="height: 500px; width:700px;"/> \
+<img src="../Images/base_models.png" alt="Accuracies" style="height: 700px; width:1200px;"/>  
 
 **CONCLUSION**
 
-As we can see that the KMeansClustering algorithm has the highest accuracy of ~95%, and logistic regression also has has a pretty high accuracy, despite it's simplicity it's a very effective model and this why in many of the classification problems the first approach is always Logistic regression. \
+As we can see that the KMeansClustering algorithm has the highest accuracy of ~95%, and logistic regression also has has a pretty high accuracy, despite it's simplicity it's a very effective model and this why in many of the classification problems the first approach is always Logistic regression.   
 
-**CONTRIBUTION BY**
+**CONTRIBUTION BY**  
 
-*Yagyesh Bobde*
+*Yagyesh Bobde*  
 
   
 [![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/yagyesh-bobde-177523220/) [![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)](https://github.com/yagyesh-bobde)

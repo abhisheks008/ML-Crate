@@ -4,7 +4,7 @@
 
 
 🔴 **Deepthi M.** (Participant ID : 294) (GitHub Link : https://github.com/deepthi1107) <br/>
-🔴 **Assigned Issues** : #9 <br/>
+🔴 **Assigned Issues** : #9, #13 <br/>
 🔴 **Merged PRs** : #33 <br/>
 🔴 **Projects** : Wine Quality Prediction (40 Points) <br/>
 🔴 **Total Points** : 40 <br/>
@@ -12,9 +12,9 @@
 ************************************************************
 🔴 **Rahul Kumar** (Participant ID : 740) (GitHub Link : https://github.com/rahul-netizen)<br/>
 🔴 **Assigned Issues** : #8 <br/>
-🔴 **Merged PRs** : - <br/>
-🔴 **Projects** : - <br/>
-🔴 **Total Points** : - <br/>
+🔴 **Merged PRs** : #34 <br/>
+🔴 **Projects** : Fake News Detection (40 Points) <br/>
+🔴 **Total Points** : 40 <br/>
 
 **************************************************************
 🔴 **M. Ashish Reddy** (Participant ID : 528) (GitHub Link : https://github.com/ashish-reddy-20-08)<br/>
@@ -40,9 +40,9 @@
 ****************************************************************
 🔴 **Yagyesh Bobde** (Participant ID : 1131) (GitHub Link : https://github.com/yagyesh-bobde)<br/>
 🔴 **Assigned Issues** : #6, #21 <br/>
-🔴 **Merged PRs** : #25 <br/>
-🔴 **Projects** : MNIST Dataset Classification (40 Points) <br/>
-🔴 **Total Points** : 40 <br/>
+🔴 **Merged PRs** : #25, #31 <br/>
+🔴 **Projects** : MNIST Dataset Classification (40 Points) | Spam Email Detection (30 Points) <br/>
+🔴 **Total Points** : 70 <br/>
 
 ****************************************************************
 🔴 **Sankalp Srivastava** (Participant ID : 857) (GitHub Link : http://www.github.com/sankalp-srivastava)<br/>

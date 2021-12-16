@@ -73,7 +73,7 @@ Preprocessing of the dataset:
 
 **CONCLUSION**
 
-- Downloaded the dataset from kaggle, loading the required libraries, Data Pr-Processing, Splitting of data, building the models, testing thier accuracies and finilizing the model based on accuracy.
+- Downloaded the dataset from kaggle, loading the required libraries, Data Pre-Processing, Splitting of data, building the models, testing thier accuracies and finilizing the model based on accuracy.
 - I have used three models to train the data starting with Randomm forest classifier, then SGD classifier and after that SVC. I have tuned the data using GirdSearchCV after that the accuracy of random forest classifier increased, this lead to finilize the random forest classifier which is having highest accuracy.
 - Random forest classifier is used to predict the wine quality with an accuracy over 90%
 

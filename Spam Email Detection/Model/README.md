@@ -37,7 +37,9 @@ For this project we'll be using the *spambase dataset*. This dataset has about 4
 
 **CONCLUSION**
 
-As we can see that the RandomforestClassifier algorithm has the highest accuracy of ~95%, and logistic regression also has has a pretty high accuracy, despite it's simplicity it's a very effective model and this why in many of the classification problems the first approach is always Logistic regression.   
+The RandomforestClassifier algorithm has the highest accuracy of ~95% (I tweaked the params later and got the accuracy to 96%), and logistic regression also has has a pretty high accuracy, despite it's simplicity it's a very effective model and this why in many of the classification problems the first approach is always Logistic regression. On the other hand ensembling methods are so powerful in some problems that they can easily have a higher accuracy socre than other algorithms.   
+This why we need to try out many algorithms and find out the most optimized solution. 
+**NOTE:** *The most optimal solution dosen't always mean the most accurate.*
 
 **CONTRIBUTION BY**  
 

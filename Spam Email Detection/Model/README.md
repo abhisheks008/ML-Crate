@@ -19,7 +19,8 @@ For this project we'll be using the *spambase dataset*. This dataset has about 4
 <u>Since there is no need for data processing</u>
 3. Train/Test Split 
 4. Selecting A Model
-5. Generating Predictions
+5. Hyperparameter Optimization
+6. Generating Predictions
 (Optional, recommended)
 6. Save the model
 
@@ -29,6 +30,7 @@ For this project we'll be using the *spambase dataset*. This dataset has about 4
 - Numpy 
 - pandas
 - matplotlib
+- plotly
 - sklearn
 
 **Model Used and Their ACCURACIES**   

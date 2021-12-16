@@ -1,0 +1,7 @@
+matplotlib==3.4.2
+seaborn==0.11.1
+wordcloud==1.8.1
+pandas==1.2.4
+numpy==1.20.3
+nltk==3.6.5
+scikit-learn==1.0.1

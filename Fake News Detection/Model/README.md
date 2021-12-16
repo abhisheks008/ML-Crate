@@ -10,7 +10,7 @@ The Fake News Dataset is from [Kaggle](https://www.kaggle.com/c/fake-news/data)
 
 **DESCRIPTION**
 
-The project mainly focuses on handling huge amount of text data, extracting meaningful information from it using methods like lemmatization, stemming, tokenization and soo much more and then passing all these informations as features to a model and making a prediction whether the news is reliable(0) or unreliable(1)
+The project mainly focuses on handling huge amounts of text data, extracting meaningful information from it using methods like lemmatization, stemming, tokenization and soo much more and then passing all these informations as features to a model and making a prediction whether the news is reliable(0) or unreliable(1)
 
 **WHAT I HAD DONE**
 

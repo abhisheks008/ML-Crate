@@ -5,9 +5,9 @@
 
 🔴 **Deepthi M.** (Participant ID : 294) (GitHub Link : https://github.com/deepthi1107) <br/>
 🔴 **Assigned Issues** : #9 <br/>
-🔴 **Merged PRs** : - <br/>
-🔴 **Projects** : - <br/>
-🔴 **Total Points** : - <br/>
+🔴 **Merged PRs** : #33 <br/>
+🔴 **Projects** : Wine Quality Prediction (40 Points) <br/>
+🔴 **Total Points** : 40 <br/>
 
 ************************************************************
 🔴 **Rahul Kumar** (Participant ID : 740) (GitHub Link : https://github.com/rahul-netizen)<br/>

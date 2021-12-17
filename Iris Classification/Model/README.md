@@ -67,7 +67,7 @@ The main aim of the project is to make a model that helps to class of iris based
 
 ![Model Accuracies](../Images/model_accuracy.jpg "Model Accuracies")
 
-![Scatter Plot](../Images/scatter_plot.jpg "Scatter Plot")
+![Scatter Plot](../Images/scatter_plot.png "Scatter Plot")
   
 
 **CONCLUSION**
@@ -85,4 +85,4 @@ We achieved 100% accuracy on all models.
 *Sankalp Srivastava*
 
   
-[![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/sankalpsrivastava-2605/) [![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)](https://github.com/sankalp-srivastava/)
+[![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/sankalpsrivastava-2605/) [![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)](https://github.com/sankalp-srivastava/) [![Kaggle](https://img.shields.io/badge/Kaggle-20BEFF?style=for-the-badge&logo=Kaggle&logoColor=white)](https://www.kaggle.com/sankalpsrivastava26)

@@ -37,7 +37,10 @@ This repository consists of various machine learning projects, and all of the pr
 | 02 | MNIST Dataset Classification | Implement a machine learning classification algorithm on image to recognize handwritten digits from a paper. | [Click Here](/MNIST%20Dataset%20Classification) |
 | 03 | Character Recognition | Implement character recognition in natural languages. Character recognition is the process of automatically identifying characters from written papers or printed texts. | [Click Here](/Character%20Recognition)|
 | 04 | Height and Weight Prediction | Build a predictive model for determining height or weight of a person. Implement a linear regression model that will be used for predicting height or weight. | [Click Here](/Height%20and%20Weight%20Prediction)
-| 05 | Fake News Detection | Build a fake news detection model with Passive Aggressive Classifier algorithm. The Passive Aggressive algorithm can classify massive streams of data, it can be implemented quickly. | [Click Here](/Fake%20News%20Detection)
+| 05 | Fake News Detection | Build a fake news detection model with Passive Aggressive Classifier algorithm. The Passive Aggressive algorithm can classify massive streams of data, it can be implemented quickly. | [Click Here](/Fake%20News%20Detection)|
+| 06 | Spam Email Detection | To build a model that can identify your emails as spam or non-spam. | [Click Here](/Spam%20Email%20Detection)|
+| 07 | Wine Quality Prediction | Perform various different machine learning algorithms like regression, decision tree, random forests, etc and differentiate between the models and analyse their performances. | [Click Here](/Wine%20Quality%20Prediction)
+
   
 *************************************************************
 ## 📊 Points Category

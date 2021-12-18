@@ -39,7 +39,9 @@ This repository consists of various machine learning projects, and all of the pr
 | 04 | Height and Weight Prediction | Build a predictive model for determining height or weight of a person. Implement a linear regression model that will be used for predicting height or weight. | [Click Here](/Height%20and%20Weight%20Prediction)
 | 05 | Fake News Detection | Build a fake news detection model with Passive Aggressive Classifier algorithm. The Passive Aggressive algorithm can classify massive streams of data, it can be implemented quickly. | [Click Here](/Fake%20News%20Detection)|
 | 06 | Spam Email Detection | To build a model that can identify your emails as spam or non-spam. | [Click Here](/Spam%20Email%20Detection)|
-| 07 | Wine Quality Prediction | Perform various different machine learning algorithms like regression, decision tree, random forests, etc and differentiate between the models and analyse their performances. | [Click Here](/Wine%20Quality%20Prediction)
+| 07 | Wine Quality Prediction | Perform various different machine learning algorithms like regression, decision tree, random forests, etc and differentiate between the models and analyse their performances. | [Click Here](/Wine%20Quality%20Prediction)|
+| 08| Iris Classification | Implement a machine learning classification or regression model on the dataset. Classification is the task of separating items into its corresponding class. | [Click Here](/Iris%20Classification)|
+| 09| Titanic Prediction | Build a fun model to predict whether a person would have survived on the Titanic or not. You can use linear regression for this purpose. | [Click Here](/Titanic%20Prediction)|
 
   
 *************************************************************

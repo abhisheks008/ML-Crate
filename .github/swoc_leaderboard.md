@@ -73,3 +73,10 @@
 🔴 **Total Points** : - <br/>
 
 ****************************************************************
+🔴 **Divya Shanker Gupta** (Participant ID : 1155) (GitHub Link : https://github.com/divya-gupta12)<br/>
+🔴 **Assigned Issues** : #36 <br/>
+🔴 **Merged PRs** : #38 <br/>
+🔴 **Projects** : Pima Indians Diabetes Prediction (30 Points) <br/>
+🔴 **Total Points** : 30 <br/>
+
+****************************************************************

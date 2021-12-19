@@ -39,14 +39,14 @@
 
 ****************************************************************
 🔴 **Yagyesh Bobde** (Participant ID : 1131) (GitHub Link : https://github.com/yagyesh-bobde)<br/>
-🔴 **Assigned Issues** : #6, #21 <br/>
+🔴 **Assigned Issues** : #6, #21, #22 <br/>
 🔴 **Merged PRs** : #25, #31 <br/>
 🔴 **Projects** : MNIST Dataset Classification (40 Points) | Spam Email Detection (30 Points) <br/>
 🔴 **Total Points** : 70 <br/>
 
 ****************************************************************
 🔴 **Sankalp Srivastava** (Participant ID : 857) (GitHub Link : http://www.github.com/sankalp-srivastava)<br/>
-🔴 **Assigned Issues** : #15, #14, #5 <br/>
+🔴 **Assigned Issues** : #15, #14, #5, #23 <br/>
 🔴 **Merged PRs** : #26, #29, #35 <br/>
 🔴 **Projects** : Credit Card Fraud Detection (40 Points) | Character Recognition (30 Points) | Iris Classification (40 Points)<br/>
 🔴 **Total Points** : 110 <br/>
@@ -78,5 +78,19 @@
 🔴 **Merged PRs** : #38 <br/>
 🔴 **Projects** : Pima Indians Diabetes Prediction (30 Points) <br/>
 🔴 **Total Points** : 30 <br/>
+
+****************************************************************
+🔴 **Aryan Goyal** (Participant ID : 191) (GitHub Link : https://github.com/iaryangoyal)<br/>
+🔴 **Assigned Issues** : #17 <br/>
+🔴 **Merged PRs** : - <br/>
+🔴 **Projects** : - <br/>
+🔴 **Total Points** : - <br/>
+
+****************************************************************
+🔴 **Harshini Marappan** (Participant ID : 389) (GitHub Link : https://github.com/HarshiniMarappan)<br/>
+🔴 **Assigned Issues** : #16 <br/>
+🔴 **Merged PRs** : - <br/>
+🔴 **Projects** : - <br/>
+🔴 **Total Points** : - <br/>
 
 ****************************************************************

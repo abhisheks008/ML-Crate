@@ -68,9 +68,9 @@
 ****************************************************************
 🔴 **Karishni Mehta** (Participant ID : 466) (GitHub Link : https://github.com/karishni)<br/>
 🔴 **Assigned Issues** : #11 <br/>
-🔴 **Merged PRs** : - <br/>
-🔴 **Projects** : - <br/>
-🔴 **Total Points** : - <br/>
+🔴 **Merged PRs** : #39 <br/>
+🔴 **Projects** : Parkinson's Disease Prediction (40 Points) <br/>
+🔴 **Total Points** : 40 <br/>
 
 ****************************************************************
 🔴 **Divya Shanker Gupta** (Participant ID : 1155) (GitHub Link : https://github.com/divya-gupta12)<br/>

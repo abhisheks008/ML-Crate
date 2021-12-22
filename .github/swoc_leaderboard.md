@@ -30,7 +30,7 @@
 🔴 **Projects** : Height and Weight Prediction (30 Points) <br/>
 🔴 **Total Points** : 30 <br/>
 
-****************************************************************
+***************************************************************
 🔴 **Vanshika Goel** (Participant ID : 1093) (GitHub Link : https://github.com/Vanshikagoel0012)<br/>
 🔴 **Assigned Issues** : #7 <br/>
 🔴 **Merged PRs** : - <br/>

@@ -44,6 +44,7 @@ This repository consists of various machine learning projects, and all of the pr
 | 09| Titanic Prediction | Build a fun model to predict whether a person would have survived on the Titanic or not. You can use linear regression for this purpose. | [Click Here](/Titanic%20Prediction)|
 | 10| Pima Indians Diabetes Prediction | To predict whether a person is diabetic or not. | [Click Here](/Pima%20Indians%20Diabetes%20Prediction)|
 | 11| Parkinson's Disease Prediction | The model can be used to differentiate healthy people from people having Parkinson’s disease. The algorithm that is useful for this purpose is XGboost which stands for extreme gradient boosting, it is based on decision trees. | [Click Here](/Parkinson's%20Disease%20Prediction)|
+| 12| Sentiment Analysis on Twitter Data | Analysing the sentiment of the users and creating a prediction model based on the data, which will predict the sentiment of the user.. | [Click Here](/Sentimental%20Analysis%20of%20tweets)|
 
   
 *************************************************************

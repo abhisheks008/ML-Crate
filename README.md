@@ -45,6 +45,7 @@ This repository consists of various machine learning projects, and all of the pr
 | 10| Pima Indians Diabetes Prediction | To predict whether a person is diabetic or not. | [Click Here](/Pima%20Indians%20Diabetes%20Prediction)|
 | 11| Parkinson's Disease Prediction | The model can be used to differentiate healthy people from people having Parkinson’s disease. The algorithm that is useful for this purpose is XGboost which stands for extreme gradient boosting, it is based on decision trees. | [Click Here](/Parkinson's%20Disease%20Prediction)|
 | 12| Sentiment Analysis on Twitter Data | Analysing the sentiment of the users and creating a prediction model based on the data, which will predict the sentiment of the user.. | [Click Here](/Sentimental%20Analysis%20of%20tweets)|
+| 13| Jeopardy Bot | We Build a question answering system and implement in a bot that can play the game of jeopardy with users. The bot can be used on any platform like Telegram, discord, reddit, etc. | [Click Here](/Jeopardy%20bot)|
 
   
 *************************************************************

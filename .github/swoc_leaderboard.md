@@ -95,9 +95,9 @@
 
 ****************************************************************
 🔴 **Venkatakrishnan R** (Participant ID : 1104) (GitHub Link : https://github.com/Cody-coder017)<br/>
-🔴 **Assigned Issues** : #41 <br/>
-🔴 **Merged PRs** : #45 <br/>
-🔴 **Projects** : Sentiment Analysis on Twitter Data (30 Points) <br/>
-🔴 **Total Points** : 30 <br/>
+🔴 **Assigned Issues** : #41, #19 <br/>
+🔴 **Merged PRs** : #45, #46 <br/>
+🔴 **Projects** : Sentiment Analysis on Twitter Data (30 Points) | Jeopardy Bot (40 Points) <br/>
+🔴 **Total Points** : 70 <br/>
 
 ****************************************************************

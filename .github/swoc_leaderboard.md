@@ -61,9 +61,9 @@
 ****************************************************************
 🔴 **Ahan Anupam** (Participant ID : 63) (GitHub Link : https://github.com/ahananupam33)<br/>
 🔴 **Assigned Issues** : #18 <br/>
-🔴 **Merged PRs** : - <br/>
-🔴 **Projects** : - <br/>
-🔴 **Total Points** : - <br/>
+🔴 **Merged PRs** : #58 <br/>
+🔴 **Projects** : Restaurant Review Classification (30 Points) <br/>
+🔴 **Total Points** : 30 <br/>
 
 ****************************************************************
 🔴 **Karishni Mehta** (Participant ID : 466) (GitHub Link : https://github.com/karishni)<br/>

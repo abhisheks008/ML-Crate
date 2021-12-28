@@ -4,7 +4,7 @@
 
 ![](https://github.com/abhisheks008/ML-Crate/blob/main/Assets/ml.png)
 
-*************************************************************
+********************************************************
 ## 🔴 Welcome contributors!
 As we all know the BGMI Loot Crate comes with so many resources for the gamers, this ML Crate will be the hub of various ML projects which will be the resources for the ML enthusiasts!
 
@@ -35,6 +35,20 @@ This repository consists of various machine learning projects, and all of the pr
 | :-: | :-: | :-: | :-: |
 | 01 | Credit Card Fraud Detection | The main aim of the project is to make a model that helps to predict credit card fraud based on the given dataset. | [Click Here](/Credit%20Card%20Fraud%20Detection) |
 | 02 | MNIST Dataset Classification | Implement a machine learning classification algorithm on image to recognize handwritten digits from a paper. | [Click Here](/MNIST%20Dataset%20Classification) |
+| 03 | Character Recognition | Implement character recognition in natural languages. Character recognition is the process of automatically identifying characters from written papers or printed texts. | [Click Here](/Character%20Recognition)|
+| 04 | Height and Weight Prediction | Build a predictive model for determining height or weight of a person. Implement a linear regression model that will be used for predicting height or weight. | [Click Here](/Height%20and%20Weight%20Prediction)
+| 05 | Fake News Detection | Build a fake news detection model with Passive Aggressive Classifier algorithm. The Passive Aggressive algorithm can classify massive streams of data, it can be implemented quickly. | [Click Here](/Fake%20News%20Detection)|
+| 06 | Spam Email Detection |  Build a model that can identify your emails as spam or non-spam. | [Click Here](/Spam%20Email%20Detection)|
+| 07 | Wine Quality Prediction | Perform various different machine learning algorithms like regression, decision tree, random forests, etc and differentiate between the models and analyse their performances. | [Click Here](/Wine%20Quality%20Prediction)|
+| 08| Iris Classification | Implement a machine learning classification or regression model on the dataset. Classification is the task of separating items into its corresponding class. | [Click Here](/Iris%20Classification)|
+| 09| Titanic Prediction | Build a fun model to predict whether a person would have survived on the Titanic or not. You can use linear regression for this purpose. | [Click Here](/Titanic%20Prediction)|
+| 10| Pima Indians Diabetes Prediction | To predict whether a person is diabetic or not. | [Click Here](/Pima%20Indians%20Diabetes%20Prediction)|
+| 11| Parkinson's Disease Prediction | The model can be used to differentiate healthy people from people having Parkinson’s disease. The algorithm that is useful for this purpose is XGboost which stands for extreme gradient boosting, it is based on decision trees. | [Click Here](/Parkinson's%20Disease%20Prediction)|
+| 12| Sentiment Analysis on Twitter Data | Analysing the sentiment of the users and creating a prediction model based on the data, which will predict the sentiment of the user.. | [Click Here](/Sentimental%20Analysis%20of%20tweets)|
+| 13| Jeopardy Bot | We Build a question answering system and implement in a bot that can play the game of jeopardy with users. The bot can be used on any platform like Telegram, discord, reddit, etc. | [Click Here](/Jeopardy%20bot)|
+| 14| Breast Cancer Wisconsin (Diagnostic) |To Determine which features of data (measurements) are most important for diagnosing breast cancer and find out if breast cancer occurs or not. | [Click Here](/Breast%20Cancer%20Wisconsin%20(Diagnostic))|
+| 15| Restaurant Review Classification |To build a model which can detect whether a restaurant’s review is fake or real. With text processing and additional features in dataset you can build a SVM model that can classify reviews as fake or real. | [Click Here](/Restaurant%20Review%20Classification)|
+
   
 *************************************************************
 ## 📊 Points Category
@@ -65,6 +79,7 @@ Thanks goes to these Wonderful People. Contributions of any kind are welcome!�
 <!-- markdownlint-enable -->
 <!-- prettier-ignore-end -->
 <!-- ALL-CONTRIBUTORS-LIST:END -->
+
 
 *************************************************************
 

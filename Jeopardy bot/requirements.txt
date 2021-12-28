@@ -1,0 +1,17 @@
+astroid==2.4.2
+colorama==0.4.4
+fuzzywuzzy==0.18.0
+isort==5.7.0
+lazy-object-proxy==1.4.3
+mccabe==0.6.1
+numpy==1.19.5
+pandas==1.2.0
+pylint==2.6.0
+python-dateutil==2.8.1
+pytz==2020.5
+six==1.15.0
+toml==0.10.2
+wrapt==1.12.1
+youtube-dl==2021.1.8
+python-dotenv==0.19.2
+discord.py==1.6.0

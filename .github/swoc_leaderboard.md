@@ -25,10 +25,10 @@
 
 ****************************************************************
 🔴 **Shivangi Sehgal** (Participant ID : 909) (GitHub Link :  https://github.com/shivangisehgal)<br/>
-🔴 **Assigned Issues** : #10 <br/>
-🔴 **Merged PRs** : #32 <br/>
-🔴 **Projects** : Height and Weight Prediction (30 Points) <br/>
-🔴 **Total Points** : 30 <br/>
+🔴 **Assigned Issues** : #10, #40 <br/>
+🔴 **Merged PRs** : #32, #63 <br/>
+🔴 **Projects** : Height and Weight Prediction (30 Points) | Heart Disease Prediction (40 Points) <br/>
+🔴 **Total Points** : 70 <br/>
 
 ***************************************************************
 🔴 **Vanshika Goel** (Participant ID : 1093) (GitHub Link : https://github.com/Vanshikagoel0012)<br/>

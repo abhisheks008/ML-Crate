@@ -101,3 +101,10 @@
 🔴 **Total Points** : 70 <br/>
 
 ****************************************************************
+🔴 **Bhaswati Roy** (Participant ID : 244) (GitHub Link : https://github.com/BhaswatiRoy)<br/>
+🔴 **Assigned Issues** : #60 <br/>
+🔴 **Merged PRs** : #62 <br/>
+🔴 **Projects** : Years of experience and Salary dataset (30 Points) <br/>
+🔴 **Total Points** : 30 <br/>
+
+****************************************************************

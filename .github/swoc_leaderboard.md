@@ -88,7 +88,7 @@
 
 ****************************************************************
 🔴 **Harshini Marappan** (Participant ID : 389) (GitHub Link : https://github.com/HarshiniMarappan)<br/>
-🔴 **Assigned Issues** : #16 <br/>
+🔴 **Assigned Issues** : - <br/>
 🔴 **Merged PRs** : - <br/>
 🔴 **Projects** : - <br/>
 🔴 **Total Points** : - <br/>

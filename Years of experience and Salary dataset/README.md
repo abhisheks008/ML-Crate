@@ -1,5 +1,7 @@
 PROJECT TITLE
 
+Predict Salary based on Years Of Experience
+
 GOAL
 
 Aim- To predict the salary of a person with the help of years of experience given

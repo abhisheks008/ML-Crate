@@ -50,7 +50,8 @@ This repository consists of various machine learning projects, and all of the pr
 | 15| Restaurant Review Classification |To build a model which can detect whether a restaurant’s review is fake or real. With text processing and additional features in dataset you can build a SVM model that can classify reviews as fake or real. | [Click Here](/Restaurant%20Review%20Classification)|
 | 16| Caption generation from images |To detect objects from the image and then generate captions for them. LSTM (Long short term memory) network is responsible for generating sentences in English and CNN is used to extract features from image. To build a caption generator we have to combine these two models.| [Click Here](/Caption%20Generation%20from%20Images)|
 | 17| Heart Disease Prediction |Use this dataset to predict which patients are most likely to suffer from a heart disease in the near future using the features given.| [Click Here](/Heart%20Disease%20Prediction)|
-| 18| Banknote Dataset|To predict whether a given banknote is authentic given a number of measures taken from a photograph.| [Click Here](/Banknote%20Dataset)|
+| 18| Years of experience and Salary dataset |The purpose of this project is to use data transformation and machine learning to create a model that will predict a salary when given years of experience, job type.| [Click Here](/Years%20of%20experience%20and%20Salary%20dataset)|
+| 19| Banknote Dataset|To predict whether a given banknote is authentic given a number of measures taken from a photograph.| [Click Here](/Banknote%20Dataset)|
   
 *************************************************************
 ## 📊 Points Category

@@ -60,10 +60,10 @@
 
 ****************************************************************
 🔴 **Ahan Anupam** (Participant ID : 63) (GitHub Link : https://github.com/ahananupam33)<br/>
-🔴 **Assigned Issues** : #18 <br/>
-🔴 **Merged PRs** : #58 <br/>
-🔴 **Projects** : Restaurant Review Classification (30 Points) <br/>
-🔴 **Total Points** : 30 <br/>
+🔴 **Assigned Issues** : #18, #53 <br/>
+🔴 **Merged PRs** : #58, #68 <br/>
+🔴 **Projects** : Restaurant Review Classification (30 Points) | GTSRB (German traffic sign recognition benchmark) Dataset (30 Points) <br/>
+🔴 **Total Points** : 60 <br/>
 
 ****************************************************************
 🔴 **Karishni Mehta** (Participant ID : 466) (GitHub Link : https://github.com/karishni)<br/>

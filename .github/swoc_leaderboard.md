@@ -108,3 +108,11 @@
 🔴 **Total Points** : 30 <br/>
 
 ****************************************************************
+🔴 **Tandrima Singha** (Participant ID : 1044) (GitHub Link : https://github.com/tandrimasingha)<br/>
+🔴 **Assigned Issues** : #67 <br/>
+🔴 **Merged PRs** : #69 <br/>
+🔴 **Projects** : Students Performance in Exams (30 Points) <br/>
+🔴 **Total Points** : 30 <br/>
+
+****************************************************************
+

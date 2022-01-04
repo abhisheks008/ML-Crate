@@ -53,7 +53,7 @@ This repository consists of various machine learning projects, and all of the pr
 | 18| Years of experience and Salary dataset |The purpose of this project is to use data transformation and machine learning to create a model that will predict a salary when given years of experience, job type.| [Click Here](/Years%20of%20experience%20and%20Salary%20dataset)|
 | 19| Banknote Dataset|To predict whether a given banknote is authentic given a number of measures taken from a photograph.| [Click Here](/Banknote%20Dataset)|
 | 20| GTSRB (German traffic sign recognition benchmark) Dataset| To build a model using a deep learning framework that classifies traffic signs and also recognises the bounding box of signs. The traffic sign classification is also useful in autonomous vehicles for identifying signs and then take appropriate actions.| [Click Here](/GTSRB%20(German%20traffic%20sign%20recognition%20benchmark)%20Dataset)|
-  
+ | 21| Students Performance in Exams| To understand the influence of the parents background, test preparation etc on students performance. Perform EDA.| [Click Here](/Student%20Performance%20in%20Exam)|
 *************************************************************
 ## 📊 Points Category
 | Level of Issues | Points Allocated |

@@ -109,13 +109,13 @@
 
 ****************************************************************
 🔴 **Tandrima Singha** (Participant ID : 1044) (GitHub Link : https://github.com/tandrimasingha)<br/>
-🔴 **Assigned Issues** : #67 <br/>
-🔴 **Merged PRs** : #69 <br/>
-🔴 **Projects** : Students Performance in Exams (30 Points) <br/>
-🔴 **Total Points** : 30 <br/>
+🔴 **Assigned Issues** : #67, #48 <br/>
+🔴 **Merged PRs** : #69, #70 <br/>
+🔴 **Projects** : Students Performance in Exams (30 Points) | Swedish Auto Insurance (30 Points)<br/>
+🔴 **Total Points** : 60 <br/>
 
 ****************************************************************
 
 
 
-*- Last Updated, 04.01.2022, #69 Pull Request Merged*
+*- Last Updated, 06.01.2022, #70 Pull Request Merged*

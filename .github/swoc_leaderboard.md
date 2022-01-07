@@ -46,10 +46,10 @@
 
 ****************************************************************
 🔴 **Sankalp Srivastava** (Participant ID : 857) (GitHub Link : http://www.github.com/sankalp-srivastava)<br/>
-🔴 **Assigned Issues** : #15, #14, #5, #23, #50 <br/>
-🔴 **Merged PRs** : #26, #29, #35, #61, #64 <br/>
-🔴 **Projects** : Credit Card Fraud Detection (40 Points) | Character Recognition (30 Points) | Iris Classification (40 Points) | Caption Generation from Images (30 Points)| Banknote Dataset (40 Points)<br/>
-🔴 **Total Points** : 180 <br/>
+🔴 **Assigned Issues** : #15, #14, #5, #23, #50, #43 <br/>
+🔴 **Merged PRs** : #26, #29, #35, #61, #64, #71 <br/>
+🔴 **Projects** : Credit Card Fraud Detection (40 Points) | Character Recognition (30 Points) | Iris Classification (40 Points) | Caption Generation from Images (30 Points)| Banknote Dataset (40 Points) | Avocado Prices (40 Points)<br/>
+🔴 **Total Points** : 220 <br/>
 
 ****************************************************************
 🔴 **Suyog Kokaje** (Participant ID : 1032) (GitHub Link : https://github.com/suyogkokaje)<br/>

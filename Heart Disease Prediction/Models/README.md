@@ -1,45 +1,46 @@
 
   
 
-# HEART DISEASE PREDICTION
+# IPL Winning Match Prediction
 
   
 
 ## GOAL
 
   
-Implementing classification models that can be used to predict the likelihood of a heart disease.
+Implementing various differnt models that can be used to predict the winning team in IPL.
 
 
 ## DATASET
 
   
-https://www.kaggle.com/rishidamarla/heart-disease-prediction
+https://bit.ly/34SRn3b
 
-This data comes from the University of California Irvine's Machine Learning Repository.
+This data was given by Oracle for educational use in 2018
   
 
 ## DESCRIPTION
   
-The aim is to use this dataset to predict which patients are most likely to suffer from a heart disease in the near future using the features given.
+The aim is to use this dataset to predict IPL Match winng team which is most likely to win the game in the near future using the features given.
 
 ## WORK DONE
 
 * Analyzed the data, searched for missing values, seperated categorical and continous data.
-* Performed Exploratory Data Analysis, wherein, I plotted count plots for categorical data and bar plots and distribution plot for continuous data with respect to values of Heart Disease ('Presence' or 'Absence'). Apart from that, a correlation heatmap was also plotted.
-* Encoded categorical data and scaled continuous data.
+* Removed unnecessary columns
+* Prepared winnig column for single match
+* Feature Engineering Technique was used to transform team1, team2 and venue data
+* Performed Exploratory Data Analysis, wherein, I plotted count plots for Umpires, Player of the Match,..
 * Split the dataset into Train and Test data.
 * Trained model with the following algorithms:
 	* Logistic Regression
 	* Naive Bayes Classifier
 	* Support Vector Classifier
 	* KNN Classifier
-        * Decision Tree Classifier
-        * Random Forest Classifier
-        * XGBoost Classifier
-* Evaluated the accuracies of models, visualised them and stored them in a dataframe.
-* Also evaluated the performance of the model with highest accuracy using confusion matrix and classification report.
-  
+    * Decision Tree Classifier
+    * Random Forest Classifier
+    * XGBoost Classifier
+* Also evaluated the performance of the model with highest accuracy.
+
 
 ## MODELS USED
 
@@ -68,21 +69,20 @@ The aim is to use this dataset to predict which patients are most likely to suff
 
 | **Model** | Accuracy | 
 | --- | --- |
-|1. Logistic Regression | 83.950617 % | 
-|2. Naive Bayes |82.716049 % |
-|3. Support Vector|79.012346 %|
-|4. K Nearest Neighbours|83.950617 % |
-|5. Decision Tree|80.246914 % |
-|6. Random Forest |85.185185 % |
-|7. XGBoost |80.246914 % |
+|1. Logistic Regression | 52.466368 % | 
+|2. Naive Bayes |47.085202 % |
+|3. Support Vector|53.363229 %|
+|4. K Nearest Neighbours|52.914798 % |
+|5. Decision Tree|54.708520 % |
+|6. Random Forest |55.156951 % |
+|7. XGBoost |49.327354 % |
 
 
 
 ## CONCLUSION
 
-Random Forest Classifier had the highest accuracy out of all the others, followed by KNN and Logistic Regression. Through this project, I learned how to apply various classification algorithms and analyse their performance by using confusion matrix and classification report.
-Heart disease is one of the leadinng causes of death in the world. This dataset and model can be used and further improved by healthcare industry to prevent the risks of of having a heart attack or stroke.
+Random Forest Classifier had the highest accuracy out of all the others, followed by KNN and Decision Tree. Through this project, I learned how to apply various classification algorithms. Accuracy is bit low but winning is all about game there are lot many other factors so, it accuracy is slighly on lower end.
 
 ## CONTRIBUTED BY
 
-*Shivangi Sehgal*
+*Shrikrushna Bhagwat*

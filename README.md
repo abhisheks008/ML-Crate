@@ -55,6 +55,7 @@ This repository consists of various machine learning projects, and all of the pr
 | 20| GTSRB (German traffic sign recognition benchmark) Dataset| To build a model using a deep learning framework that classifies traffic signs and also recognises the bounding box of signs. The traffic sign classification is also useful in autonomous vehicles for identifying signs and then take appropriate actions.| [Click Here](/GTSRB%20(German%20traffic%20sign%20recognition%20benchmark)%20Dataset)|
  | 21| Students Performance in Exams| To understand the influence of the parents background, test preparation etc on students performance. Perform EDA.| [Click Here](/Student%20Performance%20in%20Exam)|
  | 22| Swedish Auto Insurance| To predict the total payment for all claims in thousands of Swedish Kronor, given the total number of claims. and perform Eda.| [Click Here](/Swedish%20Auto%20Insurance)|
+  | 23| Avocado Prices| The goal is to predict the average price which is continuous in nature of the different type of avocado and using the region that in which region they are lying.| [Click Here](/Avocado%20Prices)|
 *************************************************************
 ## 📊 Points Category
 | Level of Issues | Points Allocated |

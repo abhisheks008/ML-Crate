@@ -115,6 +115,13 @@
 🔴 **Total Points** : 60 <br/>
 
 ****************************************************************
+🔴 **Shrikrushna Bhagwat** (Participant ID : 930) (GitHub Link : https://github.com/krishna-nit)<br/>
+🔴 **Assigned Issues** : #72 <br/>
+🔴 **Merged PRs** : - <br/>
+🔴 **Projects** : - <br/>
+🔴 **Total Points** : - <br/>
+
+****************************************************************
 
 
 

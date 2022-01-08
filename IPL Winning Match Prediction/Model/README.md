@@ -16,7 +16,7 @@ Implementing various differnt models that can be used to predict the winning tea
   
 https://bit.ly/34SRn3b
 
-This data was given by Oracle for educational use in 2018
+This data was given by Oracle for educational use in 2018.
   
 
 ## DESCRIPTION

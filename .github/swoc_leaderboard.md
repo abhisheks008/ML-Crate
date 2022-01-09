@@ -117,12 +117,12 @@
 ****************************************************************
 🔴 **Shrikrushna Bhagwat** (Participant ID : 930) (GitHub Link : https://github.com/krishna-nit)<br/>
 🔴 **Assigned Issues** : #72 <br/>
-🔴 **Merged PRs** : - <br/>
-🔴 **Projects** : - <br/>
-🔴 **Total Points** : - <br/>
+🔴 **Merged PRs** : #76 <br/>
+🔴 **Projects** : IPL Match Winning Prediction (40 Points) <br/>
+🔴 **Total Points** : 40 <br/>
 
 ****************************************************************
 
 
 
-*- Last Updated, 07.01.2022, #71 Pull Request Merged*
+*- Last Updated, 09.01.2022, #76 Pull Request Merged*

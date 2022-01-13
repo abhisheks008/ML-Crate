@@ -95,10 +95,10 @@
 
 ****************************************************************
 🔴 **Venkatakrishnan R** (Participant ID : 1104) (GitHub Link : https://github.com/Cody-coder017)<br/>
-🔴 **Assigned Issues** : #41, #19 <br/>
-🔴 **Merged PRs** : #45, #46 <br/>
-🔴 **Projects** : Sentiment Analysis on Twitter Data (30 Points) | Jeopardy Bot (40 Points) <br/>
-🔴 **Total Points** : 70 <br/>
+🔴 **Assigned Issues** : #41, #19, #13 <br/>
+🔴 **Merged PRs** : #45, #46, #83 <br/>
+🔴 **Projects** : Sentiment Analysis on Twitter Data (30 Points) | Jeopardy Bot (40 Points) | Uber Pickup Analysis (20 Points) <br/>
+🔴 **Total Points** : 90 <br/>
 
 ****************************************************************
 🔴 **Bhaswati Roy** (Participant ID : 244) (GitHub Link : https://github.com/BhaswatiRoy)<br/>

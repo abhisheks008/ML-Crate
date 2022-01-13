@@ -1,54 +1,40 @@
-# *Sentimental Analysis of tweets*
+# *Uber Pickup Analysis*
 _________________________________________
 ## **GOAL**
 
->The aim of the project is to build a model which would predict the opinion of the people in tweets under particular # 
->In this case we have used the omicron variant of COVID to see the world's opnion about it
+>To analyze the data of the customer rides and visualize the data to find insights that can help improve business.
 _________________________________________
 ## **DATASET**
 
->The dataset was created by fetching the tweets from twitter using [tweepy](https://docs.tweepy.org/en/stable/) and converted to dataframe using [Pandas library](https://pandas.pydata.org/docs/)
+>The dataset can be downloaded from [here](https://www.kaggle.com/fivethirtyeight/uber-pickups-in-new-york-city)
 
 ________________________________________
 ## **DESCRIPTION**
 
->In this project, we compare the sentiments of the tweets either positive,negative, or neutral opinion from [vader_lexicon](https://www.nltk.org/_modules/nltk/sentiment/vader.html)
->and tried to calculate the score of each sentiments  
+>In this project, we have analysed the raw data, performed feature engineering to extract the date ,time and month in dataset and performed seperate visulazation by date, week and monthly rides
 _________________________________________
 ## **WHAT I HAD DONE**
 _________________________________________
 ## Steps followed:
- > * Created a twitter developer account and fetched my consumer_key, consumer_secret, access_token, access_token_secret 
- > * Connecting to Twitter with API
- > * Gathering the tweets regarding OMICRON
- > * Setting up the dataset
- >  * Then performed Data cleaning :Removing the stopword and handling unnecessary wordse
- >  * Then performed Visualising of the tweets using [wordcloud](https://pypi.org/project/wordcloud/)
- >  * Then used vader_lexicon (Valence Aware Dictionary and sEntiment Reasoner) to analyse positive,negative and neutral tweets
- >  * Then Calculated the Sentiment Score
+ > * Collected all combined all the raw dataset into one
+ > * Performed Feature Engineering and extracted Date and time from raw dataset
+ > * Performed Visualization on a Journeys by Days of week
+ > * Performed Visualization on a Journeys in Month 
+ >  * Performed Visualization on a Journeys in Day
+ >  * Then from the collected data which consisted of Latitude and Longitude were plotted in Basemap of New york city
+ >  * Performed Visualization with respect to Dispatch Base 
 
 _________________________________________
-## **MODELS USED**
-> To be specific we have used a tookit [Natural Language Toolkit](https://www.nltk.org/#natural-language-toolkit) from python to which provides easy-to-use interfaces to over 50 corpora and lexical resources such 
-> as [vader_lexicon](https://www.nltk.org/_modules/nltk/sentiment/vader.html), [SentimentIntensityAnalyzer](https://www.nltk.org/api/nltk.sentiment.html), [SnowballStemmer](https://www.nltk.org/_modules/nltk/stem/snowball.html) ,
-> stopwords removal to analyse the tweets and  calculate the Sentiment Score
-
-_________________________________________
-##**LIBRARIES NEEDED**
+## **LIBRARIES NEEDED**
 
 >* Pandas
 >* Matplotlib
->* nltk
->* Numpy
->* tweepy
->* wordcloud
-
-
-
+>* seaborn
+>* basemap
 _________________________________________
 ## **CONCLUSION**
 
->From this project we conclude that using [Natural Language Toolkit](https://www.nltk.org/#natural-language-toolkit) we can analyse the sentiments of tweets
+>From this project we can draw out many insights from the data, to improve the business
 
 _________________________________________
 ## **Contribution by**

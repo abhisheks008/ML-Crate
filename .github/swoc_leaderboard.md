@@ -109,10 +109,10 @@
 
 ****************************************************************
 🔴 **Tandrima Singha** (Participant ID : 1044) (GitHub Link : https://github.com/tandrimasingha)<br/>
-🔴 **Assigned Issues** : #67, #48 <br/>
-🔴 **Merged PRs** : #69, #70 <br/>
-🔴 **Projects** : Students Performance in Exams (30 Points) | Swedish Auto Insurance (30 Points)<br/>
-🔴 **Total Points** : 60 <br/>
+🔴 **Assigned Issues** : #67, #48, #74 <br/>
+🔴 **Merged PRs** : #69, #70, #84 <br/>
+🔴 **Projects** : Students Performance in Exams (30 Points) | Swedish Auto Insurance (30 Points) | Crypto Currency Price Prediction (30 Points)<br/>
+🔴 **Total Points** : 90 <br/>
 
 ****************************************************************
 🔴 **Shrikrushna Bhagwat** (Participant ID : 930) (GitHub Link : https://github.com/krishna-nit)<br/>

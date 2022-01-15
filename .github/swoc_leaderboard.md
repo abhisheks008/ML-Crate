@@ -33,9 +33,9 @@
 ***************************************************************
 🔴 **Vanshika Goel** (Participant ID : 1093) (GitHub Link : https://github.com/Vanshikagoel0012)<br/>
 🔴 **Assigned Issues** : #7 <br/>
-🔴 **Merged PRs** : - <br/>
-🔴 **Projects** : - <br/>
-🔴 **Total Points** : - <br/>
+🔴 **Merged PRs** : #85 <br/>
+🔴 **Projects** : House Price Prediction (20 Points) <br/>
+🔴 **Total Points** : 20 <br/>
 
 ****************************************************************
 🔴 **Yagyesh Bobde** (Participant ID : 1131) (GitHub Link : https://github.com/yagyesh-bobde)<br/>

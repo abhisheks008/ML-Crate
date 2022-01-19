@@ -116,13 +116,13 @@
 
 ****************************************************************
 🔴 **Shrikrushna Bhagwat** (Participant ID : 930) (GitHub Link : https://github.com/krishna-nit)<br/>
-🔴 **Assigned Issues** : #72 <br/>
-🔴 **Merged PRs** : #76 <br/>
-🔴 **Projects** : IPL Match Winning Prediction (40 Points) <br/>
-🔴 **Total Points** : 40 <br/>
+🔴 **Assigned Issues** : #72, #73 <br/>
+🔴 **Merged PRs** : #76, #86 <br/>
+🔴 **Projects** : IPL Match Winning Prediction (40 Points) | Vehicle Insurance Claim Fraud Detection (40 Points) <br/>
+🔴 **Total Points** : 80 <br/>
 
 ****************************************************************
 
 
 
-*- Last Updated, 14.01.2022, #84 Pull Request Merged*
+*- Last Updated, 19.01.2022, #86 Pull Request Merged*

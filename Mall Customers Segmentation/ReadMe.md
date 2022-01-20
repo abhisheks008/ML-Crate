@@ -8,7 +8,7 @@ Aim- To classify different customers.
 
 DATASET
 
-https://www.kaggle.com/sunmarkil/auto-insurance-in-sweden-small-dataset
+https://www.kaggle.com/shwetabh123/mall-customers
 
 DESCRIPTION
 

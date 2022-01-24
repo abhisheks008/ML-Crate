@@ -27,8 +27,13 @@ This repository consists of various machine learning projects, and all of the pr
  <td>
 <a href="https://github.com/abhisheks008"><img src="https://media-exp1.licdn.com/dms/image/C560BAQGh8hr-FgbrHw/company-logo_200_200/0/1602422883512?e=2159024400&v=beta&t=s8IX2pN1J2v5SRRbgzVNzxnQ2rWeeMq2Xb__BYW60qE" width=150px height=150px /><br /><sub><b>Script Winter of Code 2021</b></sub></a>
  </td>
+  <td>
+<a href="https://jwoc.tech/"><img src="https://i.imgur.com/gIoIHo6.png" width=150px height=150px /><br /><sub><b>JGEC Winter of Code 2022</b></sub></a>
+ </td>
 </tr>
 </table>
+
+
 
 ***********************************************************
 | Serial No. | Project Name | Goal of the Project | Link |
@@ -64,13 +69,20 @@ This repository consists of various machine learning projects, and all of the pr
    | 29| Mall Customers Segmentation|  To classify different customers. | [Click Here](/Mall%20Customers%20Segmentation)|
  
 *************************************************************
-## 📊 Points Category
+## 📊 Points Category (SWOC 2021)
 | Level of Issues | Points Allocated |
 | - | - |
 | Beginner | 10 Points 🔰|
 | Easy | 20 Points 🌱|
 | Medium | 30 Points 🌕|
 | Hard | 40 Points 🔥 |
+
+## 📊 Points Category (JWOC 2022)
+| Level of Issues | Points Allocated (Phase 1) | Points Allocated (Phase 2) | 
+| :-: | :-: | :-: |
+| Easy | **1** Point | **2** Points |
+| Medium | **3** Points | **4** Points |
+| Hard | **4** Points | **8** Points |
 
 
 *************************************************************

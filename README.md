@@ -116,7 +116,7 @@ Thanks goes to these Wonderful People. Contributions of any kind are welcome!�
   </tr>
 </table>
 
-<h2> ⚔️ Mentors </h2>
+<h2> ⚔️ Mentors (SWOC 2.0) </h2>
 <table>
   <tr>
     <td align='center'><a href='https://github.com/vaibhavgupta2499'><img src='https://avatars.githubusercontent.com/u/51874705?v=4' width='80px;' alt=''/><br/><sub><b>Vaibhab Gupta</b></sub></a></td>

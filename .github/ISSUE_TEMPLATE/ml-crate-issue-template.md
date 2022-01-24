@@ -12,7 +12,7 @@ assignees: ''
 :red_circle: **Project Title** :
 :red_circle: **Aim** :
 :red_circle: **Dataset** :
-:red_circle: **Approach** :
+:red_circle: **Approach** : Try to use 3-4 algorithms to implement the models and compare all the algorithms to find out the best fitted algorithm for the model by checking the accuracy scores. Also do not forget to do a exploratory data analysis before creating any model.
 
 Hello, ML-Crate contributors, this issue is only for the contribution purposes and allocated only to the participants of SWOC 2.0 Open Source Program and JWOC '22 Open Source Program.
 

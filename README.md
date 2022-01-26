@@ -67,6 +67,7 @@ This repository consists of various machine learning projects, and all of the pr
   | 27| House Price Prediction| The goal is to predict Predict the housing prices of a new house using linear regression. Linear regression is used to predict values of unknown input when the data has some linear relationship between input and output variables.| [Click Here](/House-Price-Prediction)|
   | 28| Vehicle Insurance Claim Fraud Detection|  Vehicle insurance fraud involves conspiring to make false or exaggerated claims involving property damage or personal injuries following an accident so, It will Detect fraud claims and will help Insurance Firms to verify them properly again.| [Click Here](/Vehicle%20Insurance%20Claim%20Fraud%20Detection)|
    | 29| Mall Customers Segmentation|  To classify different customers. | [Click Here](/Mall%20Customers%20Segmentation)|
+   | 30|Body Fat Prediction| Create a ML model, for predicting the body fat. | [Click Here](/Body%20Fat%20Prediction)|
  
 *************************************************************
 ## 📊 Points Category (SWOC 2021)

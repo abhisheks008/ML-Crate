@@ -46,10 +46,10 @@
 
 ****************************************************************
 🔴 **Sankalp Srivastava** (Participant ID : 857) (GitHub Link : http://www.github.com/sankalp-srivastava)<br/>
-🔴 **Assigned Issues** : #15, #14, #5, #23, #50, #43 <br/>
-🔴 **Merged PRs** : #26, #29, #35, #61, #64, #71 <br/>
-🔴 **Projects** : Credit Card Fraud Detection (40 Points) | Character Recognition (30 Points) | Iris Classification (40 Points) | Caption Generation from Images (30 Points)| Banknote Dataset (40 Points) | Avocado Prices (40 Points)<br/>
-🔴 **Total Points** : 220 <br/>
+🔴 **Assigned Issues** : #15, #14, #5, #23, #50, #43, #91 <br/>
+🔴 **Merged PRs** : #26, #29, #35, #61, #64, #71, #103 <br/>
+🔴 **Projects** : Credit Card Fraud Detection (40 Points) | Character Recognition (30 Points) | Iris Classification (40 Points) | Caption Generation from Images (30 Points)| Banknote Dataset (40 Points) | Avocado Prices (40 Points) | Air Quality Prediction (40 Points)<br/>
+🔴 **Total Points** : 260 <br/>
 
 ****************************************************************
 🔴 **Suyog Kokaje** (Participant ID : 1032) (GitHub Link : https://github.com/suyogkokaje)<br/>
@@ -109,10 +109,10 @@
 
 ****************************************************************
 🔴 **Tandrima Singha** (Participant ID : 1044) (GitHub Link : https://github.com/tandrimasingha)<br/>
-🔴 **Assigned Issues** : #67, #48, #74, #4, #95 <br/>
-🔴 **Merged PRs** : #69, #70, #84, #87, #101 <br/>
-🔴 **Projects** : Students Performance in Exams (30 Points) | Swedish Auto Insurance (30 Points) | Crypto Currency Price Prediction (30 Points) | Mall Customers Segmentation (30 Points) | Body Fat Prediction (30 Points)<br/>
-🔴 **Total Points** : 150 <br/>
+🔴 **Assigned Issues** : #67, #48, #74, #4, #95, #88 <br/>
+🔴 **Merged PRs** : #69, #70, #84, #87, #101, #102 <br/>
+🔴 **Projects** : Students Performance in Exams (30 Points) | Swedish Auto Insurance (30 Points) | Crypto Currency Price Prediction (30 Points) | Mall Customers Segmentation (30 Points) | Body Fat Prediction (30 Points) | Big Mart Sales Prediction (30 Points)<br/>
+🔴 **Total Points** : 180 <br/>
 
 ****************************************************************
 🔴 **Shrikrushna Bhagwat** (Participant ID : 930) (GitHub Link : https://github.com/krishna-nit)<br/>

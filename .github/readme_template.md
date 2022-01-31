@@ -25,11 +25,14 @@ Why have you choosed that algorithms should also be stated
 
 Add all the libraries needed in this project in points
 
+**VISUALIZATION**
+
+INCLUSION OF IMAGES OF THE VISUALIZATION IS MUST (RESULT OF EDA).
+
 **ACCURACIES**
 
 Add all the algorithms used with their accuracies and results
 
-INCLUSION OF **SCREENSHOT** IS MUST FOR FRONT END DESIGNERS AND UI/UX DESIGNERS.
 
 **CONCLUSION**
 

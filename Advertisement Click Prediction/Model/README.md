@@ -11,8 +11,6 @@ Initially Exploratory Data Analysis and Data Visulaization is performed on the d
 - Performing EDA on the data to understand it
 - Data Visualization to visualize the data and get meaningful insights
 - Correlation of all features are found to understand the relationship between each feature
-<img src='https://github.com/snega16/ML-Crate/blob/snega16/Advertisement%20Click%20Prediction/Images/correlation.png'>
- 
 - Categorical features are converted into numerical features using feature mapping
 - The dataset is split into training and test data and scaled
 - Model Building:
@@ -22,6 +20,17 @@ Initially Exploratory Data Analysis and Data Visulaization is performed on the d
      - Gradient Boosting 
      - Multi Layer Perceptron
 - After fitting these models, we analyze the confusion matrix and compare the accuracies of all algorithms.
+### Data Visualization and Correlation
+
+<img src="https://github.com/snega16/ML-Crate/blob/snega16/Advertisement%20Click%20Prediction/Images/gender.png">
+<img src="https://github.com/snega16/ML-Crate/blob/snega16/Advertisement%20Click%20Prediction/Images/purchased.png">
+<img src="https://github.com/snega16/ML-Crate/blob/snega16/Advertisement%20Click%20Prediction/Images/age-purchased.png">
+<img src="https://github.com/snega16/ML-Crate/blob/snega16/Advertisement%20Click%20Prediction/Images/salary-purchased.png">
+<img src="https://github.com/snega16/ML-Crate/blob/snega16/Advertisement%20Click%20Prediction/Images/purchased-gender.png">
+<img src="https://github.com/snega16/ML-Crate/blob/snega16/Advertisement%20Click%20Prediction/Images/box-purchased-salary.png">
+<img src="https://github.com/snega16/ML-Crate/blob/snega16/Advertisement%20Click%20Prediction/Images/box-purchased-age.png">
+<img src='https://github.com/snega16/ML-Crate/blob/snega16/Advertisement%20Click%20Prediction/Images/correlation.png'>
+
 ### Accuracies
 -	XGBoost Classifier - 92%
 -	RandomForest - 90%

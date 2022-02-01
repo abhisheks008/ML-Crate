@@ -68,6 +68,9 @@ This repository consists of various machine learning projects, and all of the pr
   | 28| Vehicle Insurance Claim Fraud Detection|  Vehicle insurance fraud involves conspiring to make false or exaggerated claims involving property damage or personal injuries following an accident so, It will Detect fraud claims and will help Insurance Firms to verify them properly again.| [Click Here](/Vehicle%20Insurance%20Claim%20Fraud%20Detection)|
    | 29| Mall Customers Segmentation|  To classify different customers. | [Click Here](/Mall%20Customers%20Segmentation)|
    | 30|Body Fat Prediction| Create a ML model, for predicting the body fat. | [Click Here](/Body%20Fat%20Prediction)|
+   |31|Big Mart Sales Prediction| Create a Prediction Model, for the sales prediction of Big Mart| [Click Here](/Big%20Mart%20Sales%20Prediction)|
+   |32|Air Quality Prediction|Prediction model to predict the air quality| [Click Here](/Air%20Quality%20Prediction) |
+   |33|Stress Detection|Detect the stress among different people| [Click Here](/Stress%20Detection) |
  
 *************************************************************
 ## 📊 Points Category (SWOC 2021)

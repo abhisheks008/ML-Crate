@@ -36,12 +36,12 @@
 - Total Points: -
 
 ----------------------------------------------------------
-- Name:
-- GitHub ID:
-- Issues Assigned:
-- PR Merged:
-- Projects:
-- Total Points:
+- Name: Tandrima Singha
+- GitHub ID: tandrimasingha
+- Issues Assigned: #94
+- PR Merged: -
+- Projects: -
+- Total Points: -
 
 ----------------------------------------------------------- 
 - Name:

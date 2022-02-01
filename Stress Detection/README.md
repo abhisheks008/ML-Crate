@@ -27,11 +27,11 @@ MODELS USED
 
 since this is a regression problem so regression algorithms are used-
 
-Decision Tree Regression= gives the highest accuracy
+1. Decision Tree Regression= gives the highest accuracy
 
-K Nearest Neighbors Regression= concept of proximity
+2. K Nearest Neighbors Regression= concept of proximity
 
-Support Regression= concept of SVM
+3. Support Regression= concept of SVM
 
 
 LIBRARIES NEEDED

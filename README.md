@@ -28,7 +28,7 @@ This repository consists of various machine learning projects, and all of the pr
 <a href="https://github.com/abhisheks008"><img src="https://media-exp1.licdn.com/dms/image/C560BAQGh8hr-FgbrHw/company-logo_200_200/0/1602422883512?e=2159024400&v=beta&t=s8IX2pN1J2v5SRRbgzVNzxnQ2rWeeMq2Xb__BYW60qE" width=150px height=150px /><br /><sub><b>Script Winter of Code 2021</b></sub></a>
  </td>
   <td>
-<a href="https://jwoc.tech/"><img src="https://i.imgur.com/gIoIHo6.png" width=150px height=150px /><br /><sub><b>JGEC Winter of Code 2022</b></sub></a>
+<a href="https://jwoc.tech/"><img src="https://github.com/abhisheks008/abhisheks008/blob/main/jwoc.png" width=150px height=150px /><br /><sub><b>JGEC Winter of Code 2022</b></sub></a>
  </td>
 </tr>
 </table>

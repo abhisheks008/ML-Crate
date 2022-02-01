@@ -3,7 +3,13 @@
 - Info about the related issue (Aim of the project)
 
 - [ ] SWOC Participant 
+- [ ] JWOC Participant
 - [ ] Contributor
+
+- **Name:**
+- **GitHub ID:**
+
+(Mention these details are must)
 
 Closes: #issue number that will be closed through this PR
 

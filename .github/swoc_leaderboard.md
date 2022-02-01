@@ -102,10 +102,10 @@
 
 ****************************************************************
 🔴 **Bhaswati Roy** (Participant ID : 244) (GitHub Link : https://github.com/BhaswatiRoy)<br/>
-🔴 **Assigned Issues** : #60 <br/>
-🔴 **Merged PRs** : #62 <br/>
-🔴 **Projects** : Years of experience and Salary dataset (30 Points) <br/>
-🔴 **Total Points** : 30 <br/>
+🔴 **Assigned Issues** : #60, #75 <br/>
+🔴 **Merged PRs** : #62, #97 <br/>
+🔴 **Projects** : Years of experience and Salary dataset (30 Points) | Stress Detection (30 Points)<br/>
+🔴 **Total Points** : 60 <br/>
 
 ****************************************************************
 🔴 **Tandrima Singha** (Participant ID : 1044) (GitHub Link : https://github.com/tandrimasingha)<br/>
@@ -125,4 +125,4 @@
 
 
 
-*- Last Updated, 29.01.2022, #103 Pull Request Merged*
+*- Last Updated, 01.02.2022, #97 Pull Request Merged*

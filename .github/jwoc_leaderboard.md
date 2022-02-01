@@ -68,9 +68,9 @@
 - Total Points:
 
 ----------------------------------------------------------
-- Name:
-- GitHub ID:
-- Issues Assigned:
+- Name: Arya Shahi
+- GitHub ID: aryashahi
+- Issues Assigned: #118
 - PR Merged:
 - Projects:
 - Total Points:

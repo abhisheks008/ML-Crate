@@ -7,16 +7,16 @@
   - Name: **Snega S**
   - GitHub ID: `snega16`
   - Issue Assigned: #92
-  - PR Merged: -
-  - Projects: -
-  - Total Points: -
+  - PR Merged: #164
+  - Projects: Advertisement Click Prediction (3 pts)
+  - Total Points: 3
 
 ---------------------------------------------------------
 - Name: **Vishnu Bhaarath**
 - GitHub ID: `VishnuBhaarath`
 - Issues Assigned: #117
 - PR Merged: #163
-- Projects: UK Favourite Chocolate Analysis (1 Point)
+- Projects: UK Favourite Chocolate Analysis (1 pt)
 - Total Points: 1
 
 ----------------------------------------------------------
@@ -40,7 +40,7 @@
 - GitHub ID: `tandrimasingha`
 - Issues Assigned: #94, #157
 - PR Merged: #136
-- Projects: Bitcoin Price Prediction (3 Points)
+- Projects: Bitcoin Price Prediction (3 pts)
 - Total Points: 3
 
 ----------------------------------------------------------- 

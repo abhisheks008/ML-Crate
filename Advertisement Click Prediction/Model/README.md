@@ -25,7 +25,8 @@ Initially Exploratory Data Analysis and Data Visulaization is performed on the d
 -	RandomForest - 90%
 -	Gradient Boosting -	90%
 -	Multi-Layer Perceptron - 87%
-<img src
+<img src = 'https://github.com/snega16/ML-Crate/blob/snega16/Advertisement%20Click%20Prediction/Images/accuracy.png'>
+
 ### Language Used - Python
 ### Libraries Used - pandas, seaborn, numpy, matplotlib
 ### Conclusion

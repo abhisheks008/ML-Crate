@@ -87,7 +87,7 @@ This repository consists of various machine learning projects, and all of the pr
 | :-: | :-: | :-: |
 | Easy | **1** Point | **2** Points |
 | Medium | **3** Points | **4** Points |
-| Hard | **4** Points | **8** Points |
+| Hard | **5** Points | **8** Points |
 
 
 *************************************************************

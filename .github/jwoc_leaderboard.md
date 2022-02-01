@@ -39,9 +39,9 @@
 - Name: Tandrima Singha
 - GitHub ID: tandrimasingha
 - Issues Assigned: #94
-- PR Merged: -
-- Projects: -
-- Total Points: -
+- PR Merged: #136
+- Projects: Bitcoin Price Prediction (3 Points)
+- Total Points: 3
 
 ----------------------------------------------------------- 
 - Name: Nishtha Pandey

@@ -73,6 +73,7 @@ This repository consists of various machine learning projects, and all of the pr
    |33|Stress Detection|Detect the stress among different people| [Click Here](/Stress%20Detection) |
    |34|Bitcoin Price Prediction|Predicting the price of Bitcoin using a ML approach| [Click Here](/Bitcoin%20Price%20Prediction)|
    |35| UK Favourite Chocolate Analysis| Anlyze the dataset which contains different aspects of chocolates of UK | [Click Here](/UK%20Favourite%20Chocolate%20Analysis)|
+   |36|Advertisement Click Prediction| Predict the clicking on the advertisement| [Click Here](/Advertisement%20Click%20Prediction) |
  
 *************************************************************
 ## 📊 Points Category (SWOC 2021)

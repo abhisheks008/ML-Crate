@@ -84,9 +84,9 @@
 - Total Points:
 
 ----------------------------------------------------------
-- Name: 
-- GitHub ID: 
-- Issues Assigned: 
+- Name: Surya Sarkar
+- GitHub ID: `Suryageeks`
+- Issues Assigned: #167
 - PR Merged:
 - Projects:
 - Total Points:

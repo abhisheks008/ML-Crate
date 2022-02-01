@@ -9,8 +9,10 @@ Initially Exploratory Data Analysis and Data Visulaization is performed on the d
 ### Steps Involved
 - All the necessary libraries are imported
 - Performing EDA on the data to understand it
-- Data Visualization to the visualize the data and get meaningful insights
+- Data Visualization to visualize the data and get meaningful insights
 - Correlation of all features are found to understand the relationship between each feature
+<img src='https://github.com/snega16/ML-Crate/blob/snega16/Advertisement%20Click%20Prediction/Images/correlation.png'>
+ 
 - Categorical features are converted into numerical features using feature mapping
 - The dataset is split into training and test data and scaled
 - Model Building:
@@ -31,6 +33,7 @@ Initially Exploratory Data Analysis and Data Visulaization is performed on the d
 ### Libraries Used - pandas, seaborn, numpy, matplotlib
 ### Conclusion
 Among all the models, XGBoost Classifier model gave almost 92% accuracy and it is the best fitted model.
+<hr>
 
 Code contributed by SNEGA S
 

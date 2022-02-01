@@ -6,7 +6,7 @@
   
   - Name: **Snega S**
   - GitHub ID: `snega16`
-  - Issue Assigned: #92
+  - Issue Assigned: #92, #159
   - PR Merged: #164
   - Projects: Advertisement Click Prediction (3 pts)
   - Total Points: 3

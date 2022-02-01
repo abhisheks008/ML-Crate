@@ -15,9 +15,9 @@
 - Name: Vishnu Bhaarath
 - GitHub ID: VishnuBhaarath
 - Issues Assigned: #117
-- PR Merged: -
-- Projects: - 
-- Total Points: -
+- PR Merged: #163
+- Projects: UK Favourite Chocolate Analysis (1 Point)
+- Total Points: 1
 
 ----------------------------------------------------------
 - Name: Jahnavi Pravaleeka Battu

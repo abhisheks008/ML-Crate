@@ -8,7 +8,7 @@ Aim- Final Year Engineering College Placements
 
 DATASET
 
-https://www.kaggle.com/vikramjeetsinghs/bitcoin-dataset
+https://www.kaggle.com/tejashvi14/engineering-placements-prediction
 
 DESCRIPTION
 

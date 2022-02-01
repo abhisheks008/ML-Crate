@@ -38,7 +38,7 @@
 ----------------------------------------------------------
 - Name: Tandrima Singha
 - GitHub ID: tandrimasingha
-- Issues Assigned: #94
+- Issues Assigned: #94, #157
 - PR Merged: #136
 - Projects: Bitcoin Price Prediction (3 Points)
 - Total Points: 3
@@ -76,9 +76,33 @@
 - Total Points:
 
 ----------------------------------------------------------
-- Name:
-- GitHub ID:
-- Issues Assigned:
+- Name: Arya Sarkar
+- GitHub ID: aryacodez
+- Issues Assigned: #140
+- PR Merged:
+- Projects:
+- Total Points:
+
+----------------------------------------------------------
+- Name: 
+- GitHub ID: 
+- Issues Assigned: 
+- PR Merged:
+- Projects:
+- Total Points:
+
+----------------------------------------------------------
+- Name: 
+- GitHub ID: 
+- Issues Assigned: 
+- PR Merged:
+- Projects:
+- Total Points:
+
+----------------------------------------------------------
+- Name: 
+- GitHub ID: 
+- Issues Assigned: 
 - PR Merged:
 - Projects:
 - Total Points:

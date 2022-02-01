@@ -60,9 +60,9 @@
 - Total Points:
 
 ----------------------------------------------------------
-- Name:
-- GitHub ID:
-- Issues Assigned:
+- Name: Sriniketh J
+- GitHub ID: srini047
+- Issues Assigned: #98
 - PR Merged:
 - Projects:
 - Total Points:

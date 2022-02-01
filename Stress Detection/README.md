@@ -28,8 +28,10 @@ MODELS USED
 since this is a regression problem so regression algorithms are used-
 
 Decision Tree Regression= gives the highest accuracy
-K Nearest Neighbors Regression= 
-Support Regression= improved version of regularization with L2 regularization
+
+K Nearest Neighbors Regression= concept of proximity
+
+Support Regression= concept of SVM
 
 
 LIBRARIES NEEDED

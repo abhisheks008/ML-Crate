@@ -7,6 +7,7 @@ on:
 jobs:
   first-job:
     runs-on: ubuntu-latest
+    if: ${{ github.actor != github.repository_owner }} 
     steps:
       - name: Checkout code
         uses: actions/checkout@main

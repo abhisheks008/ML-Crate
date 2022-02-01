@@ -44,6 +44,38 @@
 - Total Points: -
 
 ----------------------------------------------------------- 
+- Name: Nishtha Pandey
+- GitHub ID: nishtha2405
+- Issues Assigned: #129
+- PR Merged:
+- Projects:
+- Total Points:
+
+----------------------------------------------------------
+- Name: Aditya Tomar
+- GitHub ID: Adi9235
+- Issues Assigned: #127
+- PR Merged:
+- Projects:
+- Total Points:
+
+----------------------------------------------------------
+- Name:
+- GitHub ID:
+- Issues Assigned:
+- PR Merged:
+- Projects:
+- Total Points:
+
+----------------------------------------------------------
+- Name:
+- GitHub ID:
+- Issues Assigned:
+- PR Merged:
+- Projects:
+- Total Points:
+
+----------------------------------------------------------
 - Name:
 - GitHub ID:
 - Issues Assigned:

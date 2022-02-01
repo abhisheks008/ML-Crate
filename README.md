@@ -71,6 +71,7 @@ This repository consists of various machine learning projects, and all of the pr
    |31|Big Mart Sales Prediction| Create a Prediction Model, for the sales prediction of Big Mart| [Click Here](/Big%20Mart%20Sales%20Prediction)|
    |32|Air Quality Prediction|Prediction model to predict the air quality| [Click Here](/Air%20Quality%20Prediction) |
    |33|Stress Detection|Detect the stress among different people| [Click Here](/Stress%20Detection) |
+   |34|Bitcoin Price Prediction|Predicting the price of Bitcoin using a ML approach| [Click Here](/Bitcoin%20Price%20Prediction)
  
 *************************************************************
 ## 📊 Points Category (SWOC 2021)

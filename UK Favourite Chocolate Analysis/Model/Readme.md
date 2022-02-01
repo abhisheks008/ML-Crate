@@ -23,6 +23,12 @@ _________________________________________
 
 ## **VISUALIZATION.**
 _________________________________________
+![Age group 18-24](../Images/age_group_18_24.png "Age group 18-24")
+
+![Age group 35-44](../Images/age_group_35_44.png "Age group 35-44")
+
+![Age group 65+](../Images/age_group_above_65.png "Age group 65+")
+
 
 
 _________________________________________

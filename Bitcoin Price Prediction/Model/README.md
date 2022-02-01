@@ -1,54 +1,9 @@
-PROJECT TITLE
+![image](https://user-images.githubusercontent.com/78292851/151923345-4e8b543b-c0a0-4670-b5c9-7686b81c3e5d.png)
 
-Bitcoin Price Prediction
+![image](https://user-images.githubusercontent.com/78292851/151923363-d720418a-dbdd-4db3-9504-7dc7cb4ff523.png)
 
-GOAL
+![image](https://user-images.githubusercontent.com/78292851/151923387-4f1bf9ae-a8a9-466e-985d-4125d1c65dc5.png)
 
-Aim- To predict the price of the Bitcoin using Linear Regression, Lasso Regression & Decision Tree Regressor. Perform EDA
+![image](https://user-images.githubusercontent.com/78292851/151923406-3167951b-0b7f-4b5f-b8e7-92affe71ad58.png)
 
-DATASET
-
-https://www.kaggle.com/vikramjeetsinghs/bitcoin-dataset
-
-DESCRIPTION
-
-This is a regression problem where we need to predict the price of Bitcoin. We use Linear, Lasso Regression and Decision tree Regressor
-
-WHAT I HAD DONE
-
-1. perfromed exploratory data analysis (EDA) on the given dataset
-2. it starts with loading the dataset and viewing the top 5 rows
-3. we calculate statistical data in the dataset
-4. then comes finding correlation between the features and also finding statistical values related to the dataset
-5. data visualization is done with libraries such as matplotlib and seaborn
-6. finally 3 different algorithms are used to find the best algorithm 
-7. also accuracy score of each algorithm is calculated for comparison purpose with other algorithms
-
-MODELS USED
-
-1. Linear Regression= simplest and most common algorithm used for classification problems
-2. Ridge Regression
-3. Support Vector Regressor
-
-
-LIBRARIES NEEDED
-
-1. Numpy
-2. Pandas
-3. Matplotlib
-4. Seaborn
-5. Scikit-Learn
-
-ACCURACIES
-
-1. Linear Regression Score = 0.9999539378804362
-2. Ridge Regression Score = 0.9965513756246261
-3. Support Vector Regressor Score = 0.13660060536688778
-
-CONCLUSION
-
-We can conclude that Linear Regression gives the most accurate results specifically for this problem statement.
-
-CONTRIBUTED BY
-
-Tandrima Singha
+![image](https://user-images.githubusercontent.com/78292851/151923440-6d584557-2192-4203-828e-30d65bc32cf9.png)

@@ -23,9 +23,9 @@
 - Name: **Jahnavi Pravaleeka Battu**
 - GitHub ID: `jahnavibattu02`
 - Issues Assigned: #116
-- PR Merged: -
-- Projects: -
-- Total Points: -
+- PR Merged: #172
+- Projects: US Household Income Distribution Analysis (1 pt)
+- Total Points: 1
 
 ----------------------------------------------------------
 - Name: **Mrunal Jambenal**

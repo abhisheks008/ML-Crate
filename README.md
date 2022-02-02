@@ -77,6 +77,7 @@ This repository consists of various machine learning projects, and all of the pr
    |37|FLICKR8k Dataset Analysis (MS COCO) | Analyze the dataset of MS COCO and provide the visualization out of it|[Click Here](/FLICKR8k%20Dataset%20Analysis%20(MS%20COCO))|
    |38|US Household Income Distribution Analysis|Analyze different aspects of US household from the given dataset and find out the pattern among them.|[Click Here](/US%20Household%20Income%20Distribution%20Analysis)|
    |39|Engineering Placements Prediction|Predict the placements of the engineering students after being graduated from any engineering college/university|[Click Here](/Engineering%20Placements%20Prediction)|
+   |40|Digit Recognizer Project|Recognize the digits using a Machine Learning Model, where the digits are in the handwritten form.| [Click Here](/Digit%20Recognizer%20Project)|
  
 *************************************************************
 ## 📊 Points Category (SWOC 2021)

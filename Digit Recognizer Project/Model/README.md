@@ -1,12 +1,15 @@
 # Project Title : MNIST Digits Classification
-<img src="Digit Recognizer Project\images\cover.png">
+
+![cover](https://user-images.githubusercontent.com/81156510/152101683-c3ea8780-bc25-4436-be6c-983403cc1c86.png)
+
 
 ## Abstract/Brief Description about the Project :
 **Actually, MNIST is ‘Modified National Institute of Standards and Technology. This dataset consists of handwritten digits from 0 to 9 and it provides a pavement for testing image processing systems. This is considered to be the ‘hello world program in Machine Learning’ which involves Deep Learning.**
 
 ## Dataset : 
 **The dataset which is used here, is collected from Kaggle website. Here is the link of the dataset :** <br>
-https://www.kaggle.com/c/digit-recognizer/data
+
+![dataset](https://user-images.githubusercontent.com/81156510/152101868-751b19d4-af4f-44a0-9881-e0f663af2611.png)
 
 ## Goal/Aim of the project : 
 **Goal of this Project is to classify different digits and predict accordingly.**
@@ -21,11 +24,10 @@ https://www.kaggle.com/c/digit-recognizer/data
 
 ## Data Visualization :
 1. Count Plot: Showing the number of images available for a particular 
-<img src="images/count.png" alt_text="count-plot">
 
-<img src="images/dataset.png" alt_text="dataset">
+![count](https://user-images.githubusercontent.com/81156510/152101762-6e05b5cc-3aa6-4e35-aa6e-d08ffee3c9e0.png)
 
-<img src="images/output-model_2.png" alt_text="prediction-model-2">
+![output-model_2](https://user-images.githubusercontent.com/81156510/152101859-f5314e2d-8720-4183-ab78-685979483cdd.png)
 
 ## Model comparison :
 <table>

@@ -67,10 +67,10 @@
 
 ****************************************************************
 🔴 **Karishni Mehta** (Participant ID : 466) (GitHub Link : https://github.com/karishni)<br/>
-🔴 **Assigned Issues** : #11 <br/>
-🔴 **Merged PRs** : #39 <br/>
-🔴 **Projects** : Parkinson's Disease Prediction (40 Points) <br/>
-🔴 **Total Points** : 40 <br/>
+🔴 **Assigned Issues** : #11, #52 <br/>
+🔴 **Merged PRs** : #39, #117 <br/>
+🔴 **Projects** : Parkinson's Disease Prediction (40 Points) | FLICKR8k Dataset Analysis (MS COCO) (40 Points)<br/>
+🔴 **Total Points** : 80 <br/>
 
 ****************************************************************
 🔴 **Divya Shanker Gupta** (Participant ID : 1155) (GitHub Link : https://github.com/divya-gupta12)<br/>

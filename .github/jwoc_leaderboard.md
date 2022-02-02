@@ -84,7 +84,7 @@
 - Total Points:
 
 ----------------------------------------------------------
-- Name: Surya Sarkar
+- Name: **Surya Sarkar**
 - GitHub ID: `Suryageeks`
 - Issues Assigned: #167
 - PR Merged:
@@ -92,9 +92,9 @@
 - Total Points:
 
 ----------------------------------------------------------
-- Name: 
-- GitHub ID: 
-- Issues Assigned: 
+- Name: **Dilrose Reji**
+- GitHub ID: `dilroseR`
+- Issues Assigned: #156
 - PR Merged:
 - Projects:
 - Total Points:

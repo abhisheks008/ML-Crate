@@ -68,7 +68,7 @@
 ****************************************************************
 🔴 **Karishni Mehta** (Participant ID : 466) (GitHub Link : https://github.com/karishni)<br/>
 🔴 **Assigned Issues** : #11, #52 <br/>
-🔴 **Merged PRs** : #39, #117 <br/>
+🔴 **Merged PRs** : #39, #171 <br/>
 🔴 **Projects** : Parkinson's Disease Prediction (40 Points) | FLICKR8k Dataset Analysis (MS COCO) (40 Points)<br/>
 🔴 **Total Points** : 80 <br/>
 

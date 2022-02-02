@@ -26,10 +26,22 @@ Performed Exploratory Data Analysis on the dataset and Used 3-4 Regression Algor
       - XGBRegressor 
 9. After fitting these models with the data, we analyze the model using metric ```mean_squared_error``` and compare the correlation coefficient ```r2_score``` of all algorithms.
 
-**Data Visualization**   
-![correlation](https://github.com/jahnavibattu02/ML-Crate/blob/main/US%20Household%20Income%20Distribution%20Analysis/Images/correlation.png)   
-![PercentofTotal](https://github.com/jahnavibattu02/ML-Crate/blob/main/US%20Household%20Income%20Distribution%20Analysis/Images/PerccentofTotal.png)   
+**Data Visualization**    
+
+### Correlation Plot 
+
+![correlation](https://github.com/jahnavibattu02/ML-Crate/blob/main/US%20Household%20Income%20Distribution%20Analysis/Images/correlation.png)  
+
+### Percent of Total
+
+![PercentofTotal](https://github.com/jahnavibattu02/ML-Crate/blob/main/US%20Household%20Income%20Distribution%20Analysis/Images/PerccentofTotal.png)  
+
+### Number of Households  
+
 ![](https://github.com/jahnavibattu02/ML-Crate/blob/main/US%20Household%20Income%20Distribution%20Analysis/Images/NumberofHouseholds.png)   
+
+### Pairplot 
+
 ![Pairplot](https://github.com/jahnavibattu02/ML-Crate/blob/main/US%20Household%20Income%20Distribution%20Analysis/Images/pairplot.png)  
 
 **RMSE**

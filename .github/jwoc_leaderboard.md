@@ -39,9 +39,9 @@
 - Name: **Tandrima Singha**
 - GitHub ID: `tandrimasingha`
 - Issues Assigned: #94, #157
-- PR Merged: #136
-- Projects: Bitcoin Price Prediction (3 pts)
-- Total Points: 3
+- PR Merged: #136, #173
+- Projects: Bitcoin Price Prediction (3 pts) | Engineering Placements Prediction (3 pts)
+- Total Points: 6
 
 ----------------------------------------------------------- 
 - Name: **Nishtha Pandey**
@@ -109,4 +109,4 @@
 
 ----------------------------------------------------------
 
-`updated till, #172 PR`
+`updated till, #173 PR`

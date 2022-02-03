@@ -17,7 +17,7 @@ Implementtion of different algorithms like random forest, logistic regression, a
 
   
 
-https://www.kaggle.com/mlg-ulb/creditcardfraud
+https://www.kaggle.com/prathamtripathi/regression-with-neural-networking
 
   
 
@@ -25,33 +25,32 @@ https://www.kaggle.com/mlg-ulb/creditcardfraud
 
   
 
-The main aim of the project is to make a model that helps to predict credit card fraud based on the given dataset.
+The main aim of the project is to calculate the strength of the concrete using Machine Learning techniques.
 
   
 
 **WORK DONE**
 
 * Analyzed the data and found insights such as correlation, missing values etc.
-* Selected the columns that have high correlation than other columns to be used as features. (Refer : `eda-creditcard.ipynb`)
+* Made a filtered csv with less noise data. (Refer : `eda-concrete-strength.ipynb`)
 * Next trained model with algorithms with default parameters:
-	* Logistic Regression
-	* Linear SVM
-	* KNN Classifier
+	* Linear Regression
+	* RBF SVM
+	* Decision Tree
 	* Random Forest
 	* XGBoost
-* In this XGBoost performed the best with 99.956%accuracy. (Refer : `baselinemodels-creditcard.ipynb`)
-* Also added an approach on getting optimal parameters using Bayesian Optimization.(Refer : `bayesianopt-creditcard.ipynb`)
+* In this XGBoost performed the best with 5.29 rmse. (Refer : `baseline-models-concrete-strength-regression.ipynb`)
+* Also added an approach on getting optimal parameters on XGBoost with GPU.(Refer : `xgboost-tuning-concrete-strength-gpu.ipynb`)
 
   
 
 **MODELS USED**
 
-1. Logistic Regression : Logistic regression is easier to implement, interpret, and very efficient to train. It is **very fast at classifying unknown records**.
-2. Linear SVM : SVM performs well on classification problems when size of dataset is not too large.
-3. KNN Classifier : The KNN algorithm can compete with the most **accurate models because it makes highly accurate predictions**. Therefore, we use the KNN algorithm for applications that require high accuracy but that do not require a human-readable model.
-4. Random Forest : It **provides higher accuracy through cross validation**. Random forest classifier will handle the missing values and maintain the accuracy of a large proportion of data. If there are more trees, it won't allow over-fitting trees in the model.
+1. Linear Regression : Linear regression is easier to implement, interpret, and very efficient to train.
+2. RBF SVM : SVM performs well on classification problems when size of dataset is not too large. Support Vector Machine can also be used as a regression method, maintaining all the main features that characterize the algorithm (maximal margin).
+3. Decision Tree : Decision trees help you to evaluate your options. Decision Trees are excellent tools for helping you to choose between several courses of action. They provide a highly effective structure within which you can lay out options and investigate the possible outcomes of choosing those options.
+4. Random Forest : It **provides higher accuracy through cross validation**. Random forest regressor will handle the missing values and maintain the accuracy of a large proportion of data. If there are more trees, it won't allow over-fitting trees in the model.
 5. XGBoost : XGBoost is **a library for developing fast and high performance gradient boosting tree models**. XGBoost achieves the best performance on a range of difficult machine learning tasks.
-6. LightGBM : Light GBM is prefixed as Light because of its high speed. Light GBM can handle the large size of data and takes lower memory to run. it is so popular is because **it focuses on accuracy of results**.
 
 **LIBRARIES NEEDED**
 
@@ -60,15 +59,15 @@ The main aim of the project is to make a model that helps to predict credit card
 * Matplotlib
 * scikit-learn
 * xgboost
-* skopt
-* lightgbm
 * seaborn
   
   
 
-**ACCURACIES**
+**Images**
 
 ![Model Accuracies](../Images/model_accuracy.jpg "Model Accuracies")
+![Distribution for each variable after removing outliners](../Images/distribution_for_each_variable.png "Distribution for each variable after removing outliners")
+
   
 
 **CONCLUSION**
@@ -77,9 +76,10 @@ The main aim of the project is to make a model that helps to predict credit card
 
 We investigated the data, checking for data unbalancing, visualizing the features, and understanding the relationship between different features. We then investigated two predictive models. The data was split into three parts, a train set, a validation set, and a test set. For the first five  base models, we only used the train and test set.
 
-We started with Logistic Classifier, SVM, KNN, Random Forrest Classifier and XGBoost Clssifier for which we obtained an accuracies of 99.90,99.94,99.95,99.94 and 99.95% respectively, when predicting the target for the test set.
+We started with Linear Regression, SVM, Decision Tree, Random Forest and XGBoost for which we obtained RMSE of 8.453319,8.749276,7.020702,5.659124 and 5.294385 respectively, when predicting the target for the test set.
 
-We followed with an lightGBM Classifier model and optimizing it using Bayesian optimization and achieved AUC score (0.96) for the prediction of the test set target values.
+
+We followed with XGB regressor and optimizing it using Grid search CV and achieved rmse of (4.551) and r2 score of (0.9194) for the prediction of the test set target values.
 
 
   
@@ -89,4 +89,4 @@ We followed with an lightGBM Classifier model and optimizing it using Bayesian o
 *Sankalp Srivastava*
 
   
-[![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/sankalpsrivastava-2605/) [![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)](https://github.com/sankalp-srivastava/)
+[![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/sankalpsrivastava-2605/) [![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)](https://github.com/sankalp-srivastava/) [![Kaggle](https://img.shields.io/badge/Kaggle-20BEFF?style=for-the-badge&logo=Kaggle&logoColor=white)](https://www.kaggle.com/sankalpsrivastava26)

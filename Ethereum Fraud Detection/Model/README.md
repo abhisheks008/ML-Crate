@@ -36,10 +36,17 @@ _Distribution of Data in Flag Column._
 
 ![](https://github.com/jahnavibattu02/ML-Crate/blob/main/Ethereum%20Fraud%20Detection/Images/flag.png)
 
+_totalTransactions Vs ReceivedTnx_
+
+![](https://github.com/jahnavibattu02/ML-Crate/blob/main/Ethereum%20Fraud%20Detection/Images/totalTransactions-ReceivedTnx.png)
+
 _Correlation plot of the data._
 
 ![](https://github.com/jahnavibattu02/ML-Crate/blob/main/Ethereum%20Fraud%20Detection/Images/correlation.png)
 
+_Confusion Matrix (Gradient Boosting Classifier as model)_ 
+
+![](https://github.com/jahnavibattu02/ML-Crate/blob/main/Ethereum%20Fraud%20Detection/Images/confusion%20matrix.png)
 
 **Accuracy Scores**
 

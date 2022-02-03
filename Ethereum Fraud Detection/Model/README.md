@@ -22,6 +22,7 @@ Performed Exploratory Data Analysis on the dataset and Used 3-4 Classification A
 - Separating Numerical and Categorical columns.
 - Scaling the numeric columns and Encoding the categorical columns.
 - Splitting the Data into Training and Testing dataset.
+- Performed PCA for Dimensionality Reduction.
 - Model Building: We use four algorithms to build the models.
     - Logistic Regression
     - Decision Tree Classifier

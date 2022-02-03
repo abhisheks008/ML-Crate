@@ -66,7 +66,7 @@ The main aim of the project is to calculate the strength of the concrete using M
 **Images**
 
 ![Model Accuracies](../Images/model_accuracy.jpg "Model Accuracies")
-![Distribution for each variable after removing outliners](../Images/distribution_for_each_variable.png "Distribution for each variable after removing outliners")
+![Distribution for each variable after removing outliners](../Images/distribution_for_each_variable.jpg "Distribution for each variable after removing outliners")
 
   
 

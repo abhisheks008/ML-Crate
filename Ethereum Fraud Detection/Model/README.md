@@ -30,9 +30,13 @@ Performed Exploratory Data Analysis on the dataset and Used 3-4 Classification A
 - Predicting on Test Data. 
 After fitting these models with the data, we analyze the model using metric accuracy_score and compare with all of the algorithms listed above.
 
-**Data Visualization**
+**Data Visualization**   
+
+_Distribution of Data in Flag Column._
 
 ![](https://github.com/jahnavibattu02/ML-Crate/blob/main/Ethereum%20Fraud%20Detection/Images/flag.png)
+
+_Correlation plot of the data._
 
 ![](https://github.com/jahnavibattu02/ML-Crate/blob/main/Ethereum%20Fraud%20Detection/Images/correlation.png)
 

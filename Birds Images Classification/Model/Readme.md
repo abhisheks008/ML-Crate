@@ -1,1 +1,62 @@
+# Birds Images Classification
+
+**Goal**
+
+The Main Aim of the this project to build a deep learning model that can correctly classify birds images.
+
+**Dataset**
+
+The Kaggle Dataset link [Click Here](https://www.kaggle.com/gpiosenka/100-bird-species)
+
+**Description**
+
+In this project we have build a deep learning model using CNN which is build using a Transfer learning keras model known as DenseNet201 to train our dataset and after training the model is used for classification of birds images.
+
+**Work Done**
+
+- Importing the Dependencies.
+- Performed data augmentation and loading the dataset.
+- We have used `.flow_from_directory()` from tensorflow to load the labels and images together from `train-valid-test` folder.
+- Stored the classes used in the dataset.
+- find the datatye and shape of the dataset.
+- Performed visualization of number of each classes in the dataset. 
+- Used Transfer learning model i.e DenseNet201 for this project to create the CNN.
+- We have taken the base layer of DenseNet201 and with that we add our own tail layer for build the model.
+- Then after compiling and running our model we performed inferencing on the test data.
+- Finally save the model.
+
+**Model Used**
+
+- Transfer learning model i.e **DenseNet201** from keras with that we applied functional api.
+
+**Libraries Used**
+
+- Tensorflow
+- Seaborn
+- Matplotlib
+- Numpy
+- Pandas
+- os
+- warnings
+
+**Visualization**
+
+[]()
+
+**ACCURACIES**
+
+The model gave a training accuracy of - after 10 epochs
+
+The model gave a testing accuracy of
+
+**Conclusion**
+
+***********************************************************
+**Contributor**
+
+Contributed by - Arya Sarkar
+
+[![Github](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/aryacodez)
+
+
 

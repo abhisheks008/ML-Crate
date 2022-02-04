@@ -1,1 +1,5 @@
-
+tensorflow==
+matplotlib==
+seaborn==
+numpy==
+pandas==

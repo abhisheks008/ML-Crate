@@ -42,13 +42,13 @@ The main aim of the project is to implement an algorithm which detects whether a
 **PLOTS**
 
 <p float ="left">
-<img src = "../Images/cat1.jpg " alt="Image cat" title="Sample image of cat" style="width:40%" />
-<img src = "../Images/cat2.jpg" alt="cat" title="Sample image of cat" style="width:40%" />
+<img src = "../Images/cat.1.jpg " alt="Image cat" title="Sample image of cat" style="width:40%" />
+<img src = "../Images/cat.2.jpg" alt="cat" title="Sample image of cat" style="width:40%" />
 </p>
 
 <p float ="left">
-<img src = "../Images/dog1.jpg " alt="Sample image of dog" title="Sample Image of dog" style="width:40%" />
-<img src = "../Images/dog2.jpg" alt="Sample image of dog" title="Sample image of dog" style="width:40%" />
+<img src = "../Images/dog.1.jpg " alt="Sample image of dog" title="Sample Image of dog" style="width:40%" />
+<img src = "../Images/dog.2.jpg" alt="Sample image of dog" title="Sample image of dog" style="width:40%" />
 </p>
 
 **CONCLUSION**

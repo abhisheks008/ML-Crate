@@ -78,6 +78,9 @@ This repository consists of various machine learning projects, and all of the pr
    |38|US Household Income Distribution Analysis|Analyze different aspects of US household from the given dataset and find out the pattern among them.|[Click Here](/US%20Household%20Income%20Distribution%20Analysis)|
    |39|Engineering Placements Prediction|Predict the placements of the engineering students after being graduated from any engineering college/university|[Click Here](/Engineering%20Placements%20Prediction)|
    |40|Digit Recognizer Project|Recognize the digits using a Machine Learning Model, where the digits are in the handwritten form.| [Click Here](/Digit%20Recognizer%20Project)|
+   |41|Concrete Strength Calculation|Create a ML model which will calculate the strength of concrete and provides the outcome|[Click Here](/Concrete%20Strength%20Calculation)|
+   |42|Ethereum Fraud Detection|Create a ML model which detect the real/fake eth while purchasing/selling it.|[Click Here](/Ethereum%20Fraud%20Detection)|
+   |43|Indian School Education Statistics|Visualize and analyze the condition of the Indian school education system with the help of data analysis|[Click Here](/Indian%20School%20Education%20Statistics)|
  
 *************************************************************
 ## 📊 Points Category (SWOC 2021)

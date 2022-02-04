@@ -7,9 +7,9 @@
   - Name: **Snega S**
   - GitHub ID: `snega16`
   - Issue Assigned: #92, #159
-  - PR Merged: #164
-  - Projects: Advertisement Click Prediction (3 pts)
-  - Total Points: 3
+  - PR Merged: #164, #192
+  - Projects: Advertisement Click Prediction (3 pts) | Indian School Education Statistics (3 pts)
+  - Total Points: 6
 
 ---------------------------------------------------------
 - Name: **Vishnu Bhaarath**
@@ -22,10 +22,10 @@
 ----------------------------------------------------------
 - Name: **Jahnavi Pravaleeka Battu**
 - GitHub ID: `jahnavibattu02`
-- Issues Assigned: #116
-- PR Merged: #172
-- Projects: US Household Income Distribution Analysis (1 pt)
-- Total Points: 1
+- Issues Assigned: #116, #161
+- PR Merged: #172, #191
+- Projects: US Household Income Distribution Analysis (1 pt) | Ethereum Fraud Detection (3 pts)
+- Total Points: 4
 
 ----------------------------------------------------------
 - Name: **Mrunal Jambenal**
@@ -109,4 +109,4 @@
 
 ----------------------------------------------------------
 
-`updated till, #175 PR`
+`updated till, #192 PR`

@@ -79,24 +79,24 @@
 - Name: **Arya Sarkar**
 - GitHub ID: `aryacodez`
 - Issues Assigned: #140
-- PR Merged:
-- Projects:
-- Total Points:
+- PR Merged: #196
+- Projects: Birds Images Classification (5 pts)
+- Total Points: 5
 
 ----------------------------------------------------------
 - Name: **Surya Sarkar**
 - GitHub ID: `Suryageeks`
 - Issues Assigned: #167
-- PR Merged:
-- Projects:
-- Total Points:
+- PR Merged: #195
+- Projects: Eye Disease Prediction (5 pts)
+- Total Points: 5
 
 ----------------------------------------------------------
 - Name: **Dilrose Reji**
 - GitHub ID: `dilroseR`
 - Issues Assigned: #156
-- PR Merged:
-- Projects:
+- PR Merged: 
+- Projects: 
 - Total Points:
 
 ----------------------------------------------------------
@@ -109,4 +109,4 @@
 
 ----------------------------------------------------------
 
-`updated till, #193 PR`
+`updated till, #196 PR`

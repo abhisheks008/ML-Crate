@@ -58,21 +58,24 @@ This model has 164 layers and total parameters after tuning is 8,319,531
 
 Using this model we got an accuracy of 88%
 
+**VISUALISATION**
+
+<h4>Confusion Matrix</h4>
+<img src = "https://github.com/Suryageeks/ML-Crate/blob/main/Eye%20Disease%20Prediction/Images/image1.png " alt="Confusion Matrix" title="Confusion Matrix" style="width:60%" />
+<h4>Classification Report</h4>
+<img src = "https://github.com/Suryageeks/ML-Crate/blob/main/Eye%20Disease%20Prediction/Images/image2.PNG" alt='Classification Report' title="Classification Report" style="width:60%" />
+<h4>Visualisation of Categories</h4>
+<img src = "https://github.com/Suryageeks/ML-Crate/blob/main/Eye%20Disease%20Prediction/Images/image3.png " alt="Visualisation of Categories" title="Visualisation of Categories" style="width:60%" />
+
+
 **CONCLUSION**
 
 Thus using this model we can accurately predict the type of corneal ulcers in the eyes
 
 **CONTRIBUTED BY:-**
+
 *Surya Sarkar*
 
-
-
-
-
-
-
-
-## 🔗 Links
-[![Kaggle](https://img.shields.io/badge/Kaggle-20BEFF?style=for-the-badge&logo=Kaggle&logoColor=white)](https://www.kaggle.com/suryasarkar1282) [![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)](https://www.linkedin.com/)
+[![Kaggle](https://img.shields.io/badge/Kaggle-20BEFF?style=for-the-badge&logo=Kaggle&logoColor=white)](https://www.kaggle.com/suryasarkar1282) [![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Suryageeks)
 
 

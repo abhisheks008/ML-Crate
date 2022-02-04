@@ -50,13 +50,12 @@ In this project we have build a deep learning model using CNN which is build usi
 
 **Accuracies**
 
-The model gave a training accuracy of - after 7 epochs
+The model gave a training accuracy of 94% after 7 epochs
 
-The model gave a testing accuracy of
 
 **Conclusion**
 
-The conclusion that can be drawn after performing the experiment is that when the model trained with a transfer learning model it provided an accuracy of 95% on training set when epoched for 7 times. But When we are training the dataset with custom CNN architecture we get a less accuracy of around 60%. As the dataset has many classes to classify the the model need to be complex so that's why we chose a pretrained model i.e DenseNet201 which has got 201 layers.
+The conclusion that can be drawn after performing the experiment is that when the model trained with a transfer learning model it provided an accuracy of 94% on training set when epoched for 7 times. But When we are training the dataset with custom CNN architecture we get a less accuracy of around 60%. As the dataset has many classes to classify the the model need to be complex so that's why we chose a pretrained model i.e DenseNet201 which has got 201 layers.
 ***********************************************************
 **Contributor**
 

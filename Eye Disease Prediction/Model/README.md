@@ -63,6 +63,7 @@ Using this model we got an accuracy of 88%
 Thus using this model we can accurately predict the type of corneal ulcers in the eyes
 
 **CONTRIBUTED BY:-**
+*Surya Sarkar*
 
 
 
@@ -72,6 +73,6 @@ Thus using this model we can accurately predict the type of corneal ulcers in th
 
 
 ## 🔗 Links
-[![Kaggle](https://img.shields.io/badge/my_portfolio-000?style=for-the-badge&logo=ko-fi&logoColor=white)](https://katherinempeterson.com/) [![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)](https://www.linkedin.com/)
+[![Kaggle](https://img.shields.io/badge/Kaggle-20BEFF?style=for-the-badge&logo=Kaggle&logoColor=white)](https://www.kaggle.com/suryasarkar1282) [![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)](https://www.linkedin.com/)
 
 

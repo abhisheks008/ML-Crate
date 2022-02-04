@@ -41,7 +41,7 @@ In this project we have build a deep learning model using CNN which is build usi
 
 **Visualization**
 
-[Category](../Images/No_of_Images_per_category.png)
+![Category](../Images/No_of_Images_per_category.png)
 
 **Accuracies**
 

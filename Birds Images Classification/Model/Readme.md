@@ -41,8 +41,12 @@ In this project we have build a deep learning model using CNN which is build usi
 
 **Visualization**
 
+*Images in Dataset*
+
 *Number of images per category*
 ![Category](../Images/No_of_Images_per_category.png)
+
+*Inference Images*
 
 **Accuracies**
 

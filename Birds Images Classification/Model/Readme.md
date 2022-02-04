@@ -43,7 +43,7 @@ In this project we have build a deep learning model using CNN which is build usi
 
 []()
 
-**ACCURACIES**
+**Accuracies**
 
 The model gave a training accuracy of - after 10 epochs
 

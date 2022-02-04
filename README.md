@@ -81,6 +81,7 @@ This repository consists of various machine learning projects, and all of the pr
    |41|Concrete Strength Calculation|Create a ML model which will calculate the strength of concrete and provides the outcome|[Click Here](/Concrete%20Strength%20Calculation)|
    |42|Ethereum Fraud Detection|Create a ML model which detect the real/fake eth while purchasing/selling it.|[Click Here](/Ethereum%20Fraud%20Detection)|
    |43|Indian School Education Statistics|Visualize and analyze the condition of the Indian school education system with the help of data analysis|[Click Here](/Indian%20School%20Education%20Statistics)|
+   |44|Real/Fake Job Posting Prediction|Create a ML model which will predict the real/fake job postings in different websites|[Click Here](/Real%20Fake%20Job%20Posting%20Prediction)|
  
 *************************************************************
 ## 📊 Points Category (SWOC 2021)

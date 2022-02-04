@@ -46,7 +46,7 @@ In this project we have build a deep learning model using CNN which is build usi
 
 *Inference Images*
 
-![Inference](../Images/Inference Image.png)
+![Inference](../Images/Inference_Image.png)
 
 **Accuracies**
 

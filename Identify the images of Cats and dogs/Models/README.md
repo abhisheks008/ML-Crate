@@ -48,7 +48,7 @@ The main aim of the project is to implement an algorithm which detects whether a
 
 <p float ="left">
 <img src = "../Images/cat.2.jpg " alt="Sample image of dog" title="Sample Image of dog" style="width:40%" />
-<img src = "../Images/dog.2.jpg" alt="Sample image of dog" title="Sample image of dog" style="width:40%" />
+<img src = "../Images/dog.1.jpg" alt="Sample image of dog" title="Sample image of dog" style="width:40%" />
 </p>
 
 **CONCLUSION**

@@ -40,6 +40,7 @@ In this project we have build a deep learning model using CNN which is build usi
 - warnings
 
 **Visualization**
+
 *Number of images per category*
 ![Category](../Images/No_of_Images_per_category.png)
 

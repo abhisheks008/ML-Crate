@@ -49,13 +49,13 @@ The main aim of the project is to understand what content is available in differ
 **IMAGES**
 
 <div>
-    <img src="../images/types_of_netflix-content.jpg" width="40%" style="float:left" alt="types of netflix content">
-    <img src="../images/20_contries_with_most_content.jpg" width="40%" alt= "20 contries with most content">
+    <img src="../Images/types_of_netflix-content.jpg" width="40%" style="float:left" alt="types of netflix content">
+    <img src="../Images/20_contries_with_most_content.jpg" width="50%" alt= "20 contries with most content">
 </div>
 
 <div>
-    <img src="../images/content_added_over_the_years.jpg" width="40%" style="float:left" alt="content added over the years">
-    <img src="../images/distribution_of_movie_rating.jpg" width="40%" alt= "distribution of movie rating">
+    <img src="../Images/content_added_over_the_years.jpg" width="40%" style="float:left" alt="content added over the years">
+    <img src="../Images/distribution_of_movie_rating.jpg" width="50%" alt= "distribution of movie rating">
 </div>
 
 **CONCLUSION**

@@ -16,7 +16,7 @@ To perform EDA on the Netflix Movies and TV show data and find insights.
 
   
 
-https://www.kaggle.com/neuromusic/avocado-prices/
+https://www.kaggle.com/shivamb/netflix-shows
 
   
 

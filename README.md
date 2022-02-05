@@ -81,6 +81,12 @@ This repository consists of various machine learning projects, and all of the pr
    |41|Concrete Strength Calculation|Create a ML model which will calculate the strength of concrete and provides the outcome|[Click Here](/Concrete%20Strength%20Calculation)|
    |42|Ethereum Fraud Detection|Create a ML model which detect the real/fake eth while purchasing/selling it.|[Click Here](/Ethereum%20Fraud%20Detection)|
    |43|Indian School Education Statistics|Visualize and analyze the condition of the Indian school education system with the help of data analysis|[Click Here](/Indian%20School%20Education%20Statistics)|
+   |44|Real/Fake Job Posting Prediction|Create a ML model which will predict the real/fake job postings in different websites|[Click Here](/Real%20Fake%20Job%20Posting%20Prediction)|
+   |45|Eye Disease Prediction|Create a prediction model which will predict the affected eye from the given images|[Click Here](/Eye%20Disease%20Prediction)|
+   |46|Birds Image Classification|Classify the images of the birds using deep learning methods|[Click Here](/Birds%20Images%20Classification)|
+   |47|Identify the images of Cats and dogs|Identifying the images of cats and dogs.Algorithm used for this purpose was CNN.|[Click Here](/Identify%20the%20images%20of%20Cats%20and%20dogs)|
+   |48|IMDB Review Analysis|Perform Sentiment analysis on the data to see the statistics of what type of movie do users like. Sentiment analysis is the process of analysing the textual data and identifying the emotion of the user, Positive or Negative.|[Click Here](/IMDB%20Review%20Analysis)|
+   |49|Enron Email Dataset|Classify the emails from the given dataset and visualize the contents of the email|[Click Here](/Enron%20Email%20Dataset)|
  
 *************************************************************
 ## 📊 Points Category (SWOC 2021)

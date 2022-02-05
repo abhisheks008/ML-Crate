@@ -1,0 +1,8 @@
+numpy
+tensorflow-cpu>=2.0.0
+matplotlib==3.2.2
+pandas
+seaborn
+tqdm
+warnings
+scikit-learn

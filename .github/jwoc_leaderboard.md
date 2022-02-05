@@ -14,10 +14,10 @@
 ---------------------------------------------------------
 - Name: **Vishnu Bhaarath**
 - GitHub ID: `VishnuBhaarath`
-- Issues Assigned: #117
-- PR Merged: #163
-- Projects: UK Favourite Chocolate Analysis (1 pt)
-- Total Points: 1
+- Issues Assigned: #117, #104
+- PR Merged: #163, #197
+- Projects: UK Favourite Chocolate Analysis (1 pt) | Identify the images of Cats and Dogs (5 pts)
+- Total Points: 6
 
 ----------------------------------------------------------
 - Name: **Jahnavi Pravaleeka Battu**
@@ -63,9 +63,9 @@
 - Name: **Sriniketh J**
 - GitHub ID: `srini047`
 - Issues Assigned: #98, #126
-- PR Merged: #175
-- Projects: Digit Recognizer Project (1 pt)
-- Total Points: 1
+- PR Merged: #175, #193
+- Projects: Digit Recognizer Project (1 pt) | Real/Fake Job Posting Prediction (3 pts)
+- Total Points: 4
 
 ----------------------------------------------------------
 - Name: **Arya Shahi**
@@ -79,24 +79,24 @@
 - Name: **Arya Sarkar**
 - GitHub ID: `aryacodez`
 - Issues Assigned: #140
-- PR Merged:
-- Projects:
-- Total Points:
+- PR Merged: #196
+- Projects: Birds Images Classification (5 pts)
+- Total Points: 5
 
 ----------------------------------------------------------
 - Name: **Surya Sarkar**
 - GitHub ID: `Suryageeks`
 - Issues Assigned: #167
-- PR Merged:
-- Projects:
-- Total Points:
+- PR Merged: #195
+- Projects: Eye Disease Prediction (5 pts)
+- Total Points: 5
 
 ----------------------------------------------------------
 - Name: **Dilrose Reji**
 - GitHub ID: `dilroseR`
 - Issues Assigned: #156
-- PR Merged:
-- Projects:
+- PR Merged: 
+- Projects: 
 - Total Points:
 
 ----------------------------------------------------------
@@ -109,4 +109,4 @@
 
 ----------------------------------------------------------
 
-`updated till, #192 PR`
+`updated till, #197 PR`

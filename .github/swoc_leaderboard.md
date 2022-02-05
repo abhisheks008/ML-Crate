@@ -18,10 +18,10 @@
 
 **************************************************************
 🔴 **M. Ashish Reddy** (Participant ID : 528) (GitHub Link : https://github.com/ashish-reddy-20-08)<br/>
-🔴 **Assigned Issues** : #12 <br/>
-🔴 **Merged PRs** : #37 <br/>
-🔴 **Projects** : Titanic Prediction (40 Points) <br/>
-🔴 **Total Points** : 40 <br/>
+🔴 **Assigned Issues** : #12, #51 <br/>
+🔴 **Merged PRs** : #37, #174 <br/>
+🔴 **Projects** : Titanic Prediction (40 Points) | Enron Email Dataset (30 Points) <br/>
+🔴 **Total Points** : 70 <br/>
 
 ****************************************************************
 🔴 **Shivangi Sehgal** (Participant ID : 909) (GitHub Link :  https://github.com/shivangisehgal)<br/>
@@ -116,13 +116,13 @@
 
 ****************************************************************
 🔴 **Shrikrushna Bhagwat** (Participant ID : 930) (GitHub Link : https://github.com/krishna-nit)<br/>
-🔴 **Assigned Issues** : #72, #73 <br/>
-🔴 **Merged PRs** : #76, #86 <br/>
-🔴 **Projects** : IPL Match Winning Prediction (40 Points) | Vehicle Insurance Claim Fraud Detection (40 Points) <br/>
-🔴 **Total Points** : 80 <br/>
+🔴 **Assigned Issues** : #72, #73, #22 <br/>
+🔴 **Merged PRs** : #76, #86, #198 <br/>
+🔴 **Projects** : IPL Match Winning Prediction (40 Points) | Vehicle Insurance Claim Fraud Detection (40 Points) | IMDB Review Analysis (30 Points) <br/>
+🔴 **Total Points** : 110 <br/>
 
 ****************************************************************
 
 
 
-*- Last Updated, 04.02.2022, #190 Pull Request Merged*
+*- Last Updated, 05.02.2022, #198 Pull Request Merged*

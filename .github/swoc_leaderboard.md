@@ -18,10 +18,10 @@
 
 **************************************************************
 🔴 **M. Ashish Reddy** (Participant ID : 528) (GitHub Link : https://github.com/ashish-reddy-20-08)<br/>
-🔴 **Assigned Issues** : #12 <br/>
-🔴 **Merged PRs** : #37 <br/>
-🔴 **Projects** : Titanic Prediction (40 Points) <br/>
-🔴 **Total Points** : 40 <br/>
+🔴 **Assigned Issues** : #12, #51 <br/>
+🔴 **Merged PRs** : #37, #174 <br/>
+🔴 **Projects** : Titanic Prediction (40 Points) | Enron Email Dataset (30 Points) <br/>
+🔴 **Total Points** : 70 <br/>
 
 ****************************************************************
 🔴 **Shivangi Sehgal** (Participant ID : 909) (GitHub Link :  https://github.com/shivangisehgal)<br/>
@@ -125,4 +125,4 @@
 
 
 
-*- Last Updated, 04.02.2022, #190 Pull Request Merged*
+*- Last Updated, 05.02.2022, #190 Pull Request Merged*

@@ -63,7 +63,7 @@ _________________________________________
 
   
 
-The dataset was analysed and checked for class imbalance, then different image augumentation techniques were applied and CNN was used for the training purpose and an accuracy of around 85% was observed on the training dataset.
+The dataset was analysed and the above analysis were made , which can be used by teams in analysing their opponents.
   
 
 **CONTRIBUTION BY**

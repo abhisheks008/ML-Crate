@@ -13,15 +13,25 @@
    ##### 5. Split data for training and testing purpose
    ##### 6. Checked the accuracy of different algorithms. Comparing the accuracy scores among Logistic Regression , SVC, Decision Tree Classifier and Random Forest Classifier, Random Forest Classifier had highest value.
    **MODELS USED**
+    ##### Logistic Regression: Logistic regression is one of the most popular Machine Learning algorithms, which comes under the Supervised Learning technique. 
+   ##### SVC: The objective of a Linear SVC (Support Vector Classifier) is to fit to the data you provide, returning a "best fit" hyperplane that divides, or categorizes, your data. 
+   ##### Decision Tree Classifier:Decision tree algorithm falls under the category of supervised learning
+   ##### Random Forest Classifier: Random forest is a Supervised Machine Learning Algorithm that is used widely in Classification and Regression problems.
    
-   ##### Logistic Regression: 
-   ##### SVC: 
-   ##### Decision Tree Classifier:
-   ##### Random Forest Classifier:
-   
+  
    **LIBRARIES NEEDED**
    
    ##### Numpy, Pandas, Matplotlib, Seaborn, Sklearn
+   
+   **VISUALIZATION**
+   
+   
+   ![Histogram(y)](https://user-images.githubusercontent.com/79159212/152641269-be16afd0-69ac-47a2-a7ea-56511b9f8e12.png)
+   
+   ![features](https://user-images.githubusercontent.com/79159212/152641281-b4384049-ed17-45d4-bc65-d81042979751.png)
+
+   ![Education](https://user-images.githubusercontent.com/79159212/152641285-9c6523f6-dc8f-44c4-aea9-b6fb20fd7c59.png)
+
    
    **ACCURACIES**
    

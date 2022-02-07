@@ -4,7 +4,7 @@
 
 ![](https://github.com/abhisheks008/ML-Crate/blob/main/Assets/ml.png)
 
-**********************************************************
+*********************************************************
 ## 🔴 Welcome contributors!
 As we all know the BGMI Loot Crate comes with so many resources for the gamers, this ML Crate will be the hub of various ML projects which will be the resources for the ML enthusiasts!
 
@@ -87,6 +87,9 @@ This repository consists of various machine learning projects, and all of the pr
    |47|Identify the images of Cats and dogs|Identifying the images of cats and dogs.Algorithm used for this purpose was CNN.|[Click Here](/Identify%20the%20images%20of%20Cats%20and%20dogs)|
    |48|IMDB Review Analysis|Perform Sentiment analysis on the data to see the statistics of what type of movie do users like. Sentiment analysis is the process of analysing the textual data and identifying the emotion of the user, Positive or Negative.|[Click Here](/IMDB%20Review%20Analysis)|
    |49|Enron Email Dataset|Classify the emails from the given dataset and visualize the contents of the email|[Click Here](/Enron%20Email%20Dataset)|
+   |50|Netflix Movies and Shows Analysis|Analyze the shows on the Netflix platform and find out the visualization of the data in different aspects.|[Click Here](/Netflix%20Movies%20and%20TV%20Shows)|
+   |51|Bangladesh Premier League Analysis|Analyze different aspects of Bangladesh Premier League for the season 2021-22.|[Click Here](/Bangladesh%20Premier%20League%20Analysis)|
+   |52|Top Programming language in GitHub|Identify the top programming language in GitHub using data analysis|[Click Here](/Top%20Programming%20language%20in%20GitHub)|
  
 *************************************************************
 ## 📊 Points Category (SWOC 2021)

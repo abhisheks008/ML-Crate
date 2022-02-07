@@ -6,18 +6,18 @@
   
   - Name: **Snega S**
   - GitHub ID: `snega16`
-  - Issue Assigned: #92, #159
-  - PR Merged: #164, #192
-  - Projects: Advertisement Click Prediction (3 pts) | Indian School Education Statistics (3 pts)
-  - Total Points: 6
+  - Issue Assigned: #92, #159, #166
+  - PR Merged: #164, #192, #202
+  - Projects: Advertisement Click Prediction (3 pts) | Indian School Education Statistics (3 pts) | Top Programming language in GitHub (3 pts)
+  - Total Points: 9
 
 ---------------------------------------------------------
 - Name: **Vishnu Bhaarath**
 - GitHub ID: `VishnuBhaarath`
-- Issues Assigned: #117, #104
-- PR Merged: #163, #197
-- Projects: UK Favourite Chocolate Analysis (1 pt) | Identify the images of Cats and Dogs (5 pts)
-- Total Points: 6
+- Issues Assigned: #117, #104, #184
+- PR Merged: #163, #197, #201
+- Projects: UK Favourite Chocolate Analysis (1 pt) | Identify the images of Cats and Dogs (5 pts) | Bangladesh Premier League Analysis (3 pts)
+- Total Points: 9
 
 ----------------------------------------------------------
 - Name: **Jahnavi Pravaleeka Battu**
@@ -109,4 +109,4 @@
 
 ----------------------------------------------------------
 
-`updated till, #197 PR`
+`updated till, #202 PR`

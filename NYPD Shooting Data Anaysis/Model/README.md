@@ -1,4 +1,4 @@
-**FLICKR8k Dataset Analysis (MS COCO)**
+**NYPD Shooting Data Analysis**
 
 **GOAL**
 
@@ -7,6 +7,8 @@ The aim of the project is to analyse the NYPD Shooting dataset to find some insi
 **DATASET**
 
 Dataset can be downloaded from kaggle: https://www.kaggle.com/saurabhshahane/nypd-shooting-data-historic
+
+(Note: the four files in Models folder are needed to plot data on the map of NYC)
 
 **DESCRIPTION**
 

@@ -100,9 +100,9 @@
 - Total Points:
 
 ----------------------------------------------------------
-- Name: 
-- GitHub ID: 
-- Issues Assigned: 
+- Name: **Ankur Das**
+- GitHub ID: `das-ankur`
+- Issues Assigned: #187
 - PR Merged:
 - Projects:
 - Total Points:

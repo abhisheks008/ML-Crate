@@ -90,6 +90,9 @@ This repository consists of various machine learning projects, and all of the pr
    |50|Netflix Movies and Shows Analysis|Analyze the shows on the Netflix platform and find out the visualization of the data in different aspects.|[Click Here](/Netflix%20Movies%20and%20TV%20Shows)|
    |51|Bangladesh Premier League Analysis|Analyze different aspects of Bangladesh Premier League for the season 2021-22.|[Click Here](/Bangladesh%20Premier%20League%20Analysis)|
    |52|Top Programming language in GitHub|Identify the top programming language in GitHub using data analysis|[Click Here](/Top%20Programming%20language%20in%20GitHub)|
+   |53|Entrepreneurial Capacity in Student|Create a ML model which will be identifying the entrepreneurial capacity in student.|[Click Here](/Entrepreneurial%20Capacity%20in%20Student)|
+   |54|NYPD Shooting Data Analysis|Analyze and visualize the shooting data registered by NYPD.|[Click Here](/NYPD%20Shooting%20Data%20Anaysis)|
+   
  
 *************************************************************
 ## 📊 Points Category (SWOC 2021)

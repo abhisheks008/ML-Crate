@@ -31,9 +31,9 @@
 - Name: **Mrunal Jambenal**
 - GitHub ID: `mrunal736`
 - Issues Assigned: #106
-- PR Merged: -
-- Projects: - 
-- Total Points: -
+- PR Merged: #204
+- Projects: Entrepreneurial Capacity in Student (3 pts)
+- Total Points: 3
 
 ----------------------------------------------------------
 - Name: **Tandrima Singha**
@@ -109,4 +109,4 @@
 
 ----------------------------------------------------------
 
-`updated till, #202 PR`
+`updated till, #204 PR`

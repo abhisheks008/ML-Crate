@@ -92,6 +92,7 @@ This repository consists of various machine learning projects, and all of the pr
    |52|Top Programming language in GitHub|Identify the top programming language in GitHub using data analysis|[Click Here](/Top%20Programming%20language%20in%20GitHub)|
    |53|Entrepreneurial Capacity in Student|Create a ML model which will be identifying the entrepreneurial capacity in student.|[Click Here](/Entrepreneurial%20Capacity%20in%20Student)|
    |54|NYPD Shooting Data Analysis|Analyze and visualize the shooting data registered by NYPD.|[Click Here](/NYPD%20Shooting%20Data%20Anaysis)|
+   |55|Sonar Dataset Analysis|Analyze the Sonar dataset in different perspectives and visualize different patterns among them.|[Click Here](/Sonar%20Dataset)|
    
  
 *************************************************************

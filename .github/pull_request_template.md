@@ -1,23 +1,26 @@
-## Issue Title :
+# Pull Request for ML-Crate 💡
 
-- Info about the related issue (Aim of the project)
 
-- [ ] SWOC Participant 
-- [ ] JWOC Participant
-- [ ] Contributor
+## Issue Title : <!-- Enter the issue title here -->
 
-- **Name:**
-- **GitHub ID:**
+- **Info about the related issue (Aim of the project)** : <!-- What's the goal of the project -->
+- **Name:** <!--Mention Your name-->
+- **GitHub ID:** <!-- Mention your GitHub ID -->
+- **Idenitfy yourself:** <!-- Mention your role -->
+   - [ ] SWOC Participant ❄️
+   - [ ] JWOC Participant ☃️
+   - [ ] Contributor ✔️
 
-(Mention these details are must)
 
-Closes: #issue number that will be closed through this PR
+<!-- Mention the following details and these are mandatory -->
 
-### Describe the add-ons or changes you've made
+🔴 **Closes:** #issue number that will be closed through this PR
+
+### Describe the add-ons or changes you've made 📃
 
 Give a clear description of what have you added or modifications made
 
-## Type of change
+## Type of change ☑️
 
 What sort of change have you made:
 <!--
@@ -30,12 +33,12 @@ Example how to mark a checkbox:-
 - [ ] Breaking change (fix or feature that would cause existing functionality to not work as expected)
 - [ ] This change requires a documentation update
 
-## How Has This Been Tested?
+## How Has This Been Tested? ⚙️
 
 Describe how it has been tested
 Describe how have you verified the changes made
 
-## Checklist:
+## Checklist: ☑️
 <!--
 Example how to mark a checkbox:-
 - [x] My code follows the code style of this project.

@@ -35,6 +35,7 @@ MediaPipe Hands is a high-fidelity hand and finger tracking solution. It employs
 </p>
 <br>
 <h2>VISUALIZATION</h2>
+<p>All the outputs can be found in the image folder.</p>
 <br>
 <h2>ACCURACIES<h2>
 <p>An average precision of 95.7% in palm detection. Using a regular cross entropy loss and no decoder gives a baseline of just 86.22%.</p>

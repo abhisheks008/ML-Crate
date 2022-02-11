@@ -96,6 +96,7 @@ This repository consists of various machine learning projects, and all of the pr
    |56|Resume Classification|Classify the resumes and identify the useful ones for the company.|[Click Here](/Resume%20Classification)|
    |57|Legends of League Analysis|Analyze the aspects of League of Legends.|[Click Here](/League%20Of%20Legends%20Analysis)|
    |58|Hand Pose Detection|Detect the hand poses from the camera input.|[Click Here](/Hand%20Pose%20Detection)|
+   |59|Classify the Emoji|Classify the emoji using deep learning techniques.|[Click Here](/Classify%20the%20emoji)|
    
  
 *************************************************************

@@ -46,10 +46,10 @@
 ----------------------------------------------------------- 
 - Name: **Nishtha Pandey**
 - GitHub ID: `nishtha2405`
-- Issues Assigned: #129
-- PR Merged:
-- Projects:
-- Total Points:
+- Issues Assigned: #180
+- PR Merged: #207
+- Projects: League of Legends Analysis (3 pts)
+- Total Points: 3
 
 ----------------------------------------------------------
 - Name: **Aditya Tomar**
@@ -103,10 +103,10 @@
 - Name: **Ankur Das**
 - GitHub ID: `das-ankur`
 - Issues Assigned: #187
-- PR Merged:
-- Projects:
-- Total Points:
+- PR Merged: #208
+- Projects: Hand Pose Detection (5 pts)
+- Total Points: 5
 
 ----------------------------------------------------------
 
-`updated till, #204 PR`
+`updated till, #208 PR`

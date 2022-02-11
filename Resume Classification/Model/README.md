@@ -2,6 +2,13 @@
 
 In this project we are using the _ datset from kaggle, our main goal here is to classify the resume into one of the job categories present in our dataset.
 
+# How to Run the Project 
+~~~
+git clone project-url 
+cd projectfolder/Model
+source venv/Scripts/activate
+pytho 
+~~~
 ## Workflow 
 
 ## Models Used 

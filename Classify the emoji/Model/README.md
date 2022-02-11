@@ -57,9 +57,16 @@ Keras allows us to train our model on a single GPU or use multiple GPUs. It prov
 **PERFORMANCE**
 
 ![Dataset](../Images/dataset.jpg "Dataset Example")
+
+<p align="center">Dataset Example</p>
+
 ![Prediciton](../Images/example.jpg "Prediction")
-![Model Layout](../Images/model.jpg "Model Layout")
-  
+
+<p align="center">Prediction</p>
+
+![Model Layout](../Images/model.png "Model Layout")
+
+<p align="center">Model Layout</p>
 
 **CONCLUSION**
 

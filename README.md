@@ -93,6 +93,9 @@ This repository consists of various machine learning projects, and all of the pr
    |53|Entrepreneurial Capacity in Student|Create a ML model which will be identifying the entrepreneurial capacity in student.|[Click Here](/Entrepreneurial%20Capacity%20in%20Student)|
    |54|NYPD Shooting Data Analysis|Analyze and visualize the shooting data registered by NYPD.|[Click Here](/NYPD%20Shooting%20Data%20Anaysis)|
    |55|Sonar Dataset Analysis|Analyze the Sonar dataset in different perspectives and visualize different patterns among them.|[Click Here](/Sonar%20Dataset)|
+   |56|Resume Classification|Classify the resumes and identify the useful ones for the company.|[Click Here](/Resume%20Classification)|
+   |57|Legends of League Analysis|Analyze the aspects of League of Legends.|[Click Here](/League%20Of%20Legends%20Analysis)|
+   |58|Hand Pose Detection|Detect the hand poses from the camera input.|[Click Here](/Hand%20Pose%20Detection)|
    
  
 *************************************************************

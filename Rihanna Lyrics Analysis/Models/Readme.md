@@ -11,7 +11,7 @@
 
 **DATASET**
 
- https://www.kaggle.com/abdunnoor11/bpl-data
+https://www.kaggle.com/vivovinco/rihanna-lyrics
 
   
 

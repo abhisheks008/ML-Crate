@@ -1,5 +1,6 @@
 # Project Title : Real / Fake Job Posting Prediction
 <!-- cover image -->
+![cover](https://user-images.githubusercontent.com/81156510/152502185-8620325f-3ff9-47eb-9737-c033bd964619.png)
 
 <hr>
 
@@ -26,26 +27,27 @@ https://www.kaggle.com/shivamb/real-or-fake-fake-jobposting-prediction
 
 ## Data Visualization :
 
-Count Plot - 1 
-<!--  -->
+Count Plot - Only Fraudulent (Predictor Column) 
+![count-1](https://user-images.githubusercontent.com/81156510/152502206-62a746a3-801f-4a36-9bb8-670cf111ce76.png)
 
-Count Plot - 2
-<!--  -->
+Count Plot - Location Count (with Fraudulent Column as hue)
+![count-2](https://user-images.githubusercontent.com/81156510/152502243-f29984f1-1298-4199-af41-1c60d8c74a05.png)
 
-Confusion Matrix - 1
-<!--  -->
+Confusion Matrix - Logistic Regression
+![confusion-1](https://user-images.githubusercontent.com/81156510/152502258-5e7e5ff7-c6bf-479c-adeb-94ad61ebea05.png)
 
-Confusion Matrix - 2
-<!--  -->
+Confusion Matrix - Logistic Regression CV
+![confusion-2](https://user-images.githubusercontent.com/81156510/152502284-702b5386-83e9-4073-94a8-1334c119f773.png)
 
-Confusion Matrix - 3
-<!--  -->
+Confusion Matrix - Support Vector Classifier
+![confusion-3](https://user-images.githubusercontent.com/81156510/152502311-ea994888-a72b-4335-8d52-b37e22a64cc6.png)
 
-Confusion Matrix - 4
-<!--  -->
+Confusion Matrix - Decision Tree Classifier
+![confusion-4](https://user-images.githubusercontent.com/81156510/152502339-4bcdfa81-d462-4be9-becf-1446d3ecc183.png)
 
 Decision Tree Model
-<!-- -->
+![tree](https://user-images.githubusercontent.com/81156510/152502357-768315e7-8675-439a-93e0-7d0f74ac5f01.png)
+
 <hr>
 
 ## Model comparison :

@@ -62,10 +62,10 @@
 ----------------------------------------------------------
 - Name: **Sriniketh J**
 - GitHub ID: `srini047`
-- Issues Assigned: #98, #126
-- PR Merged: #175, #193
-- Projects: Digit Recognizer Project (1 pt) | Real/Fake Job Posting Prediction (3 pts)
-- Total Points: 4
+- Issues Assigned: #98, #126, #137
+- PR Merged: #175, #193, #211
+- Projects: Digit Recognizer Project (1 pt) | Real/Fake Job Posting Prediction (3 pts) |Face Mask Detection (5 pts)
+- Total Points: 9
 
 ----------------------------------------------------------
 - Name: **Arya Shahi**
@@ -109,4 +109,4 @@
 
 ----------------------------------------------------------
 
-`updated till, #210 PR`
+`updated till, #211 PR`

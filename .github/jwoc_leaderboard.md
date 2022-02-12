@@ -14,10 +14,10 @@
 ---------------------------------------------------------
 - Name: **Vishnu Bhaarath**
 - GitHub ID: `VishnuBhaarath`
-- Issues Assigned: #117, #104, #184
-- PR Merged: #163, #197, #201
-- Projects: UK Favourite Chocolate Analysis (1 pt) | Identify the images of Cats and Dogs (5 pts) | Bangladesh Premier League Analysis (3 pts)
-- Total Points: 9
+- Issues Assigned: #117, #104, #184, #186
+- PR Merged: #163, #197, #201, #210
+- Projects: UK Favourite Chocolate Analysis (1 pt) | Identify the images of Cats and Dogs (5 pts) | Bangladesh Premier League Analysis (3 pts) | Rihanna Lyrics Analysis (3 pts)
+- Total Points: 12
 
 ----------------------------------------------------------
 - Name: **Jahnavi Pravaleeka Battu**
@@ -109,4 +109,4 @@
 
 ----------------------------------------------------------
 
-`updated till, #208 PR`
+`updated till, #210 PR`

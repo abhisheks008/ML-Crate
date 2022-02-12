@@ -20,7 +20,7 @@ Developed a Sequential Model that uses a total of around 68 Lakhs parameter to d
 
 **MODEL USED**
 
-<!-- Model-1 -->
+![model-1](https://user-images.githubusercontent.com/81156510/153702526-36cca1a4-ae69-467e-8692-d15c7def2314.png)
 
 A Convolutional Model (CNN) with 4 convolutional layers, 3 max-pooling layers, and Relu and Softmax as activation functions.
 Used ```adam``` as Optimizer, ```categorical_rossEntropy``` as Loss Function, ```accuarcy``` as metrics
@@ -48,12 +48,12 @@ and few others.
 
 **VISUALIZATION**
 
-<!-- Output-1 -->
+![output-1](https://user-images.githubusercontent.com/81156510/153702527-ea8751a0-4a4a-46bb-bfe9-0e4740c18a60.png)
 
 
 **ACCURACIES**
 
-<!-- Output-2 -->
+![output-2](https://user-images.githubusercontent.com/81156510/153702529-d037f3fa-b85e-44e1-92bc-def379f64404.png)
 
 
 **CONCLUSION**

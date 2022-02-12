@@ -97,6 +97,7 @@ This repository consists of various machine learning projects, and all of the pr
    |57|Legends of League Analysis|Analyze the aspects of League of Legends.|[Click Here](/League%20Of%20Legends%20Analysis)|
    |58|Hand Pose Detection|Detect the hand poses from the camera input.|[Click Here](/Hand%20Pose%20Detection)|
    |59|Classify the Emoji|Classify the emoji using deep learning techniques.|[Click Here](/Classify%20the%20emoji)|
+   |60|Rihanna Lyrics Analysis|Analyze the contents of the albums of Rihanna based on the lyrics of the songs produced.|[Click Here](/Rihanna%20Lyrics%20Analysis)|
    
  
 *************************************************************

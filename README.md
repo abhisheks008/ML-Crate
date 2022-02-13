@@ -99,6 +99,7 @@ This repository consists of various machine learning projects, and all of the pr
    |59|Classify the Emoji|Classify the emoji using deep learning techniques.|[Click Here](/Classify%20the%20emoji)|
    |60|Rihanna Lyrics Analysis|Analyze the contents of the albums of Rihanna based on the lyrics of the songs produced.|[Click Here](/Rihanna%20Lyrics%20Analysis)|
    |61|Face Mask Detection|Detect the mask on the faces of the people with an ML approach.|[Click Here](/Face%20Mask%20Detection)|
+   |62|Billboard "The Hot 100" Songs|Analyze different aspects of the song genre and identify different features among them.|[Click Here](/Billboard%20"The%20Hot%20100"%20Songs)|
    
  
 *************************************************************

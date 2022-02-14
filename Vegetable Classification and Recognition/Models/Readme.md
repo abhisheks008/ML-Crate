@@ -6,7 +6,7 @@
 
   
 
-Identifying the images of cats and dogs.Algorithm used for this purpose was CNN.
+Identifying the images of different vegetables.Algorithm used for this purpose was CNN.
 
   
 

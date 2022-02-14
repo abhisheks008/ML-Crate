@@ -6,18 +6,18 @@
   
   - Name: **Snega S**
   - GitHub ID: `snega16`
-  - Issue Assigned: #92, #159, #166
-  - PR Merged: #164, #192, #202
-  - Projects: Advertisement Click Prediction (3 pts) | Indian School Education Statistics (3 pts) | Top Programming language in GitHub (3 pts)
-  - Total Points: 9
+  - Issue Assigned: #92, #159, #166, #152
+  - PR Merged: #164, #192, #202, #212
+  - Projects: Advertisement Click Prediction (3 pts) | Indian School Education Statistics (3 pts) | Top Programming language in GitHub (3 pts) | Billboard "Top 100 Songs" Analysis (5 pts)
+  - Total Points: 14
 
 ---------------------------------------------------------
 - Name: **Vishnu Bhaarath**
 - GitHub ID: `VishnuBhaarath`
-- Issues Assigned: #117, #104, #184, #186
-- PR Merged: #163, #197, #201, #210
-- Projects: UK Favourite Chocolate Analysis (1 pt) | Identify the images of Cats and Dogs (5 pts) | Bangladesh Premier League Analysis (3 pts) | Rihanna Lyrics Analysis (3 pts)
-- Total Points: 12
+- Issues Assigned: #117, #104, #184, #186, #139
+- PR Merged: #163, #197, #201, #210, #213
+- Projects: UK Favourite Chocolate Analysis (1 pt) | Identify the images of Cats and Dogs (5 pts) | Bangladesh Premier League Analysis (3 pts) | Rihanna Lyrics Analysis (3 pts) | Vegetable Classification and Recognition (5 pts)
+- Total Points: 17
 
 ----------------------------------------------------------
 - Name: **Jahnavi Pravaleeka Battu**
@@ -62,10 +62,10 @@
 ----------------------------------------------------------
 - Name: **Sriniketh J**
 - GitHub ID: `srini047`
-- Issues Assigned: #98, #126
-- PR Merged: #175, #193
-- Projects: Digit Recognizer Project (1 pt) | Real/Fake Job Posting Prediction (3 pts)
-- Total Points: 4
+- Issues Assigned: #98, #126, #137
+- PR Merged: #175, #193, #211
+- Projects: Digit Recognizer Project (1 pt) | Real/Fake Job Posting Prediction (3 pts) |Face Mask Detection (5 pts)
+- Total Points: 9
 
 ----------------------------------------------------------
 - Name: **Arya Shahi**
@@ -109,4 +109,4 @@
 
 ----------------------------------------------------------
 
-`updated till, #210 PR`
+`updated till, #213 PR`

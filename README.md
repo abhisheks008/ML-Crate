@@ -4,7 +4,7 @@
 
 ![](https://github.com/abhisheks008/ML-Crate/blob/main/Assets/ml.png)
 
-********************************************************
+******************************************************
 ## 🔴 Welcome contributors!
 As we all know the BGMI Loot Crate comes with so many resources for the gamers, this ML Crate will be the hub of various ML projects which will be the resources for the ML enthusiasts!
 
@@ -24,11 +24,11 @@ This repository consists of various machine learning projects, and all of the pr
 ## ❄️Open Source Programs!
 <table>
 <tr>
- <td>
-<a href="https://github.com/abhisheks008"><img src="https://media-exp1.licdn.com/dms/image/C560BAQGh8hr-FgbrHw/company-logo_200_200/0/1602422883512?e=2159024400&v=beta&t=s8IX2pN1J2v5SRRbgzVNzxnQ2rWeeMq2Xb__BYW60qE" width=150px height=150px /><br /><sub><b>Script Winter of Code 2021</b></sub></a>
+ <td align="center">
+<a href="https://github.com/abhisheks008"><img src="https://media-exp1.licdn.com/dms/image/C560BAQGh8hr-FgbrHw/company-logo_200_200/0/1602422883512?e=2159024400&v=beta&t=s8IX2pN1J2v5SRRbgzVNzxnQ2rWeeMq2Xb__BYW60qE" width=150px height=150px /><br /><sub><b>Script Winter of Code 2021</b></sub></a><br /><sub><h1>PR Count: 4️⃣2️⃣</h1></sub>
  </td>
-  <td>
-<a href="https://jwoc.tech/"><img src="https://github.com/abhisheks008/abhisheks008/blob/main/jwoc.png" width=150px height=150px /><br /><sub><b>JGEC Winter of Code 2022</b></sub></a>
+  <td align="center">
+<a href="https://jwoc.tech/"><img src="https://github.com/abhisheks008/abhisheks008/blob/main/jwoc.png" width=150px height=150px /><br /><sub><b>JGEC Winter of Code 2022</b></sub></a><br /><sub><h1>PR Count: 2️⃣:zero:</h1></a>
  </td>
 </tr>
 </table>
@@ -98,6 +98,9 @@ This repository consists of various machine learning projects, and all of the pr
    |58|Hand Pose Detection|Detect the hand poses from the camera input.|[Click Here](/Hand%20Pose%20Detection)|
    |59|Classify the Emoji|Classify the emoji using deep learning techniques.|[Click Here](/Classify%20the%20emoji)|
    |60|Rihanna Lyrics Analysis|Analyze the contents of the albums of Rihanna based on the lyrics of the songs produced.|[Click Here](/Rihanna%20Lyrics%20Analysis)|
+   |61|Face Mask Detection|Detect the mask on the faces of the people with an ML approach.|[Click Here](/Face%20Mask%20Detection)|
+   |62|Billboard "The Hot 100" Songs|Analyze different aspects of the song genre and identify different features among them.|[Click Here](/Billboard%20"The%20Hot%20100"%20Songs)|
+   |63|Vegetable Classification and Recognition|Classify the images of the vegetables and recognize the images using machine learning models.|[Click Here](/Vegetable%20Classification%20and%20Recognition)|
    
  
 *************************************************************

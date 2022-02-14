@@ -42,7 +42,7 @@ The main aim of the project is to create a ML model which will detect the presen
 ## **VISUALIZATION.**
 _________________________________________
 ## **Brain Tumor Sample Image**
-![Brain Tumor Image](../Images/Tumor.jpg "Brain Tumor")
+![Brain Tumor Image](../Images/Tumor.JPG "Brain Tumor")
 
 ## **No Brain Tumor Sample Image**
 ![No Brain Tumor Image](../Images/No_Tumor.jpg "No Brain Tumor")

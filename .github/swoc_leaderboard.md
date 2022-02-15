@@ -39,10 +39,10 @@
 
 ****************************************************************
 🔴 **Yagyesh Bobde** (Participant ID : 1131) (GitHub Link : https://github.com/yagyesh-bobde)<br/>
-🔴 **Assigned Issues** : #6, #21, #81 #22 <br/>
-🔴 **Merged PRs** : #25, #31, #206 <br/>
-🔴 **Projects** : MNIST Dataset Classification (40 Points) | Spam Email Detection (30 Points) | Resume Classification (30 Points)<br/>
-🔴 **Total Points** : 100 <br/>
+🔴 **Assigned Issues** : #6, #21, #81 #22, #109 <br/>
+🔴 **Merged PRs** : #25, #31, #206, #215 <br/>
+🔴 **Projects** : MNIST Dataset Classification (40 Points) | Spam Email Detection (30 Points) | Resume Classification (30 Points) | Quora Insincere Questions Classification Analysis & Prediction (20 Points)<br/>
+🔴 **Total Points** : 120 <br/>
 
 ****************************************************************
 🔴 **Sankalp Srivastava** (Participant ID : 857) (GitHub Link : http://www.github.com/sankalp-srivastava)<br/>
@@ -125,4 +125,4 @@
 
 
 
-*- Last Updated, 11.02.2022, #209 Pull Request Merged*
+*- Last Updated, 15.02.2022, #215 Pull Request Merged*

@@ -14,10 +14,10 @@
 ---------------------------------------------------------
 - Name: **Vishnu Bhaarath**
 - GitHub ID: `VishnuBhaarath`
-- Issues Assigned: #117, #104, #184, #186, #139
-- PR Merged: #163, #197, #201, #210, #213
-- Projects: UK Favourite Chocolate Analysis (1 pt) | Identify the images of Cats and Dogs (5 pts) | Bangladesh Premier League Analysis (3 pts) | Rihanna Lyrics Analysis (3 pts) | Vegetable Classification and Recognition (5 pts)
-- Total Points: 17
+- Issues Assigned: #117, #104, #184, #186, #139, #138
+- PR Merged: #163, #197, #201, #210, #213, #214
+- Projects: UK Favourite Chocolate Analysis (1 pt) | Identify the images of Cats and Dogs (5 pts) | Bangladesh Premier League Analysis (3 pts) | Rihanna Lyrics Analysis (3 pts) | Vegetable Classification and Recognition (5 pts) | Brain Tumor Detection (5 pts)
+- Total Points: 22
 
 ----------------------------------------------------------
 - Name: **Jahnavi Pravaleeka Battu**
@@ -109,4 +109,4 @@
 
 ----------------------------------------------------------
 
-`updated till, #213 PR`
+`updated till, #214 PR`

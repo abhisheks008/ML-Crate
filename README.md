@@ -101,6 +101,8 @@ This repository consists of various machine learning projects, and all of the pr
    |61|Face Mask Detection|Detect the mask on the faces of the people with an ML approach.|[Click Here](/Face%20Mask%20Detection)|
    |62|Billboard "The Hot 100" Songs|Analyze different aspects of the song genre and identify different features among them.|[Click Here](/Billboard%20"The%20Hot%20100"%20Songs)|
    |63|Vegetable Classification and Recognition|Classify the images of the vegetables and recognize the images using machine learning models.|[Click Here](/Vegetable%20Classification%20and%20Recognition)|
+   |64|Brain Tumor Detection|Detect and identify the brain tumors images from the dataset provided using a ML approach.|[Click Here](/Brain%20Tumor%20Detection)|
+   |65|Quora Insincere Questions Classification Analysis & Prediction|Identify the miss-informations in the website of Quora and classify them using a ML approach.|[Click Here](/Quora%20Insincere%20Questions%20Classification%20Analysis%20%26%20Prediction)|
    
  
 *************************************************************

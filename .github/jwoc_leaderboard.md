@@ -14,10 +14,10 @@
 ---------------------------------------------------------
 - Name: **Vishnu Bhaarath**
 - GitHub ID: `VishnuBhaarath`
-- Issues Assigned: #117, #104, #184, #186, #139, #138
-- PR Merged: #163, #197, #201, #210, #213, #214
-- Projects: UK Favourite Chocolate Analysis (1 pt) | Identify the images of Cats and Dogs (5 pts) | Bangladesh Premier League Analysis (3 pts) | Rihanna Lyrics Analysis (3 pts) | Vegetable Classification and Recognition (5 pts) | Brain Tumor Detection (5 pts)
-- Total Points: 22
+- Issues Assigned: #117, #104, #184, #186, #139, #138, #188
+- PR Merged: #163, #197, #201, #210, #213, #214, #217
+- Projects: UK Favourite Chocolate Analysis (1 pt) | Identify the images of Cats and Dogs (5 pts) | Bangladesh Premier League Analysis (3 pts) | Rihanna Lyrics Analysis (3 pts) | Vegetable Classification and Recognition (5 pts) | Brain Tumor Detection (5 pts) | Body Part Classification (5 pts)
+- Total Points: 27
 
 ----------------------------------------------------------
 - Name: **Jahnavi Pravaleeka Battu**
@@ -46,10 +46,10 @@
 ----------------------------------------------------------- 
 - Name: **Nishtha Pandey**
 - GitHub ID: `nishtha2405`
-- Issues Assigned: #180
-- PR Merged: #207
-- Projects: League of Legends Analysis (3 pts)
-- Total Points: 3
+- Issues Assigned: #180, #125
+- PR Merged: #207, #216
+- Projects: League of Legends Analysis (3 pts) | Women's E-commerce Clothings Analysis (3 pts)
+- Total Points: 6
 
 ----------------------------------------------------------
 - Name: **Aditya Tomar**
@@ -109,4 +109,4 @@
 
 ----------------------------------------------------------
 
-`updated till, #214 PR`
+`updated till, #217 PR`

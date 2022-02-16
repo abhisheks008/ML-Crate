@@ -109,10 +109,10 @@
 
 ****************************************************************
 🔴 **Tandrima Singha** (Participant ID : 1044) (GitHub Link : https://github.com/tandrimasingha)<br/>
-🔴 **Assigned Issues** : #67, #48, #74, #4, #95, #88<br/>
-🔴 **Merged PRs** : #69, #70, #84, #87, #101, #102<br/>
-🔴 **Projects** : Students Performance in Exams (30 Points) | Swedish Auto Insurance (30 Points) | Crypto Currency Price Prediction (30 Points) | Mall Customers Segmentation (30 Points) | Body Fat Prediction (30 Points) | Big Mart Sales Prediction (30 Points)<br/>
-🔴 **Total Points** : 180 <br/>
+🔴 **Assigned Issues** : #67, #48, #74, #4, #95, #88, #99<br/>
+🔴 **Merged PRs** : #69, #70, #84, #87, #101, #102, #219<br/>
+🔴 **Projects** : Students Performance in Exams (30 Points) | Swedish Auto Insurance (30 Points) | Crypto Currency Price Prediction (30 Points) | Mall Customers Segmentation (30 Points) | Body Fat Prediction (30 Points) | Big Mart Sales Prediction (30 Points) | FIFA 19 Dataset Analysis (40 Points)<br/>
+🔴 **Total Points** : 220 <br/>
 
 ****************************************************************
 🔴 **Shrikrushna Bhagwat** (Participant ID : 930) (GitHub Link : https://github.com/krishna-nit)<br/>
@@ -125,4 +125,4 @@
 
 
 
-*- Last Updated, 16.02.2022, #218 Pull Request Merged*
+*- Last Updated, 16.02.2022, #219 Pull Request Merged*

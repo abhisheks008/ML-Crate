@@ -25,10 +25,10 @@ This repository consists of various machine learning projects, and all of the pr
 <table>
 <tr>
  <td align="center">
-<a href="https://github.com/abhisheks008"><img src="https://media-exp1.licdn.com/dms/image/C560BAQGh8hr-FgbrHw/company-logo_200_200/0/1602422883512?e=2159024400&v=beta&t=s8IX2pN1J2v5SRRbgzVNzxnQ2rWeeMq2Xb__BYW60qE" width=150px height=150px /><br /><sub><b>Script Winter of Code 2021</b></sub></a><br /><sub><h1>PR Count: 4️⃣2️⃣</h1></sub>
+<a href="https://github.com/abhisheks008"><img src="https://media-exp1.licdn.com/dms/image/C560BAQGh8hr-FgbrHw/company-logo_200_200/0/1602422883512?e=2159024400&v=beta&t=s8IX2pN1J2v5SRRbgzVNzxnQ2rWeeMq2Xb__BYW60qE" width=150px height=150px /><br /><sub><b>Script Winter of Code 2021</b></sub></a><br /><sub><h1>PR Count: 4️⃣:four:</h1></sub>
  </td>
   <td align="center">
-<a href="https://jwoc.tech/"><img src="https://github.com/abhisheks008/abhisheks008/blob/main/jwoc.png" width=150px height=150px /><br /><sub><b>JGEC Winter of Code 2022</b></sub></a><br /><sub><h1>PR Count: 2️⃣:zero:</h1></a>
+<a href="https://jwoc.tech/"><img src="https://github.com/abhisheks008/abhisheks008/blob/main/jwoc.png" width=150px height=150px /><br /><sub><b>JGEC Winter of Code 2022</b></sub></a><br /><sub><h1>PR Count: 2️⃣:four:</h1></a>
  </td>
 </tr>
 </table>
@@ -103,6 +103,9 @@ This repository consists of various machine learning projects, and all of the pr
    |63|Vegetable Classification and Recognition|Classify the images of the vegetables and recognize the images using machine learning models.|[Click Here](/Vegetable%20Classification%20and%20Recognition)|
    |64|Brain Tumor Detection|Detect and identify the brain tumors images from the dataset provided using a ML approach.|[Click Here](/Brain%20Tumor%20Detection)|
    |65|Quora Insincere Questions Classification Analysis & Prediction|Identify the miss-informations in the website of Quora and classify them using a ML approach.|[Click Here](/Quora%20Insincere%20Questions%20Classification%20Analysis%20%26%20Prediction)|
+   |66| Amazon Alexa Reviews | Analyse the reviews of the various products of the Amazon website.|[Click Here](/Amazon%20Alexa%20Reviews)|
+   |67|Body Parts Classification|Classify different body parts using a ML approach.|[Click Here](/Body%20Parts%20Recognition)|
+   |68|Women's E-commerce Clothings Reviews|Analyse the reviews of the women's e-commerce clothings in different platforms.|[Click Here](/Womens%20E-Commerce%20Clothing%20Review)|
    
  
 *************************************************************

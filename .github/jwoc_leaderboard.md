@@ -6,10 +6,10 @@
   
   - Name: **Snega S**
   - GitHub ID: `snega16`
-  - Issue Assigned: #92, #159, #166, #152
-  - PR Merged: #164, #192, #202, #212
-  - Projects: Advertisement Click Prediction (3 pts) | Indian School Education Statistics (3 pts) | Top Programming language in GitHub (3 pts) | Billboard "Top 100 Songs" Analysis (5 pts)
-  - Total Points: 14
+  - Issue Assigned: #92, #159, #166, #152, #142
+  - PR Merged: #164, #192, #202, #212, #221
+  - Projects: Advertisement Click Prediction (3 pts) | Indian School Education Statistics (3 pts) | Top Programming language in GitHub (3 pts) | Billboard "Top 100 Songs" Analysis (5 pts) | Data Analytics Salary Analysis (3 pts)
+  - Total Points: 17
 
 ---------------------------------------------------------
 - Name: **Vishnu Bhaarath**
@@ -109,4 +109,4 @@
 
 ----------------------------------------------------------
 
-`updated till, #217 PR`
+`updated till, #221 PR`

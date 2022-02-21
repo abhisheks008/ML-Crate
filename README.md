@@ -28,7 +28,7 @@ This repository consists of various machine learning projects, and all of the pr
 <a href="https://github.com/abhisheks008"><img src="https://media-exp1.licdn.com/dms/image/C560BAQGh8hr-FgbrHw/company-logo_200_200/0/1602422883512?e=2159024400&v=beta&t=s8IX2pN1J2v5SRRbgzVNzxnQ2rWeeMq2Xb__BYW60qE" width=150px height=150px /><br /><sub><b>Script Winter of Code 2021</b></sub></a><br /><sub><h1>PR Count: 4️⃣:six:</h1></sub>
  </td>
   <td align="center">
-<a href="https://jwoc.tech/"><img src="https://github.com/abhisheks008/abhisheks008/blob/main/jwoc.png" width=150px height=150px /><br /><sub><b>JGEC Winter of Code 2022</b></sub></a><br /><sub><h1>PR Count: 2️⃣:six:</h1></a>
+<a href="https://jwoc.tech/"><img src="https://github.com/abhisheks008/abhisheks008/blob/main/jwoc.png" width=150px height=150px /><br /><sub><b>JGEC Winter of Code 2022</b></sub></a><br /><sub><h1>PR Count: 2️⃣:seven:</h1></a>
  </td>
 </tr>
 </table>
@@ -110,6 +110,7 @@ This repository consists of various machine learning projects, and all of the pr
    |70|Pneumonia Disease Prediction|Create a prediction model which will predict the disease from the user input.|[Click Here](/Pneumonia%20Disease%20Prediction)|
    |71|Data Analytics Salary Prediction|Create a prediction model which will predict the salary of the Data Analytics and visualize them.|[Click Here](/Data%20Analytics%20Salary%20Prediction)|
    |72|Udacity Course Analysis|Analyze different aspects of the Udacity courses depending on various situations.|[Click Here](/Udacity%20Courses%20Analysis)|
+   |73|Rice Type Classification|Classify the types of the rice using a ML approach.|[Click Here](/Rice%20type%20classification)|
    
  
 *************************************************************

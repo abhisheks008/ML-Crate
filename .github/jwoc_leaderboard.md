@@ -108,5 +108,13 @@
 - Total Points: 5
 
 ----------------------------------------------------------
+- Name: **Debjit Pal**
+- GitHub ID: `debjitpal5040`
+- Issues Assigned: #224
+- PR Merged: #229
+- Projects: Rice Type Classification (3 pts)
+- Total Points: 3
 
-`updated till, #228 PR`
+----------------------------------------------------------
+
+`updated till, #229 PR`

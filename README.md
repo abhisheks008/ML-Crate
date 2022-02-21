@@ -109,6 +109,7 @@ This repository consists of various machine learning projects, and all of the pr
    |69|FIFA 19 Dataset Analysis|Analyze the dataset of the FIFA 19 football dataset and visualize the different factors of it.|[Click Here](/FIFA%2019%20Dataset%20Analysis)|
    |70|Pneumonia Disease Prediction|Create a prediction model which will predict the disease from the user input.|[Click Here](/Pneumonia%20Disease%20Prediction)|
    |71|Data Analytics Salary Prediction|Create a prediction model which will predict the salary of the Data Analytics and visualize them.|[Click Here](/Data%20Analytics%20Salary%20Prediction)|
+   |72|Udacity Course Analysis|Analyze different aspects of the Udacity courses depending on various situations.|[Click Here](/Udacity%20Courses%20Analysis)|
    
  
 *************************************************************

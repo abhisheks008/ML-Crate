@@ -34,8 +34,8 @@ This is a classification problem where we need to predict the Lumpy Skin Disease
 ## ACCURACIES
 
 1. Logistic Regression :- 94.89315952156969
-2. Random Forest :- 97.44657976078484
-3. Decision Tree :- 97.21811584464454
+2. Random Forest :- 97.48689692245665
+3. Decision Tree :- 97.1240424674103
 
 ## CONCLUSION
 

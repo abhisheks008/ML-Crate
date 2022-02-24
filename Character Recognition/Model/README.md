@@ -59,16 +59,13 @@ Keras allows us to train our model on a single GPU or use multiple GPUs. It prov
 
 **PERFORMANCE**
 
-<<<<<<< HEAD
-![Model Accuracy](../Images/accuracy.jpg "Model Accuracies")
-![Model loss](../Images/loss.jpg "Model Loss")
-=======
+
 <p float ="left">
 <img src = "../Images/accuracy.jpg " alt="Modal Accuracy" title="Modal Accuracy" style="width:40%" />
 <img src = "../Images/loss.jpg " alt="Modal Loss" title="Modal Loss" style="width:43%" />
 </p>
 
->>>>>>> d8a852461168f71e228873a9e81082c25f554f6c
+
 ![examples](../Images/example.jpg "Examples")
   
 

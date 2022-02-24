@@ -110,11 +110,11 @@
 ----------------------------------------------------------
 - Name: **Debjit Pal**
 - GitHub ID: `debjitpal5040`
-- Issues Assigned: #224
-- PR Merged: #229
-- Projects: Rice Type Classification (3 pts)
-- Total Points: 3
+- Issues Assigned: #224, #222
+- PR Merged: #229, #232
+- Projects: Rice Type Classification (3 pts) | Lumpy Skin Disease Prediction (3 pts)
+- Total Points: 6
 
 ----------------------------------------------------------
 
-`updated till, #230 PR`
+`updated till, #232 PR`

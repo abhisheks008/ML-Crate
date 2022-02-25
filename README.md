@@ -25,7 +25,7 @@ This repository consists of various machine learning projects, and all of the pr
 <table>
 <tr>
  <td align="center">
-<a href="https://github.com/abhisheks008"><img src="https://media-exp1.licdn.com/dms/image/C560BAQGh8hr-FgbrHw/company-logo_200_200/0/1602422883512?e=2159024400&v=beta&t=s8IX2pN1J2v5SRRbgzVNzxnQ2rWeeMq2Xb__BYW60qE" width=150px height=150px /><br /><sub><b>Script Winter of Code 2021</b></sub></a><br /><sub><h1>PR Count: 4️⃣:seven:</h1></sub>
+<a href="https://github.com/abhisheks008"><img src="https://media-exp1.licdn.com/dms/image/C560BAQGh8hr-FgbrHw/company-logo_200_200/0/1602422883512?e=2159024400&v=beta&t=s8IX2pN1J2v5SRRbgzVNzxnQ2rWeeMq2Xb__BYW60qE" width=150px height=150px /><br /><sub><b>Script Winter of Code 2021</b></sub></a><br /><sub><h1>PR Count: 4️⃣:nine:</h1></sub>
  </td>
   <td align="center">
 <a href="https://jwoc.tech/"><img src="https://github.com/abhisheks008/abhisheks008/blob/main/jwoc.png" width=150px height=150px /><br /><sub><b>JGEC Winter of Code 2022</b></sub></a><br /><sub><h1>PR Count: 2️⃣:nine:</h1></a>
@@ -114,6 +114,8 @@ This repository consists of various machine learning projects, and all of the pr
    |74|Named Entity Recognition (NER) Corpus | Analyze and create a model using machine learning approach for NER dataset.|[Click Here](/Named%20Entity%20Recognition%20(NER)%20Corpus%20-%20Copy)|
    |75|Lumpy Skin Disease Prediction|Predict the lumpy skin disease using machine learning approach.|[Click Here](/Lumpy%20Skin%20Disease%20Prediction)|
    |76|Amazon Books Analysis|Analyze the books of the e-commerce platform Amazon using a ML approach.|[Click Here](/Amazon%20Books%20Analysis)|
+   |77|Pets Images Classification|Classify the images of different pets and then create a ML model based on these.|[Click Here](/Pets%20Images%20Classification)|
+   |78|Number Plate Prediction|An OpenCV approach for predicting the correct number plate among the duplicate ones.|[Click Here](/Number%20Plate%20Prediction)|
    
  
 *************************************************************

@@ -28,7 +28,7 @@ This repository consists of various machine learning projects, and all of the pr
 <a href="https://github.com/abhisheks008"><img src="https://media-exp1.licdn.com/dms/image/C560BAQGh8hr-FgbrHw/company-logo_200_200/0/1602422883512?e=2159024400&v=beta&t=s8IX2pN1J2v5SRRbgzVNzxnQ2rWeeMq2Xb__BYW60qE" width=150px height=150px /><br /><sub><b>Script Winter of Code 2021</b></sub></a><br /><sub><h1>PR Count: 4️⃣:nine:</h1></sub>
  </td>
   <td align="center">
-<a href="https://jwoc.tech/"><img src="https://github.com/abhisheks008/abhisheks008/blob/main/jwoc.png" width=150px height=150px /><br /><sub><b>JGEC Winter of Code 2022</b></sub></a><br /><sub><h1>PR Count: 2️⃣:nine:</h1></a>
+<a href="https://jwoc.tech/"><img src="https://github.com/abhisheks008/abhisheks008/blob/main/jwoc.png" width=150px height=150px /><br /><sub><b>JGEC Winter of Code 2022</b></sub></a><br /><sub><h1>PR Count: :three::zero:</h1></a>
  </td>
 </tr>
 </table>
@@ -116,6 +116,7 @@ This repository consists of various machine learning projects, and all of the pr
    |76|Amazon Books Analysis|Analyze the books of the e-commerce platform Amazon using a ML approach.|[Click Here](/Amazon%20Books%20Analysis)|
    |77|Pets Images Classification|Classify the images of different pets and then create a ML model based on these.|[Click Here](/Pets%20Images%20Classification)|
    |78|Number Plate Prediction|An OpenCV approach for predicting the correct number plate among the duplicate ones.|[Click Here](/Number%20Plate%20Prediction)|
+   |79|GATE Examination Analysis|A machine learning approach for classification of different aspects of GATE examinations.|[Click Here](/GATE%20Examination%20Analysis)|
    
  
 *************************************************************

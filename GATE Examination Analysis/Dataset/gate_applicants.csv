@@ -1,28 +1,28 @@
 ,Paper Code,Paper Name,Applied,Appeared,Year
-0, AE, Aerospace Engineering,4639,3697,2019
-1, AG, Agricultural Engineering,2088,1848,2019
-2, AR, Architecture and Planning,11208,9105,2019
-3, BT, Biotechnology,11295,9348,2019
-4, CE, Civil Engineering,170999,145064,2019
-5, CH, Chemical Engineering,18783,15537,2019
-6, CS, Computer Science and Information Technology,124984,99932,2019
-7, CY, Chemistry,27800,21908,2019
-8, EC, Electronics and Communication Engineering,126148,104782,2019
-9, EE, Electrical Engineering,132294,112097,2019
-10, EY, Ecology and Evolution,1460,1092,2019
-11, GG, Geology and Geophysics,7100,5899,2019
-12, IN, Instrumentation Engineering,12289,9999,2019
-13, MA, Mathematics,13415,10699,2019
-14, ME, Mechanical Engineering,198841,167376,2019
-15, MN, Mining Engineering,3179,2633,2019
-16, MT, Metallurgical Engineering,4456,3644,2019
-17, PE, Petroleum Engineering,2428,2035,2019
-18, PH, Physics,20216,16296,2019
-19, PI, Production and Industrial Engineering,3503,2890,2019
-20, ST, Statistics,1890,1460,2019
-21, TF, Textile Engineering and Fibre Science,2093,1795,2019
-22, XE, Engineering Sciences,4431,3559,2019
-23, XL, Life Sciences,22077,17986,2019
+0,AE,Aerospace Engineering,4639,3697,2019
+1,AG,Agricultural Engineering,2088,1848,2019
+2,AR,Architecture and Planning,11208,9105,2019
+3,BT,Biotechnology,11295,9348,2019
+4,CE,Civil Engineering,170999,145064,2019
+5,CH,Chemical Engineering,18783,15537,2019
+6,CS,Computer Science and Information Technology,124984,99932,2019
+7,CY,Chemistry,27800,21908,2019
+8,EC,Electronics and Communication Engineering,126148,104782,2019
+9,EE,Electrical Engineering,132294,112097,2019
+10,EY,Ecology and Evolution,1460,1092,2019
+11,GG,Geology and Geophysics,7100,5899,2019
+12,IN,Instrumentation Engineering,12289,9999,2019
+13,MA,Mathematics,13415,10699,2019
+14,ME,Mechanical Engineering,198841,167376,2019
+15,MN,Mining Engineering,3179,2633,2019
+16,MT,Metallurgical Engineering,4456,3644,2019
+17,PE,Petroleum Engineering,2428,2035,2019
+18,PH,Physics,20216,16296,2019
+19,PI,Production and Industrial Engineering,3503,2890,2019
+20,ST,Statistics,1890,1460,2019
+21,TF,Textile Engineering and Fibre Science,2093,1795,2019
+22,XE,Engineering Sciences,4431,3559,2019
+23,XL,Life Sciences,22077,17986,2019
 24,AE,Aerospace Engineering,5335,4357,2017
 25,AG,Agricultural Engineering,1749,1568,2017
 26,AR,Architecture and Planning,6661,5607,2017

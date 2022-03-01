@@ -120,13 +120,6 @@ This repository consists of various machine learning projects, and all of the pr
    
  
 *************************************************************
-## 📊 Points Category (SWOC 2021)
-| Level of Issues | Points Allocated |
-| - | - |
-| Beginner | 10 Points 🔰|
-| Easy | 20 Points 🌱|
-| Medium | 30 Points 🌕|
-| Hard | 40 Points 🔥 |
 
 ## 📊 Points Category (JWOC 2022)
 | Level of Issues | Points Allocated (Phase 1) | Points Allocated (Phase 2) | 
@@ -175,17 +168,6 @@ Thanks goes to these Wonderful People. Contributions of any kind are welcome!�
   </tr>
 </table>
 
-<h2> ⚔️ Mentors (SWOC 2.0) </h2>
-<table>
-  <tr>
-    <td align='center'><a href='https://github.com/vaibhavgupta2499'><img src='https://avatars.githubusercontent.com/u/51874705?v=4' width='80px;' alt=''/><br/><sub><b>Vaibhab Gupta</b></sub></a></td>
-    <td align='center'><a href='https://github.com/ASLManasa'><img src='https://avatars.githubusercontent.com/u/72789934?v=4' width='80px;' alt=''/><br/><sub><b>A.S.L.Manasa</b></sub></a></td>
-    <td align='center'><a href='https://github.com/hpnightowl'><img src='https://avatars.githubusercontent.com/u/48650798?v=4' width='80px;' alt=''/><br/><sub><b>Harsh Pal</b></sub></a></td>
-    <td align='center'><a href='https://github.com/neelshah2409'><img src='https://avatars.githubusercontent.com/u/71593494?v=4' width='80px;' alt=''/><br/><sub><b>Neel Shah</b></sub></a></td>
-    <td align='center'><a href='https://github.com/rohansharma4050'><img src='https://avatars.githubusercontent.com/u/69635604?v=4' width='80px;' alt=''/><br/><sub><b>Rohan Sharma</b></sub></a></td>
-    <td align='center'><a href='https://github.com/shreyapy'><img src='https://avatars.githubusercontent.com/u/32763445?v=4' width='80px;' alt=''/><br/><sub><b>Shreya Pandey</b></sub></a></td>
-    </tr>
-  </table>
 
 **************************************************************
 <h2>⭐Give this Project a Star</h2>

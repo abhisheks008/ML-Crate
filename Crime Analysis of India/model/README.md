@@ -1,5 +1,6 @@
-# Project Title: Crimen Analysis of India
+# Project Title: Crime Analysis of India
 <!-- Cover Image -->
+![cover](https://user-images.githubusercontent.com/81156510/156587416-03f6343f-63ec-441a-b3f8-884030b05f95.jpg)
 
 <hr>
 
@@ -28,13 +29,16 @@ and many more...
 ## Data Visualization:
 
 Plot - 1 
-<!--  -->
+
+![plot-1](https://user-images.githubusercontent.com/81156510/156587515-3fa333b5-6e9f-4658-bee1-ec12f0990826.png)
 
 Plot - 2
-<!--  -->
+
+![plot-2](https://user-images.githubusercontent.com/81156510/156587607-30943837-d784-49bb-b3e4-c69ffb3102e8.png)
 
 Plot - 3
-<!--  -->
+
+![plot-3](https://user-images.githubusercontent.com/81156510/156587624-73b6ed09-c78a-4f0c-990c-5d74b981d2cd.png)
 
 <hr>
 

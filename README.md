@@ -28,7 +28,7 @@ This repository consists of various machine learning projects, and all of the pr
 <a href="https://github.com/abhisheks008"><img src="https://media-exp1.licdn.com/dms/image/C560BAQGh8hr-FgbrHw/company-logo_200_200/0/1602422883512?e=2159024400&v=beta&t=s8IX2pN1J2v5SRRbgzVNzxnQ2rWeeMq2Xb__BYW60qE" width=150px height=150px /><br /><sub><b>Script Winter of Code 2021</b></sub></a><br /><sub><h1>PR Count: 4️⃣:nine:</h1></sub>
  </td>
   <td align="center">
-<a href="https://jwoc.tech/"><img src="https://github.com/abhisheks008/abhisheks008/blob/main/jwoc.png" width=150px height=150px /><br /><sub><b>JGEC Winter of Code 2022</b></sub></a><br /><sub><h1>PR Count: :three::one:</h1></a>
+<a href="https://jwoc.tech/"><img src="https://github.com/abhisheks008/abhisheks008/blob/main/jwoc.png" width=150px height=150px /><br /><sub><b>JGEC Winter of Code 2022</b></sub></a><br /><sub><h1>PR Count: :three::two:</h1></a>
  </td>
 </tr>
 </table>
@@ -118,6 +118,7 @@ This repository consists of various machine learning projects, and all of the pr
    |78|Number Plate Prediction|An OpenCV approach for predicting the correct number plate among the duplicate ones.|[Click Here](/Number%20Plate%20Prediction)|
    |79|GATE Examination Analysis|A machine learning approach for classification of different aspects of GATE examinations.|[Click Here](/GATE%20Examination%20Analysis)|
    |80|Crime Analysis of India|Analyze different aspects of India regarding the crime using ML approach.|[Click Here](/Crime%20Analysis%20of%20India)|
+   |81|Confused student EEG brainwave data|Analyze different aspects of the EEG Brainwave data and create a deep learning model in order to predict the scenario.|[Click Here](/Confused%20student%20EEG%20brainwave%20data)|
    
  
 *************************************************************

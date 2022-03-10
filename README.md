@@ -121,15 +121,6 @@ This repository consists of various machine learning projects, and all of the pr
    |81|Confused student EEG brainwave data|Analyze different aspects of the EEG Brainwave data and create a deep learning model in order to predict the scenario.|[Click Here](/Confused%20student%20EEG%20brainwave%20data)|
    |82|CS:GO Round Winner Clasification|Classify the winners of the CS:GO video game using a ML approach.|[Click Here](/CS:GO%20Round%20Winner%20Classification)|
    
- 
-*************************************************************
-
-## 📊 Points Category (JWOC 2022)
-| Level of Issues | Points Allocated (Phase 1) | Points Allocated (Phase 2) | 
-| :-: | :-: | :-: |
-| Easy | **1** Point | **2** Points |
-| Medium | **3** Points | **4** Points |
-| Hard | **5** Points | **8** Points |
 
 
 *************************************************************

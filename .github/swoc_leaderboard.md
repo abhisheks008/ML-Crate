@@ -52,13 +52,7 @@
 🔴 **Total Points** : 490 <br/>
 
 ****************************************************************
-🔴 **Suyog Kokaje** (Participant ID : 1032) (GitHub Link : https://github.com/suyogkokaje)<br/>
-🔴 **Assigned Issues** : #4 <br/>
-🔴 **Merged PRs** : - <br/>
-🔴 **Projects** : - <br/>
-🔴 **Total Points** : - <br/>
 
-****************************************************************
 🔴 **Ahan Anupam** (Participant ID : 63) (GitHub Link : https://github.com/ahananupam33)<br/>
 🔴 **Assigned Issues** : #18, #53 <br/>
 🔴 **Merged PRs** : #58, #68 <br/>
@@ -80,20 +74,7 @@
 🔴 **Total Points** : 30 <br/>
 
 ****************************************************************
-🔴 **Aryan Goyal** (Participant ID : 191) (GitHub Link : https://github.com/iaryangoyal)<br/>
-🔴 **Assigned Issues** : #17 <br/>
-🔴 **Merged PRs** : - <br/>
-🔴 **Projects** : - <br/>
-🔴 **Total Points** : - <br/>
 
-****************************************************************
-🔴 **Harshini Marappan** (Participant ID : 389) (GitHub Link : https://github.com/HarshiniMarappan)<br/>
-🔴 **Assigned Issues** : - <br/>
-🔴 **Merged PRs** : - <br/>
-🔴 **Projects** : - <br/>
-🔴 **Total Points** : - <br/>
-
-****************************************************************
 🔴 **Venkatakrishnan R** (Participant ID : 1104) (GitHub Link : https://github.com/Cody-coder017)<br/>
 🔴 **Assigned Issues** : #41, #19, #13 <br/>
 🔴 **Merged PRs** : #45, #46, #83 <br/>
@@ -125,4 +106,4 @@
 
 
 
-*- Last Updated, 25.02.2022, #238 Pull Request Merged*
+*- Program ended!*

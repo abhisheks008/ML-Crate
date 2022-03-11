@@ -52,14 +52,6 @@
 - Total Points: 6
 
 ----------------------------------------------------------
-- Name: **Aditya Tomar**
-- GitHub ID: `Adi9235`
-- Issues Assigned: #127
-- PR Merged:
-- Projects:
-- Total Points:
-
-----------------------------------------------------------
 - Name: **Sriniketh J**
 - GitHub ID: `srini047`
 - Issues Assigned: #98, #126, #137, #169
@@ -68,14 +60,7 @@
 - Total Points: 13
 
 ----------------------------------------------------------
-- Name: **Arya Shahi**
-- GitHub ID: `aryashahi`
-- Issues Assigned: #118
-- PR Merged:
-- Projects:
-- Total Points:
 
-----------------------------------------------------------
 - Name: **Arya Sarkar**
 - GitHub ID: `aryacodez`
 - Issues Assigned: #140
@@ -92,14 +77,7 @@
 - Total Points: 5
 
 ----------------------------------------------------------
-- Name: **Dilrose Reji**
-- GitHub ID: `dilroseR`
-- Issues Assigned: #156
-- PR Merged: 
-- Projects: 
-- Total Points:
 
-----------------------------------------------------------
 - Name: **Ankur Das**
 - GitHub ID: `das-ankur`
 - Issues Assigned: #187
@@ -117,4 +95,4 @@
 
 ----------------------------------------------------------
 
-`updated till, #242 PR`
+`Program ended. Score card updated!`

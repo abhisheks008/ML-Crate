@@ -34,8 +34,13 @@ This repository consists of various machine learning projects, and all of the pr
 </table>
 
 
+## 🏆 Achievements of this Project Repo 🎉
+**:one: Recognized as the "🥇 TOP PROJECT" for SWOC 2.0 for the year 2021-22.** (49 Pull Requestes have been merged!)</br>
+**:two: Recognized as the "TOP MENTOR" and "TOP PA" for the project ['ML-Crate'](https://github.com/abhisheks008/ML-Crate) in SWOC 2.0.**
 
-***********************************************************
+
+## 🗒️ Content List
+
 | Serial No. | Project Name | Goal of the Project | Link |
 | :-: | :-: | :-: | :-: |
 | 01 | Credit Card Fraud Detection | The main aim of the project is to make a model that helps to predict credit card fraud based on the given dataset. | [Click Here](/Credit%20Card%20Fraud%20Detection) |

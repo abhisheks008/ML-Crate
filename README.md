@@ -36,7 +36,7 @@ This repository consists of various machine learning projects, and all of the pr
 
 ## 🏆 Achievements of this Project Repo 🎉
 **:one: Recognized as the "🥇 TOP PROJECT" for SWOC 2.0 for the year 2021-22.** (49 Pull Requestes have been merged!)</br>
-**:two: Recognized as the "TOP MENTOR" and "TOP PA" for the project ['ML-Crate'](https://github.com/abhisheks008/ML-Crate) in SWOC 2.0.**
+**:two: Recognized as the "TOP MENTOR" and "TOP PA" for the project ['ML-Crate'](https://github.com/abhisheks008/ML-Crate) in SWOC 2.0.**</br>
 **:three: Recognized as the "BEST MENTOR" of JGEC Winter of Code 2022, for mentoring students to contribute in the project repo "ML-Crate".**
 
 

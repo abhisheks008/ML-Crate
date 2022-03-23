@@ -126,6 +126,7 @@ This repository consists of various machine learning projects, and all of the pr
    |80|Crime Analysis of India|Analyze different aspects of India regarding the crime using ML approach.|[Click Here](/Crime%20Analysis%20of%20India)|
    |81|Confused student EEG brainwave data|Analyze different aspects of the EEG Brainwave data and create a deep learning model in order to predict the scenario.|[Click Here](/Confused%20student%20EEG%20brainwave%20data)|
    |82|CS:GO Round Winner Clasification|Classify the winners of the CS:GO video game using a ML approach.|[Click Here](/CS:GO%20Round%20Winner%20Classification)|
+   |83|Predicting Pulsar Star|Create a ML model which will predict the timings of Pulsar star.|[Click Here](/Predicting%20Pulsar%20Star)|
    
 
 

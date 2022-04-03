@@ -30,6 +30,9 @@ This repository consists of various machine learning projects, and all of the pr
   <td align="center">
 <a href="https://jwoc.tech/"><img src="https://github.com/abhisheks008/abhisheks008/blob/main/jwoc.png" width=150px height=150px /><br /><sub><b>JGEC Winter of Code 2022</b></sub></a><br /><sub><h1>PR Count: :three::three:</h1></a>
  </td>
+  <td align="center">
+<a href="https://csirait.in/opencode/"><img src="https://i.imgur.com/zu9thTP.png" width=150px height=150px /><br /><sub><b>OpenCode CSI RAIT 2022</b></sub></a><br /><sub><h1>PR Count :zero::zero:</h1></a>
+ </td>
 </tr>
 </table>
 

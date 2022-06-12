@@ -1,6 +1,6 @@
 <div align="center">
   <h1>Machine Learning Loot Crate 💻🧰</h1>
-  <h3>Website for ML-Crate Project Repo: <a href="tinyurl.com/ml-crate">Click Here!</a></h3>
+  <h3>Website for ML-Crate Project Repo: <a href="https://tinyurl.com/ml-crate">Click Here!</a></h3>
 </div>
 
 ![](https://github.com/abhisheks008/ML-Crate/blob/main/Assets/ml.png)

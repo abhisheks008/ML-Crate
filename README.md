@@ -25,13 +25,17 @@ This repository consists of various machine learning projects, and all of the pr
 <table>
 <tr>
  <td align="center">
-<a href="https://github.com/abhisheks008"><img src="https://media-exp1.licdn.com/dms/image/C560BAQGh8hr-FgbrHw/company-logo_200_200/0/1602422883512?e=2159024400&v=beta&t=s8IX2pN1J2v5SRRbgzVNzxnQ2rWeeMq2Xb__BYW60qE" width=150px height=150px /><br /><sub><b>Script Winter of Code 2021</b></sub></a><br /><sub><h1>PR Count: 4️⃣:nine:</h1></sub>
+<a href="https://github.com/abhisheks008"><img src="https://media-exp1.licdn.com/dms/image/C560BAQGh8hr-FgbrHw/company-logo_200_200/0/1602422883512?e=2159024400&v=beta&t=s8IX2pN1J2v5SRRbgzVNzxnQ2rWeeMq2Xb__BYW60qE" width=100px height=100px /><br /><sub><b>Script WoC 2021</b></sub></a><br /><sub><h3>PR Count: 49</h3></sub>
  </td>
   <td align="center">
-<a href="https://jwoc.tech/"><img src="https://github.com/abhisheks008/abhisheks008/blob/main/jwoc.png" width=150px height=150px /><br /><sub><b>JGEC Winter of Code 2022</b></sub></a><br /><sub><h1>PR Count: :three::three:</h1></a>
+<a href="https://jwoc.tech/"><img src="https://github.com/abhisheks008/abhisheks008/blob/main/jwoc.png" width=100px height=100px /><br /><sub><b>JGEC WoC 2022</b></sub></a><br /><sub><h3>PR Count: 33</h3></a>
  </td>
   <td align="center">
-<a href="https://csirait.in/opencode/"><img src="https://i.imgur.com/zu9thTP.png" width=150px height=150px /><br /><sub><b>OpenCode CSI RAIT 2022</b></sub></a><br /><sub><h1>PR Count :zero::zero:</h1></a>
+<a href="https://csirait.in/opencode/"><img src="https://i.imgur.com/zu9thTP.png" width=100px height=100px /><br /><sub><b>OpenCode CSI RAIT 2022</b></sub></a><br /><sub><h3>PR Count -</h3></a>
+ </td>
+  </td>
+  <td align="center">
+<a href="https://www.psoc.in/"><img src="https://www.psoc.in/img/psoc-logo-1.png" width=100px height=100px /><br /><sub><b>PClub SoC 2022</b></sub></a><br /><sub><h3>PR Count -</h3></a>
  </td>
 </tr>
 </table>

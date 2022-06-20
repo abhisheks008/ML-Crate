@@ -11,7 +11,7 @@
   - Projects: Advertisement Click Prediction (3 pts) | Indian School Education Statistics (3 pts) | Top Programming language in GitHub (3 pts) | Billboard "Top 100 Songs" Analysis (5 pts) | Data Analytics Salary Analysis (3 pts)
   - Total Points: 17
 
--------------------------------------------------------
+----------------------------------------------------------
 - Name: **Vishnu Bhaarath**
 - GitHub ID: `VishnuBhaarath`
 - Issues Assigned: #117, #104, #184, #186, #139, #138, #188, #144, #122

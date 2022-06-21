@@ -3,7 +3,7 @@
   <h3>Website for ML-Crate Project Repo: <a href="https://tinyurl.com/ml-crate">Click Here!</a></h3>
 </div>
 
-![](https://github.com/abhisheks008/ML-Crate/blob/main/Assets/ml.png)
+![](https://github.com/abhisheks008/ML-Crate/blob/main/Assets/get%20started.png)
 
 **************************************************
 ## 🔴 Welcome contributors!

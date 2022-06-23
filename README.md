@@ -148,8 +148,9 @@ This repository consists of various machine learning projects, and all of the pr
 
 <table>
   <tr>
-<td align="center"><a href="https://github.com/abhisheks008/ML-Crate/blob/main/.github/swoc_leaderboard.md"><img src="https://cdn-icons-png.flaticon.com/512/1986/1986941.png" width="100px;" alt=""/><br /><sub><b>SWOC Leaderboard 2.0</b></sub></a></td>
+    <td align="center"><a href="https://github.com/abhisheks008/ML-Crate/blob/main/.github/swoc_leaderboard.md"><img src="https://cdn-icons-png.flaticon.com/512/1986/1986941.png" width="100px;" alt=""/><br /><sub><b>SWOC Leaderboard 2.0</b></sub></a></td>
     <td align="center"><a href="https://github.com/abhisheks008/ML-Crate/blob/main/.github/jwoc_leaderboard.md"><img src="https://cdn-icons-png.flaticon.com/512/1986/1986941.png" width="100px;" alt=""/><br /><sub><b>JWOC Leaderboard 2022</b></sub></a></td>
+    <td align="center"><a href="https://github.com/abhisheks008/ML-Crate/blob/main/.github/hrsoc_leaderboard.md"><img src="https://cdn-icons-png.flaticon.com/512/1986/1986941.png" width="100px;" alt=""/><br /><sub><b>HRSoC Leaderboard 2022</b></sub></a></td>
   </tr>
   
 </table>

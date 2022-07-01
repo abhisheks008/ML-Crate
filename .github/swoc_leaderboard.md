@@ -9,7 +9,7 @@
 🔴 **Projects** : Wine Quality Prediction (40 Points) | Breast Cancer Wisconsin (Diagnostic) (30 Points) <br/>
 🔴 **Total Points** : 70 <br/>
 
-***********************************************************
+**********************************************************
 🔴 **Rahul Kumar** (Participant ID : 740) (GitHub Link : https://github.com/rahul-netizen)<br/>
 🔴 **Assigned Issues** : #8 <br/>
 🔴 **Merged PRs** : #34 <br/>

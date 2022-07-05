@@ -49,7 +49,12 @@ This repository consists of various machine learning projects, and all of the pr
 **:one: Recognized as the "🥇 TOP PROJECT" for SWOC 2.0 for the year 2021-22.** (49 Pull Requestes have been merged!)</br>
 **:two: Recognized as the "TOP MENTOR" and "TOP PA" for the project ['ML-Crate'](https://github.com/abhisheks008/ML-Crate) in SWOC 2.0.**</br>
 **:three: Recognized as the "🥇 BEST MENTOR" of JGEC Winter of Code 2022, for mentoring students to contribute in the project repo "ML-Crate".**</br>
-**:four: Recognized as the "🥇 BEST MENTOR" of CSI RAIT OpenCode Open Source Program 2022, for mentoring students to contribute in the project repo "ML-Crate".**
+**:four: Recognized as the "🥇 BEST MENTOR" of CSI RAIT OpenCode Open Source Program 2022, for mentoring students to contribute in the project repo "ML-Crate".**</br>
+**:five: Special Mention from JWOC Team ✍️ :** _Abhishek is one of the most skillful and talented open source developers I have come across at JGEC Winter of Code 2K22. He exhibited commendable performance as a Project Admin and Mentor throughout the event. It was a pleasure to see him interact with and guide budding student developers to put forward their first steps towards open source contribution. The numerous mentorship sessions he facilitated for the participants reflect his domain expertise and technical proficiency. Abhishek is an inspiration for many young engineers who wish to build a career in Machine Learning and Data Science. His project ML-Crate was an essential gateway for ML enthusiasts to break the ice and start contributing._</br> 
+_On behalf of the entire Organizing Team of JWOC 2K22, I highly appreciate Abhishek's efforts to foster the spirit of community bonding and cooperation among the aspiring developers. His imaginative prowess and enthusiasm will be a great asset to any organization._<br>
+
+
+
 
 
 

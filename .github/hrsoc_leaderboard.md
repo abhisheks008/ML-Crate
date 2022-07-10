@@ -7,8 +7,8 @@
   
   ```
   Serial No.: 01
-  Name: 
-  GitHub Profile URL:
+  Name: Afreena Begum
+  GitHub Profile URL: https://github.com/afreenabegum
   Merged PRs:
   Projects: 
   Total Points: 
@@ -16,8 +16,8 @@
   ******************************************************
   ```
   Serial No.: 02
-  Name: 
-  GitHub Profile URL:
+  Name: Pankhuri Srivastava
+  GitHub Profile URL: https://github.com/srivasPankhuri
   Merged PRs:
   Projects: 
   Total Points: 
@@ -25,8 +25,8 @@
   ******************************************************
   ```
   Serial No.: 03
-  Name: 
-  GitHub Profile URL:
+  Name: Lahari Boni
+  GitHub Profile URL: https://github.com/LahariBoni
   Merged PRs:
   Projects: 
   Total Points: 

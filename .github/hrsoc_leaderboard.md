@@ -34,8 +34,8 @@
   ******************************************************
   ```
   Serial No.: 04
-  Name: 
-  GitHub Profile URL:
+  Name: Gunda Sudarrshan
+  GitHub Profile URL: https://github.com/GundaSudarrshan
   Merged PRs:
   Projects: 
   Total Points: 

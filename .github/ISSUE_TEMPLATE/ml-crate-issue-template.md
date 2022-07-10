@@ -3,7 +3,7 @@ name: ML-Crate Issue Template
 about: This is the issue template that is going to be used while creating any issues
   in this repo.
 title: ''
-labels: ''
+labels: 'Up-for-Grabs :hand:'
 assignees: ''
 
 ---
@@ -38,12 +38,9 @@ Hello, ML-Crate contributors, this issue is only for the contribution purposes a
 :white_check_mark: **To be Mentioned while taking the issue :**
 - Full name : 
 - GitHub Profile Link : 
-- Participant ID :
+- Participant ID (If not, then put NA) :
 - Approach for this Project :
-- What is your participant role?
-    - [ ] SWOC 2.0 Participant.
-    - [ ] JWOC 2022 Participant.
-    - [ ] Contributor
+- What is your participant role? (Mention the Open Source Program name. Eg. HRSoC, GSSoC, GSOC etc.)
 
 *************************************************************
 Happy Contributing 🚀 

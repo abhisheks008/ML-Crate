@@ -43,8 +43,8 @@
   ******************************************************
   ```
   Serial No.: 05
-  Name: 
-  GitHub Profile URL:
+  Name: Sriniketh J
+  GitHub Profile URL: https://github.com/srini047
   Merged PRs:
   Projects: 
   Total Points: 

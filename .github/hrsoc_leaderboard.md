@@ -59,4 +59,13 @@
   Total Points: 
   ```
   ******************************************************
+  ```
+  Serial No.: 07
+  Name: Chanakya Raghavendra
+  GitHub Profile URL: https://github.com/Chanukolli
+  Merged PRs:
+  Projects: 
+  Total Points: 
+  ```
+  ******************************************************
   

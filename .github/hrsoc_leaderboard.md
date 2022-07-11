@@ -52,8 +52,8 @@
   ******************************************************
   ```
   Serial No.: 06
-  Name: 
-  GitHub Profile URL:
+  Name: Munish Kumar
+  GitHub Profile URL: https://github.com/munish0838
   Merged PRs:
   Projects: 
   Total Points: 

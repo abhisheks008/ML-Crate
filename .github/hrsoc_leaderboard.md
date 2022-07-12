@@ -86,3 +86,12 @@
   Total Points: 
   ```
   ******************************************************
+  ```
+  Serial No.: 10
+  Name: Piyush Tanaji Bhujbal
+  GitHub Profile URL: https://github.com/PiyushBL45t
+  Merged PRs:
+  Projects: 
+  Total Points: 
+  ```
+  ******************************************************

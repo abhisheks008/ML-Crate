@@ -68,4 +68,21 @@
   Total Points: 
   ```
   ******************************************************
-  
+  ```
+  Serial No.: 08
+  Name: Akash R Chandran
+  GitHub Profile URL: https://github.com/akashrchandran
+  Merged PRs:
+  Projects: 
+  Total Points: 
+  ```
+  ******************************************************
+  ```
+  Serial No.: 09
+  Name: Shweta Bhagat
+  GitHub Profile URL: https://github.com/Shweta2024
+  Merged PRs:
+  Projects: 
+  Total Points: 
+  ```
+  ******************************************************

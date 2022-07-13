@@ -95,3 +95,39 @@
   Total Points: 
   ```
   ******************************************************
+  ```
+  Serial No.: 11
+  Name: Avik Mukherjee 
+  GitHub Profile URL: https://github.com/Avik-creator
+  Merged PRs:
+  Projects: 
+  Total Points: 
+  ```
+  ******************************************************
+  ```
+  Serial No.: 12
+  Name: Surjyanee Halder
+  GitHub Profile URL: https://github.com/surjyaneeh
+  Merged PRs:
+  Projects: 
+  Total Points: 
+  ```
+  ******************************************************
+  ```
+  Serial No.: 13
+  Name: Mandar Gajbhiye
+  GitHub Profile URL: https://github.com/Mandar-Gajbhiye15
+  Merged PRs:
+  Projects: 
+  Total Points: 
+  ```
+  ******************************************************
+  ```
+  Serial No.: 14
+  Name: 
+  GitHub Profile URL: 
+  Merged PRs:
+  Projects: 
+  Total Points: 
+  ```
+  ******************************************************

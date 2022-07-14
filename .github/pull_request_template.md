@@ -7,9 +7,6 @@
 - **Name:** <!--Mention Your name-->
 - **GitHub ID:** <!-- Mention your GitHub ID -->
 - **Idenitfy yourself:** <!-- Mention your role -->
-   - [ ] SWOC Participant ❄️
-   - [ ] JWOC Participant ☃️
-   - [ ] Contributor ✔️
 
 
 <!-- Mention the following details and these are mandatory -->

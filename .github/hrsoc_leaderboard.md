@@ -124,6 +124,15 @@
   ******************************************************
   ```
   Serial No.: 14
+  Name: Priya Gupta
+  GitHub Profile URL: https://github.com/guptapriya-83900
+  Merged PRs:
+  Projects: 
+  Total Points: 
+  ```
+  ******************************************************
+  ```
+  Serial No.: 15
   Name: 
   GitHub Profile URL: 
   Merged PRs:

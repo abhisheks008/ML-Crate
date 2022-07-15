@@ -2,7 +2,7 @@
   <h1>UPI Payments India</h1>
   </div>
   
-<img src = "https://www.india.com/business/how-to-make-upi-payment-without-internet-a-step-by-step-guide-here-google-pay-phonepe-npic-bhim-99-5182065/">
+<img src = "https://upload.wikimedia.org/wikipedia/commons/e/e1/UPI-Logo-vector.svg>
 
 ### Goal
 The goal of this project is to build a machine learning model with highest accuracy, which will predict the UPI Payments trend.
@@ -37,8 +37,8 @@ The dataset for this project is taken from the Kaggle dataset website. Here is t
 ### Model Creation:
 Here the Heatmap or matrix creation the Model.
 
-<img src = "<img width="707" alt="Screenshot 2022-07-15 at 12 00 20 PM" src="https://user-images.githubusercontent.com/77090462/179170711-4874f6e0-b691-4a67-b861-0f286d3fe59e.png">
-">
+"<img width="707" alt="Screenshot 2022-07-15 at 12 00 20 PM" src="https://user-images.githubusercontent.com/77090462/179170711-4874f6e0-b691-4a67-b861-0f286d3fe59e.png">
+
 
 Hence, Decision tree and Random Forest Algorithms are used for creating the model.
 

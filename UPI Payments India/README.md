@@ -38,8 +38,17 @@ Here the Heatmap or matrix creation the Model.
 
 "<img width="707" alt="Screenshot 2022-07-15 at 12 00 20 PM" src="https://user-images.githubusercontent.com/77090462/179170711-4874f6e0-b691-4a67-b861-0f286d3fe59e.png">
 
+### Conclusion:
 
-Hence, Decision tree and Random Forest Algorithms are used for creating the model.
+  RMSE or Accuracy of Each Model:
+    - Linear Regression Model: 46.09753971770031
+    - Logistic Regression Model: 2.1849599538664317
+    - Decision Tree Model: 1.4778531726798843
+    - Random Forest Model: 1.4778531726798843
+   
+   Since we know that, lower the RMSE Value the better the model is, so according to our dataset we reach the conclusion that 
+    `Random Forest Classifier Model` and  `Decision Tree Classifier Model` are best.
+
 
 ### Author
 Code contributed by,

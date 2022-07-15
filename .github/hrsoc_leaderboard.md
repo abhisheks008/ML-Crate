@@ -99,9 +99,9 @@
   Serial No.: 11
   Name: Avik Mukherjee 
   GitHub Profile URL: https://github.com/Avik-creator
-  Merged PRs:
-  Projects: 
-  Total Points: 
+  Merged PRs: #255
+  Projects: UPI Payments in India (Level 2)
+  Total Points: 10
   ```
   ******************************************************
   ```
@@ -140,3 +140,5 @@
   Total Points: 
   ```
   ******************************************************
+  
+  _Points updated till #255 PR merged_

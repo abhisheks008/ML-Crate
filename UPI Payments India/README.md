@@ -31,8 +31,7 @@ The dataset for this project is taken from the Kaggle dataset website. Here is t
 5. sklearn.
 
 ### Visualization and EDA of different attributes:
-<img src = "<img width="538" alt="Screenshot 2022-07-15 at 11 59 40 AM" src="https://user-images.githubusercontent.com/77090462/179170493-86eaee49-90c7-434e-9153-a99b99155968.png">
-">
+"<img width="538" alt="Screenshot 2022-07-15 at 11 59 40 AM" src="https://user-images.githubusercontent.com/77090462/179170493-86eaee49-90c7-434e-9153-a99b99155968.png">
 
 ### Model Creation:
 Here the Heatmap or matrix creation the Model.

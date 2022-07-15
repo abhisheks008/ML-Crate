@@ -2,7 +2,7 @@
   <h1>UPI Payments India</h1>
   </div>
   
-<img src = "https://upload.wikimedia.org/wikipedia/commons/e/e1/UPI-Logo-vector.svg>
+<img src = "https://upload.wikimedia.org/wikipedia/commons/e/e1/UPI-Logo-vector.svg">
 
 ### Goal
 The goal of this project is to build a machine learning model with highest accuracy, which will predict the UPI Payments trend.

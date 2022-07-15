@@ -39,7 +39,7 @@ This repository consists of various machine learning projects, and all of the pr
 <a href="https://www.psoc.in/"><img src="https://www.psoc.in/img/psoc-logo-1.png" width=100px height=100px /><br /><sub><b>PClub SoC 2022</b></sub></a><br /><sub><h3>PR Count -</h3></a>
  </td>
  <td align="center">
-<a href="http://hrsoc.herokuapp.com/"><img src="http://hrsoc.herokuapp.com/static/media/hackclubrait-logo.bd4b56eb391b58b8a921.png" width=100px height=100px /><br /><sub><b>HackClubRAIT SoC</b></sub></a><br /><sub><h3>PR Count -</h3></a>
+<a href="http://hrsoc.herokuapp.com/"><img src="http://hrsoc.herokuapp.com/static/media/hackclubrait-logo.bd4b56eb391b58b8a921.png" width=100px height=100px /><br /><sub><b>HackClubRAIT SoC</b></sub></a><br /><sub><h3>PR Count: 01</h3></a>
  </td>
 </tr>
 </table>

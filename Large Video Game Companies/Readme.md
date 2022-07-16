@@ -9,6 +9,25 @@ https://www.kaggle.com/datasets/kkhandekar/large-video-game-companies
 
 ## Description
 The project is a collection of all the possible statistical applications and metrics to derieve useful insights and properly visualize the behavior of various numerical parameters like revenue, market-cap of various game tech companies in various countries. Below are the actions performed on the dataset.
+* First imported all the necessary libraries that are listed in the libraries section.
+* Viewed the dataset's head and tail column.
+* Extracted the general information.
+* Described the statistical data.
+* Extracted the column names.
+* Took out all the unique categorical values from the dataset.
+* Changed the data type of two columns 
+    * Revenue
+    * Market Cap
+* Performed visualizations: 
+    * Scatter plot
+    * Pie Chart
+    * Bar Chart
+    * Heat Map
+    * Pair Plot
+    * Histogram
+* Compared the columns with each other and view their result.
+* Lastly checked and treated the outliers
+
 ## Performed actions:
 1. Data Cleaning: 
 2. Data Preprocessing

@@ -34,7 +34,7 @@ Heatmap states that there is no considerable corelation between the important me
 <img src = "https://github.com/PiyushBL45t/ML-Crate/blob/main/Large%20Video%20Game%20Companies/Images/Market%20Capitalization%20pie%20chart.png"/>
 
 ### Revenue earning of five random counrties
-<img src = "https://github.com/PiyushBL45t/ML-Crate/blob/main/Large%20Video%20Game%20Companies/Images/Revenue%20Earning%20Pie%20chart.png"/>
+<img src = "https://github.com/PiyushBL45t/ML-Crate/blob/main/Large%20Video%20Game%20Companies/Images/Revenue%20Earning.png"/>
 
 ### Scatter plot
 <img src = "https://github.com/PiyushBL45t/ML-Crate/blob/main/Large%20Video%20Game%20Companies/Images/Scatter%20Plot.png"/>

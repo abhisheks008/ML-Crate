@@ -9,7 +9,7 @@
 
 ## Plots
 
-
+<img src = "https://github.com/PiyushBL45t/ML-Crate/blob/main/Large%20Video%20Game%20Companies/Images/Heat%20map.png?raw=true"/>
 
 
 

@@ -2,8 +2,7 @@
    <h1>Search Interests in Google</h1>
    </div>
 
-https://en.wikipedia.org/wiki/Google_Search![image](https://user-images.githubusercontent.com/77090462/179353259-72830bc7-653a-46e3-9a6b-dc4af28dace2.png)
-
+<img width="1440" alt="Screenshot 2022-07-16 at 5 09 45 PM" src="https://user-images.githubusercontent.com/77090462/179353315-b041f4a6-85e1-41f3-80b2-730e33f95832.png">
 
  ### Goal
  The goal of this project is to analyse the trends of search in Google search Engine.

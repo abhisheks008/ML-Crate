@@ -133,6 +133,15 @@
   ******************************************************
   ```
   Serial No.: 15
+  Name: Vikas Kumar 
+  GitHub Profile URL: https://github.com/vickyrules
+  Merged PRs:
+  Projects: 
+  Total Points: 
+  ```
+  ******************************************************
+  ```
+  Serial No.: 16
   Name: 
   GitHub Profile URL: 
   Merged PRs:

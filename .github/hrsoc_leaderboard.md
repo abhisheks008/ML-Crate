@@ -90,9 +90,9 @@
   Serial No.: 10
   Name: Piyush Tanaji Bhujbal
   GitHub Profile URL: https://github.com/PiyushBL45t
-  Merged PRs:
-  Projects: 
-  Total Points: 
+  Merged PRs: #258
+  Projects: Large Video Games Companies (Level 2)
+  Total Points: 10
   ```
   ******************************************************
   ```
@@ -150,4 +150,4 @@
   ```
   ******************************************************
   
-  _Points updated till #257 PR merged_
+  _Points updated till #258 PR merged_

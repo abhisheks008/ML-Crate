@@ -6,7 +6,7 @@ ML model that detects diseases from provided symptoms provide by user using Deci
     - Decision Tree <a href="https://www.edureka.co/blog/decision-trees/">click here</a> 
     - RandomForest <a href="https://www.edureka.co/blog/random-forest-classifier/">click here</a> 
     - NaiveBayes <a href="https://www.edureka.co/blog/naive-bayes-tutorial//">click here</a> 
-    - Support Vector Classification <a href="https://www.edureka.co/blog/support-vector-machine-in-python/" click here </a>
+    - Support Vector Classification <a href="https://www.edureka.co/blog/support-vector-machine-in-python/">click here </a>
 
 <hr>
 

@@ -6,6 +6,7 @@ ML model that detects diseases from provided symptoms provide by user using Deci
     - Decision Tree <a href="https://www.edureka.co/blog/decision-trees/">click here</a> 
     - RandomForest <a href="https://www.edureka.co/blog/random-forest-classifier/">click here</a> 
     - NaiveBayes <a href="https://www.edureka.co/blog/naive-bayes-tutorial//">click here</a> 
+    - Support Vector Classification <a href="https://www.edureka.co/blog/support-vector-machine-in-python/" click here </a>
 
 <hr>
 
@@ -26,6 +27,13 @@ ML model that detects diseases from provided symptoms provide by user using Deci
 ```
    pip install numpy  
 ```
+
+ - install <a href="https://numpy.org/doc/stable/"> svm</a><br>
+```
+   pip install svm 
+```
+
+
  - install <a href="https://pandas.pydata.org/pandas-docs/stable/getting_started/overview.html">pandas</a><br>
 ```
    pip install pandas  
@@ -59,6 +67,7 @@ ML model that detects diseases from provided symptoms provide by user using Deci
 
 ## GUI Preview: 📷
 
+![dd](https://user-images.githubusercontent.com/73611313/179390428-dd33f70d-9ff9-4599-9325-9ec14545caca.png)
 
 
 <hr>

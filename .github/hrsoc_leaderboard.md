@@ -135,9 +135,9 @@
   Serial No.: 15
   Name: Vikas Kumar 
   GitHub Profile URL: https://github.com/vickyrules
-  Merged PRs:
-  Projects: 
-  Total Points: 
+  Merged PRs: #263
+  Projects: Diseases Prediction (Level 3)
+  Total Points: 20
   ```
   ******************************************************
   ```
@@ -150,4 +150,4 @@
   ```
   ******************************************************
   
-  _Points updated till #260 PR merged_
+  _Points updated till #263 PR merged_

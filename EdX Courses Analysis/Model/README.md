@@ -48,3 +48,7 @@ With the world becoming digital, any new skill can be acquired with just a click
 * The course description part of the dataset is slightly similar to the about section of the dataset. Both are certainly talking about learning and courses.
 *	Majority of the Names of the Courses evidently have the term “Introduction”.
 *	This presence of the term “Introduction” justifies for having 61% beginner friendly courses as most of the courses might be an introduction to a certain technology or domain.
+
+## **Contributed By:** ##
+Lahari Boni 
+Github - https://github.com/LahariBoni

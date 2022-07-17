@@ -2,7 +2,8 @@
    <h1>Car Brands in Pakistan</h1>
    </div>
 
-https://www.pakwheels.com/blog/top-5-car-manufacturers-come-pakistan/![image](https://user-images.githubusercontent.com/77090462/179405474-74a09e89-04cb-4fad-a14e-459b1b4ca3f6.png)
+![car-makers](https://user-images.githubusercontent.com/77090462/179405691-766962d3-65ea-4d68-9592-92da6075f4a8.jpg)
+
 
  ### Goal
  The goal of this project is to analyse Different car brands in Pakistan.

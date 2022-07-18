@@ -27,9 +27,9 @@
   Serial No.: 03
   Name: Lahari Boni
   GitHub Profile URL: https://github.com/LahariBoni
-  Merged PRs:
-  Projects: 
-  Total Points: 
+  Merged PRs: #264
+  Projects: EdX Courses Analysis (Level 3)
+  Total Points: 20
   ```
   ******************************************************
   ```
@@ -150,4 +150,4 @@
   ```
   ******************************************************
   
-  _Points updated till #263 PR merged_
+  _Points updated till #264 PR merged_

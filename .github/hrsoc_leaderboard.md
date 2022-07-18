@@ -142,8 +142,8 @@
   ******************************************************
   ```
   Serial No.: 16
-  Name: 
-  GitHub Profile URL: 
+  Name: Nirvik Ghosh
+  GitHub Profile URL: https://github.com/Nirvik07
   Merged PRs:
   Projects: 
   Total Points: 

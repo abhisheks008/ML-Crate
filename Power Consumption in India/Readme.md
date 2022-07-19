@@ -53,13 +53,24 @@ The project is a collection of all the possible statistical applications and met
 ### Heatmap of the dataset parameters
 Heatmap states that there is no considerable corelation between the important metrics
 <img src = "https://github.com/PiyushBL45t/ML-Crate/blob/main/Power%20Consumption%20in%20India/Images/Heatmap%20of%20states.png"/>
+
+### Andhra Pradesh Power Consumption plot
 <img src = "https://github.com/PiyushBL45t/ML-Crate/blob/main/Power%20Consumption%20in%20India/Images/Andhrapradesh%20box%20plot%20for%20two%20year%20power%20consumption.png"/>
-<img src = ""/>
+
+### Distribution of States for overall power consumption
 <img src = "https://github.com/PiyushBL45t/ML-Crate/blob/main/Power%20Consumption%20in%20India/Images/Distplot%20for%20power%20consumption%20in%20states.png"/>
+
+### Gujarat State power consumption of two years - box plot 
 <img src = "https://github.com/PiyushBL45t/ML-Crate/blob/main/Power%20Consumption%20in%20India/Images/Gujarat%20box%20plot%20for%20two%20year%20power%20consumption.png"/>
+
+### Histogram for Andhra Pradesh State
 <img src = "https://github.com/PiyushBL45t/ML-Crate/blob/main/Power%20Consumption%20in%20India/Images/Histogram%20for%20power%20consumption%20for%20Andhra%20Pradesh.png"/>
+
+### Karnataka state power consumption - box plot
 <img src = "https://github.com/PiyushBL45t/ML-Crate/blob/main/Power%20Consumption%20in%20India/Images/Karnataka%20box%20plot%20for%20two%20year%20power%20consumption.png"/>
 
+## Prediction using Decision Tree Regression algorithm
+<img src = ""/>
 
 ## CONCLUSION
 As we do the proprieatory data analysis, the conclusion here is that USA has the highest market capitalization and China earns the highest revenue followed by USA and Japan from the sales of various video game companies in the respective countries.

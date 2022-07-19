@@ -90,9 +90,9 @@
   Serial No.: 10
   Name: Piyush Tanaji Bhujbal
   GitHub Profile URL: https://github.com/PiyushBL45t
-  Merged PRs: #258
-  Projects: Large Video Games Companies (Level 2)
-  Total Points: 10
+  Merged PRs: #258, #266
+  Projects: Large Video Games Companies (Level 2) | Power Consumption in India (Level 2)
+  Total Points: 20
   ```
   ******************************************************
   ```
@@ -135,19 +135,19 @@
   Serial No.: 15
   Name: Vikas Kumar 
   GitHub Profile URL: https://github.com/vickyrules
-  Merged PRs: #263
-  Projects: Diseases Prediction (Level 3)
-  Total Points: 20
+  Merged PRs: #263, #267
+  Projects: Diseases Prediction (Level 3) | Eye State Classification (Level 3)
+  Total Points: 40
   ```
   ******************************************************
   ```
   Serial No.: 16
   Name: Nirvik Ghosh
   GitHub Profile URL: https://github.com/Nirvik07
-  Merged PRs:
-  Projects: 
-  Total Points: 
+  Merged PRs: #268
+  Projects: Online Education System (Level 2)
+  Total Points: 10
   ```
   ******************************************************
   
-  _Points updated till #264 PR merged_
+  _Points updated till #268 PR merged_

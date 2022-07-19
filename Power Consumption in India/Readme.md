@@ -70,10 +70,10 @@ Heatmap states that there is no considerable corelation between the important me
 <img src = "https://github.com/PiyushBL45t/ML-Crate/blob/main/Power%20Consumption%20in%20India/Images/Karnataka%20box%20plot%20for%20two%20year%20power%20consumption.png"/>
 
 ## Prediction using Decision Tree Regression algorithm
-<img src = ""/>
+<img src = "https://github.com/PiyushBL45t/ML-Crate/blob/main/Power%20Consumption%20in%20India/Images/Decision%20Tree%20Regressor%20Prediction.png"/>
 
 ## CONCLUSION
-As we do the proprieatory data analysis, the conclusion here is that USA has the highest market capitalization and China earns the highest revenue followed by USA and Japan from the sales of various video game companies in the respective countries.
+Here we can conclude that the implementation of Decision Tree Regression Model has the highest training score and predicitons are quite good for power consumption in Mega Watts for each month of each state.
 
 ## Name
 Project contributed by: Piyush Bhujbal

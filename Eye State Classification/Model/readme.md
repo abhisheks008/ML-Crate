@@ -24,20 +24,20 @@ The Kaggle Dataset link
 - warnings
 
 **Visualization**
+* Heatmap
 
-*Heatmap*
 ![plot](../Images/plot.png)
 
-*Hierarchy 
+ * Hierarchy 
 
-![Inference](../Images/model.png)
+ ![Inference](../Images/model.png)
 
-![acc](../Images/model_accuracy.png)
+ ![acc](../Images/model_accuracy.png)
 
 **Accuracies**
 
-
 ![acc](../Images/accuracy.png)
+
 The model gave a training accuracy of 94% after 10 epochs
 
 

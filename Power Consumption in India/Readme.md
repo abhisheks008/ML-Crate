@@ -22,7 +22,7 @@ The project is a collection of all the possible statistical applications and met
     * Pair Plot
     * Box plot
     * Normal Distribution
-* Compared the columns with month, year as per usage other and view their result suing histogram and box plots.
+* Compared the columns with month, year as per usage other and view their result using histogram and box plots.
 * Lastly checked and treated the outliers and implemented ML models like:
     * RandomForestRegressor
     * LinearRegression

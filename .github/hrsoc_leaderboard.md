@@ -100,7 +100,8 @@
   Name: Avik Mukherjee 
   GitHub Profile URL: https://github.com/Avik-creator
   Merged PRs: #255, #257, #260, #270
-  Projects: UPI Payments in India (Level 2) | Search Interests in Google (Level 2) | Car Brands in Pakistan (Level 2) | China College Entance Examination Admission                 (Level 3)
+  Projects: UPI Payments in India (Level 2) | Search Interests in Google (Level 2) | Car Brands in Pakistan (Level 2) | 
+            China College Entance Examination Admission (Level 3)
   Total Points: 50
   ```
   ******************************************************

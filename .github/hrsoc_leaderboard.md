@@ -99,10 +99,10 @@
   Serial No.: 11
   Name: Avik Mukherjee 
   GitHub Profile URL: https://github.com/Avik-creator
-  Merged PRs: #255, #257, #260, #270
+  Merged PRs: #255, #257, #260, #270, #286
   Projects: UPI Payments in India (Level 2) | Search Interests in Google (Level 2) | Car Brands in Pakistan (Level 2) | 
-            China College Entance Examination Admission (Level 3)
-  Total Points: 50
+            China College Entance Examination Admission (Level 3) | Machine Learning Users on GitHub Analysis (Level 2)
+  Total Points: 60
   ```
   ******************************************************
   ```
@@ -152,4 +152,4 @@
   ```
   ******************************************************
   
-  _Points updated till #285 PR merged_
+  _Points updated till #286 PR merged_

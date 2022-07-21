@@ -145,12 +145,12 @@
   Serial No.: 16
   Name: Nirvik Ghosh
   GitHub Profile URL: https://github.com/Nirvik07
-  Merged PRs: #268, #269, #283, #284, #285, #288, #290
+  Merged PRs: #268, #269, #283, #284, #285, #288, #290, #292
   Projects: Online Education System (Level 2) | Iran Stock Exchange Data Analysis (Level 2) | ICPC World Ranking Analysis (Level 2) |
             Mr Beast YouTube Channel Analysis (Level 3) | Top YouTube Channels Analysis (Level 2) | Nobel Prize Analysis (Level 2) |
-            Chennai Zomato Analysis (Level 2)
-  Total Points: 80
+            Chennai Zomato Analysis (Level 2) | Instagram Influencers Analysis (Level 2)
+  Total Points: 90
   ```
   ******************************************************
   
-  _Points updated till #291 PR merged_
+  _Points updated till #292 PR merged_

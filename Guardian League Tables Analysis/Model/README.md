@@ -1,6 +1,5 @@
 
 # Guardian League Tables Analysis
-![dataset-cover](https://user-images.githubusercontent.com/97960335/180255480-29b08704-fbe4-4d03-8c32-74f526559d5a.png)
 
 
 ## Goal

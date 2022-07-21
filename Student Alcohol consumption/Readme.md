@@ -48,7 +48,7 @@ https://www.kaggle.com/datasets/uciml/student-alcohol-consumption
 ### Gender distribution
 <img src = "https://github.com/PiyushBL45t/ML-Crate/blob/main/Student%20Alcohol%20consumption/Images/Gender%20distribution.png"/>
 
-### Romantic behavior of students
+### Students in a relationship
 <img src = "https://github.com/PiyushBL45t/ML-Crate/blob/main/Student%20Alcohol%20consumption/Images/Romantic%20behavior%20of%20students.png"/>
 
 ### Residential areas of students (U for Urban, R for Rural)

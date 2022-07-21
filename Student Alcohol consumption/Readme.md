@@ -1,4 +1,4 @@
-# Large Video Game Companies
+# Alcohol Consumption of Students
 
 **GOAL**
 
@@ -39,11 +39,24 @@ https://www.kaggle.com/datasets/uciml/student-alcohol-consumption
 
 ## Plots
 
-### Distribution of Male and Female Students in the dataset
-<img src = ""/>
-<img src = ""/>
-<img src = ""/>
-<img src = ""/>
+### Distribution of AGE of Students in the dataset
+<img src = "https://github.com/PiyushBL45t/ML-Crate/blob/main/Student%20Alcohol%20consumption/Images/Age%20Distribution.png"/>
+
+### Freetime given to students in the college
+<img src = "https://github.com/PiyushBL45t/ML-Crate/blob/main/Student%20Alcohol%20consumption/Images/Freetime%20given%20to%20students.png"/>
+
+### Gender distribution
+<img src = "https://github.com/PiyushBL45t/ML-Crate/blob/main/Student%20Alcohol%20consumption/Images/Gender%20distribution.png"/>
+
+### Romantic behavior of students
+<img src = "https://github.com/PiyushBL45t/ML-Crate/blob/main/Student%20Alcohol%20consumption/Images/Romantic%20behavior%20of%20students.png"/>
+
+### Residential areas of students (U for Urban, R for Rural)
+<img src = "https://github.com/PiyushBL45t/ML-Crate/blob/main/Student%20Alcohol%20consumption/Images/Students%20residence%20in%20rural%20and%20urban%20areas.png"/>
+
+### Decision Tree Regressor impmelentation result
+<img src = "https://github.com/PiyushBL45t/ML-Crate/blob/main/Student%20Alcohol%20consumption/Images/Decision%20Tree%20Regressor%20implementation%20and%20output.png"/>
+
 
 
 

@@ -90,9 +90,9 @@
   Serial No.: 10
   Name: Piyush Tanaji Bhujbal
   GitHub Profile URL: https://github.com/PiyushBL45t
-  Merged PRs: #258, #266
-  Projects: Large Video Games Companies (Level 2) | Power Consumption in India (Level 2)
-  Total Points: 20
+  Merged PRs: #258, #266, #291
+  Projects: Large Video Games Companies (Level 2) | Power Consumption in India (Level 2) | Student Alcohol Consumption (Level 2)
+  Total Points: 30
   ```
   ******************************************************
   ```
@@ -153,4 +153,4 @@
   ```
   ******************************************************
   
-  _Points updated till #290 PR merged_
+  _Points updated till #291 PR merged_

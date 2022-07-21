@@ -5,7 +5,7 @@
 
 ## Goal
 
-The goal of this project is to analyse differnt influencers of Instagram.
+The goal of this project is to analyse different influencers of Instagram.
 ## Dataset
 I have Downloaded this dataset from kaggle website. Here is the link: https://www.kaggle.com/datasets/syedjaferk/top-1000-instagrammers-world-cleaned
 

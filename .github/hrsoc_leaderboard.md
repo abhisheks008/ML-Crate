@@ -99,7 +99,7 @@
   Serial No.: 11
   Name: Avik Mukherjee 
   GitHub Profile URL: https://github.com/Avik-creator
-  Merged PRs: #255, #257, #260, #270, #286
+  Merged PRs: #255, #257, #260, #270, #286, #300
   Projects: UPI Payments in India (Level 2) | Search Interests in Google (Level 2) | Car Brands in Pakistan (Level 2) | 
             China College Entance Examination Admission (Level 3) | Machine Learning Users on GitHub Analysis (Level 2)
             Top Crypto Currency Analysis (Level 3)
@@ -146,7 +146,7 @@
   Serial No.: 16
   Name: Nirvik Ghosh
   GitHub Profile URL: https://github.com/Nirvik07
-  Merged PRs: #268, #269, #283, #284, #285, #288, #290, #292, #299
+  Merged PRs: #268, #269, #283, #284, #285, #288, #290, #292, #299, #301
   Projects: Online Education System (Level 2) | Iran Stock Exchange Data Analysis (Level 2) | ICPC World Ranking Analysis (Level 2) |
             Mr Beast YouTube Channel Analysis (Level 3) | Top YouTube Channels Analysis (Level 2) | Nobel Prize Analysis (Level 2) |
             Chennai Zomato Analysis (Level 2) | Instagram Influencers Analysis (Level 2) | Guardian League Tables Analysis (Level 2)

@@ -102,7 +102,8 @@
   Merged PRs: #255, #257, #260, #270, #286
   Projects: UPI Payments in India (Level 2) | Search Interests in Google (Level 2) | Car Brands in Pakistan (Level 2) | 
             China College Entance Examination Admission (Level 3) | Machine Learning Users on GitHub Analysis (Level 2)
-  Total Points: 60
+            Top Crypto Currency Analysis (Level 3)
+  Total Points: 80
   ```
   ******************************************************
   ```
@@ -148,9 +149,10 @@
   Merged PRs: #268, #269, #283, #284, #285, #288, #290, #292, #299
   Projects: Online Education System (Level 2) | Iran Stock Exchange Data Analysis (Level 2) | ICPC World Ranking Analysis (Level 2) |
             Mr Beast YouTube Channel Analysis (Level 3) | Top YouTube Channels Analysis (Level 2) | Nobel Prize Analysis (Level 2) |
-            Chennai Zomato Analysis (Level 2) | Instagram Influencers Analysis (Level 2) | Guardian League Tables Analysis (Level 2) |
-  Total Points: 100
+            Chennai Zomato Analysis (Level 2) | Instagram Influencers Analysis (Level 2) | Guardian League Tables Analysis (Level 2)
+            Mobile Price Classification (Level 2)
+  Total Points: 110
   ```
   ******************************************************
   
-  _Points updated till #299 PR merged_
+  _Points updated till #301 PR merged_

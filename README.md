@@ -6,7 +6,7 @@
 ![](https://github.com/abhisheks008/ML-Crate/blob/main/Assets/get%20started.png)
 
 **************************************************
-## 🔴 Welcome contributors!
+## 🔴:yellow_circle: Welcome contributors!
 As we all know the BGMI Loot Crate comes with so many resources for the gamers, this ML Crate will be the hub of various ML projects which will be the resources for the ML enthusiasts!
 
 ## Structure of the Projects 📝
@@ -22,7 +22,7 @@ This repository consists of various machine learning projects, and all of the pr
 - Add, Commit and Push
 - Then in Github, in your cloned repository find the option to make a pull request
 
-## ❄️Open Source Programs!
+## 🥳 Open Source Programs!
 <table>
 <tr>
  <td align="center">

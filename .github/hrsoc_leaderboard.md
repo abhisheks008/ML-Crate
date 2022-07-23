@@ -139,25 +139,25 @@
   Serial No.: 15
   Name: Vikas Kumar 
   GitHub Profile URL: https://github.com/vickyrules
-  Merged PRs: #263, #267
-  Projects: Diseases Prediction (Level 3) | Eye State Classification (Level 3)
-  Total Points: 40
+  Merged PRs: #263, #267, #309
+  Projects: Diseases Prediction (Level 3) | Eye State Classification (Level 3) | DogeCoin INR Analysis (Level 2)
+  Total Points: 10
   ```
   ******************************************************
   ```
   Serial No.: 16
   Name: Nirvik Ghosh
   GitHub Profile URL: https://github.com/Nirvik07
-  Merged PRs: #268, #269, #283, #284, #285, #288, #290, #292, #299, #301, #303, #304, #307
+  Merged PRs: #268, #269, #283, #284, #285, #288, #290, #292, #299, #301, #303, #304, #307, #310
   Projects: Online Education System (Level 2) | Iran Stock Exchange Data Analysis (Level 2) | ICPC World Ranking Analysis (Level 2) |
             Mr Beast YouTube Channel Analysis (Level 3) | Top YouTube Channels Analysis (Level 2) | Nobel Prize Analysis (Level 2) |
             Chennai Zomato Analysis (Level 2) | Instagram Influencers Analysis (Level 2) | Guardian League Tables Analysis (Level 2)
             Mobile Price Classification (Level 2) | Podcasts Episodes Analysis (Level 2) | Reddit Vaccine Myths Analysis (Level 2) |
-            Pakistan Intellectual Capital Analysis (Level 2)
-  Total Points: 140
+            Pakistan Intellectual Capital Analysis (Level 2) | OkCupid Profile Analysis (Level 2)
+  Total Points: 150
   ```
   ******************************************************
   
-  _Points updated till #308 PR merged_
+  _Points updated till #310 PR merged_
   
-  🔴 Projects Count : **28**
+  🔴 Projects Count : **30**

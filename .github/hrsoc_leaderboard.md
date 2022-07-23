@@ -90,20 +90,22 @@
   Serial No.: 10
   Name: Piyush Tanaji Bhujbal
   GitHub Profile URL: https://github.com/PiyushBL45t
-  Merged PRs: #258, #266, #291
+  Merged PRs: #258, #266, #291, #306
   Projects: Large Video Games Companies (Level 2) | Power Consumption in India (Level 2) | Student Alcohol Consumption (Level 2)
-  Total Points: 30
+            Kunal Naik YouTube Channel Analysis (Level 3)
+  Total Points: 50
   ```
   ******************************************************
   ```
   Serial No.: 11
   Name: Avik Mukherjee 
   GitHub Profile URL: https://github.com/Avik-creator
-  Merged PRs: #255, #257, #260, #270, #286, #300, #302
+  Merged PRs: #255, #257, #260, #270, #286, #300, #302, #308
   Projects: UPI Payments in India (Level 2) | Search Interests in Google (Level 2) | Car Brands in Pakistan (Level 2) | 
             China College Entance Examination Admission (Level 3) | Machine Learning Users on GitHub Analysis (Level 2)
-            Top Crypto Currency Analysis (Level 3) | California Environmental Analysis (Level 2)
-  Total Points: 90
+            Top Crypto Currency Analysis (Level 3) | California Environmental Analysis (Level 2) | Parts Manufacturing 
+            Analysis (Level 2)
+  Total Points: 100
   ```
   ******************************************************
   ```
@@ -146,15 +148,16 @@
   Serial No.: 16
   Name: Nirvik Ghosh
   GitHub Profile URL: https://github.com/Nirvik07
-  Merged PRs: #268, #269, #283, #284, #285, #288, #290, #292, #299, #301, #303, #304
+  Merged PRs: #268, #269, #283, #284, #285, #288, #290, #292, #299, #301, #303, #304, #307
   Projects: Online Education System (Level 2) | Iran Stock Exchange Data Analysis (Level 2) | ICPC World Ranking Analysis (Level 2) |
             Mr Beast YouTube Channel Analysis (Level 3) | Top YouTube Channels Analysis (Level 2) | Nobel Prize Analysis (Level 2) |
             Chennai Zomato Analysis (Level 2) | Instagram Influencers Analysis (Level 2) | Guardian League Tables Analysis (Level 2)
             Mobile Price Classification (Level 2) | Podcasts Episodes Analysis (Level 2) | Reddit Vaccine Myths Analysis (Level 2) |
-  Total Points: 130
+            Pakistan Intellectual Capital Analysis (Level 2)
+  Total Points: 140
   ```
   ******************************************************
   
-  _Points updated till #304 PR merged_
+  _Points updated till #308 PR merged_
   
-  🔴 Projects Count : **25**
+  🔴 Projects Count : **28**

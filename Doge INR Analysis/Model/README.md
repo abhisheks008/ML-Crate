@@ -29,11 +29,10 @@ To Analyse and predict the price of Dogecoin in the Indian Market and also in IN
 
 
 
-
-## **Price vs Date Visualisations:** ##
+## **Price vs Date Visualisations:** 
 
 |<img src="../Images/high%20price.png" /> | <img src="../Images/low%20price.png"/> |<img src="../Images/open%20price.png"/>|
-|___|___|___|
+|---|---|---|
 |<img src="../Images/high%20price_scatter.png"/>|<img src="../Images/close%20price%20scatter.png" />|<img src="../Images/open%20price_scatter.png"/>|
 |<img src="../Images/residual.png"/>|<img src="../Images/linear.png" />|<img src="../Images/ploy.png"/>|
 

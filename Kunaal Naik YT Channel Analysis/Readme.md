@@ -13,9 +13,13 @@ Analyzed parameters include:
 3. Age groups count that view the channel.
 4. Views with respect to publish month, days, and overall months in the corresponding years.
 
+## Environment and IDE:
+1. IDE: Jupyter Notebooks
+2. Environment: Anaconda
+
 ## Libraries used:
 1. Pandas - for data wrangling
-2. Pandas-profiling - to generate the EDA reports for datasets 
+2. Pandas-profiling - to generate the EDA reports for datasets (https://anaconda.org/conda-forge/pandas-profiling)
 3. Seaborn - for large visual plots like histograms and distribution plots
 4. Numpy - computation of huge arrays
 5. Matplotlib - for plotting and visualization

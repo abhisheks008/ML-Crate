@@ -141,7 +141,7 @@
   GitHub Profile URL: https://github.com/vickyrules
   Merged PRs: #263, #267, #309
   Projects: Diseases Prediction (Level 3) | Eye State Classification (Level 3) | DogeCoin INR Analysis (Level 2)
-  Total Points: 10
+  Total Points: 50
   ```
   ******************************************************
   ```

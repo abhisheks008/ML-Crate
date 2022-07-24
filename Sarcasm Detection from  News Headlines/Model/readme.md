@@ -35,7 +35,9 @@ The Kaggle Dataset link
 |<img src="../Images/LR-Accuracy.png"/>|<img src="../Images/LSVC%20accuracy.png"/>|<img src="../Images/DT%20accuracy.png"/>|<img src="../Images/NB%20accuracy.png"/>|
 
 **Accuracies plot**
-![](../Images/Accuracy%20plot.png)
+<div style="background-color:white;">
+<img src="../Images/Accuracy%20plot.png"/>
+ </div>
 
 
 **Conclusion**

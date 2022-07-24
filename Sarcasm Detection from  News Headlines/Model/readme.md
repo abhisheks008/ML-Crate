@@ -1,4 +1,4 @@
-#News Sarcasm Detection 
+# News Sarcasm Detection 
 
  Create a detection model which will classify the news headlines depending on the factor of sarcasm.
 

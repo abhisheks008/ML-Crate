@@ -100,12 +100,12 @@
   Serial No.: 11
   Name: Avik Mukherjee 
   GitHub Profile URL: https://github.com/Avik-creator
-  Merged PRs: #255, #257, #260, #270, #286, #300, #302, #308
+  Merged PRs: #255, #257, #260, #270, #286, #300, #302, #308, #321
   Projects: UPI Payments in India (Level 2) | Search Interests in Google (Level 2) | Car Brands in Pakistan (Level 2) | 
             China College Entance Examination Admission (Level 3) | Machine Learning Users on GitHub Analysis (Level 2)
             Top Crypto Currency Analysis (Level 3) | California Environmental Analysis (Level 2) | Parts Manufacturing 
-            Analysis (Level 2)
-  Total Points: 100
+            Analysis (Level 2) | Cyber Bullying Classification (Level 3)
+  Total Points: 120
   ```
   ******************************************************
   ```
@@ -148,17 +148,18 @@
   Serial No.: 16
   Name: Nirvik Ghosh
   GitHub Profile URL: https://github.com/Nirvik07
-  Merged PRs: #268, #269, #283, #284, #285, #288, #290, #292, #299, #301, #303, #304, #307, #310, #311, #312, #313
+  Merged PRs: #268, #269, #283, #284, #285, #288, #290, #292, #299, #301, #303, #304, #307, #310, #311, #312, #313, #322
   Projects: Online Education System (Level 2) | Iran Stock Exchange Data Analysis (Level 2) | ICPC World Ranking Analysis (Level 2) |
             Mr Beast YouTube Channel Analysis (Level 3) | Top YouTube Channels Analysis (Level 2) | Nobel Prize Analysis (Level 2) |
             Chennai Zomato Analysis (Level 2) | Instagram Influencers Analysis (Level 2) | Guardian League Tables Analysis (Level 2)
             Mobile Price Classification (Level 2) | Podcasts Episodes Analysis (Level 2) | Reddit Vaccine Myths Analysis (Level 2) |
             Pakistan Intellectual Capital Analysis (Level 2) | OkCupid Profile Analysis (Level 2) | ASELSAN Stock Prices (Level 2) |
-            Shark Tank Episodes Analysis (Level 2) | Indian Telecom Market Analysis (Level 2)
-  Total Points: 180
+            Shark Tank Episodes Analysis (Level 2) | Indian Telecom Market Analysis (Level 2) | Swarm Behaviour Classification (Lev-
+            el 3)
+  Total Points: 200
   ```
   ******************************************************
   
-  _Points updated till #313 PR merged_
+  _Points updated till #322 PR merged_
   
-  🔴 Projects Count : **33**
+  🔴 Projects Count : **35**

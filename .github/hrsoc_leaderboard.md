@@ -139,9 +139,10 @@
   Serial No.: 15
   Name: Vikas Kumar 
   GitHub Profile URL: https://github.com/vickyrules
-  Merged PRs: #263, #267, #309
-  Projects: Diseases Prediction (Level 3) | Eye State Classification (Level 3) | DogeCoin INR Analysis (Level 2)
-  Total Points: 50
+  Merged PRs: #263, #267, #309, #323
+  Projects: Diseases Prediction (Level 3) | Eye State Classification (Level 3) | DogeCoin INR Analysis (Level 2) |
+            Sarcasm Detection from News Headlines (Level 3)
+  Total Points: 70
   ```
   ******************************************************
   ```
@@ -160,6 +161,6 @@
   ```
   ******************************************************
   
-  _Points updated till #322 PR merged_
+  _Points updated till #323 PR merged_
   
-  🔴 Projects Count : **35**
+  🔴 Projects Count : **36**

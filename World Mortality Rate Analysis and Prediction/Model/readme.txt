@@ -1,4 +1,4 @@
-The Pickeled models folder contains all the ML models with respect to each dataset. Following are the ML models:
+The Pickeled models folder contains all the pickled ML models with respect to each dataset. Following are the ML models:
 1. Linear Regression
 2. Decision Tree Regressor
 3. Random Forest Regressor

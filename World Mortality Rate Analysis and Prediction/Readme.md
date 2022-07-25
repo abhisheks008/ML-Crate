@@ -62,38 +62,37 @@ The datasets contain the mortality rates of Adults and Infants. Also they have a
 6. Matplotlib: For linear and discrete visualizations
 
 ## Conclusion
-#### Separate conclusions of each dataset model:
-## Conclusion for Adult Mortality:
-### Thus while implementing the model, we have derieved the following insights:
+### Conclusion for Adult Mortality:
+#### Thus while implementing the model, we have derieved the following insights:
 #### 1. The Linear Regression model's evaluation metrics are <u>very much irrelevant</u> as compared to other models.
 #### 2. The RandomForestRegressor is the best fit model as the <u>*evaluation metrics and training score is excellent.*</u>
 #### 3. Distribution plot also derieves the stability of the model. 
 #### 4. From the predictions we can conclude that in the upcoming years the mortality rates of both the genders will reduce to a greater extent
 
 
-## Conclusion for Maternal Mortality:
-### Thus while implementing the models, we have derieved the following insights:
+### Conclusion for Maternal Mortality:
+#### Thus while implementing the models, we have derieved the following insights:
 #### 1. The KNeighbors Classifier model's evaluation metrics are <u>very much irrelevant</u> as compared to other models.
 #### 2. The DecisionTree Regressor is the best fit model as the <u>*evaluation metrics and training score is excellent.*</u>
 #### 3. Distribution plot also derieves the stability of each model. 
 #### 4. From the predictions we can conclude that Maternal Mortality Ratio is getting low as compared to previous times. This is a good result.
 
 
-## Conclusion for number of deaths in thousand:
-### Thus while implementing the models, we have derieved the following insights:
+### Conclusion for number of deaths in thousand:
+#### Thus while implementing the models, we have derieved the following insights:
 #### 1. The Random Forest regressor model's evaluation metrics are <u>very much irrelevant</u> but training score is good.
 #### 2. The linear Regression is the best fit model for all three variables (Both genders infants (1-5), Both genders infants, neonatal deaths) as the <u>*evaluation metrics and training score is excellent.*</u>
 #### 3. Distribution plots of Random forest are somewhat unstable while other two algorithms show a greater stability.
 #### 4. From the predictions we can conclude that infants that are between 0 and 1 have shown a satisfactory survival capacity as compared to previous times. The neonatal deaths (per thousands) seem to have exceptionally decreased. 
 
 
-## Conclusion for Probability of dying per thousand live births:
-### Thus while implementing the models, we have derieved the following insights:
+### Conclusion for Probability of dying per thousand live births:
+#### Thus while implementing the models, we have derieved the following insights:
 #### 1. All the three models are best fit model for all three variables (Both genders infants (1-5), Both genders infants, neonatal deaths) as the <u>*evaluation metrics and training score is excellent.*</u>
 #### 3. Distribution plots of Random forest are somewhat unstable while other two algorithms show a greater stability.
 #### 4. From the predictions we can conclude that infants that are between 0 and 1 have shown a satisfactory survival capacity as compared to previous times. The neonatal deaths (per thousands) seem to have exceptionally decreased. 
 
-Through the predictive analysis can say that the mortality rates have linearly decreased with years of time. 
+> Through the predictive analysis can say that the mortality rates have linearly decreased with years of time. 
 
 
 

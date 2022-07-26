@@ -45,9 +45,9 @@
   Serial No.: 05
   Name: Sriniketh J
   GitHub Profile URL: https://github.com/srini047
-  Merged PRs:
-  Projects: 
-  Total Points: 
+  Merged PRs: #329
+  Projects: Premier League Match Analysis (Level 2)
+  Total Points: 10
   ```
   ******************************************************
   ```
@@ -161,6 +161,6 @@
   ```
   ******************************************************
   
-  _Points updated till #328 PR merged_
+  _Points updated till #329 PR merged_
   
-  🔴 Projects Count : **39**
+  🔴 Projects Count : **40**

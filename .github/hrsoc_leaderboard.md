@@ -90,22 +90,22 @@
   Serial No.: 10
   Name: Piyush Tanaji Bhujbal
   GitHub Profile URL: https://github.com/PiyushBL45t
-  Merged PRs: #258, #266, #291, #306
+  Merged PRs: #258, #266, #291, #306, #328
   Projects: Large Video Games Companies (Level 2) | Power Consumption in India (Level 2) | Student Alcohol Consumption (Level 2)
-            Kunal Naik YouTube Channel Analysis (Level 3)
-  Total Points: 50
+            Kunal Naik YouTube Channel Analysis (Level 3) | World Mortality Rate Analysis and Prediction (Level 3)
+  Total Points: 70
   ```
   ******************************************************
   ```
   Serial No.: 11
   Name: Avik Mukherjee 
   GitHub Profile URL: https://github.com/Avik-creator
-  Merged PRs: #255, #257, #260, #270, #286, #300, #302, #308, #321
+  Merged PRs: #255, #257, #260, #270, #286, #300, #302, #308, #321, #327
   Projects: UPI Payments in India (Level 2) | Search Interests in Google (Level 2) | Car Brands in Pakistan (Level 2) | 
             China College Entance Examination Admission (Level 3) | Machine Learning Users on GitHub Analysis (Level 2)
             Top Crypto Currency Analysis (Level 3) | California Environmental Analysis (Level 2) | Parts Manufacturing 
-            Analysis (Level 2) | Cyber Bullying Classification (Level 3)
-  Total Points: 120
+            Analysis (Level 2) | Cyber Bullying Classification (Level 3) | Car Purchasing Prediction (Level 3)
+  Total Points: 140
   ```
   ******************************************************
   ```
@@ -161,6 +161,6 @@
   ```
   ******************************************************
   
-  _Points updated till #324 PR merged_
+  _Points updated till #328 PR merged_
   
-  🔴 Projects Count : **37**
+  🔴 Projects Count : **39**

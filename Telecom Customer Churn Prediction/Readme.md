@@ -1,5 +1,7 @@
 ## Telecom Companies Customer Analysis and Prediction
 ### Goal: To analyze the behavior of cutomers why they leave the company and then make predicitons for specific reasons for a clear idea
+### Dataset link: 
+https://www.kaggle.com/datasets/shilongzhuang/telecom-customer-churn-by-maven-analytics
 
 ### Techniques used:
 1. Data Cleaning
@@ -40,4 +42,8 @@
 <img src = "https://github.com/PiyushBL45t/ML-Crate/blob/main/Telecom%20Customer%20Churn%20Prediction/Images/Screenshot%20(43).png"/>
 <img src = "https://github.com/PiyushBL45t/ML-Crate/blob/main/Telecom%20Customer%20Churn%20Prediction/Images/Screenshot%20(44).png"/>
 
-
+## Conclusion obtained
+#### The analysis of the whole dataset with respect to some parameters says that customers who left the telecom service show a very close similarity for the three reasons that we analyzed. When we plot the distribution of the reasons and predictions then we can say that customers are likely to show disagreements from companies that have
+#### 1. A high extra data charges
+#### 2. Slower download and upload speeds 
+#### 3. Competitor company preoviding a better sevice. 

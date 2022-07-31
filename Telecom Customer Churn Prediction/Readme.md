@@ -47,3 +47,8 @@ https://www.kaggle.com/datasets/shilongzhuang/telecom-customer-churn-by-maven-an
 #### 1. A high extra data charges
 #### 2. Slower download and upload speeds 
 #### 3. Competitor company preoviding a better sevice. 
+
+### Best models:
+#### For the reason 1 analysis: The Decision Tree Regressor model is the best fit model as it gives the minimum errors as well as very high accuracy.
+#### For the reason 2 analysis: Decision Tree Regressor as well as Random Forest Regressor both show the optimum growth towards the predictive analysis as the training scores and evaluation metrics are giving desireable insight.
+#### For the reason 3 analysis: Random Forest Classofoer and Decision Tree classifier are the best fit models due to their high accuracy and low error values in evaluation metrics.

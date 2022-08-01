@@ -173,6 +173,14 @@
   Projects:
   ```
   ******************************************************
+  ```
+  Serial No.: 18
+  Name: Astha Samaddar
+  GitHub Profile URL: https://github.com/Asttttha
+  Merged PRs: 
+  Projects:
+  ```
+  ******************************************************
   
   _Points updated till #344 PR merged_
   

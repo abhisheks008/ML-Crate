@@ -46,3 +46,17 @@ https://www.kaggle.com/datasets/ayush4807/aad-dataset
 <img src = "https://github.com/PiyushBL45t/ML-Crate/blob/main/Anime%20Data%20Analysis%20and%20Prediction/Images/Screenshot%20(48).png"/>
 <img src = "https://github.com/PiyushBL45t/ML-Crate/blob/main/Anime%20Data%20Analysis%20and%20Prediction/Images/Screenshot%20(50).png"/>
 <img src = "https://github.com/PiyushBL45t/ML-Crate/blob/main/Anime%20Data%20Analysis%20and%20Prediction/Images/Screenshot%20(51).png"/>
+
+## Conclusion
+### We tried to implement three model on our analyzed data. 
+#### 1. Linear Regression
+#### 2. Decision Tree Regressor
+#### 3. Random Forest Regressor
+
+### This was a continuous data thus, we applied the Regression Algorithms for this purpose.
+### The training paramter was "Rating": This depicts the Anime ratings on scale of 10. We trained and tested our model with two random types of Anime Genres: 
+#### 1. Animation, Adventure, Drama
+#### 2. Animation, Comedy, Fantasy
+## Results say that:
+### 1. Linear Regression and Random Forest Algorithms show a very low training score and a high error values and due to which they are not the best fit models. The predictions of <u>Ratings</u> based on those models is also very low for the future years.
+### 2. The Decision Tree on the other hand makes a very good predictions of ratings and we can say that the type of Animes we selected can catch more attention of audiences in the coming years. The evaluation metrics are stable and error results are very low this makes it fit to create a good predictive analysis example.

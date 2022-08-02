@@ -49,6 +49,10 @@ As the world is advancing more and more so are diseases, So is the case of Strok
 * Most of the people who have Brain Stroke is living in Urban Region.
 * Most of them have of around 78
 * Training accuracy and Testing accuracy are pretty close to each other here,So there is no chance of overfitting here,Compared to standlone machine learning models,The ensemble approaches are slightly low,All the models giving some good accuracy here,Especically random forest and logistic regression
+* Here the Accuracy Scores of All the Models:
+* <img width="571" alt="Screenshot 2022-08-02 at 10 19 46 PM" src="https://user-images.githubusercontent.com/77090462/182430437-718a3468-d340-4a05-bdb1-2f4387348732.png">
+* <img width="337" alt="Screenshot 2022-08-02 at 9 44 25 PM" src="https://user-images.githubusercontent.com/77090462/182430525-bb9b0575-fa71-44ef-a00a-97582b73e7b3.png">
+
 
 ## **Contributed By:** ##
 Avik Mukherjee

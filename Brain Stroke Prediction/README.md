@@ -23,6 +23,7 @@ As the world is advancing more and more so are diseases, So is the case of Strok
 * seaborn - To visualise data
 * matplotlib - To visualise data
 * Sklearn - For Including ML Models
+* Voting Classifier - A Voting Classifier is a machine learning model that trains on an ensemble of numerous models and predicts an output (class) based on their highest probability of chosen class as the output.
 
 ## **Visualisations:** ##
 
@@ -46,6 +47,7 @@ As the world is advancing more and more so are diseases, So is the case of Strok
 * Most of have no heart disease
 * Most of them work in Private Companies
 * Most of the people who have Brain Stroke is living in Urban Region.
+* Most of them have of around 78
 * Training accuracy and Testing accuracy are pretty close to each other here,So there is no chance of overfitting here,Compared to standlone machine learning models,The ensemble approaches are slightly low,All the models giving some good accuracy here,Especically random forest and logistic regression
 
 ## **Contributed By:** ##

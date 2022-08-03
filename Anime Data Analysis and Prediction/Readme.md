@@ -42,10 +42,10 @@ https://www.kaggle.com/datasets/ayush4807/aad-dataset
 
 ## Visuals:
 <img src = "https://github.com/PiyushBL45t/ML-Crate/blob/main/Anime%20Data%20Analysis%20and%20Prediction/Images/Box%20plot%20pr%20year.png"/>
-<img src = "https://github.com/PiyushBL45t/ML-Crate/blob/main/Anime%20Data%20Analysis%20and%20Prediction/Images/Screenshot%20(47).png"/>
-<img src = "https://github.com/PiyushBL45t/ML-Crate/blob/main/Anime%20Data%20Analysis%20and%20Prediction/Images/Screenshot%20(48).png"/>
-<img src = "https://github.com/PiyushBL45t/ML-Crate/blob/main/Anime%20Data%20Analysis%20and%20Prediction/Images/Screenshot%20(50).png"/>
-<img src = "https://github.com/PiyushBL45t/ML-Crate/blob/main/Anime%20Data%20Analysis%20and%20Prediction/Images/Screenshot%20(51).png"/>
+<img src = "https://github.com/PiyushBL45t/ML-Crate/blob/main/Anime%20Data%20Analysis%20and%20Prediction/Images/Heatmap.png"/>
+<img src = "https://github.com/PiyushBL45t/ML-Crate/blob/main/Anime%20Data%20Analysis%20and%20Prediction/Images/Histograms.png"/>
+<img src = "https://github.com/PiyushBL45t/ML-Crate/blob/main/Anime%20Data%20Analysis%20and%20Prediction/Images/Normal%20Distributions.png"/>
+<img src = "https://github.com/PiyushBL45t/ML-Crate/blob/main/Anime%20Data%20Analysis%20and%20Prediction/Images/Pairplot.png"/>
 
 ## Conclusion
 ### We tried to implement three model on our analyzed data. 

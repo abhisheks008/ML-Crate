@@ -101,13 +101,13 @@
   Serial No.: 11
   Name: Avik Mukherjee 
   GitHub Profile URL: https://github.com/Avik-creator
-  Merged PRs: #255, #257, #260, #270, #286, #300, #302, #308, #321, #327, #340, #352
+  Merged PRs: #255, #257, #260, #270, #286, #300, #302, #308, #321, #327, #340, #352, #357
   Projects: UPI Payments in India (Level 2) | Search Interests in Google (Level 2) | Car Brands in Pakistan (Level 2) | 
             China College Entance Examination Admission (Level 3) | Machine Learning Users on GitHub Analysis (Level 2)
             Top Crypto Currency Analysis (Level 3) | California Environmental Analysis (Level 2) | Parts Manufacturing 
             Analysis (Level 2) | Cyber Bullying Classification (Level 3) | Car Purchasing Prediction (Level 3) | Nifty 
-            50 Analysis (Level 2) | Brain Stroke Prediction (Level 3)
-  Total Points: 170
+            50 Analysis (Level 2) | Brain Stroke Prediction (Level 3) | Monkeypox Confirmed Cases Analysis (Level 2) 
+  Total Points: 180
   ```
   ******************************************************
   ```
@@ -182,6 +182,6 @@
   ```
   ******************************************************
   
-  _Points updated till #356 PR merged_
+  _Points updated till #357 PR merged_
   
-  🔴 Projects Count : **50**
+  🔴 Projects Count : **51**

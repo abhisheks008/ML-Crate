@@ -90,11 +90,12 @@
   Serial No.: 10
   Name: Piyush Tanaji Bhujbal
   GitHub Profile URL: https://github.com/PiyushBL45t
-  Merged PRs: #258, #266, #291, #306, #328, #343, #355
+  Merged PRs: #258, #266, #291, #306, #328, #343, #355, #358
   Projects: Large Video Games Companies (Level 2) | Power Consumption in India (Level 2) | Student Alcohol Consumption (Level 2)
             Kunal Naik YouTube Channel Analysis (Level 3) | World Mortality Rate Analysis and Prediction (Level 3) | Telecom 
-            Customer Churn Analysis and Prediction (Level 3) | Anime Data Analysis and Prediction (Level 3)
-  Total Points: 110
+            Customer Churn Analysis and Prediction (Level 3) | Anime Data Analysis and Prediction (Level 3) | Pokemon Data
+            Analysis (Level 2)
+  Total Points: 120
   ```
   ******************************************************
   ```
@@ -182,6 +183,6 @@
   ```
   ******************************************************
   
-  _Points updated till #357 PR merged_
+  _Points updated till #358 PR merged_
   
-  🔴 Projects Count : **51**
+  🔴 Projects Count : **52**

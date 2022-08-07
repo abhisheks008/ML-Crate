@@ -1,6 +1,9 @@
 ## Title: Pokemon Dataset Analysis
 ## Goal: The aim of this project was to analyze the behavior of pokemon based upon its abilities and attack type.
 
+## Dataset link:
+https://www.kaggle.com/datasets/anatolinischakow/pokemon-data
+
 ## Techniques used:
 1. Data Filtering
 2. Data Preprocessing

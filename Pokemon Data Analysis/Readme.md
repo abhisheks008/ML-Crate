@@ -9,13 +9,13 @@
 
 ## Visual Techniques used: 
 ### Heatmap
-<img src = ""/>
+<img src = "https://github.com/PiyushBL45t/ML-Crate/blob/main/Pokemon%20Data%20Analysis/Images/Heatmap.png"/>
 
 ### Kernel Distribution Plotting
-<img src = ""/>
+<img src = "https://github.com/PiyushBL45t/ML-Crate/blob/main/Pokemon%20Data%20Analysis/Images/KDE%20Plot.png"/>
 
 ### Box plot
-<img src = ""/>
+<img src = "https://github.com/PiyushBL45t/ML-Crate/blob/main/Pokemon%20Data%20Analysis/Images/Box%20plot.png"/>
 
 ## Conclusion
 1. From the extracted information, we created their dataframes and visualized their defence and attack parameters.

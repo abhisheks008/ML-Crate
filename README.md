@@ -3,6 +3,20 @@
   <h3>Website for ML-Crate Project Repo: <a href="https://tinyurl.com/ml-crate">Click Here!</a></h3>
 </div>
 
+<div align="center">
+
+![GitHub contributors](https://img.shields.io/github/contributors/abhisheks008/ML-Crate?style=for-the-badge&color=blue)
+![GitHub Closed issues](https://img.shields.io/github/issues-closed-raw/abhisheks008/ML-Crate?style=for-the-badge&color=brightgreen)
+![GitHub PR Open](https://img.shields.io/github/issues-pr/abhisheks008/ML-Crate?style=for-the-badge&color=aqua)
+![GitHub PR closed](https://img.shields.io/github/issues-pr-closed-raw/abhisheks008/ML-Crate?style=for-the-badge&color=blue)
+![GitHub language count](https://img.shields.io/github/languages/count/abhisheks008/ML-Crate?style=for-the-badge&color=brightgreen)
+![GitHub top language](https://img.shields.io/github/languages/top/abhisheks008/ML-Crate?style=for-the-badge&color=aqua)
+![GitHub last commit](https://img.shields.io/github/last-commit/abhisheks008/ML-Crate?style=for-the-badge&color=blue)
+![GitHub Maintained](https://img.shields.io/badge/Maintained%3F-yes-brightgreen.svg?style=for-the-badge)
+![Github Repo Size](https://img.shields.io/github/repo-size/abhisheks008/ML-Crate?style=for-the-badge&color=aqua)
+
+</div>
+
 ![](https://github.com/abhisheks008/ML-Crate/blob/main/Assets/get%20started.png)
 
 **************************************************
@@ -39,7 +53,7 @@ This repository consists of various machine learning projects, and all of the pr
 <a href="https://www.psoc.in/"><img src="https://www.psoc.in/img/psoc-logo-1.png" width=100px height=100px /><br /><sub><b>PClub SoC 2022</b></sub></a><br /><sub><h3>PR Count -</h3></a>
  </td>
  <td align="center">
-<a href="http://hrsoc.herokuapp.com/"><img src="http://hrsoc.herokuapp.com/static/media/hackclubrait-logo.bd4b56eb391b58b8a921.png" width=100px height=100px /><br /><sub><b>HackClubRAIT SoC</b></sub></a><br /><sub><h3>PR Count: 50</h3></a>
+<a href="http://hrsoc.herokuapp.com/"><img src="http://hrsoc.herokuapp.com/static/media/hackclubrait-logo.bd4b56eb391b58b8a921.png" width=100px height=100px /><br /><sub><b>HackClubRAIT SoC</b></sub></a><br /><sub><h3>PR Count: 53</h3></a>
  </td>
 </tr>
 </table>

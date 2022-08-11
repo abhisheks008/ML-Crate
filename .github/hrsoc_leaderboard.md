@@ -153,7 +153,7 @@
   Name: Nirvik Ghosh
   GitHub Profile URL: https://github.com/Nirvik07
   Merged PRs: #268, #269, #283, #284, #285, #288, #290, #292, #299, #301, #303, #304, #307, #310, #311, #312, #313, #322, #324, #330
-              #331, #338, #342, #344, #356
+              #331, #338, #342, #344, #356, #360
   Projects: Online Education System (Level 2) | Iran Stock Exchange Data Analysis (Level 2) | ICPC World Ranking Analysis (Level 2) |
             Mr Beast YouTube Channel Analysis (Level 3) | Top YouTube Channels Analysis (Level 2) | Nobel Prize Analysis (Level 2) |
             Chennai Zomato Analysis (Level 2) | Instagram Influencers Analysis (Level 2) | Guardian League Tables Analysis (Level 2)
@@ -162,8 +162,9 @@
             Shark Tank Episodes Analysis (Level 2) | Indian Telecom Market Analysis (Level 2) | Swarm Behaviour Classification (Lev-
             el 3) | Airlines Delay Prediction (Level 3) | Nearest Earth Objects Classification and Prediction (Level 3) | Global 
             Universities Analysis (Level 2) | MAKAAN Analysis (Level 2) | Electric Motor Temperature Analysis (Level 3) | FIDE Chess 
-            Ranking Analysis (Level 2) | McDonalds India Menu Nutrition Analysis (Level 3)
-  Total Points: 310
+            Ranking Analysis (Level 2) | McDonalds India Menu Nutrition Analysis (Level 3) | Isekai Anime Light Novel Titles and 
+            Descriptions (Level 2)
+  Total Points: 320
   ```
   ******************************************************
   ```
@@ -183,6 +184,6 @@
   ```
   ******************************************************
   
-  _Points updated till #358 PR merged_
+  _Points updated till #360 PR merged_
   
-  🔴 Projects Count : **52**
+  🔴 Projects Count : **53**

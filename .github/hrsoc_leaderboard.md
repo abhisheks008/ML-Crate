@@ -7,24 +7,6 @@
   
   ```
   Serial No.: 01
-  Name: Afreena Begum
-  GitHub Profile URL: https://github.com/afreenabegum
-  Merged PRs:
-  Projects: 
-  Total Points: 
-  ```
-  ****************************************************
-  ```
-  Serial No.: 02
-  Name: Pankhuri Srivastava
-  GitHub Profile URL: https://github.com/srivasPankhuri
-  Merged PRs:
-  Projects: 
-  Total Points: 
-  ```
-  ******************************************************
-  ```
-  Serial No.: 03
   Name: Lahari Boni
   GitHub Profile URL: https://github.com/LahariBoni
   Merged PRs: #264
@@ -33,16 +15,7 @@
   ```
   ******************************************************
   ```
-  Serial No.: 04
-  Name: Gunda Sudarrshan
-  GitHub Profile URL: https://github.com/GundaSudarrshan
-  Merged PRs:
-  Projects: 
-  Total Points: 
-  ```
-  ******************************************************
-  ```
-  Serial No.: 05
+  Serial No.: 02
   Name: Sriniketh J
   GitHub Profile URL: https://github.com/srini047
   Merged PRs: #329
@@ -51,43 +24,7 @@
   ```
   ******************************************************
   ```
-  Serial No.: 06
-  Name: Munish Kumar
-  GitHub Profile URL: https://github.com/munish0838
-  Merged PRs:
-  Projects: 
-  Total Points: 
-  ```
-  ******************************************************
-  ```
-  Serial No.: 07
-  Name: Chanakya Raghavendra
-  GitHub Profile URL: https://github.com/Chanukolli
-  Merged PRs:
-  Projects: 
-  Total Points: 
-  ```
-  ******************************************************
-  ```
-  Serial No.: 08
-  Name: Akash R Chandran
-  GitHub Profile URL: https://github.com/akashrchandran
-  Merged PRs:
-  Projects: 
-  Total Points: 
-  ```
-  ******************************************************
-  ```
-  Serial No.: 09
-  Name: Shweta Bhagat
-  GitHub Profile URL: https://github.com/Shweta2024
-  Merged PRs:
-  Projects: 
-  Total Points: 
-  ```
-  ******************************************************
-  ```
-  Serial No.: 10
+  Serial No.: 03
   Name: Piyush Tanaji Bhujbal
   GitHub Profile URL: https://github.com/PiyushBL45t
   Merged PRs: #258, #266, #291, #306, #328, #343, #355, #358
@@ -99,7 +36,7 @@
   ```
   ******************************************************
   ```
-  Serial No.: 11
+  Serial No.: 04
   Name: Avik Mukherjee 
   GitHub Profile URL: https://github.com/Avik-creator
   Merged PRs: #255, #257, #260, #270, #286, #300, #302, #308, #321, #327, #340, #352, #357
@@ -112,34 +49,7 @@
   ```
   ******************************************************
   ```
-  Serial No.: 12
-  Name: Surjyanee Halder
-  GitHub Profile URL: https://github.com/surjyaneeh
-  Merged PRs:
-  Projects: 
-  Total Points: 
-  ```
-  ******************************************************
-  ```
-  Serial No.: 13
-  Name: Mandar Gajbhiye
-  GitHub Profile URL: https://github.com/Mandar-Gajbhiye15
-  Merged PRs:
-  Projects: 
-  Total Points: 
-  ```
-  ******************************************************
-  ```
-  Serial No.: 14
-  Name: Priya Gupta
-  GitHub Profile URL: https://github.com/guptapriya-83900
-  Merged PRs:
-  Projects: 
-  Total Points: 
-  ```
-  ******************************************************
-  ```
-  Serial No.: 15
+  Serial No.: 05
   Name: Vikas Kumar 
   GitHub Profile URL: https://github.com/vickyrules
   Merged PRs: #263, #267, #309, #323
@@ -149,7 +59,7 @@
   ```
   ******************************************************
   ```
-  Serial No.: 16
+  Serial No.: 06
   Name: Nirvik Ghosh
   GitHub Profile URL: https://github.com/Nirvik07
   Merged PRs: #268, #269, #283, #284, #285, #288, #290, #292, #299, #301, #303, #304, #307, #310, #311, #312, #313, #322, #324, #330
@@ -168,7 +78,7 @@
   ```
   ******************************************************
   ```
-  Serial No.: 17
+  Serial No.: 07
   Name: Md Ilham Ansari 
   GitHub Profile URL: https://github.com/ilhamansari
   Merged PRs: 
@@ -176,7 +86,7 @@
   ```
   ******************************************************
   ```
-  Serial No.: 18
+  Serial No.: 08
   Name: Astha Samaddar
   GitHub Profile URL: https://github.com/Asttttha
   Merged PRs: 

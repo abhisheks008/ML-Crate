@@ -76,24 +76,5 @@
             Descriptions (Level 2)
   Total Points: 320
   ```
-  ******************************************************
-  ```
-  Serial No.: 07
-  Name: Md Ilham Ansari 
-  GitHub Profile URL: https://github.com/ilhamansari
-  Merged PRs: 
-  Projects:
-  ```
-  ******************************************************
-  ```
-  Serial No.: 08
-  Name: Astha Samaddar
-  GitHub Profile URL: https://github.com/Asttttha
-  Merged PRs: 
-  Projects:
-  ```
-  ******************************************************
-  
-  _Points updated till #360 PR merged_
   
   🔴 Projects Count : **53**

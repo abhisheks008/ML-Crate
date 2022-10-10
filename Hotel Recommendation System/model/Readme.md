@@ -15,12 +15,15 @@ The main of this project is to impement a model to recomend project based on use
 WORK DONE
 
 Analyzed the data and found insights such as correlation, missing values and plotted different plots and compared them.
-Correlation matrix of cost estimation.
+
 ![correlation_matrix_cost](https://user-images.githubusercontent.com/78209696/194793348-dbac3ad5-ac5c-47ba-8baf-1c3bb2a93ed9.png)
-Correlation matrix of hotel rooms details.
+Correlation matrix of cost estimation
+
 ![correlation_matrix1](https://user-images.githubusercontent.com/78209696/194793441-492011f1-6cc4-4d48-b78d-67bbddc8387c.png)
-Displot to analyze star ratings.
+Correlation matrix of hotel rooms details.
+
 ![star_rating_displot](https://user-images.githubusercontent.com/78209696/194793491-e50eccc5-a99c-414a-9e10-9f623121f3c0.png)
+Displot to analyze star ratings.
 
 
 Approach Taken(Algorithm)

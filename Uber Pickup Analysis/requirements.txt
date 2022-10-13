@@ -1,0 +1,4 @@
+numpy==1.19.5
+seaborn==0.11.2
+matplotlib==3.5.1
+basemap==1.0.8

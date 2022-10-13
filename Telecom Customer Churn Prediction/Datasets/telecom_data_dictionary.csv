@@ -1,0 +1,41 @@
+Table,Field,Description
+Customer Churn,CustomerID,A unique ID that identifies each customer
+Customer Churn,Gender,"The customer’s gender: Male, Female"
+Customer Churn,Age,"The customer’s current age, in years, at the time the fiscal quarter ended (Q2 2022)"
+Customer Churn,Married,"Indicates if the customer is married: Yes, No"
+Customer Churn,Number of Dependents,"Indicates the number of dependents that live with the customer (dependents could be children, parents, grandparents, etc.)"
+Customer Churn,City,The city of the customer’s primary residence in California
+Customer Churn,Zip Code,The zip code of the customer’s primary residence
+Customer Churn,Latitude,The latitude of the customer’s primary residence
+Customer Churn,Longitude,The longitude of the customer’s primary residence
+Customer Churn,Number of Referrals,Indicates the number of times the customer has referred a friend or family member to this company to date
+Customer Churn,Tenure in Months,Indicates the total amount of months that the customer has been with the company by the end of the quarter specified above
+Customer Churn,Offer,"Identifies the last marketing offer that the customer accepted: None, Offer A, Offer B, Offer C, Offer D, Offer E"
+Customer Churn,Phone Service,"Indicates if the customer subscribes to home phone service with the company: Yes, No"
+Customer Churn,Avg Monthly Long Distance Charges,"Indicates the customer’s average long distance charges, calculated to the end of the quarter specified above (if the customer is not subscribed to home phone service, this will be 0)"
+Customer Churn,Multiple Lines,"Indicates if the customer subscribes to multiple telephone lines with the company: Yes, No (if the customer is not subscribed to home phone service, this will be No)"
+Customer Churn,Internet Service,"Indicates if the customer subscribes to Internet service with the company: Yes, No"
+Customer Churn,Internet Type,"Indicates the customer's type of internet connection: DSL, Fiber Optic, Cable (if the customer is not subscribed to internet service, this will be None)"
+Customer Churn,Avg Monthly GB Download,"Indicates the customer’s average download volume in gigabytes, calculated to the end of the quarter specified above (if the customer is not subscribed to internet service, this will be 0)"
+Customer Churn,Online Security,"Indicates if the customer subscribes to an additional online security service provided by the company: Yes, No (if the customer is not subscribed to internet service, this will be No)"
+Customer Churn,Online Backup,"Indicates if the customer subscribes to an additional online backup service provided by the company: Yes, No (if the customer is not subscribed to internet service, this will be No)"
+Customer Churn,Device Protection Plan,"Indicates if the customer subscribes to an additional device protection plan for their Internet equipment provided by the company: Yes, No (if the customer is not subscribed to internet service, this will be No)"
+Customer Churn,Premium Tech Support,"Indicates if the customer subscribes to an additional technical support plan from the company with reduced wait times: Yes, No (if the customer is not subscribed to internet service, this will be No)"
+Customer Churn,Streaming TV,"Indicates if the customer uses their Internet service to stream television programing from a third party provider at no additional fee: Yes, No (if the customer is not subscribed to internet service, this will be No)"
+Customer Churn,Streaming Movies,"Indicates if the customer uses their Internet service to stream movies from a third party provider at no additional fee: Yes, No (if the customer is not subscribed to internet service, this will be No)"
+Customer Churn,Streaming Music,"Indicates if the customer uses their Internet service to stream music from a third party provider at no additional fee: Yes, No (if the customer is not subscribed to internet service, this will be No)"
+Customer Churn,Unlimited Data,"Indicates if the customer has paid an additional monthly fee to have unlimited data downloads/uploads: Yes, No (if the customer is not subscribed to internet service, this will be No)"
+Customer Churn,Contract,"Indicates the customer’s current contract type: Month-to-Month, One Year, Two Year"
+Customer Churn,Paperless Billing,"Indicates if the customer has chosen paperless billing: Yes, No"
+Customer Churn,Payment Method,"Indicates how the customer pays their bill: Bank Withdrawal, Credit Card, Mailed Check"
+Customer Churn,Monthly Charge,Indicates the customer’s current total monthly charge for all their services from the company
+Customer Churn,Total Charges,"Indicates the customer’s total charges, calculated to the end of the quarter specified above"
+Customer Churn,Total Refunds,"Indicates the customer’s total refunds, calculated to the end of the quarter specified above"
+Customer Churn,Total Extra Data Charges,"Indicates the customer’s total charges for extra data downloads above those specified in their plan, by the end of the quarter specified above"
+Customer Churn,Total Long Distance Charges,"Indicates the customer’s total charges for long distance above those specified in their plan, by the end of the quarter specified above"
+Customer Churn,Total Revenue,"Indicates the company's total revenue from this customer, calculated to the end of the quarter specified above (Total Charges - Total Refurnds + Total Extra Data Charges + Total Lond Distance Charges)"
+Customer Churn,Customer Status,"Indicates the status of the customer at the end of the quarter: Churned, Stayed, or Joined"
+Customer Churn,Churn Category,"A high-level category for the customer’s reason for churning, which is asked when they leave the company: Attitude, Competitor, Dissatisfaction, Other, Price (directly related to Churn Reason)"
+Customer Churn,Churn Reason,"A customer’s specific reason for leaving the company, which is asked when they leave the company (directly related to Churn Category)"
+Zip Code Population,Zip Code,The zip code of the customer’s primary residence
+Zip Code Population,Population,A current population estimate for the entire Zip Code area

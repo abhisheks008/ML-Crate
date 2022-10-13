@@ -1,0 +1,9 @@
+The required libraries for this project work:
+
+seaborn==0.11.1
+numpy==1.19.5
+pandas==1.3.1
+sklearn==0.24.2
+matplotlib==3.4.2
+tensorflow==2.6.0
+keras==2.6.0

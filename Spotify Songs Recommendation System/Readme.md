@@ -17,6 +17,7 @@ WORK DONE
 
 Analyzed the data and found insights such as correlation, missing values and also extracted features from the dataset useful for classification.
 
+![confusion_matrix](https://user-images.githubusercontent.com/62555290/196527230-348bb88f-b0b8-4797-a61d-f375f16cebf6.jpeg)
 
 
 

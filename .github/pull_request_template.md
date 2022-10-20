@@ -1,7 +1,7 @@
 # Pull Request for ML-Crate 💡
 
 
-## Issue Title : <!-- Enter the issue title here -->
+## Issue Title: <!-- Enter the issue title here -->
 
 - **Info about the related issue (Aim of the project)** : <!-- What's the goal of the project -->
 - **Name:** <!--Mention Your name-->

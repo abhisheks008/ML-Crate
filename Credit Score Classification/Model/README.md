@@ -24,12 +24,11 @@ WORK DONE:
 In this RandomForestClassifier performed the best with 100% accuracy
 
 LIBRARIES NEEDED:
-Numpy
-Pandas
-Matplotlib
-scikit-learn
+Numpy,
+Pandas,
+Matplotlib,
+scikit-learn,
 seaborn
-display
 
 CONCLUSION:
 

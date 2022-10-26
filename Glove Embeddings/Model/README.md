@@ -14,7 +14,7 @@ The main aim of the project is to make a model that helps to predict Glove Embed
 
 WORK DONE
 
-Defining constants and cleaning of the comments. Balacing the dataset and defining keras Model with GRU units. Then tokenizing the comments from train dataset and predicting acuracy score of Model.
+Balacing the dataset and defining keras Model with GRU units. Then tokenizing the comments from train dataset and predicting acuracy score of Model.
 
 LIBRARIES NEEDED
 

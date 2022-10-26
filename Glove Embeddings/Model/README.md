@@ -19,7 +19,11 @@ Defining constants and cleaning of the comments. Balacing the dataset and defini
 LIBRARIES NEEDED
 
 Numpy Pandas tensorflow 
+
+
 ![Capture](https://user-images.githubusercontent.com/89378885/198050644-cd1a9896-a282-42df-9533-7647e37674ec.JPG)
+
+
 CONCLUSION
 
 We created a model which predict the . The model gives an accuracy score of the comments on the dataset.

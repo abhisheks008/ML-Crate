@@ -18,7 +18,8 @@ Balacing the dataset and defining keras Model with GRU units. Then tokenizing th
 
 LIBRARIES NEEDED
 
-Numpy Pandas tensorflow 
+[requirements.txt](https://github.com/AyaanKhatib/ML-Crate/files/9871438/requirements.txt)
+
 
 OUTPUT:
 ![Capture](https://user-images.githubusercontent.com/89378885/198050644-cd1a9896-a282-42df-9533-7647e37674ec.JPG)

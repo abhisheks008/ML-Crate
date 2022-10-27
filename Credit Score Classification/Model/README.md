@@ -11,13 +11,16 @@ GOAL : Implementtion of different algorithms like Random Forest Classifier, Logi
 DESCRIPTION: The main aim of the project is to use 3-4 algorithms to implement the models and compare all the algorithms to find out the best fitted algorithm for the model by checking the accuracy score.
 
 WORK DONE:
-•	Analyzed the data and found insights such as Importing the Dependencies,Data Analysis,Splitting the data into training data & Test data,Handling the Missing values Converting the Category into numeric,Building the Model
-•	Next trained model with algorithms:
-o	Logistic Regression
-o	Random Forest Classifier
-o	KNeighbors Classifier
-o	Decision Tree Classifier
+• Analyzed the data and found insights such as Importing the Dependencies,Data Analysis,Splitting the data into training data & Test data,Handling the Missing values Converting the Category into numeric,Building the Model
+
+• Next trained model with algorithms:
+  o	Logistic Regression
+  o	Random Forest Classifier
+  o	KNeighbors Classifier
+  o	Decision Tree Classifier
+  
 •	Importing the Test Data,Predicting the Values from Models
+
 •	In this RandomForestClassifier performed the best with 100% accuracy
 
 LIBRARIES NEEDED:

@@ -1,1 +1,4 @@
-
+numpy==1.23.4
+pandas==1.5.1
+TensorFlow 2.10.0
+Scikit-learn 0.20

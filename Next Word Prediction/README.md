@@ -27,15 +27,17 @@ LIBRARIES NEEDED
 
 VISUALIZATIONS
 
-Model 0 - LSTM
+Model 0 - LSTM<br />
+
 ![alt bwhahaha](https://github.com/skartikc/ML-Crate/blob/59986c4b8ca312faabe9fdc11c5b3ca597ad712a/Next%20Word%20Prediction/Images/Model0-Graphs.png)
 <br />
 
-Model 1 - BiLSTM
+Model 1 - BiLSTM<br />
+
 ![alt bwhahah2](https://github.com/skartikc/ML-Crate/blob/59986c4b8ca312faabe9fdc11c5b3ca597ad712a/Next%20Word%20Prediction/Images/Model1-Graphs.png)
 <br />
 
-Model 3 - distil-BERT
+Model 3 - distil-BERT<br />
 ![alt bwhahaha3](https://github.com/skartikc/ML-Crate/blob/335d0290d9edbba3c0c989f7982e9e29ef5461c4/Next%20Word%20Prediction/Images/Model2-Table.png)
 
 PREDICTION/OUTPUT 
@@ -50,6 +52,5 @@ MODEL PERFORMANCE
 | 2             | RNN + BiLSTM  |         83.89 - A       |
 | 3             | distil-BERT   |         2.4949 - L      |
 
-CONCLUSION
-
+CONCLUSION<br />
 I was successfully able to develop solution to predicting the next word of a novel by using 3 different models, comparing their accuracies.

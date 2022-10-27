@@ -14,9 +14,13 @@ WORK DONE:
 • Analyzed the data and found insights such as Importing the Dependencies,Data Analysis,Splitting the data into training data & Test data,Handling the Missing values Converting the Category into numeric,Building the Model
 
 • Next trained model with algorithms:
+
   o	Logistic Regression
+  
   o	Random Forest Classifier
+  
   o	KNeighbors Classifier
+  
   o	Decision Tree Classifier
   
 •	Importing the Test Data,Predicting the Values from Models

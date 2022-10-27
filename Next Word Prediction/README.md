@@ -26,9 +26,10 @@ LIBRARIES NEEDED
 6. pickle
 
 VISUALIZATIONS
-![alt bwhahaha](https://github.com/skartikc/ML-Crate/blob/59986c4b8ca312faabe9fdc11c5b3ca597ad712a/Next%20Word%20Prediction/Images/Model0-Graphs.png)
-![alt bwhahah2] (https://github.com/skartikc/ML-Crate/blob/59986c4b8ca312faabe9fdc11c5b3ca597ad712a/Next%20Word%20Prediction/Images/Model1-Graphs.png)
 
+![alt bwhahaha](https://github.com/skartikc/ML-Crate/blob/59986c4b8ca312faabe9fdc11c5b3ca597ad712a/Next%20Word%20Prediction/Images/Model0-Graphs.png)
+![alt bwhahah2](https://github.com/skartikc/ML-Crate/blob/59986c4b8ca312faabe9fdc11c5b3ca597ad712a/Next%20Word%20Prediction/Images/Model1-Graphs.png)
+![alt bwhahaha3](https://github.com/skartikc/ML-Crate/blob/335d0290d9edbba3c0c989f7982e9e29ef5461c4/Next%20Word%20Prediction/Images/Model2-Table.png)
 
 PREDICTION/OUTPUT 
 1. Model 0 - LSTM

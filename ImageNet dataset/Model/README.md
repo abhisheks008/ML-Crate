@@ -17,7 +17,8 @@ numpy
 random
 Image
 
-OUTPUT: <img width="596" alt="Screenshot 2022-10-28 at 6 24 11 PM" src="https://user-images.githubusercontent.com/109164824/198592909-7bcbbcbc-b62f-4805-9dd9-a9bd47f0fba5.png">
+OUTPUT: 
+<img width="596" alt="Screenshot 2022-10-28 at 6 24 11 PM" src="https://user-images.githubusercontent.com/109164824/198592909-7bcbbcbc-b62f-4805-9dd9-a9bd47f0fba5.png">
 
 <img width="613" alt="Screenshot 2022-10-28 at 6 25 16 PM" src="https://user-images.githubusercontent.com/109164824/198593305-b48da9a0-6498-4e09-8699-eeaa16260236.png">
 

@@ -13,11 +13,9 @@ WORK DONE
 There’s been a 4.2× reduction in image classification error (from 28.2% to 6.7%) and a 1.7× reduction in localization error (from 42.5% to 25.3%) between 2010 and 2020 alone. 
 
 LIBRARIES NEEDED
-pathlib
-PIL
-numpy
-random
-Image
+
+[requirements.txt](https://github.com/Ruchit1111/ML-Crate/files/9888652/requirements.txt)
+
 
 
 OUTPUT: 

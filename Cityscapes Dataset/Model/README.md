@@ -16,7 +16,8 @@ Balacing the dataset and defining keras Model with UNet. Then evaluating the ima
 
 LIBRARIES NEEDED
 
-requirements.txt
+
+[requirements.txt](https://github.com/khatibnaqi/ML-Crate/files/9889923/requirements.txt)
 
 OUTPUT: Evaluated images
 

@@ -16,11 +16,7 @@ Balacing the dataset and defining keras Model with UNet. Then evaluating the ima
 
 LIBRARIES NEEDED
 
-Pandas  
-Numpy   
-OS  
-Tenserflow
-
+requirements.txt
 
 OUTPUT: Evaluated images
 

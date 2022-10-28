@@ -16,9 +16,9 @@ Balacing the dataset and defining keras Model with UNet. Then evaluating the ima
 
 LIBRARIES NEEDED
 
-Pandas
-Numpy 
-OS
+Pandas  
+Numpy   
+OS  
 Tenserflow
 
 

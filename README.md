@@ -40,20 +40,23 @@ This repository consists of various machine learning projects, and all of the pr
 <table>
 <tr>
  <td align="center">
-<a href="https://github.com/abhisheks008"><img src="https://media-exp1.licdn.com/dms/image/C560BAQGh8hr-FgbrHw/company-logo_200_200/0/1602422883512?e=2159024400&v=beta&t=s8IX2pN1J2v5SRRbgzVNzxnQ2rWeeMq2Xb__BYW60qE" width=100px height=100px /><br /><sub><b>Script WoC 2021</b></sub></a><br /><sub><h3>PR Count: 49</h3></sub>
+<a href="https://github.com/abhisheks008"><img src="https://media-exp1.licdn.com/dms/image/C560BAQGh8hr-FgbrHw/company-logo_200_200/0/1602422883512?e=2159024400&v=beta&t=s8IX2pN1J2v5SRRbgzVNzxnQ2rWeeMq2Xb__BYW60qE" width=100px height=100px /><br /><sub><b>Script WoC 2021</b></sub></a>
  </td>
   <td align="center">
-<a href="https://jwoc.tech/"><img src="https://github.com/abhisheks008/abhisheks008/blob/main/jwoc.png" width=100px height=100px /><br /><sub><b>JGEC WoC 2022</b></sub></a><br /><sub><h3>PR Count: 33</h3></a>
+<a href="https://jwoc.tech/"><img src="https://github.com/abhisheks008/abhisheks008/blob/main/jwoc.png" width=100px height=100px /><br /><sub><b>JGEC WoC 2022</b></sub></a>
  </td>
   <td align="center">
-<a href="https://csirait.in/opencode/"><img src="https://i.imgur.com/zu9thTP.png" width=100px height=100px /><br /><sub><b>OpenCode CSI RAIT 2022</b></sub></a><br /><sub><h3>PR Count -</h3></a>
+<a href="https://csirait.in/opencode/"><img src="https://i.imgur.com/zu9thTP.png" width=100px height=100px /><br /><sub><b>OpenCode CSI RAIT 2022</b></sub></a>
  </td>
   </td>
   <td align="center">
-<a href="https://www.psoc.in/"><img src="https://www.psoc.in/img/psoc-logo-1.png" width=100px height=100px /><br /><sub><b>PClub SoC 2022</b></sub></a><br /><sub><h3>PR Count -</h3></a>
+<a href="https://www.psoc.in/"><img src="https://www.psoc.in/img/psoc-logo-1.png" width=100px height=100px /><br /><sub><b>PClub SoC 2022</b></sub></a><br />
  </td>
  <td align="center">
-<a href="http://hrsoc.herokuapp.com/"><img src="https://soc.hackclubrait.co/static/media/hackclubrait-logo.bd4b56eb391b58b8a921.png" width=100px height=100px /><br /><sub><b>HackClubRAIT SoC</b></sub></a><br /><sub><h3>PR Count: 54</h3></a>
+<a href="http://hrsoc.herokuapp.com/"><img src="https://soc.hackclubrait.co/static/media/hackclubrait-logo.bd4b56eb391b58b8a921.png" width=100px height=100px /><br /><sub><b>HackClubRAIT SoC</b></sub></a>
+ </td>
+ <td align="center">
+<a href="https://kwoc.kossiitkgp.org/"><img src="https://github.com/World-of-ML/ML-Crate/blob/main/Assets/1602335093424.jpg" width=100px height=100px /><br /><sub><b>Kharagpur WoC 2022</b></sub></a>
  </td>
 </tr>
 </table>

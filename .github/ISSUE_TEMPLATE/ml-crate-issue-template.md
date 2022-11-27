@@ -30,7 +30,6 @@ assignees: ''
 - The issues will be assigned on a first come first serve basis, 1 Issue == 1 PR.
 - "Issue Title" and "PR Title should be the same. Include issue number along with it.
 - Follow Contributing Guidelines & Code of Conduct before start Contributing.
-- This issue is only for 'SWOC' and 'JWOC' contributors of 'ML-Crate' project.
 
 ***********************************************************************
 :white_check_mark: **To be Mentioned while taking the issue :**

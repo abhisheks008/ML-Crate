@@ -1,5 +1,5 @@
 <div align="center">
-  <h1>Machine Learning Loot Crate 💻🧰</h1>
+  <h1>Machine Learning Loot Crate! 💻🧰</h1>
   <h3>Website for ML-Crate Project Repo: <a href="https://tinyurl.com/ml-crate">Click Here!</a></h3>
 </div>
 

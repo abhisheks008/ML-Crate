@@ -49,6 +49,26 @@ Prices of brands other than apple fall in the range: `Rs.10000-40000`
 More the rating, more the price(from the postive correlation values in the heatmap).
 
 The price charts of each brand can be seen below:
+<pre><h3>Price Chart of Apple brand models               Price Chart of BTC brand models</h3>
+<p>Costliest: Apple Iphone 13 Pro(128GB)- Graphite             Costliest: NIL
+Cheapest: Apple Iphone 11(64GB)- Black                      Cheapest: NIL</p></pre>
+<img src="images/Apple.png" alt="drawing" width="500"/> <img src="images/BTC.png" alt="btc" width="500">
+<pre><h3>Price Chart of IKALL brand models               Price Chart of Lava brand models</h3>
+<p>Costliest: Ikall Z20 Smartphone                             Costliest: NIL
+Cheapest: Ikall Z9 Smartphone                               Cheapest: NIL</p></pre>
+<img src="images/IKALL.png" alt="ikall" width="500"> <img src="images/Lava.png" alt="Lava" width="500">
+<pre><h3>Price Chart Oppo brand models                   Price Chart of Redmi brand models</h3>
+<p>Costliest: Oppo Reno8 (8GB, 128GB)                          Costliest: Redmi Note11 Pro + 5G
+Cheapest: Oppo A15s (Rainbow Silver, 4GBRAM, 64GB)          Cheapest: Redmi 9 (4GB RAM, 64GB)</p></pre>
+<img src="images/Oppo.png" alt="oppo" width="500"> <img src="images/Redmi.png" alt="redmi" width="500">
+<pre><h3>Price Chart of Samsung brand models             Price Chart of Vivo brand models</h3>
+<p>Costliest: Samsung Galaxy S22                               Costliest: Vivo V23 5G
+Cheapest: Samsung Galaxy A03 Core                           Cheapest: Vivo Y15s Mystic Blue</p></pre>
+<img src="images/Samsung.png" alt="samsung" width="500"> <img src="images/Vivo.png" alt="vivo" width="500">
+<pre><h3>Price Chart of Xiaomi brand models</h3>
+<p>Costliest: Xiaomi 12 Pro (12GB RAM, 256GB)
+Cheapest: (Renewed)Mi Redmi Note 6 Pro</p></pre>
+<img src="images/Xiaomi .png" alt="xiaomi" width="500">
 
 
 

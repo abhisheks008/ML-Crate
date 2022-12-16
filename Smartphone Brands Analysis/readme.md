@@ -10,6 +10,7 @@ https://www.kaggle.com/datasets/shreyamishra0307/top-5-mobile-brands-amazon-data
 ### DESCRIPTION
 
 The project is a collection of all the possible statistical applications and metrics to derieve useful insights and properly visualize the use of price factors of the various mobile brands. Also perform a predictive analysis on the same using month as a parameter of prediction. Below are the actions performed on the dataset.
+<hr>
 
 ### **Steps taken**:
 + Importing all the required libraries
@@ -30,7 +31,7 @@ The project is a collection of all the possible statistical applications and met
     * bar plot 
 <hr>
 
-### CONCLUSION
+### **CONCLUSION**
 
 From this dataset, we can draw inferences that Samsung has largest variety of models in Amazon website
 
@@ -70,5 +71,6 @@ Cheapest: Samsung Galaxy A03 Core                           Cheapest: Vivo Y15s 
 Cheapest: (Renewed)Mi Redmi Note 6 Pro</p></pre>
 <img src="images/Xiaomi .png" alt="xiaomi" width="500">
 
-
-
+## **Contributed by:**
+*Adithya Awati*<br>
+[![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/adithya-awati-87b7541a3/)

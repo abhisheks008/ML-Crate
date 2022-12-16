@@ -1,9 +1,9 @@
-## Smartphone Brand Analysis 
+# **Smartphone Brand Analysis**
 
-### AIM
+### **AIM**
 Perform exploratory data analysis and Predictive Analysis on the power consumption dataset and analysethe price and rating of various smartphone brand models listed on amazon.
 
-### DATASET: 
+### **DATASET:**
 https://www.kaggle.com/datasets/shreyamishra0307/top-5-mobile-brands-amazon-dataset
 <hr>
 
@@ -11,7 +11,7 @@ https://www.kaggle.com/datasets/shreyamishra0307/top-5-mobile-brands-amazon-data
 
 The project is a collection of all the possible statistical applications and metrics to derieve useful insights and properly visualize the use of price factors of the various mobile brands. Also perform a predictive analysis on the same using month as a parameter of prediction. Below are the actions performed on the dataset.
 
-> **Steps taken**:
+### **Steps taken**:
 + Importing all the required libraries
 + Understanding the dataset by viewing top 5 rows and viewing table statistical metrics like mean, count, std using `describe().T`
 + Getting the shape of the dataset.

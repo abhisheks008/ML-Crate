@@ -1,0 +1,30 @@
+## **Chennai Zomato Analysis** ##
+
+## **Goal:** ##
+
+To cleanse and analyse the course data to understand and draw insights from the given dataset and make models to get maximum contributions.
+
+## **Dataset:** ##
+
+ https://www.kaggle.com/datasets
+
+## **Description:** ##
+As the world is advancing more and more, people are ordering more and more food online. In this dataset we are set to analyse that.
+
+## **What I Had Done:** ##
+* Reading the data in python
+* Basic Exploration of data
+* Cleaning the data and transforming it to be useful for basic analysis 
+* Visual Data exploration
+* Making Models Based on the DataSet for Getting Maximum Accuracy.
+
+## **Libraries Needed:** ##
+* pandas - To manipulate dataframes
+* seaborn - To visualise data
+* matplotlib - To visualise data
+* Sklearn - For Including ML Models
+* Voting Classifier - A Voting Classifier is a machine learning model that trains on an ensemble of numerous models and predicts an output (class) based on their highest probability of chosen class as the output.
+
+## **Contributed by:** ##
+SANCHIT GARG
+https://github.com/sanchitgarg2204

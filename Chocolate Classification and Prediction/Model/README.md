@@ -27,7 +27,7 @@ Main idea is to train a model that will predict ,which type /class of Chocolate 
 
 ## PLOTS
 
-![accuracy and loss plotings](https://drive.google.com/file/d/1xY8Fw7ifkY-N1tGa6axgQ0eJxaVSM0Ix/view?usp=sharing)
+!(https://drive.google.com/file/d/1xY8Fw7ifkY-N1tGa6axgQ0eJxaVSM0Ix/view?usp=sharing)
 
 ## CONCLUSION
 

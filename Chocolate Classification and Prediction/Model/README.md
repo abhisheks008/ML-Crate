@@ -33,3 +33,7 @@ Main idea is to train a model that will predict ,which type /class of Chocolate 
 
 trying to use the CNN gave,
 with the use of 3 outsourced test images, the model was able to predict the images with 100%, 100%, 98.41% confidence and accuracy.
+
+# Contributed by:-
+Pranjal Rathore (@PranjalRkgp)
+[LinkedIn](https://www.linkedin.com/in/pranjal-rathore-5539a721a/) 

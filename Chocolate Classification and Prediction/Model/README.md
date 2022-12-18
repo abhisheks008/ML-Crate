@@ -27,7 +27,7 @@ Main idea is to train a model that will predict ,which type /class of Chocolate 
 
 ## PLOTS
 
-[](Chocolate Classification and Prediction/Images/plots.png)
+[](https://github.com/PranjalRkgp/ML-Crate/blob/main/Chocolate%20Classification%20and%20Prediction/Images/plots.png)
 
 ## CONCLUSION
 

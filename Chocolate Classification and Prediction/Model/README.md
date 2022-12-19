@@ -26,7 +26,7 @@ Main idea is to train a model that will predict ,which type /class of Chocolate 
 - TensorFlow
 
 ## PLOTS
-![](https://drive.google.com/file/d/1xY8Fw7ifkY-N1tGa6axgQ0eJxaVSM0Ix/view?usp=sharing)
+<img src = "https://github.com/World-of-ML/ML-Crate/blob/ecf2a792cd7a0f1784ab467fc875003c406f2bc3/Chocolate%20Classification%20and%20Prediction/Images/plots.png">
 
 
 ## CONCLUSION

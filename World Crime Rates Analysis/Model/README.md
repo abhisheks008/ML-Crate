@@ -1,5 +1,7 @@
 **PROJECT TITLE**
 
+World Crime Rates Analysis
+
 **GOAL**
 
 Exploratory analysis on the given dataset country-wise and city-wise

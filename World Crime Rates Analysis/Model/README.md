@@ -25,6 +25,7 @@ The project intends to categorize countries and cities as ones with highest crim
 5. With this, I decided to separate the cities and their countries as that would help me to do some analysis based only on countries.
 6. In doing this, there arose a problem with US and Canadian cities as their name had their state plus country, so I resolved that.
 7. Then, I proceeded to find out the top ten coutries with highest crime index and top 10 countries with highest safety index.
+8. I also plotted the top 10 safe and top 10 unsafe cities with their crime and safety indices respectively.
 
 **MODELS USED**
 
@@ -51,6 +52,13 @@ Top 10 countries with highest safety index:
 
 ![top 10 countries with highest safety index](https://user-images.githubusercontent.com/119129594/208433360-0f53796a-b631-4c48-8ff2-80a34b55ed33.jpg)
 
+Top 10 Unsafe Cities:
+
+![top 10 unsafe cities](https://user-images.githubusercontent.com/119129594/208437933-6da74448-dafb-4789-81c5-2e5fac626f08.jpg)
+
+Top 10 Safe Cities:
+
+![top 10 safe cities](https://user-images.githubusercontent.com/119129594/208438009-4070a9b3-6327-4255-9ab2-796f1d602e20.jpg)
 
 **CONCLUSION**
 

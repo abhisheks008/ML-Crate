@@ -28,6 +28,10 @@ Main idea is to train a model that will predict ,which type /class of Chocolate 
 ## PLOTS
 ![](https://github.com/World-of-ML/ML-Crate/blob/ecf2a792cd7a0f1784ab467fc875003c406f2bc3/Chocolate%20Classification%20and%20Prediction/Images/plots.png)
 
+## TEST IMAGES(not in data set folder)
+![](https://github.com/PranjalRkgp/ML-Crate/blob/main/Chocolate%20Classification%20and%20Prediction/Images/testdarkchoco.jpg)
+![](https://github.com/PranjalRkgp/ML-Crate/blob/main/Chocolate%20Classification%20and%20Prediction/Images/test1White%2B2Dark.jpg)
+![](https://github.com/PranjalRkgp/ML-Crate/blob/main/Chocolate%20Classification%20and%20Prediction/Images/testWhitechoco.jpeg)
 
 ## CONCLUSION
 

@@ -25,13 +25,13 @@ THE CANCER RATE IN YEAR 1986-1994:  12.404761904761905
 
 The increase in cancer rate is:- 0.38269639065817385
 
-![alt text](../Images/regplot1.png)
+![alt text](../Images/visualization_image5.png)
 
 The increase in cancer rate in male after chernobyl:  0.4191594093146534
 
 The increase in cancer rate in female after chernobyl:  0.297249334516415
 
-![alt text](../Images/lmplot2.png)
+![alt text](../Images/visualization_image7.png)
 
 The increase in cancer rate in colon after chernobyl:  0.5030864197530867
 
@@ -47,7 +47,7 @@ The increase in cancer rate in skin after chernobyl:  0.061913696060037604
 
 The increase in cancer rate in thyroid after chernobyl:  2.09375
 
-![alt text](../Images/lmplot1.png)
+![alt text](../Images/visualization_image6.png)
 
 The increase in cancer rate in Belarus after chernobyl:  0.4279835390946501
 
@@ -55,7 +55,7 @@ The increase in cancer rate in Gomel after chernobyl:  0.4029209621993126
 
 The increase in cancer rate in Mogilev after chernobyl:  0.32613390928725683
 
-![alt text](../Images/lmplot3.png)
+![alt text](../Images/visualization_image8.png)
 
 
 ## CONCLUSION:-

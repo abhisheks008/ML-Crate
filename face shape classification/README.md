@@ -33,6 +33,9 @@ We use cnn to perdict face shape and use adam optimizer
 LIBRARIES NEEDED
 
 Tensorflow Keras Pandas Numpy Matplotlib pickle VISUALIZATIONS
+
+Conclusion:
+Firstly we use ann model and get less accuracy then we use cnn model and get accuracy: 0.4082 in 10 epochs.
  
  ![Screenshot (323)](https://user-images.githubusercontent.com/74282916/209354022-d897e539-f76e-4681-90d6-31f92c1785d1.png)
 

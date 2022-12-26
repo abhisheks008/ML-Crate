@@ -28,7 +28,5 @@ The model used here is VGG_16 from VGG team for ILSVRC-2014 competition.
 * os
 
 ### Sample image of Alpaca
-! [Alpaca](/Alpaca Identification/Dataset/Alpaca/1242ba953cd74e4b.jpg)
-
-
+![Alpaca](/Alpaca%20Identification/Dataset/Alpaca/1242ba953cd74e4b.jpg)
 

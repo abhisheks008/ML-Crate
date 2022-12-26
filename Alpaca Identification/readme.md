@@ -30,3 +30,6 @@ The model used here is VGG_16 from VGG team for ILSVRC-2014 competition.
 ### Sample image of Alpaca
 ![Alpaca](/Alpaca%20Identification/Dataset/Alpaca/1242ba953cd74e4b.jpg)
 
+### Final Model Results
+Accuracy on Train Data :  
+Accuracy on Test Data : 

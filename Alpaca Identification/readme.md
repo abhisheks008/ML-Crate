@@ -31,5 +31,5 @@ The model used here is VGG_16 from VGG team for ILSVRC-2014 competition.
 ![Alpaca](/Alpaca%20Identification/Dataset/Alpaca/1242ba953cd74e4b.jpg)
 
 ### Final Model Results
-Accuracy on Train Data :  
-Accuracy on Test Data : 
+Accuracy on Train Data : 100% 
+Accuracy on Test Data : 87.69%

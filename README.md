@@ -58,6 +58,9 @@ This repository consists of various machine learning projects, and all of the pr
  <td align="center">
 <a href="https://kwoc.kossiitkgp.org/"><img src="https://github.com/World-of-ML/ML-Crate/blob/main/Assets/1602335093424.jpg" width=100px height=100px /><br /><sub><b>Kharagpur WoC 2022</b></sub></a>
  </td>
+ <td align="center">
+<a href="https://dwoc.io/"><img src="https://github.com/World-of-ML/DL-Simplified/blob/main/.github/Assets/dwoc.png" width=100px height=100px /><br /><sub><b>Delta WoC 2023</b></sub></a>
+ </td>
 </tr>
 </table>
 

@@ -19,7 +19,7 @@
 
 ![](https://github.com/abhisheks008/ML-Crate/blob/main/Assets/get%20started.png)
 
-*************************************************
+**************************************************
 ## 🔴:yellow_circle: Welcome contributors!
 As we all know the BGMI Loot Crate comes with so many resources for the gamers, this ML Crate will be the hub of various ML projects which will be the resources for the ML enthusiasts!
 
@@ -57,6 +57,9 @@ This repository consists of various machine learning projects, and all of the pr
  </td>
  <td align="center">
 <a href="https://kwoc.kossiitkgp.org/"><img src="https://github.com/World-of-ML/ML-Crate/blob/main/Assets/1602335093424.jpg" width=100px height=100px /><br /><sub><b>Kharagpur WoC 2022</b></sub></a>
+ </td>
+ <td align="center">
+<a href="https://dwoc.io/"><img src="https://github.com/World-of-ML/DL-Simplified/blob/main/.github/Assets/dwoc.png" width=100px height=100px /><br /><sub><b>Delta WoC 2023</b></sub></a>
  </td>
 </tr>
 </table>

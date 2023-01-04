@@ -1,1 +1,1 @@
-contain image of a credit card
+contain images 

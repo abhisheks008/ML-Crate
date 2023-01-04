@@ -1,0 +1,3 @@
+install Anaconda and Jupyter Notebook 
+
+Librsries: numpy,pandas,matplotlib.pyplot,seaborn,sklearn

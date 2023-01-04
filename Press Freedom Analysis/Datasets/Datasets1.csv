@@ -1,0 +1,181 @@
+Country,ISO Code,Region,Position 2022,Position 2021,Global Score,Politic Score,Economic Score,Legislative Score,Social Score,Security Score,Journalist Killed,Media Workers Killed,Journalist Imprisoned,Media Workers Imprisoned,Situation
+Afghanistan,AFG,Asia Pacific,156,122,38.27,44.65,43.88,42.54,43.33,16.96,0,0,0,0,Very Serious
+Albania,ALB,Europe,103,83,56.41,50.55,29.39,68.77,66.6,66.75,0,0,0,0,Problematic
+Algeria,DZA,Arab States,134,146,45.53,41.21,32.4,54.17,55.88,44.02,0,0,0,0,Difficult
+Andorra,AND,Europe,53,39,68.79,68.12,50.41,69.12,68.8,87.48,0,0,0,0,Problematic
+Angola,AGO,Africa,99,103,57.17,52.83,35.03,61.11,73.0,63.87,0,0,0,0,Problematic
+Argentina,ARG,South America,29,69,77.28,76.36,51.53,90.68,85.75,82.06,0,0,0,0,Satisfactory
+Armenia,ARM,Europe,51,63,68.97,66.26,44.44,77.88,76.33,79.91,0,0,0,0,Problematic
+Australia,AUS,Asia Pacific,39,25,73.77,77.17,63.44,64.18,84.17,79.88,0,0,0,0,Satisfactory
+Austria,AUT,Europe,31,17,76.74,77.82,61.43,78.95,81.2,84.29,0,0,0,0,Satisfactory
+Azerbaijan,AZE,Asia Pacific,154,167,39.4,37.66,23.76,48.25,58.86,28.48,0,0,2,0,Very Serious
+Bahrain,BHR,Arab States,167,168,30.97,35.15,21.43,28.95,39.67,29.65,0,0,0,0,Very Serious
+Bangladesh,BGD,Asia Pacific,162,152,36.63,42.12,32.48,44.15,48.5,15.88,1,0,0,0,Very Serious
+Belarus,BLR,Europe,153,158,39.62,32.93,48.75,37.23,60.33,18.85,0,0,13,0,Very Serious
+Belgium,BEL,Europe,23,11,78.86,75.03,71.22,79.3,87.4,81.35,0,0,0,0,Satisfactory
+Belize,BLZ,South America,47,53,70.67,70.0,52.04,63.6,82.0,85.71,0,0,0,0,Satisfactory
+Benin,BEN,Africa,121,114,48.39,47.73,28.19,57.46,55.5,53.1,0,0,0,0,Difficult
+Bhutan,BTN,Asia Pacific,33,65,76.46,78.79,62.24,70.39,77.0,93.88,0,0,0,0,Satisfactory
+Bolivia,BOL,South America,126,110,47.58,44.55,33.67,58.77,45.0,55.89,0,0,0,0,Difficult
+Bosnia-Herzegovina,BIH,Europe,67,58,65.64,61.56,40.23,79.57,71.86,74.95,0,0,0,0,Problematic
+Botswana,BWA,Africa,95,38,58.49,56.97,37.24,56.36,69.75,72.11,0,0,0,0,Problematic
+Brazil,BRA,South America,110,111,55.36,51.62,37.59,69.74,70.0,47.86,1,0,0,0,Problematic
+Brunei,BRN,Asia Pacific,144,154,42.53,40.61,30.61,28.51,34.0,78.91,0,0,0,0,Difficult
+Bulgaria,BGR,Europe,91,112,59.12,54.95,30.1,68.71,66.83,75.02,0,0,0,0,Problematic
+Burkina Faso,BFA,Africa,41,37,73.12,78.99,67.69,75.58,87.83,55.52,0,0,0,0,Satisfactory
+Burundi,BDI,Africa,107,147,55.74,50.03,44.67,59.55,52.78,71.66,0,0,0,0,Problematic
+Cabo Verde,CPV,Africa,36,27,75.37,72.55,62.76,77.98,75.4,88.16,0,0,0,0,Satisfactory
+Cambodia,KHM,Asia Pacific,142,144,43.48,42.42,27.96,49.65,62.4,34.96,0,0,1,0,Difficult
+Cameroon,CMR,Africa,118,135,49.1,48.05,35.71,56.89,67.57,37.25,0,0,0,0,Difficult
+Canada,CAN,North America,19,14,81.74,82.27,71.17,80.26,92.0,82.99,0,0,0,0,Satisfactory
+Central African Republic,CAF,Africa,101,126,56.96,51.21,41.07,62.06,68.25,62.19,0,0,0,0,Problematic
+Chad,TCD,Africa,104,123,56.18,55.88,43.27,60.35,63.2,58.21,1,0,0,0,Problematic
+Chile,CHL,South America,82,54,60.61,65.03,42.86,67.63,72.4,55.15,1,0,0,0,Problematic
+China,CHN,Asia Pacific,175,177,25.17,27.45,26.02,23.25,33.3,15.84,0,0,0,0,Very Serious
+Colombia,COL,South America,145,134,42.43,44.7,32.27,60.42,50.38,24.4,0,0,0,0,Difficult
+Comoros,COM,Arab States,83,84,60.16,56.36,50.26,59.98,75.63,58.56,0,0,0,0,Problematic
+Congo-Brazzaville,COG,Africa,93,118,58.64,58.06,48.57,64.21,62.6,59.76,0,0,0,0,Problematic
+Costa Rica,CRI,South America,8,5,85.92,81.62,72.96,87.72,92.5,94.78,0,0,0,0,Good
+Croatia,HRV,Europe,48,56,70.42,68.26,50.46,79.19,76.09,78.08,0,0,0,0,Satisfactory
+Cuba,CUB,South America,173,171,27.32,27.27,39.8,15.79,27.5,26.24,0,0,0,0,Very Serious
+Cyprus,CYP,Europe,65,26,65.97,61.21,42.09,74.56,65.75,86.25,0,0,0,0,Problematic
+Czech Republic,CZE,Europe,20,40,80.54,79.66,61.56,84.21,88.44,88.81,0,0,0,0,Satisfactory
+Democratic Republic of Congo,COD,Africa,125,149,47.66,51.33,41.43,60.88,60.3,24.34,0,0,3,0,Difficult
+Denmark,DNK,Europe,2,4,90.27,94.34,83.67,89.18,91.17,92.97,0,0,0,0,Good
+Djibouti,DJI,Arab States,164,176,35.75,32.73,16.12,37.72,37.6,54.56,0,0,0,0,Very Serious
+Dominican Republic,DOM,South America,30,50,76.9,71.52,62.24,85.96,92.0,72.79,0,0,0,0,Satisfactory
+Ecuador,ECU,South America,68,96,64.61,60.1,55.44,67.98,69.5,70.03,0,0,0,0,Problematic
+Egypt,EGY,Middle  East,168,166,30.23,30.91,23.47,34.87,44.25,17.64,0,0,0,0,Very Serious
+El Salvador,SLV,South America,112,82,54.09,42.94,39.07,63.22,62.86,62.37,0,0,0,0,Difficult
+Equatorial Guinea,GNQ,Africa,141,164,43.96,42.73,24.49,44.3,44.25,64.04,0,0,0,0,Difficult
+Eritrea,ERI,Africa,179,180,19.62,22.22,19.73,25.15,19.67,11.36,0,0,0,0,Very Serious
+Estonia,EST,Europe,4,15,88.83,91.11,81.97,87.87,90.0,93.2,0,0,0,0,Good
+Eswatini,SWZ,Africa,131,141,46.42,41.31,35.03,43.86,50.5,61.4,0,0,0,0,Difficult
+Ethiopia,ETH,Africa,114,101,50.53,50.65,45.77,63.66,57.29,35.29,0,0,16,0,Difficult
+Fiji,FJI,Asia Pacific,102,55,56.91,44.85,39.8,58.33,64.0,77.55,0,0,0,0,Problematic
+Finland,FIN,Europe,5,2,88.42,90.4,82.03,86.64,90.77,92.26,0,0,0,0,Good
+France,FRA,Europe,26,34,78.53,79.85,67.86,86.51,89.38,69.05,0,0,0,0,Satisfactory
+Gabon,GAB,Africa,105,117,56.0,48.38,39.46,56.14,65.5,70.52,0,0,0,0,Problematic
+Gambia,GMB,Africa,50,85,69.25,71.11,51.36,67.69,81.33,74.74,0,0,0,0,Problematic
+Georgia,GEO,Europe,89,60,59.3,52.42,46.43,80.79,75.5,41.34,0,0,1,0,Problematic
+Germany,DEU,Europe,16,13,82.04,87.03,80.07,87.08,89.47,66.58,0,0,0,0,Satisfactory
+Ghana,GHA,Africa,60,30,67.43,66.61,47.22,81.42,79.64,62.25,0,0,2,0,Problematic
+Greece,GRC,Europe,108,70,55.52,60.5,38.13,69.54,65.36,44.1,0,0,0,0,Problematic
+Guatemala,GTM,South America,124,116,47.94,46.06,33.67,68.86,59.0,32.12,0,0,0,0,Difficult
+Guinea,GIN,Africa,84,109,59.82,59.26,47.05,71.15,70.67,50.96,0,0,0,0,Problematic
+Guinea Bissau,GNB,Africa,92,95,58.79,51.15,50.82,68.42,62.4,61.18,0,0,0,0,Problematic
+Guyana,GUY,South America,34,51,76.41,70.06,67.76,75.61,81.4,87.21,0,0,0,0,Satisfactory
+Haiti,HTI,South America,70,87,64.55,59.6,50.34,72.22,80.67,59.91,2,0,0,0,Problematic
+Honduras,HND,South America,165,151,34.61,33.33,31.63,36.84,31.0,40.22,0,0,0,0,Very Serious
+Hong Kong,HKG,Asia Pacific,148,80,41.64,40.5,35.9,42.58,57.45,31.78,0,0,0,1,Difficult
+Hungary,HUN,Europe,85,92,59.8,47.07,32.31,67.25,67.33,85.03,0,0,0,0,Problematic
+Iceland,ISL,Europe,15,16,82.69,86.21,65.56,82.68,87.5,91.5,0,0,0,0,Satisfactory
+India,IND,Asia Pacific,150,142,41.0,40.76,30.36,57.02,56.25,20.61,1,0,11,0,Difficult
+Indonesia,IDN,Asia Pacific,117,113,49.27,45.91,41.33,55.7,66.0,37.42,0,0,0,0,Difficult
+Iran,IRN,Middle  East,178,174,23.22,30.71,21.32,26.71,23.78,13.61,1,0,3,0,Very Serious
+Iraq,IRQ,Middle  East,172,163,28.59,34.14,20.07,29.82,40.67,18.27,0,0,2,0,Very Serious
+Ireland,IRL,Europe,6,12,88.3,89.24,79.08,85.09,92.5,95.58,0,0,0,0,Good
+Israel,ISR,Middle  East,86,86,59.62,65.15,55.1,53.51,77.75,46.61,0,0,2,0,Problematic
+Italy,ITA,Europe,58,41,68.16,65.89,47.52,73.93,80.0,73.48,0,0,0,0,Problematic
+Ivory Coast,CIV,Africa,37,66,74.46,74.89,58.45,75.94,81.43,81.6,0,0,0,0,Satisfactory
+Jamaica,JAM,South America,12,7,83.35,74.85,71.94,82.46,95.0,92.52,0,0,0,0,Satisfactory
+Japan,JPN,Asia Pacific,71,67,64.37,54.66,53.7,66.23,67.06,80.19,0,0,0,0,Problematic
+Jordan,JOR,Middle  East,120,129,48.66,40.0,32.65,41.23,66.0,63.4,0,0,0,0,Difficult
+Kazakhstan,KAZ,Asia Pacific,122,155,48.28,43.52,29.8,51.93,52.3,63.85,0,1,3,0,Difficult
+Kenya,KEN,Africa,69,102,64.59,62.42,46.33,72.28,78.0,63.92,0,0,0,0,Problematic
+Kosovo,XKX,Europe,61,78,67.0,64.34,45.24,80.85,74.33,70.26,0,0,0,0,Problematic
+Kuwait,KWT,Middle  East,158,105,37.87,32.73,19.39,36.84,27.0,73.41,0,0,0,0,Very Serious
+Kyrgyzstan,KGZ,Asia Pacific,72,79,64.25,59.9,48.64,68.86,69.0,74.83,0,0,0,1,Problematic
+Laos,LAO,Asia Pacific,161,172,36.64,36.06,20.92,31.58,44.0,50.64,0,0,0,0,Very Serious
+Latvia,LVA,Europe,22,22,79.17,78.96,64.58,80.89,87.36,84.06,0,0,0,0,Satisfactory
+Lebanon,LBN,Middle  East,130,107,46.58,50.91,38.27,50.22,60.5,33.02,0,0,1,0,Difficult
+Lesotho,LSO,Africa,88,88,59.39,57.37,40.14,57.31,74.0,68.11,0,0,0,0,Problematic
+Liberia,LBR,Africa,75,98,62.77,55.5,32.8,74.69,82.57,68.3,0,0,0,0,Problematic
+Libya,LBY,Middle  East,143,165,43.16,54.42,34.9,44.91,45.0,36.58,0,0,0,0,Difficult
+Liechtenstein,LIE,Europe,10,23,84.03,80.36,68.78,84.74,89.8,96.46,0,0,0,0,Satisfactory
+Lithuania,LTU,Europe,9,28,84.14,87.01,72.16,84.46,89.71,87.37,0,0,0,0,Satisfactory
+Luxembourg,LUX,Europe,21,20,79.81,82.94,66.33,72.93,88.71,88.14,0,0,0,0,Satisfactory
+Madagascar,MDG,Africa,98,57,58.02,52.58,35.08,64.47,64.5,73.47,0,0,0,0,Problematic
+Malawi,MWI,Africa,80,62,61.4,55.76,38.44,78.07,67.67,67.08,0,0,0,0,Problematic
+Malaysia,MYS,Asia Pacific,113,119,51.55,46.52,42.6,40.13,56.0,72.48,0,0,0,0,Difficult
+Maldives,MDV,Asia Pacific,87,72,59.55,62.27,38.27,67.11,55.0,75.12,0,0,0,0,Problematic
+Mali,MLI,Africa,111,99,54.48,35.15,42.6,74.34,78.5,41.81,0,0,0,0,Difficult
+Malta,MLT,Europe,78,81,61.55,46.82,41.33,67.98,74.75,76.87,0,0,0,0,Problematic
+Mauritania,MRT,Arab States,97,94,58.1,55.15,35.13,64.29,64.29,71.67,0,0,0,0,Problematic
+Mauritius,MUS,Africa,64,61,66.07,55.58,47.81,64.16,80.29,82.5,0,0,0,0,Problematic
+Mexico,MEX,South America,127,143,47.57,58.18,43.37,65.79,59.5,11.02,9,0,0,0,Difficult
+Moldova,MDA,Europe,40,89,73.47,70.15,47.83,83.0,85.88,80.48,0,0,0,0,Satisfactory
+Mongolia,MNG,Asia Pacific,90,68,59.17,55.48,36.18,60.37,69.55,74.27,0,0,0,0,Problematic
+Montenegro,MNE,Europe,63,104,66.54,62.51,47.67,77.19,71.0,74.33,0,0,0,0,Problematic
+Morocco,MAR,Arab States,135,136,45.42,51.67,28.83,55.81,56.0,34.82,0,0,0,0,Difficult
+Mozambique,MOZ,Africa,116,108,49.89,46.06,40.31,61.62,47.25,54.21,0,0,0,0,Difficult
+Myanmar,MMR,Asia Pacific,176,140,25.03,40.4,29.25,20.18,30.67,4.63,1,0,22,1,Very Serious
+Namibia,NAM,Africa,18,24,81.84,72.97,69.8,82.98,91.6,91.84,0,0,2,0,Satisfactory
+Nepal,NPL,Asia Pacific,76,106,62.67,59.8,40.14,66.08,77.33,69.99,0,0,0,0,Problematic
+Netherlands,NLD,Europe,28,6,77.93,86.3,82.86,87.28,86.1,47.09,0,0,0,0,Satisfactory
+New Zealand,NZL,Asia Pacific,11,8,83.54,90.15,75.26,74.78,89.75,87.76,0,0,0,0,Satisfactory
+Nicaragua,NIC,South al America,160,121,37.09,37.45,38.78,31.75,49.8,27.68,0,0,0,0,Very Serious
+Niger,NER,Africa,59,59,67.8,62.3,46.73,71.75,76.5,81.69,0,0,2,0,Problematic
+Nigeria,NGA,Africa,129,120,46.79,45.15,36.39,53.8,69.83,28.75,0,0,1,0,Difficult
+North Korea,PRK,Asia Pacific,180,179,13.92,22.42,0.0,22.81,12.0,12.38,0,0,0,0,Very Serious
+North Macedonia,MKD,Europe,57,90,68.44,66.16,43.71,81.29,73.17,77.85,0,0,0,0,Problematic
+Northern Cyprus,CYP,Europe,81,76,61.08,56.48,38.78,69.82,60.2,80.14,0,0,0,0,Problematic
+Norway,NOR,Europe,1,1,92.65,94.89,90.38,92.23,93.71,92.03,0,0,0,0,Good
+OECS,,,55,45,68.49,62.91,48.37,68.25,79.8,83.13,0,0,0,0,Problematic
+Oman,OMN,Middle  East,163,133,35.99,32.73,23.98,18.42,45.0,59.82,0,0,0,0,Very Serious
+Pakistan,PAK,Asia Pacific,157,145,37.99,39.57,31.92,53.26,47.43,17.75,1,0,0,0,Very Serious
+Palestine,PSE,Middle  East,170,132,28.98,35.45,15.82,36.4,36.5,20.74,2,0,0,0,Very Serious
+Panama,PAN,South America,74,77,62.78,54.24,47.45,64.04,74.0,74.15,0,0,0,0,Problematic
+Papua New Guinea,PNG,Asia Pacific,62,47,66.66,62.42,45.24,66.08,81.33,78.23,0,0,0,0,Problematic
+Paraguay,PRY,South America,96,100,58.36,54.24,31.12,75.44,65.0,65.99,0,0,0,0,Problematic
+Peru,PER,South America,77,91,61.75,66.97,41.84,70.61,63.0,66.35,0,0,0,0,Problematic
+Philippines,PHL,Asia Pacific,147,138,41.84,44.44,23.13,54.97,61.83,24.83,0,0,0,0,Difficult
+Poland,POL,Europe,66,64,65.64,50.95,57.41,68.95,82.53,68.33,0,0,0,0,Problematic
+Portugal,PRT,Europe,7,9,87.07,91.86,77.41,84.21,93.14,88.73,0,0,0,0,Good
+Qatar,QAT,Middle  East,119,128,49.03,59.7,46.94,43.86,42.5,52.17,0,0,0,0,Difficult
+Romania,ROU,Europe,56,48,68.46,66.77,46.77,76.46,81.67,70.63,0,0,0,0,Problematic
+Russia,RUS,Europe,155,150,38.82,36.36,34.84,44.61,51.29,27.0,0,0,6,0,Very Serious
+Rwanda,RWA,Africa,136,156,45.18,42.12,31.89,57.89,55.25,38.76,0,0,0,0,Difficult
+Samoa,WSM,Asia Pacific,45,21,71.39,61.82,56.12,64.91,85.0,89.12,0,0,0,0,Satisfactory
+Saudi Arabia,SAU,Middle  East,166,170,33.71,37.27,33.67,22.37,36.5,38.75,0,0,0,0,Very Serious
+Senegal,SEN,Africa,73,49,63.07,59.31,42.13,66.67,72.43,74.84,0,0,0,0,Problematic
+Serbia,SRB,Europe,79,93,61.51,47.47,34.92,79.92,74.22,71.03,0,0,0,0,Problematic
+Seychelles,SYC,Africa,13,52,83.33,80.45,69.13,85.31,90.25,91.5,0,0,0,0,Satisfactory
+Sierra Leone,SLE,Africa,46,75,71.03,73.71,50.38,78.4,77.5,75.14,0,0,0,0,Satisfactory
+Singapore,SGP,Asia Pacific,139,160,44.23,39.09,29.21,34.21,49.25,69.39,0,0,0,0,Difficult
+Slovakia,SVK,Europe,27,35,78.37,71.44,67.98,82.02,86.38,84.01,0,0,0,0,Satisfactory
+Slovenia,SVN,Europe,54,36,68.54,59.32,47.7,79.11,79.94,76.61,0,0,0,0,Problematic
+Somalia,SOM,Arab States,140,161,44.01,51.03,41.22,47.72,61.8,18.27,0,0,4,0,Difficult
+South Africa,ZAF,Africa,35,32,75.56,75.96,62.59,84.36,82.5,72.39,0,0,0,0,Satisfactory
+South Korea,KOR,Asia Pacific,43,42,72.11,71.15,55.31,72.81,79.8,81.5,0,0,0,0,Satisfactory
+South Sudan,SSD,Africa,128,139,47.06,40.48,36.73,52.11,50.6,55.37,0,0,0,0,Difficult
+Spain,ESP,Europe,32,29,76.71,72.73,63.38,82.16,81.89,83.4,0,0,0,0,Satisfactory
+Sri Lanka,LKA,Asia Pacific,146,127,42.13,40.91,27.04,53.07,48.25,41.37,0,0,0,0,Difficult
+Sudan,SDN,Arab States,151,159,40.96,47.05,29.97,41.45,51.0,35.35,0,0,0,0,Difficult
+Suriname,SUR,South America,52,19,68.95,67.88,55.1,62.28,84.0,75.51,0,0,0,0,Problematic
+Sweden,SWE,Europe,3,3,88.84,91.96,87.66,90.27,90.18,84.14,0,0,0,0,Good
+Switzerland,CHE,Europe,14,10,82.72,90.0,68.37,80.99,88.33,85.92,0,0,0,0,Satisfactory
+Syria,SYR,Middle  East,171,173,28.94,33.51,27.62,33.58,36.57,13.39,1,0,3,0,Very Serious
+Taiwan,TWN,Asia Pacific,38,43,74.08,74.78,51.88,79.01,77.69,87.02,0,0,0,0,Satisfactory
+Tajikistan,TJK,Asia Pacific,152,162,40.26,33.79,29.85,48.68,46.0,42.96,0,0,5,0,Difficult
+Tanzania,TZA,Africa,123,124,48.28,43.88,32.65,45.09,59.2,60.56,0,0,5,0,Difficult
+Thailand,THA,Asia Pacific,115,137,50.15,58.99,45.24,47.37,53.67,45.5,0,0,5,0,Difficult
+Timor-Leste,TLS,Asia Pacific,17,71,81.89,85.45,68.71,85.96,75.67,93.65,0,0,5,0,Satisfactory
+Togo,TGO,Africa,100,74,57.17,57.52,41.73,61.93,69.5,55.15,0,0,5,0,Problematic
+Tonga,TON,Asia Pacific,49,46,69.74,69.7,53.06,66.67,69.5,89.8,0,0,5,0,Problematic
+Trinidad and Tobago,TTO,South America,25,31,78.68,73.94,67.86,74.56,84.5,92.52,0,0,5,0,Satisfactory
+Tunisia,TUN,Arab States,94,73,58.49,61.82,41.84,67.19,70.2,51.42,0,0,5,0,Problematic
+Turkey,TUR,Europe,149,153,41.25,38.38,27.55,52.92,55.0,32.37,0,0,1,0,Difficult
+Turkmenistan,TKM,Asia Pacific,177,178,25.01,25.0,11.73,29.61,23.0,35.69,0,0,5,0,Very Serious
+Uganda,UGA,Africa,132,125,46.35,44.7,36.99,60.96,56.0,33.09,0,0,2,0,Difficult
+Ukraine,UKR,Europe,106,97,55.76,61.21,42.86,79.45,76.43,18.84,7,1,0,0,Problematic
+United Arab Emirates,ARE,Middle  East,138,131,44.46,45.45,36.73,32.02,50.5,57.59,0,0,1,0,Difficult
+United Kingdom,GBR,Europe,24,33,78.71,80.57,72.75,76.63,84.29,79.33,0,0,0,0,Satisfactory
+United States,USA,North America,42,44,72.74,72.99,59.33,77.32,81.43,72.63,0,0,0,0,Satisfactory
+Uruguay,URY,South America,44,18,72.03,70.3,49.32,83.63,72.33,84.58,0,0,0,0,Satisfactory
+Uzbekistan,UZB,Asia Pacific,133,157,45.74,44.75,35.71,50.88,53.33,44.03,0,0,0,0,Difficult
+Venezuela,VEN,South America,159,148,37.78,33.7,31.73,44.74,47.5,31.22,0,0,0,0,Very Serious
+Vietnam,VNM,Asia Pacific,174,175,26.11,32.32,18.71,27.49,34.67,17.37,0,0,1,0,Very Serious
+Yemen,YEM,Middle  East,169,169,29.14,33.03,27.55,38.6,35.0,11.54,3,0,4,0,Very Serious
+Zambia,ZMB,Africa,109,115,55.4,52.35,37.76,58.33,64.0,64.55,0,0,0,0,Problematic
+Zimbabwe,ZWE,Africa,137,130,44.94,40.3,32.4,54.17,54.5,43.34,0,0,0,0,Difficult

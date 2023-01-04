@@ -3,6 +3,7 @@ Exploratory Data Analysis:  <br />
 Handled '?' using NaN and  rectified dtype of A2,A14 columns <br />
 for Categorical missing values ,I have replaced with most_frequent_ones as they were not many missing values<br />
 for numerical missing values, I have reolaced with wnd_of distribution as they were many outliers<br />
+used one hot encoding for handling categorical features<br />
 <br />
 <br />
 models and Accuracy <br />

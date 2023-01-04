@@ -36,3 +36,15 @@ Accuracy on Test Data : 99.67%
 #### ResNet
 Accuracy on Train Data : 99.04% 
 Accuracy on Test Data : 95.72%
+
+### Model Visualisation
+
+#### VGGNet
+
+![VGGNet](/Fish%20Segmentation/extras/plots/VGGNet.png)
+
+#### ResNet
+
+![ResNet](/Fish%20Segmentation/extras/plots/ResNet.png)
+
+

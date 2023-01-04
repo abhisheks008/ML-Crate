@@ -1,0 +1,16 @@
+Python version 3.6 or above needs to be installed.
+
+The pip version needs to be updated.
+
+Use of Jupiter Notebook for better visuals.
+
+Library needs to install:-
+
+NumPy
+Pandas 
+Seaborn 
+Matplotlib
+Re
+Plotly
+
+

@@ -1,5 +1,5 @@
 <div align="center">
-  <h1>Machine Learning Loot Crate 💻🧰</h1>
+  <h1>ML-Crate 💻🧰</h1>
   <h3>Website for ML-Crate Project Repo: <a href="https://tinyurl.com/ml-crate">Click Here!</a></h3>
 </div>
 
@@ -21,7 +21,7 @@
 
 **************************************************
 ## 🔴:yellow_circle: Welcome contributors!
-As we all know the BGMI Loot Crate comes with so many resources for the gamers, this ML Crate will be the hub of various ML projects which will be the resources for the ML enthusiasts!
+ML Crate stands as the ultimate hub for a multitude of exciting ML projects, serving as the go-to resource haven for passionate and dedicated ML enthusiasts!
 
 ## Structure of the Projects 📝
 This repository consists of various machine learning projects, and all of the projects must follow a certain template. I wish the contributors will take care of this while contributing in this repository. <br><br>
@@ -40,26 +40,29 @@ This repository consists of various machine learning projects, and all of the pr
 <table>
 <tr>
  <td align="center">
-<a href="https://github.com/abhisheks008"><img src="https://media-exp1.licdn.com/dms/image/C560BAQGh8hr-FgbrHw/company-logo_200_200/0/1602422883512?e=2159024400&v=beta&t=s8IX2pN1J2v5SRRbgzVNzxnQ2rWeeMq2Xb__BYW60qE" width=100px height=100px /><br /><sub><b>Script WoC 2021</b></sub></a>
+<a href="https://github.com/abhisheks008"><img src="https://media-exp1.licdn.com/dms/image/C560BAQGh8hr-FgbrHw/company-logo_200_200/0/1602422883512?e=2159024400&v=beta&t=s8IX2pN1J2v5SRRbgzVNzxnQ2rWeeMq2Xb__BYW60qE" width=60px height=60px /><br /><sub><b>SWOC 2021</b></sub></a>
  </td>
   <td align="center">
-<a href="https://jwoc.tech/"><img src="https://github.com/abhisheks008/abhisheks008/blob/main/jwoc.png" width=100px height=100px /><br /><sub><b>JGEC WoC 2022</b></sub></a>
+<a href="https://jwoc.tech/"><img src="https://github.com/abhisheks008/abhisheks008/blob/main/jwoc.png" width=60px height=60px /><br /><sub><b>JWOC 2022</b></sub></a>
  </td>
   <td align="center">
-<a href="https://csirait.in/opencode/"><img src="https://i.imgur.com/zu9thTP.png" width=100px height=100px /><br /><sub><b>OpenCode CSI RAIT 2022</b></sub></a>
+<a href="https://csirait.in/opencode/"><img src="https://i.imgur.com/zu9thTP.png" width=60px height=60px /><br /><sub><b>OpenCode 2022</b></sub></a>
  </td>
   </td>
   <td align="center">
-<a href="https://www.psoc.in/"><img src="https://www.psoc.in/img/psoc-logo-1.png" width=100px height=100px /><br /><sub><b>PClub SoC 2022</b></sub></a><br />
+<a href="https://www.psoc.in/"><img src="https://d8it4huxumps7.cloudfront.net/uploads/images/150x150/62daac5dc1e55_psoc-3.png?d=110x110" width=60px height=60px /><br /><sub><b>PSOC 2022</b></sub></a><br />
  </td>
  <td align="center">
-<a href="http://hrsoc.herokuapp.com/"><img src="https://soc.hackclubrait.co/static/media/hackclubrait-logo.bd4b56eb391b58b8a921.png" width=100px height=100px /><br /><sub><b>HackClubRAIT SoC</b></sub></a>
+<a href="http://hrsoc.herokuapp.com/"><img src="https://media.licdn.com/dms/image/C4E0BAQHN1aAA06huNg/company-logo_200_200/0/1632670085350?e=1709164800&v=beta&t=VZgYogeAWIFrODWpMDUBCGO7B5vJF2Q5QrHwYwiY8WY" width=60px height=60px /><br /><sub><b>HackClubRAIT SoC</b></sub></a>
  </td>
  <td align="center">
-<a href="https://kwoc.kossiitkgp.org/"><img src="https://github.com/World-of-ML/ML-Crate/blob/main/Assets/1602335093424.jpg" width=100px height=100px /><br /><sub><b>Kharagpur WoC 2022</b></sub></a>
+<a href="https://kwoc.kossiitkgp.org/"><img src="https://github.com/World-of-ML/ML-Crate/blob/main/Assets/1602335093424.jpg" width=60px height=60px /><br /><sub><b>KWOC 2022</b></sub></a>
  </td>
  <td align="center">
-<a href="https://dwoc.io/"><img src="https://github.com/World-of-ML/DL-Simplified/blob/main/.github/Assets/dwoc.png" width=100px height=100px /><br /><sub><b>Delta WoC 2023</b></sub></a>
+<a href="https://dwoc.io/"><img src="https://github.com/World-of-ML/DL-Simplified/blob/main/.github/Assets/dwoc.png" width=60px height=60px /><br /><sub><b>DWOC 2023</b></sub></a>
+ </td>
+ <td align="center">
+<a href="https://kwoc.kossiitkgp.org/"><img src="https://github.com/World-of-ML/ML-Crate/blob/main/Assets/1602335093424.jpg" width=60px height=60px /><br /><sub><b>KWOC 2023-24</b></sub></a>
  </td>
 </tr>
 </table>
@@ -205,7 +208,7 @@ Thanks goes to these Wonderful People. Contributions of any kind are welcome!�
 
 <table>
   <tr>
-<td align="center"><a href="https://github.com/abhisheks008"><img src="https://avatars.githubusercontent.com/u/68724349?v=4" width="80px;" alt=""/><br /><sub><b>Abhishek Sharma</b></sub></a></td>
+<td align="center"><a href="https://github.com/abhisheks008"><img src="https://media.licdn.com/dms/image/D4D03AQGQTlxaMZxd0g/profile-displayphoto-shrink_400_400/0/1692163090822?e=1706745600&v=beta&t=BsruwBk9YQelT6xQ_zmtsMwL0Nh2vXk3HGSp7rRvN78" width="80px;" alt=""/><br /><sub><b>Abhishek Sharma</b></sub></a></td>
   </tr>
 </table>
 
@@ -226,7 +229,7 @@ If you want to contact me, you can reach me through social handles.
 <a href="https://twitter.com/abhishek_py3"><img src="https://seeklogo.com/images/T/twitter-icon-circle-blue-logo-0902F48837-seeklogo.com.png" width="25"></img></a>&nbsp;&nbsp; <a href="https://www.linkedin.com/in/abhishek-sharma-aa06a9183/"><img src="https://www.felberpr.com/wp-content/uploads/linkedin-logo.png" width="25"></img></a>
 
 
-© 2022 Abhishek Sharma
+© 2023 Abhishek Sharma
 
 
 [![forthebadge](https://forthebadge.com/images/badges/built-with-love.svg)](https://forthebadge.com) [![forthebadge](https://forthebadge.com/images/badges/built-by-developers.svg)](https://forthebadge.com) [![forthebadge](https://forthebadge.com/images/badges/built-with-swag.svg)](https://forthebadge.com)

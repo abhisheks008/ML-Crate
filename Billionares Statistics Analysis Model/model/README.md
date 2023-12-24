@@ -1,4 +1,5 @@
 # PROJECT TITLE
+Billionaires Statistics Analysis Model 
 
 # GOAL
 
@@ -22,7 +23,7 @@ https://www.kaggle.com/datasets/nelgiriyewithana/billionaires-statistics-dataset
 
 # DESCRIPTION
 
-This project was about analysing different parameters of relation to billionares. I was able to make conclusions related to the gender, demographics, age etc of the billionares.
+This project was about analysing different parameters of relation to billionares. I was able to make conclusions related to the gender, demographics, age etc of the billionaires.
 
 # WHAT I HAD DONE
 
@@ -34,8 +35,12 @@ This project was about analysing different parameters of relation to billionares
 
 4. Next, I visualized the data using specific graphs that I felt could be analysed easily. For example using box plots to spot outliers. I listed down my conclusions for each of these graphs.
 
+# Visualization
 
-
+![Alt text](<Billionares vs Industries-2.png>)
+![Alt text](<billionaires vs gender-1.png>)
+![Alt text](<top countires for billionaires to relocate-3.png>)
+![Alt text](<categorical values analysis.png>)
 
 
 # LIBRARIES NEEDED
@@ -44,18 +49,27 @@ pandas
 numpy
 matplotlib.pyplot
 seaborn
-plotly.graph_objects
-plotly.express
-
-# VISUALIZATION
-
-![Alt text](<Billionares vs Industries.png>)
 
 
-CONCLUSION
 
-What's the conclusion derived from this project and also showcase the accuracy results if it's applicable. Be briefer
+# CONCLUSION
 
-YOUR NAME
+I made the following conclusions with the help of this analysis:
+
+There are more male billionaires than female.
+
+The ratio of self made to non self made billionaires is >1 in males and <1 in females.
+
+The United States has most billionaires.
+
+The most preferred country for relocation for billionaires is the UK.
+
+Most billionaires lie in the advanced age bracket.
+
+Bernard Arnault & family, Elon Musk, and Jeff Bezos stand out due to their exceptional wealth compared to the rest of the billionaire cohort.
+
+Nigeria's average life expectancy of 54.3 emerges as an outlier due to its relatively lower value.
+
+# YOUR NAME
 
 Manya S. Chopra

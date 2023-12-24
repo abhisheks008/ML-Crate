@@ -1,0 +1,61 @@
+# PROJECT TITLE
+
+# GOAL
+
+Performing exploratory data analysis on a dataset containing billionare statistics. Such EDA has various potential analysis areas like:
+
+Wealth Distribution Exploration: Examine how billionaires' wealth is distributed across various industries, countries, and regions.
+
+Demographic Profiling: Investigate the demographics of billionaires, including age, gender, and birthplace data.
+
+Origins of Wealth: Analyze the ratio between self-made billionaires and those who inherited their wealth.
+
+Economic Indicator Correlations: Study relationships between billionaire wealth and economic metrics such as GDP, CPI, and tax rates.
+
+Geospatial Representation: Visualize the global distribution of billionaires and their amassed wealth through mapping techniques.
+
+Temporal Trends: Track the evolving patterns in billionaire demographics and wealth across different time frames.
+
+# DATASET
+
+https://www.kaggle.com/datasets/nelgiriyewithana/billionaires-statistics-dataset/data
+
+# DESCRIPTION
+
+This project was about analysing different parameters of relation to billionares. I was able to make conclusions related to the gender, demographics, age etc of the billionares.
+
+# WHAT I HAD DONE
+
+1. First I uploaded the dataset as a pandas dataframe and listed the top few rows to get an overview of the data. This overview was extended to getting to know about all the different paramters as well shape of the dataset.
+
+2. The second thing was data preprocessing, I made suitable fixes for missing values and unwanted parameters like for example the birth day, date, month and year. There were no duplicate values in the dataset.
+
+3. Then I started with some descriptive statistics like maximum, minimum, mean etc for numerical data and most frequent category, maximum count etc for categorical data.
+
+4. Next, I visualized the data using specific graphs that I felt could be analysed easily. For example using box plots to spot outliers. I listed down my conclusions for each of these graphs.
+
+
+
+
+
+# LIBRARIES NEEDED
+
+pandas
+numpy
+matplotlib.pyplot
+seaborn
+plotly.graph_objects
+plotly.express
+
+# VISUALIZATION
+
+![Alt text](<Billionares vs Industries.png>)
+
+
+CONCLUSION
+
+What's the conclusion derived from this project and also showcase the accuracy results if it's applicable. Be briefer
+
+YOUR NAME
+
+Manya S. Chopra

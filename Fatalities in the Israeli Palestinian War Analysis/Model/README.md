@@ -30,16 +30,14 @@ Link to the dataset: https://www.kaggle.com/datasets/willianoliveiragibin/fatali
 
 # Data Visualization and Correlation
 
-![Image1](Image 1.png)
-![Image2](Image 2.png)
-![Image3](Image 3.png)
-![Image4](Image 4.png)
-![Image5](Image 5.png)
-![Image6](Image 6.png)
-![Image7](Image 7.png)
-![Image8](Image 8.png)
-
-
+![Alt text](<Image 2.png>) 
+![Alt text](<Image 3.png>) 
+![Alt text](<Image 4.png>) 
+![Alt text](<Image 5.png>) 
+![Alt text](<Image 6.png>) 
+![Alt text](<Image 7.png>) 
+![Alt text](<Image 8.png>) 
+![Alt text](<Image 1.png>)
 
 # Conclusion
 

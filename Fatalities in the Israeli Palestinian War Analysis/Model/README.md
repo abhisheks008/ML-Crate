@@ -30,14 +30,14 @@ Link to the dataset: https://www.kaggle.com/datasets/willianoliveiragibin/fatali
 
 # Data Visualization and Correlation
 
-![Image 1]("C:\Users\prama\Pictures\Screenshots\Screenshot (39).png" "Image 1")
-![Image 2]("C:\Users\prama\Pictures\Screenshots\Screenshot (38).png" "Image 2")
-![Image 3]("C:\Users\prama\Pictures\Screenshots\Screenshot (37).png" "Image 3")
-![Image 4]("C:\Users\prama\Pictures\Screenshots\Screenshot (36).png" "Image 4")
-![Image 5]("C:\Users\prama\Pictures\Screenshots\Screenshot (35).png" "Image 5")
-![Image 6]("C:\Users\prama\Pictures\Screenshots\Screenshot (34).png" "Image 6")
-![Image 7]("C:\Users\prama\Pictures\Screenshots\Screenshot (33).png" "Image 7")
-![Image 8]("C:\Users\prama\Pictures\Screenshots\Screenshot (32).png" "Image 8")
+![Image 1](../Images/Image%201.png "Image 1")
+![Image 2](../Images/Image%202.png "Image 2")
+![Image 3](../Images/Image%203.png "Image 3")
+![Image 4](../Images/Image%204.png "Image 4")
+![Image 5](../Images/Image%205.png "Image 5")
+![Image 6](../Images/Image%206.png "Image 6")
+![Image 7](../Images/Image%207.png "Image 7")
+![Image 8](../Images/Image%208.png "Image 8")
 
 # Conclusion
 

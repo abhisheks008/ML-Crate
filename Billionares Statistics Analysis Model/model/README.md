@@ -35,13 +35,6 @@ This project was about analysing different parameters of relation to billionares
 
 4. Next, I visualized the data using specific graphs that I felt could be analysed easily. For example using box plots to spot outliers. I listed down my conclusions for each of these graphs.
 
-# Visualization
-
-![Alt text](<Billionares vs Industries-2.png>)
-![Alt text](<billionaires vs gender-1.png>)
-![Alt text](<top countires for billionaires to relocate-3.png>)
-![Alt text](<categorical values analysis.png>)
-
 
 # LIBRARIES NEEDED
 

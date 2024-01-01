@@ -35,13 +35,18 @@ Brief description about the project
 
 - Matplotlib
 
-- Seaborn 
-
-- Scikit Learn
+- Seaborn
 
 **VISUALIZATION**
 
-INCLUSION OF IMAGES OF THE VISUALIZATION IS MUST (RESULT OF EDA).
+- ![correlation_matrix](https://github.com/BhardwajArjit/ML-Crate/assets/109625851/aed18b01-5608-4d18-933d-83e872780a8c)
+
+- ![calories_burned_by_day_of_the_week](https://github.com/BhardwajArjit/ML-Crate/assets/109625851/9893a616-bad1-48e4-9739-1ff8f7692e74)
+
+- ![most_and_least_active_hours_of_the_day](https://github.com/BhardwajArjit/ML-Crate/assets/109625851/cfb3c063-aa46-4fa4-9eba-f0bc03ddafba)
+
+- ![total_steps_and_sedentary_mins_vs_calories](https://github.com/BhardwajArjit/ML-Crate/assets/109625851/f3d656c6-1c4f-476a-8c45-ce6a8b103a89)
+
 
 **ACCURACIES**
 

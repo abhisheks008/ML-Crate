@@ -61,6 +61,7 @@ Classification algorithms like:
 
 Ranking models based on accuracy:
 
+- DistilBert: 54.70%
 - Naive-Bayes: 54.42%
 - SVM: 53.67%
 - Random Forest Classifier: 53.86%

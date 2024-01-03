@@ -1,4 +1,4 @@
-**PROJECT TITLE**
+**BellaBeat - Capstone Project by Google**
 
 **GOAL**
 

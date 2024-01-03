@@ -12,5 +12,7 @@ Libraries Used :
 
 
 Conclusion:
-The highest number of total points scored were 100. The contest was not held in the year 2020 as is evident from the "Total points scored over the years" plot. In the later years the total points scored have increased manifolds.
-Out of all the countries in which the contest was held in, Ireland had the most number of honor of hosting the contest.
+100 points were scored the most number of times. The contest was not held in the year 2020 as is evident from the "Total Points scored over the years" plot. The graph also tells that the total points scored over the years have increased significantly with being less than 100 before 1970 and well over 400 after 2010. 
+Ireland had the honor of hosting the Eurovision contest most number of times between 1956 and 2022.
+The most points ever scored were in the contest held in Portugal.
+"Amar pelos dois" written by "LuÃ­sa Sobral" and performed by "Salvador Sobral".

@@ -29,13 +29,15 @@ Eurovision Song Contest is an international song competition organised annually.
 4. NumPy
 
 **VISUALIZATION**
-
+![] (https://github.com/mariam7084/ML-Crate_me/blob/main/Eurovision%20Song%20Contest%20Analysis/Images/Artists%20vs%20the%20points%20scored%20by%20them.png)
 
 **CONCLUSION**
 
-100 points were scored the most number of times. The contest was not held in the year 2020 as is evident from the "Total Points scored over the years" plot. The graph also tells that the total points scored over the years have increased significantly with being less than 100 before 1970 and well over 400 after 2010. 
-Ireland had the honor of hosting the Eurovision contest most number of times between 1956 and 2022.
-The most points ever scored by any artist was in the contest held in Portugal."Amar pelos dois" written by "LuÃ­sa Sobral" and performed by "Salvador Sobral" got the highest ever total points in the Eurovision Contest between 1956 and 2022
+- 100 points were scored the most number of times.
+-  The contest was not held in the year 2020 as is evident from the "Total Points scored over the years" plot.
+-   The graph also tells that the total points scored over the years have increased significantly with being less than 100 before 1970 and well over 400 after 2010.
+- Ireland had the honor of hosting the Eurovision contest most number of times between 1956 and 2022.
+-The most points ever scored by any artist was in the contest held in Portugal."Amar pelos dois" written by "LuÃ­sa Sobral" and performed by "Salvador Sobral" got the highest ever total points in the Eurovision Contest between 1956 and 2022
 
 **YOUR NAME**
 

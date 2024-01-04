@@ -30,7 +30,7 @@ Eurovision Song Contest is an international song competition organised annually.
 
 **VISUALIZATION**
 
-![Artists v/s the Points Scored by Them"](Eurovision Song Contest Analysis/Images/Artists vs the points scored by them.png "Artists v/s the Points Scored by Them")
+![Artists v/s the Points Scored by Them"](Eurovision Song Contest Analysis/Images/Artists vs the points scored by them.png)
 
 ![Songs vs the points they scored"](../Images/Songs vs the points they scored.png "Songs vs the points they scored")
 

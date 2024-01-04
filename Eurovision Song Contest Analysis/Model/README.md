@@ -30,27 +30,6 @@ Eurovision Song Contest is an international song competition organised annually.
 
 **VISUALIZATION**
 
-![Artists v/s the Points Scored by Them"]("Eurovision Song Contest Analysis/Images/Artists vs the points scored by them.png")
-<img src=Eurovision Song Contest Analysis/Images/Artists vs the points scored by them.png/>
-
-![Songs vs the points they scored"](../Images/Songs vs the points they scored.png "Songs vs the points they scored")
-
-![Songwriter(s) vs the points the scored by their songs"](../Images/Songwriter(s) vs the points the scored by their songs.png "Songwriter(s) vs the points the scored by their songs")
-
-![Countries sorted by total points scored in the Eurovision Contests held in them'"](../Images/Countries sorted by total points scored in the Eurovision Contests held in them'.png "Countries sorted by total points scored in the Eurovision Contests held in them'")
-
-![year of contest and country it was held in"](../Images/year of contest and country it was held in.png "year of contest and country it was held in")
-
-![Total Points scored over the years"](../Images/Total Points scored over the years.png "Total Points scored over the years")
-
-![Total Points Distribution"](../Images/Total Points Distribution.png "Total Points Distribution")
-
-![Kernel Density Estimate of the Total Points"](../Images/Kernel Density Estimate of the Total Points.png "Kernel Density Estimate of the Total Points")
-
-![Histplot and KDE of 'Running Order'"](../Images/Histplot and KDE of 'Running Order'.png "Histplot and KDE of 'Running Order'")
-
-![Number of contests held in different countries"](../Images/Number of contests held in different countries.png "Number of contests held in different countries")
-
 
 **CONCLUSION**
 

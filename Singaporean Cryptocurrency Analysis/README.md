@@ -12,6 +12,20 @@ https://www.kaggle.com/datasets/imperialwarrior/singapore-crypto
 
 To analyze the dataset of Singaporean Cryptocurrency Analysis 
 
+ ### Visualization and EDA of different attributes:
+ 
+<img width="608" alt="Screenshot 2022-07-16 at 4 52 59 PM" src="./Images/ADA-SGD.png">
+
+<img width="608" alt="Screenshot 2022-07-16 at 4 53 10 PM" src="./Images/BNB-SGD.png">
+
+<img width="608" alt="Screenshot 2022-07-16 at 4 53 18 PM" src="./Images/DOGE-SGD.png">
+
+<img width="608" alt="Screenshot 2022-07-16 at 4 53 32 PM" src="./Images/ETH-SGD.png">
+
+<img width="671" alt="Screenshot 2022-07-16 at 4 53 26 PM" src="./Images/LTC-SGD.png">
+
+<img width="566" alt="Screenshot 2022-07-16 at 4 53 39 PM" src="./Images/MATIC-SGD.png">
+
 **WHAT I HAD DONE**
 
 * Checked for first dataset values out of 7537 datasets.

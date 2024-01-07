@@ -53,5 +53,5 @@ Contributions to enhance the datasets or provide additional insights are welcome
 
 ## Acknowledgments
 
-Special thanks to [www.kaggle.com] for providing these datasets.
+Special thanks to ![www.kaggle.com] for providing these datasets.
 

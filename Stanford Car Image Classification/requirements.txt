@@ -1,0 +1,7 @@
+- pytorch
+
+- torch vision
+
+- matplotlib
+
+- a GPU (CPU could be used but the code will take much longer to run)

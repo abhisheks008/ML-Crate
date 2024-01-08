@@ -1,0 +1,1 @@
+Dataset link: https://www.kaggle.com/datasets/jutrera/stanford-car-dataset-by-classes-folder

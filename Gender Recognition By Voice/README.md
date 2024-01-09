@@ -12,6 +12,18 @@ https://www.kaggle.com/datasets/alarmanovi/gender-recognition-by-voice-2023
 
 To analyze the dataset of Gender recognition by voice 2023 and build and train the model on the basis of their voice and predict the genders.
 
+### Visualization and EDA of different attributes:
+
+<img alt="Screenshot1" src="./Images/1.png">
+
+<img alt="Screenshot2" src="./Images/2.png">
+
+<img alt="Screenshot3" src="./Images/3.png">
+
+<img alt="Screenshot4" src="./Images/4.png">
+
+<img alt="Screenshot5" src="./Images/5.png">
+
 **MODELS USED**
  
 | Model                        | MSE              | R2               |

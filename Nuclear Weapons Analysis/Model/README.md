@@ -47,10 +47,10 @@ This project involves the analysis of datasets related to nuclear weapons, inclu
 - Plotted and compared the accuracy of each model on both training and test sets to assess overfitting or underfitting.
 - Provided classification reports for each model to understand precision, recall, and F1-score.
 
- 1. ![Nuclear Weapon Proliferation Owid](https://github.com/adi271001/ML-Crate/blob/Nuclear-Weapons-Analysis/Nuclear-Weapons-Analysis-And-Classification/Images/nw18.PNG)
- 2. ![Nuclear Weapon Proliferation Total Owid](https://github.com/adi271001/ML-Crate/blob/Nuclear-Weapons-Analysis/Nuclear-Weapons-Analysis-And-Classification/Images/nw19.PNG)
- 3. ![Nuclear Weapon Stockpiles](https://github.com/adi271001/ML-Crate/blob/Nuclear-Weapons-Analysis/Nuclear-Weapons-Analysis-And-Classification/Images/nw20.PNG)
- 4. ![Nuclear Weapon test states](https://github.com/adi271001/ML-Crate/blob/Nuclear-Weapons-Analysis/Nuclear-Weapons-Analysis-And-Classification/Images/nw21.PNG)
+ 1. ![Nuclear Weapon Proliferation Owid](https://github.com/adi271001/ML-Crate/blob/Nuclear-Weapons-Analysis/Nuclear%20Weapons%20Analysis/Images/nw18.PNG)
+ 2. ![Nuclear Weapon Proliferation Total Owid](https://github.com/adi271001/ML-Crate/blob/Nuclear-Weapons-Analysis/Nuclear%20Weapons%20Analysis/Images/nw18.PNG)
+ 3. ![Nuclear Weapon Stockpiles](https://github.com/adi271001/ML-Crate/blob/Nuclear-Weapons-Analysis/Nuclear%20Weapons%20Analysis/Images/nw18.PNG)
+ 4. ![Nuclear Weapon test states](https://github.com/adi271001/ML-Crate/blob/Nuclear-Weapons-Analysis/Nuclear%20Weapons%20Analysis/Images/nw18.PNG)
 
 ## Concluding Thoughts
 

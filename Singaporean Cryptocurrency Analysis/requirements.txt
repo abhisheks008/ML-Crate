@@ -1,0 +1,8 @@
+numpy==1.19.2
+pandas==1.4.3
+xgboost~=1.5.2
+scikit-learn~=1.0.2
+plotly==5.16.1
+plotly-express==0.4.1
+tensorflow==2.4.1
+keras==2.4.0

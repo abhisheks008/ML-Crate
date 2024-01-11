@@ -64,6 +64,13 @@ This repository consists of various machine learning projects, and all of the pr
  <td align="center">
 <a href="https://kwoc.kossiitkgp.org/"><img src="https://github.com/World-of-ML/ML-Crate/blob/main/Assets/1602335093424.jpg" width=60px height=60px /><br /><sub><b>KWOC 2023-24</b></sub></a>
  </td>
+ <td align="center">
+<a href="https://www.jwoc.tech/"><img src="https://github.com/abhisheks008/abhisheks008/blob/main/jwoc.png" width=60px height=60px /><br /><sub><b>JWOC 2024</b></sub></a>
+ </td>
+ <td align="center">
+<a href="https://iwoc.codes/#"><img src="https://github.com/abhisheks008/ML-Crate/blob/main/Assets/Iwoc_S2.png" width=60px height=60px /><br /><sub><b>IWOC 2.0</b></sub></a>
+ </td>
+
 </tr>
 </table>
 

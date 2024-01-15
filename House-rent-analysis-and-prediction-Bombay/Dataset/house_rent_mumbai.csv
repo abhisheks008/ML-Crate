@@ -1,0 +1,1001 @@
+,seller_name,seller_type,size,type_,type_of_house,name,location,city,price,area,area_type,status,deposit,no_bathroom,facing
+0,Kasturi Developers,BUILDER,2,BHK,Apartment,Shagun White Woods,Ulwe,Mumbai,"17,000",1180,Area in sq ft,Unfurnished,No Deposit,2 bathrooms,NorthEast facing
+1,Kasturi Developers,BUILDER,3,BHK,Apartment,Surana Tulsi Gaurav,Ulwe,Mumbai,"22,000",1720,Area in sq ft,Unfurnished,No Deposit,3 bathrooms,NorthEast facing
+2,Kasturi Developers,BUILDER,2,BHK,Apartment,Tricity Enclave,Ulwe,Mumbai,"12,500",1150,Area in sq ft,Unfurnished,No Deposit,2 bathrooms,NorthEast facing
+3,seller,VERIFIED OWNER,2,BHK,Apartment,Godrej Prime,Chembur,Mumbai,"55,000",1050,Area in sq ft,Semi-Furnished,No Deposit,2 bathrooms,
+4,seller,VERIFIED OWNER,2,BHK,Apartment,Tanvi Eminence Phase 2,Mira Road East,Mumbai,"18,500",1165,Area in sq ft,Semi-Furnished,No Deposit,2 bathrooms,East facing
+5,seller,VERIFIED OWNER,1,RK,Studio Apartment,,Ville Parle East,Mumbai,"17,000",200,Area in sq ft,Semi-Furnished,No Deposit,1 bathrooms,
+6,seller,VERIFIED OWNER,2,BHK,Apartment,Atul Blue Arch,Kandivali West,Mumbai,"28,500",750,Area in sq ft,Unfurnished,No Deposit,2 bathrooms,
+7,seller,VERIFIED OWNER,2,BHK,Apartment,Reputed Builder Genevieve,Nilje Gaon,Mumbai,"9,000",634,Area in sq ft,Unfurnished,No Deposit,2 bathrooms,
+8,seller,VERIFIED OWNER,2,BHK,Apartment,DSS Tivon Park,Ghatkopar West,Mumbai,"35,000",1089,Area in sq ft,Unfurnished,No Deposit,2 bathrooms,
+9,seller,VERIFIED OWNER,3,BHK,Apartment,Neelkanth Lotus Court,Fort,Mumbai,1.85 L,1450,Area in sq ft,Furnished,No Deposit,3 bathrooms,
+10,seller,VERIFIED OWNER,1,BHK,Apartment,Atlanta Enclave,Shil Phata,Mumbai,"18,500",680,Area in sq ft,Furnished,No Deposit,1 bathrooms,East facing
+11,seller,VERIFIED OWNER,1,BHK,Apartment,Sree Krishna Builders Shreeji Dham Neral,Neral,Mumbai,"5,500",490,Area in sq ft,Semi-Furnished,No Deposit,2 bathrooms,
+12,seller,VERIFIED OWNER,2,BHK,Apartment,Reputed Builder Suprema Casa Bella,Usarghar Gaon,Mumbai,"12,000",750,Area in sq ft,Semi-Furnished,No Deposit,2 bathrooms,
+13,seller,VERIFIED OWNER,2,BHK,Apartment,Reputed Builder palm islend 3,Goregaon East,Mumbai,"26,000",900,Area in sq ft,Semi-Furnished,No Deposit,2 bathrooms,
+14,seller,VERIFIED OWNER,1,BHK,Apartment,K R Godrej Vihaa,Badlapur East,Mumbai,"7,000",654,Area in sq ft,Unfurnished,No Deposit,2 bathrooms,
+15,seller,VERIFIED OWNER,1,RK,Studio Apartment,,Worli,Mumbai,"20,000",260,Area in sq ft,Furnished,No Deposit,1 bathrooms,
+16,seller,VERIFIED OWNER,1,RK,Studio Apartment,,Vikroli East,Mumbai,"14,500",300,Area in sq ft,Unfurnished,No Deposit,1 bathrooms,
+17,seller,VERIFIED OWNER,3,BHK,Apartment,,Dombivali East,Mumbai,"40,000",1650,Area in sq ft,Semi-Furnished,No Deposit,3 bathrooms,
+18,seller,VERIFIED OWNER,2,BHK,Apartment,Reputed Builder Satya Darshan,Andheri East,Mumbai,"50,000",850,Area in sq ft,Furnished,No Deposit,2 bathrooms,
+19,seller,VERIFIED OWNER,2,BHK,Apartment,Agami Emerald,Boisar,Mumbai,"11,000",1500,Area in sq ft,Semi-Furnished,No Deposit,2 bathrooms,
+20,seller,VERIFIED OWNER,3,BHK,Apartment,Charisma Navdurga,Chembur,Mumbai,"90,000",1311,Area in sq ft,Semi-Furnished,No Deposit,3 bathrooms,
+21,seller,VERIFIED OWNER,2,BHK,Apartment,,Malad East,Mumbai,"32,000",750,Area in sq ft,Semi-Furnished,No Deposit,2 bathrooms,
+22,seller,VERIFIED OWNER,1,RK,Studio Apartment,Sagar Platinum Sagar Jewels,Badlapur East,Mumbai,"3,000",450,Area in sq ft,Unfurnished,No Deposit,1 bathrooms,East facing
+23,seller,VERIFIED OWNER,3,BHK,Apartment,,Madh,Mumbai,"50,000",1950,Area in sq ft,Unfurnished,No Deposit,4 bathrooms,East facing
+24,seller,VERIFIED OWNER,1,BHK,Apartment,Lodha Casa Rio,Dombivali,Mumbai,"9,500",700,Area in sq ft,Unfurnished,No Deposit,2 bathrooms,
+25,seller,VERIFIED OWNER,1,BHK,Apartment,Swaraj Homes Little Flower Apartment,Bandra West,Mumbai,"55,000",600,Area in sq ft,Furnished,No Deposit,2 bathrooms,
+26,Neha,AGENT,1,BHK,Apartment,,Dombivali East,Mumbai,"11,000",600,Area in sq ft,Unfurnished,No Deposit,2 bathrooms,
+27,EstatesHUB,AGENT,2,BHK,Apartment,,Chembur,Mumbai,"50,000",1050,Area in sq ft,Unfurnished,No Deposit,2 bathrooms,East facing
+28,Earth Property Consultant,AGENT,2,BHK,Apartment,,Andheri East,Mumbai,"50,000",1050,Area in sq ft,Semi-Furnished,No Deposit,2 bathrooms,East facing
+29,First home,AGENT,2,BHK,Apartment,Shree Prathamesh Vasudev Sky High,Mira Road East,Mumbai,"25,000",1050,Area in sq ft,Semi-Furnished,No Deposit,2 bathrooms,NorthWest facing
+30,Rutu Real estate,AGENT,1,BHK,Apartment,Reputed Builder Rutu Park,Thane West,Mumbai,"22,000",535,Area in sq ft,Semi-Furnished,No Deposit,1 bathrooms,
+31,Aditya Properties,AGENT,3,BHK,Apartment,Reputed Builder Tagore Park,Malad West,Mumbai,"23,000",1800,Area in sq ft,Semi-Furnished,No Deposit,3 bathrooms,East facing
+32,Blue Diamond Realtors,AGENT,2,BHK,Apartment,,Santosh Nagar,Mumbai,"10,000",900,Area in sq ft,Unfurnished,No Deposit,2 bathrooms,
+33,RAS PROPERTIES,AGENT,2,BHK,Apartment,RNA Regency Park,Kandivali West,Mumbai,"50,000",1050,Area in sq ft,Furnished,No Deposit,2 bathrooms,North facing
+34,Hitech Realty Consultancy,AGENT,1,BHK,Apartment,Anant Infra Residency,Kalamboli,Mumbai,"10,000",650,Area in sq ft,Unfurnished,No Deposit,1 bathrooms,NorthEast facing
+35,Kuber property,AGENT,2,BHK,Apartment,,Kurla East,Mumbai,"60,000",1150,Area in sq ft,Furnished,No Deposit,2 bathrooms,
+36,Cordeiro Real Estate,AGENT,4,BHK,Apartment,Bombay ICC,Wadala,Mumbai,2.9 L,2346,Area in sq ft,Unfurnished,No Deposit,4 bathrooms,East facing
+37,sahdev chaudhari,AGENT,1,BHK,Apartment,,Airoli,Mumbai,"20,000",575,Area in sq ft,Unfurnished,No Deposit,2 bathrooms,
+38,Rahul yadav,AGENT,2,BHK,Apartment,Sai Baba Complex,Goregaon East,Mumbai,"55,000",800,Area in sq ft,Furnished,No Deposit,2 bathrooms,East facing
+39,Kushvin Properties,AGENT,4,BHK,Apartment,Gajra Bhoomi Heights,Kharghar,Mumbai,"64,000",2500,Area in sq ft,Furnished,No Deposit,4 bathrooms,
+40,MANASVI PROPERTIES,AGENT,2,BHK,Apartment,Godrej The Trees,Vikhroli,Mumbai,"78,000",900,Area in sq ft,Furnished,No Deposit,2 bathrooms,West facing
+41,Azuroin,AGENT,2,BHK,Apartment,Piramal Vaikunth Thane,Thane West,Mumbai,"42,000",1049,Area in sq ft,Semi-Furnished,No Deposit,2 bathrooms,NorthEast facing
+42,VibrantKey,AGENT,5,BHK,Apartment,,Malabar Hill,Mumbai,4.9 L,3450,Area in sq ft,Furnished,No Deposit,5 bathrooms,East facing
+43,ADITYA PROPERTY,AGENT,3,BHK,Apartment,Swaraj Homes Retreat Apartment,Santacruz West,Mumbai,"35,000",1500,Area in sq ft,Semi-Furnished,No Deposit,2 bathrooms,East facing
+44,Aashiyana property consultant,AGENT,1,BHK,Apartment,Godrej Tranquil,Kandivali East,Mumbai,"25,101",700,Area in sq ft,Unfurnished,No Deposit,2 bathrooms,East facing
+45,Mhaskar real estate consultancy,AGENT,1,BHK,Apartment,,Virar West,Mumbai,"6,500",590,Area in sq ft,Unfurnished,No Deposit,2 bathrooms,SouthWest facing
+46,Satyam Enterprises,AGENT,2,BHK,Apartment,,Kamothe,Mumbai,"14,500",1100,Area in sq ft,Semi-Furnished,No Deposit,2 bathrooms,NorthEast facing
+47,Shree Homes Enterprises,AGENT,1,BHK,Apartment,,Adaigaon,Mumbai,"6,000",650,Area in sq ft,Unfurnished,No Deposit,1 bathrooms,East facing
+48,Om Sai Siddhi Properties,AGENT,2,BHK,Apartment,Lodha Casa Bella,Dombivali,Mumbai,"12,500",747,Area in sq ft,Semi-Furnished,No Deposit,2 bathrooms,NorthEast facing
+49,Bajrangi Realtors,AGENT,1,BHK,Apartment,,Kurla East,Mumbai,"25,000",540,Area in sq ft,Unfurnished,No Deposit,1 bathrooms,East facing
+50,Khalsa Propera,AGENT,2,BHK,Apartment,Varsha Balaji Heritage,Kharghar,Mumbai,"25,000",1275,Area in sq ft,Semi-Furnished,No Deposit,2 bathrooms,North facing
+51,Om sai estate,AGENT,1,BHK,Apartment,Seasons Orchid,Kalyan West,Mumbai,"15,000",715,Area in sq ft,Semi-Furnished,No Deposit,2 bathrooms,East facing
+52,Krishna Estate,AGENT,2,BHK,Apartment,Veena Saaz,Kandivali East,Mumbai,"43,000",1200,Area in sq ft,Furnished,No Deposit,2 bathrooms,
+53,Shri Sidhanath Estate Consultant,AGENT,2,BHK,Apartment,Gee Cee Aspira 206,Panvel,Mumbai,"15,000",500,Area in sq ft,Unfurnished,No Deposit,1 bathrooms,North facing
+54,PropertyPistol Realty Pvt Ltd,AGENT,2,BHK,Apartment,BSEL Infrastructure Realty Ltd Kasturi Villa,Kharghar,Mumbai,"25,000",1050,Area in sq ft,Semi-Furnished,No Deposit,2 bathrooms,NorthEast facing
+55,Noronha Estate Agency,AGENT,2,BHK,Apartment,,Vasai West,Mumbai,"13,000",1035,Area in sq ft,Unfurnished,No Deposit,2 bathrooms,West facing
+56,Royal Real Estate Agency,AGENT,1,BHK,Apartment,,Dombivali East,Mumbai,"10,000",525,Area in sq ft,Semi-Furnished,No Deposit,1 bathrooms,East facing
+57,Swastik Reality,AGENT,5,BHK,Apartment,Lodha World One,Lower Parel,Mumbai,4.5 L,7000,Area in sq ft,Semi-Furnished,No Deposit,5 bathrooms,SouthEast facing
+58,Aadhar enterprises,AGENT,3,BHK,Apartment,,Thakurli,Mumbai,"25,000",1250,Area in sq ft,Unfurnished,No Deposit,3 bathrooms,
+59,Trishul property,AGENT,2,BHK,Apartment,,Santacruz East,Mumbai,"55,000",1000,Area in sq ft,Furnished,No Deposit,2 bathrooms,
+60,Takshak Properties,AGENT,2,BHK,Apartment,Indiabulls Greens,Panvel,Mumbai,"13,000",1220,Area in sq ft,Unfurnished,No Deposit,2 bathrooms,East facing
+61,Shetty?s Realty,AGENT,1,BHK,Apartment,Reputed Builder Anand Nagar Barkha CHS,Bhandup West,Mumbai,"23,000",500,Area in sq ft,Unfurnished,No Deposit,1 bathrooms,West facing
+62,My Vastu Realtors,AGENT,1,BHK,Apartment,,Ulwe,Mumbai,"10,000",745,Area in sq ft,Unfurnished,No Deposit,1 bathrooms,East facing
+63,Horizon Real Estate,AGENT,3,BHK,Apartment,Paradise Sai World City,Panvel,Mumbai,"32,000",1785,Area in sq ft,Semi-Furnished,No Deposit,3 bathrooms,East facing
+64,Perfect Housing Dwell,AGENT,1,BHK,Apartment,Neel Sidhi Orbit,Panvel,Mumbai,"15,000",650,Area in sq ft,Semi-Furnished,No Deposit,1 bathrooms,East facing
+65,Omkar Patil,AGENT,2,BHK,Apartment,Maithili Pride,Thane West,Mumbai,"30,000",750,Area in sq ft,Semi-Furnished,No Deposit,1 bathrooms,West facing
+66,Jyoti Enterprise,AGENT,3,BHK,Apartment,Vishesh Balaji Symphony,Panvel,Mumbai,"24,500",1500,Area in sq ft,Furnished,No Deposit,3 bathrooms,
+67,KD Real Estate,AGENT,1,BHK,Apartment,,Kalamboli,Mumbai,"8,000",650,Area in sq ft,Unfurnished,No Deposit,2 bathrooms,East facing
+68,Samadhan Real Estate Consultant,AGENT,2,BHK,Apartment,Paradise Sai Pride,Sanpada,Mumbai,"50,000",1250,Area in sq ft,Semi-Furnished,No Deposit,2 bathrooms,North facing
+69,Laabh Properties,AGENT,1,BHK,Apartment,,Bandra West,Mumbai,"65,000",600,Area in sq ft,Furnished,No Deposit,2 bathrooms,West facing
+70,PREMIUM PROPERTIES,AGENT,1,BHK,Apartment,K Raheja Eastate,Borivali East,Mumbai,"30,000",600,Area in sq ft,Semi-Furnished,No Deposit,2 bathrooms,East facing
+71,Reliance Estates - Since 1985,AGENT,2,BHK,Apartment,,Andheri West,Mumbai,"65,000",1150,Area in sq ft,Unfurnished,No Deposit,2 bathrooms,
+72,Individual Agent,AGENT,3,BHK,Apartment,Platinum The Springs,Kalamboli,Mumbai,"30,000",1985,Area in sq ft,Semi-Furnished,No Deposit,3 bathrooms,
+73,Urban Investment Property Solutions,AGENT,3,BHK,Apartment,Reputed Builder Nibbana Apartments,Bandra West,Mumbai,3 L,1600,Area in sq ft,Furnished,No Deposit,3 bathrooms,West facing
+74,India Direct Homecom,AGENT,2,BHK,Apartment,Labh Aspire,Karanjade,Mumbai,"15,000",1550,Area in sq ft,Furnished,No Deposit,2 bathrooms,
+75,Prime property,AGENT,1,BHK,Apartment,Haware Haware Citi,Thane West,Mumbai,"10,995",625,Area in sq ft,Unfurnished,No Deposit,2 bathrooms,North facing
+76,City Home,AGENT,1,BHK,Apartment,,kasaradavali thane west,Mumbai,"13,000",650,Area in sq ft,Furnished,No Deposit,3 bathrooms,East facing
+77,SUNRISE REAL ESTATE,AGENT,3,BHK,Apartment,Reputed Builder Mount Alps A,Wadala,Mumbai,"72,000",1315,Area in sq ft,Semi-Furnished,No Deposit,3 bathrooms,
+78,Sanjay,AGENT,3,BHK,Apartment,,Kalyan West,Mumbai,"28,000",1200,Area in sq ft,Unfurnished,No Deposit,3 bathrooms,West facing
+79,Green Group Real Estate Consultants,AGENT,2,BHK,Apartment,Marathon Marathon Nexzone,Panvel,Mumbai,"14,000",1100,Area in sq ft,Unfurnished,No Deposit,2 bathrooms,East facing
+80,Bricks Property Consultant,AGENT,1,BHK,Apartment,,Dombivali East,Mumbai,"8,000",729,Area in sq ft,Unfurnished,No Deposit,1 bathrooms,East facing
+81,Hari om realtors,AGENT,2,BHK,Apartment,Shailesh Riddhi Siddhi Residency,Ulwe,Mumbai,"16,000",1125,Area in sq ft,Unfurnished,No Deposit,2 bathrooms,NorthWest facing
+82,Stilt Real Estate,AGENT,2,BHK,Apartment,Kanakia Paris,Bandra Kurla Complex,Mumbai,"98,000",980,Area in sq ft,Semi-Furnished,No Deposit,2 bathrooms,East facing
+83,Prem Housing,AGENT,2,BHK,Apartment,Mayfair The View,Vikhroli,Mumbai,"45,000",1020,Area in sq ft,Unfurnished,No Deposit,2 bathrooms,West facing
+84,Right House Properties,AGENT,1,BHK,Apartment,,Chembur,Mumbai,"25,000",600,Area in sq ft,Unfurnished,No Deposit,2 bathrooms,NorthWest facing
+85,Verma Real Estate,AGENT,2,BHK,Apartment,Reputed Builder Model Town,Mulund West,Mumbai,"18,000",1800,Area in sq ft,Semi-Furnished,No Deposit,2 bathrooms,East facing
+86,Liban Empire,AGENT,2,BHK,Apartment,Mangla Mayurs Nature Glory,Thane West,Mumbai,"28,000",1000,Area in sq ft,Furnished,No Deposit,2 bathrooms,NorthEast facing
+87,Rajesh Rasale,AGENT,2,BHK,Apartment,,Thane West,Mumbai,"30,000",640,Area in sq ft,Semi-Furnished,No Deposit,2 bathrooms,East facing
+88,Investor Floor,AGENT,1,BHK,Apartment,Space India Alliance,Panvel,Mumbai,"15,000",700,Area in sq ft,Unfurnished,No Deposit,2 bathrooms,East facing
+89,A A REAL ESTATE,AGENT,3,BHK,Apartment,Gundecha Gundecha Heights,Kanjurmarg,Mumbai,"85,000",1500,Area in sq ft,Furnished,No Deposit,3 bathrooms,
+90,Disha Real Estate Consultant,AGENT,1,BHK,Apartment,Squarefeet Grand Square,Thane West,Mumbai,"13,000",600,Area in sq ft,Unfurnished,No Deposit,2 bathrooms,East facing
+91,Star Realtors,AGENT,2,BHK,Apartment,Lodha Elisium,Wadala,Mumbai,"89,000",955,Area in sq ft,Semi-Furnished,No Deposit,2 bathrooms,
+92,Rightside Properties,AGENT,1,BHK,Apartment,Puneet Sanjivani Tower,Vikhroli,Mumbai,"27,000",410,Area in sq ft,Semi-Furnished,No Deposit,2 bathrooms,
+93,Housing Guru,AGENT,3,BHK,Apartment,Nahar Amrit Shakti,Powai,Mumbai,"73,000",1250,Area in sq ft,Furnished,No Deposit,2 bathrooms,West facing
+94,Om Properties,AGENT,2,BHK,Apartment,,Manjarli,Mumbai,"25,000",750,Area in sq ft,Semi-Furnished,No Deposit,2 bathrooms,
+95,H K homes,AGENT,1,BHK,Apartment,,Taloje,Mumbai,"6,000",460,Area in sq ft,Unfurnished,No Deposit,1 bathrooms,NorthEast facing
+96,Homehunt Realty,AGENT,1,BHK,Apartment,,Dronagiri,Mumbai,"5,500",625,Area in sq ft,Unfurnished,No Deposit,1 bathrooms,East facing
+97,Galaxy homes,AGENT,1,BHK,Apartment,Gami Viona,Kharghar,Mumbai,"20,000",750,Area in sq ft,Semi-Furnished,No Deposit,2 bathrooms,East facing
+98,Vijay Estate Agency,AGENT,4,BHK,Apartment,Indiabulls Greens,Panvel,Mumbai,"38,000",2000,Area in sq ft,Semi-Furnished,No Deposit,5 bathrooms,East facing
+99,G K GROUP,AGENT,1,BHK,Apartment,Marathon Nexzone Aura 1,Panvel,Mumbai,"13,000",825,Area in sq ft,Semi-Furnished,No Deposit,2 bathrooms,East facing
+100,seller,VERIFIED OWNER,1,BHK,Apartment,Tanvi Eminence Phase 2,Mira Road East,Mumbai,"14,000",782,Area in sq ft,Semi-Furnished,No Deposit,2 bathrooms,East facing
+101,seller,VERIFIED OWNER,2,BHK,Apartment,ANA Avant Garde Phase 1,Mira Road East,Mumbai,"35,000",1056,Area in sq ft,Furnished,No Deposit,2 bathrooms,
+102,seller,VERIFIED OWNER,2,BHK,Apartment,ANA Avant Garde Phase 1,Mira Road East,Mumbai,"21,000",865,Area in sq ft,Semi-Furnished,No Deposit,2 bathrooms,East facing
+103,seller,VERIFIED OWNER,2,BHK,Apartment,DB Ozone,Dahisar,Mumbai,"15,500",855,Area in sq ft,Unfurnished,No Deposit,2 bathrooms,NorthEast facing
+104,seller,VERIFIED OWNER,2,BHK,Apartment,Lodha Aqua,Mira Road East,Mumbai,"28,500",846,Area in sq ft,Semi-Furnished,No Deposit,2 bathrooms,NorthEast facing
+105,seller,VERIFIED OWNER,1,BHK,Apartment,Lodha Mira Road Project 1,Mira Road East,Mumbai,"25,000",658,Area in sq ft,Furnished,No Deposit,2 bathrooms,East facing
+106,seller,VERIFIED OWNER,3,BHK,Apartment,Lodha Aqua,Mira Road East,Mumbai,"36,000",1250,Area in sq ft,Semi-Furnished,No Deposit,3 bathrooms,East facing
+107,seller,VERIFIED OWNER,2,BHK,Apartment,Man Opus,Mira Road East,Mumbai,"15,000",670,Area in sq ft,Semi-Furnished,No Deposit,2 bathrooms,NorthEast facing
+108,seller,VERIFIED OWNER,2,BHK,Independent House,,Vikroli East,Mumbai,"32,000",550,Area in sq ft,Unfurnished,No Deposit,1 bathrooms,
+109,seller,VERIFIED OWNER,3,BHK,Apartment,Godrej Prime,Chembur,Mumbai,"50,000",1400,Area in sq ft,Semi-Furnished,No Deposit,3 bathrooms,East facing
+110,seller,VERIFIED OWNER,2,BHK,Apartment,,Jogeshwari West,Mumbai,"62,000",1200,Area in sq ft,Furnished,No Deposit,2 bathrooms,
+111,seller,VERIFIED OWNER,1,RK,Studio Apartment,Sagar Platinum Sagar Jewels,Badlapur East,Mumbai,"3,000",450,Area in sq ft,Unfurnished,No Deposit,1 bathrooms,
+112,seller,VERIFIED OWNER,1,RK,Studio Apartment,Sagar Platinum Sagar Jewels,Badlapur East,Mumbai,"3,000",450,Area in sq ft,Unfurnished,No Deposit,1 bathrooms,
+113,seller,VERIFIED OWNER,1,RK,Studio Apartment,Sagar Platinum Sagar Jewels,Badlapur East,Mumbai,"3,000",450,Area in sq ft,Unfurnished,No Deposit,1 bathrooms,East facing
+114,seller,VERIFIED OWNER,1,RK,Studio Apartment,Sagar Platinum Sagar Jewels,Badlapur East,Mumbai,"3,000",450,Area in sq ft,Unfurnished,No Deposit,1 bathrooms,East facing
+115,seller,VERIFIED OWNER,1,RK,Studio Apartment,Sagar Platinum Sagar Jewels,Badlapur East,Mumbai,"3,000",450,Area in sq ft,Unfurnished,No Deposit,1 bathrooms,East facing
+116,seller,VERIFIED OWNER,1,RK,Studio Apartment,Sagar Platinum Sagar Jewels,Badlapur East,Mumbai,"3,000",450,Area in sq ft,Unfurnished,No Deposit,1 bathrooms,East facing
+117,seller,VERIFIED OWNER,1,RK,Studio Apartment,Sagar Platinum Sagar Jewels,Badlapur East,Mumbai,"3,000",450,Area in sq ft,Unfurnished,No Deposit,1 bathrooms,East facing
+118,seller,VERIFIED OWNER,1,BHK,Apartment,Swaraj Homes Little Flower Apartment,Bandra West,Mumbai,"55,000",600,Area in sq ft,Furnished,No Deposit,2 bathrooms,
+119,seller,VERIFIED OWNER,1,BHK,Apartment,Swaraj Homes Little Flower Apartment,Bandra West,Mumbai,"55,000",600,Area in sq ft,Furnished,No Deposit,2 bathrooms,
+120,Santosh Magar,AGENT,1,BHK,Apartment,,Koper Khairane,Mumbai,"20,000",560,Area in sq ft,Unfurnished,No Deposit,1 bathrooms,NorthWest facing
+121,First home,AGENT,4,BHK,Apartment,Reputed Builder Sagar Drishti,Mira Road East,Mumbai,"48,000",1800,Area in sq ft,Furnished,No Deposit,4 bathrooms,
+122,SMP Group Real Estate,AGENT,1,BHK,Apartment,,Vashi,Mumbai,"19,000",300,Area in sq ft,Semi-Furnished,No Deposit,1 bathrooms,
+123,Mumbai property solutions,AGENT,2,BHK,Apartment,Nahar Cayenne,Powai,Mumbai,"62,000",1050,Area in sq ft,Unfurnished,No Deposit,2 bathrooms,
+124,Mumbai property solutions,AGENT,2,BHK,Apartment,Nahar Cayenne,Powai,Mumbai,"62,000",1100,Area in sq ft,Unfurnished,No Deposit,2 bathrooms,
+125,First home,AGENT,2,BHK,Apartment,Reputed Builder Ashmita Garden,Mira Road East,Mumbai,"33,000",900,Area in sq ft,Furnished,No Deposit,2 bathrooms,NorthWest facing
+126,First home,AGENT,3,BHK,Apartment,Unique Poonam Estate Cluster 2,Mira Road East,Mumbai,"33,000",1395,Area in sq ft,Unfurnished,No Deposit,3 bathrooms,
+127,First home,AGENT,2,BHK,Apartment,RNA NG RNA N G Silver Spring,Mira Road East,Mumbai,"23,000",995,Area in sq ft,Semi-Furnished,No Deposit,2 bathrooms,NorthEast facing
+128,First home,AGENT,1,BHK,Apartment,Ravi Gaurav City,Mira Road East,Mumbai,"12,000",450,Area in sq ft,Unfurnished,No Deposit,1 bathrooms,North facing
+129,sahdev chaudhari,AGENT,1,RK,Studio Apartment,,Airoli,Mumbai,"16,000",500,Area in sq ft,Unfurnished,No Deposit,1 bathrooms,
+130,Rutu Real estate,AGENT,1,BHK,Apartment,Reputed Builder Rutu Park,Thane West,Mumbai,"21,000",535,Area in sq ft,Furnished,No Deposit,1 bathrooms,East facing
+131,sahdev chaudhari,AGENT,1,RK,Studio Apartment,,Airoli,Mumbai,"12,000",350,Area in sq ft,Unfurnished,No Deposit,1 bathrooms,East facing
+132,Neha,AGENT,1,BHK,Apartment,,Santosh Nagar,Mumbai,"7,000",600,Area in sq ft,Unfurnished,No Deposit,2 bathrooms,
+133,Dream solution Properties,AGENT,2,BHK,Apartment,,kasaradavali thane west,Mumbai,"23,000",1000,Area in sq ft,Unfurnished,No Deposit,2 bathrooms,
+134,Rutu Real estate,AGENT,1,BHK,Apartment,Reputed Builder Rutu Park,Thane West,Mumbai,"20,000",535,Area in sq ft,Semi-Furnished,No Deposit,1 bathrooms,East facing
+135,First home,AGENT,2,BHK,Apartment,Abhay Sheetal Complex Wing D E,Mira Road East,Mumbai,"22,000",920,Area in sq ft,Semi-Furnished,No Deposit,2 bathrooms,
+136,Blue Diamond Realtors,AGENT,1,BHK,Apartment,,Santosh Nagar,Mumbai,"6,500",650,Area in sq ft,Unfurnished,No Deposit,1 bathrooms,
+137,Blue Diamond Realtors,AGENT,1,BHK,Apartment,,Kalyan East,Mumbai,"7,500",560,Area in sq ft,Unfurnished,No Deposit,2 bathrooms,
+138,Hitech Realty Consultancy,AGENT,2,BHK,Apartment,Neelsidhi Amarante,Kalamboli,Mumbai,"17,000",1089,Area in sq ft,Unfurnished,No Deposit,2 bathrooms,West facing
+139,Hitech Realty Consultancy,AGENT,1,BHK,Apartment,Ronak Residency,Kalamboli,Mumbai,"12,000",670,Area in sq ft,Unfurnished,No Deposit,1 bathrooms,NorthEast facing
+140,Hitech Realty Consultancy,AGENT,2,BHK,Apartment,Vision Phoenix Heights,Kalamboli,Mumbai,"17,500",1125,Area in sq ft,Semi-Furnished,No Deposit,2 bathrooms,East facing
+141,Hitech Realty Consultancy,AGENT,2,BHK,Apartment,Platinum Avior,Kalamboli,Mumbai,"20,000",1125,Area in sq ft,Semi-Furnished,No Deposit,2 bathrooms,NorthEast facing
+142,Hitech Realty Consultancy,AGENT,2,BHK,Apartment,Platinum Aura,Kalamboli,Mumbai,"16,500",1050,Area in sq ft,Semi-Furnished,No Deposit,2 bathrooms,NorthEast facing
+143,Hitech Realty Consultancy,AGENT,1,BHK,Apartment,Akshar Valencia,Kalamboli,Mumbai,"11,500",710,Area in sq ft,Semi-Furnished,No Deposit,2 bathrooms,West facing
+144,Hitech Realty Consultancy,AGENT,2,BHK,Apartment,Sai Avaneesh,Kalamboli,Mumbai,"20,000",1139,Area in sq ft,Semi-Furnished,No Deposit,2 bathrooms,East facing
+145,Hitech Realty Consultancy,AGENT,2,BHK,Apartment,Mahaavir Heights,Kalamboli,Mumbai,"18,000",1050,Area in sq ft,Unfurnished,No Deposit,2 bathrooms,West facing
+146,Hitech Realty Consultancy,AGENT,2,BHK,Apartment,Akshar Valencia,Kalamboli,Mumbai,"17,000",1120,Area in sq ft,Semi-Furnished,No Deposit,2 bathrooms,NorthEast facing
+147,Hitech Realty Consultancy,AGENT,2,BHK,Apartment,Giriraj Giriraj Tower,Kalamboli,Mumbai,"18,000",1175,Area in sq ft,Unfurnished,No Deposit,2 bathrooms,NorthEast facing
+148,Hitech Realty Consultancy,AGENT,2,BHK,Apartment,AP Bianca,Kalamboli,Mumbai,"16,500",1050,Area in sq ft,Semi-Furnished,No Deposit,2 bathrooms,East facing
+149,Hitech Realty Consultancy,AGENT,2,BHK,Apartment,New Millenium Paradise,Kalamboli,Mumbai,"15,000",1010,Area in sq ft,Unfurnished,No Deposit,2 bathrooms,NorthEast facing
+150,Hitech Realty Consultancy,AGENT,1,BHK,Apartment,RK Vaishnavi Heights,Kalamboli,Mumbai,"12,000",680,Area in sq ft,Unfurnished,No Deposit,1 bathrooms,West facing
+151,Hitech Realty Consultancy,AGENT,1,BHK,Apartment,Shreeji Phoenix Nest,Kalamboli,Mumbai,"12,000",690,Area in sq ft,Unfurnished,No Deposit,1 bathrooms,NorthEast facing
+152,Cordeiro Real Estate,AGENT,4,BHK,Apartment,,Colaba,Mumbai,1.9 L,1500,Area in sq ft,Furnished,No Deposit,3 bathrooms,East facing
+153,Hitech Realty Consultancy,AGENT,2,BHK,Apartment,Reputed Builder The Springs,Kalamboli,Mumbai,"22,000",1240,Area in sq ft,Semi-Furnished,No Deposit,2 bathrooms,NorthEast facing
+154,Hitech Realty Consultancy,AGENT,3,BHK,Apartment,Akshar Valencia,Kalamboli,Mumbai,"21,000",1250,Area in sq ft,Semi-Furnished,No Deposit,2 bathrooms,West facing
+155,Hitech Realty Consultancy,AGENT,2,BHK,Apartment,Paradise Sai Spring,Kharghar,Mumbai,"27,000",1150,Area in sq ft,Unfurnished,No Deposit,2 bathrooms,West facing
+156,Cordeiro Real Estate,AGENT,1,BHK,Apartment,Reputed Builder Daulat Shirin,Cuffe Parade,Mumbai,"70,000",605,Area in sq ft,Furnished,No Deposit,1 bathrooms,East facing
+157,Cordeiro Real Estate,AGENT,1,BHK,Apartment,Reputed Builder Usha Sadan Apartment,Colaba,Mumbai,"60,000",600,Area in sq ft,Furnished,No Deposit,1 bathrooms,East facing
+158,sahdev chaudhari,AGENT,1,BHK,Apartment,,Airoli,Mumbai,"15,500",500,Area in sq ft,Unfurnished,No Deposit,1 bathrooms,
+159,Cordeiro Real Estate,AGENT,4,BHK,Apartment,Bombay ICC,Wadala,Mumbai,2.8 L,2390,Area in sq ft,Furnished,No Deposit,4 bathrooms,East facing
+160,Cordeiro Real Estate,AGENT,4,BHK,Apartment,Bombay ICC,Wadala,Mumbai,2.85 L,2346,Area in sq ft,Semi-Furnished,No Deposit,4 bathrooms,East facing
+161,Khalsa Propera,AGENT,2,BHK,Apartment,GHP Aston,Kharghar,Mumbai,"27,000",1250,Area in sq ft,Unfurnished,No Deposit,2 bathrooms,NorthEast facing
+162,Cordeiro Real Estate,AGENT,2,BHK,Apartment,,Colaba,Mumbai,1.25 L,1150,Area in sq ft,Unfurnished,No Deposit,2 bathrooms,East facing
+163,Cordeiro Real Estate,AGENT,1,BHK,Apartment,,Colaba,Mumbai,"66,000",675,Area in sq ft,Furnished,No Deposit,1 bathrooms,East facing
+164,Cordeiro Real Estate,AGENT,1,BHK,Apartment,,Colaba,Mumbai,"55,000",500,Area in sq ft,Furnished,No Deposit,1 bathrooms,East facing
+165,Cordeiro Real Estate,AGENT,1,BHK,Apartment,Reputed Builder Sneh Sadan,Colaba,Mumbai,"60,000",650,Area in sq ft,Furnished,No Deposit,1 bathrooms,East facing
+166,Cordeiro Real Estate,AGENT,1,BHK,Apartment,Reputed Builder Usha Sadan Apartment,Colaba,Mumbai,"60,000",600,Area in sq ft,Furnished,No Deposit,1 bathrooms,
+167,Cordeiro Real Estate,AGENT,3,BHK,Apartment,Peninsula Celestia Spaces,Sewri,Mumbai,1.45 L,2303,Area in sq ft,Unfurnished,No Deposit,3 bathrooms,East facing
+168,Rahul yadav,AGENT,2,BHK,Apartment,Omkar Ananta,Goregaon East,Mumbai,"58,000",1200,Area in sq ft,Furnished,No Deposit,2 bathrooms,East facing
+169,Rahul yadav,AGENT,2,BHK,Apartment,ACME Complex,Goregaon West,Mumbai,"60,000",1200,Area in sq ft,Furnished,No Deposit,2 bathrooms,East facing
+170,Rahul yadav,AGENT,1,BHK,Apartment,Reputed Builder Palm Island 7,Goregaon East,Mumbai,"23,000",545,Area in sq ft,Furnished,No Deposit,1 bathrooms,North facing
+171,Rahul yadav,AGENT,2,RK,Studio Apartment,Royal Palms Piccadilly Condos,Goregaon East,Mumbai,"22,000",430,Area in sq ft,Furnished,No Deposit,2 bathrooms,North facing
+172,Rahul yadav,AGENT,1,RK,Studio Apartment,Royal Palms Piccadilly Condos,Goregaon East,Mumbai,"16,000",330,Area in sq ft,Furnished,No Deposit,1 bathrooms,North facing
+173,Rahul yadav,AGENT,1,RK,Studio Apartment,Royal Palms Piccadilly Condos,Goregaon East,Mumbai,"15,500",330,Area in sq ft,Furnished,No Deposit,1 bathrooms,North facing
+174,Rahul yadav,AGENT,2,BHK,Apartment,Reputed Builder Emerald Isle 2,Goregaon East,Mumbai,"43,000",800,Area in sq ft,Furnished,No Deposit,2 bathrooms,North facing
+175,Rahul yadav,AGENT,1,RK,Studio Apartment,Royal Palms Piccadilly Condos,Goregaon East,Mumbai,"16,000",330,Area in sq ft,Furnished,No Deposit,1 bathrooms,North facing
+176,Rahul yadav,AGENT,1,BHK,Apartment,Royal Palms Golden Isle,Goregaon East,Mumbai,"24,000",545,Area in sq ft,Furnished,No Deposit,1 bathrooms,North facing
+177,Rahul yadav,AGENT,1,BHK,Apartment,Royal Palms Ruby Isle,Goregaon East,Mumbai,"16,000",545,Area in sq ft,Unfurnished,No Deposit,1 bathrooms,North facing
+178,Rahul yadav,AGENT,1,BHK,Apartment,Royal Palms Ruby Isle,Goregaon East,Mumbai,"23,000",545,Area in sq ft,Furnished,No Deposit,1 bathrooms,North facing
+179,Cordeiro Real Estate,AGENT,2,BHK,Apartment,Reputed Builder Sunita,Colaba,Mumbai,1.35 L,1150,Area in sq ft,Furnished,No Deposit,2 bathrooms,East facing
+180,Kushvin Properties,AGENT,3,BHK,Apartment,Tharwani Heritage,Kharghar,Mumbai,"35,500",1550,Area in sq ft,Semi-Furnished,No Deposit,3 bathrooms,East facing
+181,sahdev chaudhari,AGENT,1,BHK,Apartment,,Airoli,Mumbai,"20,000",575,Area in sq ft,Semi-Furnished,No Deposit,1 bathrooms,
+182,MANASVI PROPERTIES,AGENT,2,BHK,Apartment,Godrej The Trees,Vikhroli,Mumbai,"90,000",900,Area in sq ft,Semi-Furnished,No Deposit,2 bathrooms,East facing
+183,MANASVI PROPERTIES,AGENT,1,BHK,Apartment,Godrej The Trees,Vikhroli,Mumbai,"55,000",605,Area in sq ft,Furnished,No Deposit,1 bathrooms,NorthEast facing
+184,Hitech Realty Consultancy,AGENT,1,BHK,Apartment,Akshar Valencia,Kalamboli,Mumbai,"12,000",710,Area in sq ft,Unfurnished,No Deposit,2 bathrooms,West facing
+185,Hitech Realty Consultancy,AGENT,2,BHK,Apartment,Neelsidhi Amarante,Kalamboli,Mumbai,"20,500",1240,Area in sq ft,Semi-Furnished,No Deposit,2 bathrooms,East facing
+186,MANASVI PROPERTIES,AGENT,1,BHK,Apartment,Godrej The Trees,Vikhroli,Mumbai,"60,000",640,Area in sq ft,Furnished,No Deposit,1 bathrooms,
+187,MANASVI PROPERTIES,AGENT,1,BHK,Apartment,Kanakia Zenworld Phase I,Kanjurmarg,Mumbai,"35,000",560,Area in sq ft,Semi-Furnished,No Deposit,1 bathrooms,NorthEast facing
+188,MANASVI PROPERTIES,AGENT,1,BHK,Apartment,Kanakia Zenworld Phase I,Kanjurmarg,Mumbai,"38,000",560,Area in sq ft,Semi-Furnished,No Deposit,1 bathrooms,East facing
+189,MANASVI PROPERTIES,AGENT,2,BHK,Apartment,Godrej Platinum,Vikhroli,Mumbai,"75,000",1000,Area in sq ft,Semi-Furnished,No Deposit,2 bathrooms,West facing
+190,Hitech Realty Consultancy,AGENT,2,BHK,Apartment,New Millenium Paradise,Kalamboli,Mumbai,"15,000",1010,Area in sq ft,Unfurnished,No Deposit,2 bathrooms,West facing
+191,Hitech Realty Consultancy,AGENT,2,BHK,Apartment,Gajra Bhoomi Gardenia II,Kalamboli,Mumbai,"20,000",1150,Area in sq ft,Unfurnished,No Deposit,2 bathrooms,NorthEast facing
+192,Hitech Realty Consultancy,AGENT,2,BHK,Apartment,Siddhivinayak The Orien,Kalamboli,Mumbai,"25,500",1150,Area in sq ft,Furnished,No Deposit,2 bathrooms,West facing
+193,sahdev chaudhari,AGENT,2,BHK,Apartment,,Airoli,Mumbai,"25,000",650,Area in sq ft,Unfurnished,No Deposit,1 bathrooms,East facing
+194,sahdev chaudhari,AGENT,1,BHK,Apartment,,Airoli,Mumbai,"25,000",650,Area in sq ft,Unfurnished,No Deposit,1 bathrooms,North facing
+195,MANASVI PROPERTIES,AGENT,1,BHK,Apartment,Kanakia Zenworld Phase I,Kanjurmarg,Mumbai,"35,000",698,Area in sq ft,Semi-Furnished,No Deposit,2 bathrooms,West facing
+196,MANASVI PROPERTIES,AGENT,1,BHK,Apartment,Godrej The Trees,Vikhroli,Mumbai,"54,900",640,Area in sq ft,Furnished,No Deposit,1 bathrooms,West facing
+197,MANASVI PROPERTIES,AGENT,2,BHK,Apartment,Godrej The Trees,Vikhroli,Mumbai,"72,000",900,Area in sq ft,Semi-Furnished,No Deposit,2 bathrooms,East facing
+198,MANASVI PROPERTIES,AGENT,2,BHK,Apartment,Godrej The Trees,Vikhroli,Mumbai,"76,100",900,Area in sq ft,Semi-Furnished,No Deposit,2 bathrooms,West facing
+199,Azuroin,AGENT,1,BHK,Apartment,Lodha Quality Home,Thane West,Mumbai,"18,020",450,Area in sq ft,Unfurnished,No Deposit,1 bathrooms,NorthEast facing
+200,Azuroin,AGENT,1,BHK,Apartment,Lodha Quality Home,Thane West,Mumbai,"17,000",417,Area in sq ft,Unfurnished,No Deposit,1 bathrooms,NorthEast facing
+201,Azuroin,AGENT,1,BHK,Apartment,Lodha Amara Tower 20 21,Thane West,Mumbai,"23,011",553,Area in sq ft,Semi-Furnished,No Deposit,1 bathrooms,NorthEast facing
+202,Azuroin,AGENT,1,BHK,Apartment,Lodha Amara Tower 24 And 25,Thane West,Mumbai,"24,000",553,Area in sq ft,Semi-Furnished,No Deposit,1 bathrooms,NorthEast facing
+203,Azuroin,AGENT,2,BHK,Apartment,Lodha Amara Tower 20 21,Thane West,Mumbai,"32,000",740,Area in sq ft,Semi-Furnished,No Deposit,2 bathrooms,NorthEast facing
+204,Azuroin,AGENT,2,BHK,Apartment,Piramal Vaikunth Thane,Thane West,Mumbai,"46,000",1138,Area in sq ft,Semi-Furnished,No Deposit,2 bathrooms,NorthEast facing
+205,Azuroin,AGENT,3,BHK,Apartment,Piramal Vaikunth Thane,Thane West,Mumbai,"70,011",1320,Area in sq ft,Semi-Furnished,No Deposit,3 bathrooms,NorthEast facing
+206,Azuroin,AGENT,1,BHK,Apartment,Lodha Quality Home,Thane West,Mumbai,"18,011",417,Area in sq ft,Unfurnished,No Deposit,1 bathrooms,NorthEast facing
+207,Kuber property,AGENT,2,BHK,Apartment,,Kurla East,Mumbai,"60,000",1050,Area in sq ft,Furnished,No Deposit,2 bathrooms,NorthEast facing
+208,sahdev chaudhari,AGENT,1,RK,Studio Apartment,,Airoli,Mumbai,"15,000",350,Area in sq ft,Semi-Furnished,No Deposit,1 bathrooms,
+209,Hitech Realty Consultancy,AGENT,2,BHK,Apartment,Akshar Valencia,Kalamboli,Mumbai,"17,000",1100,Area in sq ft,Semi-Furnished,No Deposit,2 bathrooms,West facing
+210,Hitech Realty Consultancy,AGENT,1,BHK,Apartment,Pratik Harmony,Kalamboli,Mumbai,"12,000",710,Area in sq ft,Unfurnished,No Deposit,1 bathrooms,West facing
+211,Hitech Realty Consultancy,AGENT,2,BHK,Apartment,Arihant Sharan,Kalamboli,Mumbai,"25,500",1020,Area in sq ft,Furnished,No Deposit,2 bathrooms,NorthEast facing
+212,Hitech Realty Consultancy,AGENT,1,BHK,Apartment,Sai Udanda,Kalamboli,Mumbai,"12,000",710,Area in sq ft,Unfurnished,No Deposit,2 bathrooms,East facing
+213,Hitech Realty Consultancy,AGENT,2,BHK,Apartment,Arihant Sharan,Kalamboli,Mumbai,"16,000",1080,Area in sq ft,Unfurnished,No Deposit,2 bathrooms,NorthEast facing
+214,Hitech Realty Consultancy,AGENT,2,BHK,Apartment,Sai Udanda,Kalamboli,Mumbai,"16,000",1050,Area in sq ft,Unfurnished,No Deposit,2 bathrooms,East facing
+215,Hitech Realty Consultancy,AGENT,1,BHK,Apartment,Pratik Harmony,Kalamboli,Mumbai,"14,500",695,Area in sq ft,Unfurnished,No Deposit,1 bathrooms,NorthEast facing
+216,MANASVI PROPERTIES,AGENT,2,BHK,Apartment,Runwal Forest Tower 1 To 4,Kanjurmarg,Mumbai,"45,000",598,Area in sq ft,Furnished,No Deposit,2 bathrooms,West facing
+217,Azuroin,AGENT,2,BHK,Apartment,Lodha Quality Home,Thane West,Mumbai,"26,000",576,Area in sq ft,Semi-Furnished,No Deposit,2 bathrooms,NorthEast facing
+218,Azuroin,AGENT,1,BHK,Apartment,Lodha Quality Home,Thane West,Mumbai,"16,500",418,Area in sq ft,Semi-Furnished,No Deposit,1 bathrooms,NorthEast facing
+219,Cordeiro Real Estate,AGENT,1,BHK,Apartment,,Colaba,Mumbai,"80,000",650,Area in sq ft,Furnished,No Deposit,1 bathrooms,East facing
+220,Cordeiro Real Estate,AGENT,1,BHK,Apartment,Reputed Builder Sangam Bhavan,Colaba,Mumbai,"60,000",600,Area in sq ft,Furnished,No Deposit,1 bathrooms,East facing
+221,Cordeiro Real Estate,AGENT,1,BHK,Apartment,Reputed Builder Ashoka Apartment,Napeansea Road,Mumbai,"65,000",602,Area in sq ft,Furnished,No Deposit,1 bathrooms,East facing
+222,Aashiyana property consultant,AGENT,2,BHK,Apartment,Godrej Tranquil,Kandivali East,Mumbai,"36,100",1000,Area in sq ft,Unfurnished,No Deposit,2 bathrooms,East facing
+223,Aashiyana property consultant,AGENT,2,BHK,Apartment,Godrej Tranquil,Kandivali East,Mumbai,"36,001",1000,Area in sq ft,Unfurnished,No Deposit,2 bathrooms,East facing
+224,Aashiyana property consultant,AGENT,2,BHK,Apartment,Godrej Tranquil,Kandivali East,Mumbai,"37,111",1000,Area in sq ft,Unfurnished,No Deposit,2 bathrooms,NorthEast facing
+225,Aashiyana property consultant,AGENT,2,BHK,Apartment,Godrej Tranquil,Kandivali East,Mumbai,"34,501",1000,Area in sq ft,Unfurnished,No Deposit,2 bathrooms,NorthEast facing
+226,Aashiyana property consultant,AGENT,1,BHK,Apartment,Godrej Tranquil,Kandivali East,Mumbai,"27,111",600,Area in sq ft,Unfurnished,No Deposit,2 bathrooms,South facing
+227,Aashiyana property consultant,AGENT,2,BHK,Apartment,Godrej Tranquil,Kandivali East,Mumbai,"27,000",600,Area in sq ft,Unfurnished,No Deposit,2 bathrooms,SouthEast facing
+228,Aashiyana property consultant,AGENT,1,BHK,Apartment,Godrej Tranquil,Kandivali East,Mumbai,"27,200",700,Area in sq ft,Unfurnished,No Deposit,2 bathrooms,East facing
+229,Aashiyana property consultant,AGENT,1,BHK,Apartment,Godrej Tranquil,Kandivali East,Mumbai,"26,500",600,Area in sq ft,Unfurnished,No Deposit,2 bathrooms,West facing
+230,Aashiyana property consultant,AGENT,2,BHK,Apartment,Godrej Tranquil,Kandivali East,Mumbai,"26,101",600,Area in sq ft,Unfurnished,No Deposit,2 bathrooms,SouthEast facing
+231,Aashiyana property consultant,AGENT,2,BHK,Apartment,Godrej Tranquil,Kandivali East,Mumbai,"35,000",1008,Area in sq ft,Unfurnished,No Deposit,2 bathrooms,West facing
+232,Aashiyana property consultant,AGENT,2,BHK,Apartment,Godrej Tranquil,Kandivali East,Mumbai,"37,000",1200,Area in sq ft,Semi-Furnished,No Deposit,2 bathrooms,East facing
+233,Aashiyana property consultant,AGENT,2,BHK,Apartment,Godrej Tranquil,Kandivali East,Mumbai,"35,000",980,Area in sq ft,Unfurnished,No Deposit,2 bathrooms,North facing
+234,Azuroin,AGENT,2,BHK,Apartment,Ashar Edge,Thane West,Mumbai,"36,000",753,Area in sq ft,Semi-Furnished,No Deposit,2 bathrooms,NorthEast facing
+235,Aashiyana property consultant,AGENT,1,BHK,Apartment,Reputed Builder Spring Grove Uno Society,Kandivali East,Mumbai,"20,000",400,Area in sq ft,Unfurnished,No Deposit,1 bathrooms,East facing
+236,Aashiyana property consultant,AGENT,2,BHK,Apartment,Lokhandwala Living Essence,Kandivali East,Mumbai,"30,000",865,Area in sq ft,Unfurnished,No Deposit,1 bathrooms,East facing
+237,Mhaskar real estate consultancy,AGENT,1,BHK,Apartment,,Virar West,Mumbai,"10,000",1250,Area in sq ft,Unfurnished,No Deposit,1 bathrooms,East facing
+238,Mhaskar real estate consultancy,AGENT,2,BHK,Apartment,,Virar West,Mumbai,"9,500",1250,Area in sq ft,Unfurnished,No Deposit,2 bathrooms,
+239,MANASVI PROPERTIES,AGENT,3,BHK,Apartment,Runwal Forest Tower 5 To 8,Kanjurmarg,Mumbai,"67,000",1085,Area in sq ft,Semi-Furnished,No Deposit,2 bathrooms,NorthWest facing
+240,Cordeiro Real Estate,AGENT,3,BHK,Apartment,Kalpataru Habitat,Parel,Mumbai,1.8 L,1781,Area in sq ft,Furnished,No Deposit,3 bathrooms,East facing
+241,MANASVI PROPERTIES,AGENT,3,BHK,Apartment,Runwal Forest Tower 5 To 8,Kanjurmarg,Mumbai,"73,000",1185,Area in sq ft,Semi-Furnished,No Deposit,3 bathrooms,West facing
+242,KNR Woods,AGENT,1,RK,Studio Apartment,Mohan Nano Estates I,Ambernath West,Mumbai,"6,000",430,Area in sq ft,Unfurnished,No Deposit,1 bathrooms,West facing
+243,MANASVI PROPERTIES,AGENT,1,BHK,Apartment,Kanakia Zenworld Phase II,Kanjurmarg,Mumbai,"34,000",600,Area in sq ft,Semi-Furnished,No Deposit,2 bathrooms,West facing
+244,Cordeiro Real Estate,AGENT,3,BHK,Apartment,Peninsula Celestia Spaces,Sewri,Mumbai,1.5 L,2303,Area in sq ft,Semi-Furnished,No Deposit,3 bathrooms,East facing
+245,Shree Homes Enterprises,AGENT,1,BHK,Apartment,,Adaigaon,Mumbai,"6,000",650,Area in sq ft,Unfurnished,No Deposit,1 bathrooms,East facing
+246,Mhaskar real estate consultancy,AGENT,1,BHK,Apartment,,Virar West,Mumbai,"6,500",600,Area in sq ft,Unfurnished,No Deposit,1 bathrooms,
+247,MANASVI PROPERTIES,AGENT,3,BHK,Apartment,Godrej The Trees,Vikhroli,Mumbai,"92,000",1100,Area in sq ft,Semi-Furnished,No Deposit,2 bathrooms,West facing
+248,Mhaskar real estate consultancy,AGENT,2,BHK,Apartment,,Virar West,Mumbai,"10,000",1250,Area in sq ft,Unfurnished,No Deposit,2 bathrooms,
+249,Mhaskar real estate consultancy,AGENT,1,BHK,Apartment,Dhartidhan Dharti 3,Virar,Mumbai,"8,300",615,Area in sq ft,Unfurnished,No Deposit,1 bathrooms,
+250,Mhaskar real estate consultancy,AGENT,2,BHK,Apartment,Sunteck One World,Naigaon East,Mumbai,"14,000",920,Area in sq ft,Semi-Furnished,No Deposit,2 bathrooms,East facing
+251,Mhaskar real estate consultancy,AGENT,2,BHK,Apartment,Agarwal Paramount,Virar,Mumbai,"16,000",1150,Area in sq ft,Semi-Furnished,No Deposit,2 bathrooms,
+252,Mhaskar real estate consultancy,AGENT,2,BHK,Apartment,Rustomjee Virar Avenue L1 L2 And L4 Wing I And J,Virar,Mumbai,"14,000",950,Area in sq ft,Unfurnished,No Deposit,2 bathrooms,East facing
+253,Mhaskar real estate consultancy,AGENT,2,BHK,Apartment,,Virar West,Mumbai,"10,000",1250,Area in sq ft,Unfurnished,No Deposit,2 bathrooms,
+254,Mhaskar real estate consultancy,AGENT,1,BHK,Apartment,M Baria Yashwant Vihar,Virar,Mumbai,"6,500",610,Area in sq ft,Unfurnished,No Deposit,2 bathrooms,NorthWest facing
+255,Mhaskar real estate consultancy,AGENT,1,BHK,Apartment,Virar Virar Bolinj Yashwant Krupa CHSL,Virar,Mumbai,"8,200",680,Area in sq ft,Semi-Furnished,No Deposit,2 bathrooms,NorthEast facing
+256,Mhaskar real estate consultancy,AGENT,1,BHK,Apartment,Ekta Parksville Phase II,Virar,Mumbai,"8,000",670,Area in sq ft,Unfurnished,No Deposit,2 bathrooms,East facing
+257,Mhaskar real estate consultancy,AGENT,1,BHK,Apartment,,Virar West,Mumbai,"6,900",600,Area in sq ft,Unfurnished,No Deposit,1 bathrooms,
+258,Mhaskar real estate consultancy,AGENT,2,BHK,Apartment,,Virar West,Mumbai,"11,000",1250,Area in sq ft,Unfurnished,No Deposit,2 bathrooms,
+259,sahdev chaudhari,AGENT,1,BHK,Apartment,,Airoli,Mumbai,"21,000",575,Area in sq ft,Unfurnished,No Deposit,1 bathrooms,
+260,Azuroin,AGENT,2,BHK,Apartment,Lodha Amara Tower 20 21,Thane West,Mumbai,"36,000",982,Area in sq ft,Furnished,No Deposit,2 bathrooms,NorthEast facing
+261,MANASVI PROPERTIES,AGENT,3,BHK,Apartment,Runwal Forest Tower 5 To 8,Kanjurmarg,Mumbai,"65,000",1085,Area in sq ft,Semi-Furnished,No Deposit,2 bathrooms,
+262,Satyam Enterprises,AGENT,2,BHK,Apartment,Shree Ganesh Amrut Garden,Panvel,Mumbai,"19,500",1100,Area in sq ft,Unfurnished,No Deposit,2 bathrooms,NorthEast facing
+263,Satyam Enterprises,AGENT,1,BHK,Apartment,,Kamothe,Mumbai,"17,000",680,Area in sq ft,Unfurnished,No Deposit,2 bathrooms,North facing
+264,Satyam Enterprises,AGENT,1,BHK,Apartment,Reputed Builder Suraj Complex,Kamothe,Mumbai,"12,000",680,Area in sq ft,Unfurnished,No Deposit,1 bathrooms,NorthEast facing
+265,MANASVI PROPERTIES,AGENT,2,BHK,Apartment,Godrej Platinum,Vikhroli,Mumbai,"78,000",980,Area in sq ft,Semi-Furnished,No Deposit,2 bathrooms,West facing
+266,MANASVI PROPERTIES,AGENT,2,BHK,Apartment,Godrej The Trees,Vikhroli,Mumbai,"77,000",900,Area in sq ft,Semi-Furnished,No Deposit,2 bathrooms,West facing
+267,MANASVI PROPERTIES,AGENT,1,BHK,Apartment,Godrej The Trees,Vikhroli,Mumbai,"58,000",620,Area in sq ft,Furnished,No Deposit,1 bathrooms,West facing
+268,Om sai estate,AGENT,2,BHK,Apartment,,Kalyan West,Mumbai,"25,000",1000,Area in sq ft,Furnished,No Deposit,2 bathrooms,East facing
+269,Satyam Enterprises,AGENT,2,BHK,Apartment,Reputed Builder Mayur Park Building,Kamothe,Mumbai,"14,000",1100,Area in sq ft,Unfurnished,No Deposit,2 bathrooms,NorthEast facing
+270,Satyam Enterprises,AGENT,2,BHK,Apartment,Reputed Builder Bhoomi Harmony,Kamothe,Mumbai,"22,000",1295,Area in sq ft,Unfurnished,No Deposit,2 bathrooms,NorthEast facing
+271,Satyam Enterprises,AGENT,2,BHK,Apartment,5P Bhagwati Heritage,Sector 21 Kamothe,Mumbai,"22,000",1235,Area in sq ft,Unfurnished,No Deposit,2 bathrooms,NorthEast facing
+272,Satyam Enterprises,AGENT,2,BHK,Apartment,Pooja White Flag,Kamothe,Mumbai,"21,000",1235,Area in sq ft,Semi-Furnished,No Deposit,2 bathrooms,East facing
+273,Satyam Enterprises,AGENT,1,BHK,Apartment,Marvels Nandan,Kamothe,Mumbai,"14,500",720,Area in sq ft,Unfurnished,No Deposit,2 bathrooms,NorthEast facing
+274,Satyam Enterprises,AGENT,2,BHK,Apartment,Shanti Hari Heritage,Kamothe,Mumbai,"22,000",1150,Area in sq ft,Semi-Furnished,No Deposit,2 bathrooms,NorthEast facing
+275,Satyam Enterprises,AGENT,2,BHK,Apartment,,Kamothe,Mumbai,"12,500",700,Area in sq ft,Unfurnished,No Deposit,2 bathrooms,NorthEast facing
+276,Takshak Properties,AGENT,1,BHK,Apartment,Nilkanth Bhaveshwar Hill View,Karanjade,Mumbai,"8,500",690,Area in sq ft,Unfurnished,No Deposit,1 bathrooms,NorthEast facing
+277,MANASVI PROPERTIES,AGENT,1,BHK,Apartment,Godrej The Trees,Vikhroli,Mumbai,"47,000",640,Area in sq ft,Semi-Furnished,No Deposit,1 bathrooms,West facing
+278,MANASVI PROPERTIES,AGENT,2,BHK,Apartment,Runwal Forest Tower 1 To 4,Kanjurmarg,Mumbai,"35,000",598,Area in sq ft,Semi-Furnished,No Deposit,2 bathrooms,West facing
+279,MANASVI PROPERTIES,AGENT,1,BHK,Apartment,Godrej The Trees,Vikhroli,Mumbai,"46,000",640,Area in sq ft,Semi-Furnished,No Deposit,1 bathrooms,West facing
+280,Azuroin,AGENT,2,BHK,Apartment,,Thane West,Mumbai,"30,000",752,Area in sq ft,Semi-Furnished,No Deposit,2 bathrooms,NorthEast facing
+281,Satyam Enterprises,AGENT,1,BHK,Apartment,Om Shivam Residency,Kamothe,Mumbai,"13,500",750,Area in sq ft,Unfurnished,No Deposit,2 bathrooms,NorthEast facing
+282,EstatesHUB,AGENT,2,BHK,Apartment,Wadhwa Dukes Horizon,Chembur,Mumbai,"75,000",1000,Area in sq ft,Unfurnished,No Deposit,1 bathrooms,North facing
+283,Takshak Properties,AGENT,2,BHK,Apartment,Marathon Marathon Nexzone,Panvel,Mumbai,"14,000",1056,Area in sq ft,Unfurnished,No Deposit,2 bathrooms,East facing
+284,Takshak Properties,AGENT,1,BHK,Apartment,,Karanjade,Mumbai,"9,000",720,Area in sq ft,Unfurnished,No Deposit,1 bathrooms,NorthEast facing
+285,Takshak Properties,AGENT,2,BHK,Apartment,Dubey Gayatri Paradise,Panvel,Mumbai,"11,500",1090,Area in sq ft,Unfurnished,No Deposit,2 bathrooms,NorthEast facing
+286,Satyam Enterprises,AGENT,1,BHK,Apartment,,Kamothe,Mumbai,"15,500",700,Area in sq ft,Furnished,No Deposit,1 bathrooms,
+287,Azuroin,AGENT,2,BHK,Apartment,Piramal Vaikunth Thane,Thane West,Mumbai,"49,002",1104,Area in sq ft,Semi-Furnished,No Deposit,2 bathrooms,NorthEast facing
+288,Azuroin,AGENT,2,BHK,Apartment,Piramal Vaikunth Thane,Thane West,Mumbai,"50,000",1104,Area in sq ft,Semi-Furnished,No Deposit,2 bathrooms,NorthEast facing
+289,Azuroin,AGENT,1,BHK,Apartment,Lodha Amara Tower 20 21,Thane West,Mumbai,"24,000",553,Area in sq ft,Semi-Furnished,No Deposit,1 bathrooms,NorthWest facing
+290,Azuroin,AGENT,2,BHK,Apartment,Lodha Amara Tower 20 21,Thane West,Mumbai,"30,000",740,Area in sq ft,Semi-Furnished,No Deposit,2 bathrooms,NorthEast facing
+291,Azuroin,AGENT,2,BHK,Apartment,Lodha Quality Home,Thane West,Mumbai,"24,000",575,Area in sq ft,Unfurnished,No Deposit,2 bathrooms,NorthEast facing
+292,Satyam Enterprises,AGENT,2,BHK,Apartment,Dharti Sai Archana,Kamothe,Mumbai,"17,000",1100,Area in sq ft,Unfurnished,No Deposit,2 bathrooms,NorthEast facing
+293,Satyam Enterprises,AGENT,2,BHK,Apartment,Radiant Ravi Rachana,Kamothe,Mumbai,"18,500",1100,Area in sq ft,Unfurnished,No Deposit,2 bathrooms,
+294,Satyam Enterprises,AGENT,3,BHK,Apartment,Reputed Builder Sai Prasad Residency,Kamothe,Mumbai,"20,000",1500,Area in sq ft,Unfurnished,No Deposit,3 bathrooms,NorthEast facing
+295,Sarvam Properties,AGENT,3,BHK,Apartment,Reputed Builder Chetan Building,Ghatkopar East,Mumbai,1.3 L,1552,Area in sq ft,Furnished,No Deposit,3 bathrooms,East facing
+296,Sarvam Properties,AGENT,3,BHK,Apartment,,Ghatkopar East,Mumbai,1.1 L,1322,Area in sq ft,Semi-Furnished,No Deposit,3 bathrooms,East facing
+297,Vijay Estate Agency,AGENT,3,BHK,Apartment,,Mulund West,Mumbai,"52,000",1065,Area in sq ft,Semi-Furnished,No Deposit,3 bathrooms,East facing
+298,Kushvin Properties,AGENT,1,BHK,Apartment,Godrej City Woods Panvel Ph 1,Panvel,Mumbai,"11,000",650,Area in sq ft,Unfurnished,No Deposit,1 bathrooms,
+299,Vijay Estate Agency,AGENT,4,BHK,Apartment,,Wadala,Mumbai,1.65 L,1900,Area in sq ft,Semi-Furnished,No Deposit,4 bathrooms,East facing
+300,Vijay Estate Agency,AGENT,4,BHK,Apartment,,Wadala,Mumbai,1.58 L,1900,Area in sq ft,Semi-Furnished,No Deposit,4 bathrooms,East facing
+301,Vijay Estate Agency,AGENT,4,BHK,Apartment,,Wadala,Mumbai,1.6 L,1900,Area in sq ft,Furnished,No Deposit,4 bathrooms,East facing
+302,Swastik Reality,AGENT,2,BHK,Apartment,Reputed Builder Prefeb Shree Dutta Tower,Parel,Mumbai,"80,000",1100,Area in sq ft,Semi-Furnished,No Deposit,2 bathrooms,
+303,Swastik Reality,AGENT,3,BHK,Apartment,Reputed Builder Ashok Towers,Andheri East,Mumbai,1.5 L,2200,Area in sq ft,Semi-Furnished,No Deposit,3 bathrooms,East facing
+304,MANASVI PROPERTIES,AGENT,2,BHK,Apartment,Runwal Lily at Runwal Forest,Kanjurmarg,Mumbai,"46,000",771,Area in sq ft,Unfurnished,No Deposit,2 bathrooms,West facing
+305,Vijay Estate Agency,AGENT,4,BHK,Apartment,,Dadar West,Mumbai,3 L,3400,Area in sq ft,Semi-Furnished,No Deposit,5 bathrooms,East facing
+306,Vijay Estate Agency,AGENT,4,BHK,Apartment,,Dadar West,Mumbai,3.05 L,3400,Area in sq ft,Semi-Furnished,No Deposit,5 bathrooms,East facing
+307,Vijay Estate Agency,AGENT,4,BHK,Apartment,,Dadar West,Mumbai,3 L,3400,Area in sq ft,Semi-Furnished,No Deposit,5 bathrooms,
+308,Swastik Reality,AGENT,3,BHK,Apartment,,Worli,Mumbai,4 L,2500,Area in sq ft,Furnished,No Deposit,3 bathrooms,
+309,Swastik Reality,AGENT,4,BHK,Apartment,Lodha World Crest,Lower Parel,Mumbai,4.5 L,3000,Area in sq ft,Furnished,No Deposit,5 bathrooms,East facing
+310,Swastik Reality,AGENT,4,BHK,Apartment,Omkar 1973,Worli,Mumbai,3 L,2850,Area in sq ft,Furnished,No Deposit,5 bathrooms,East facing
+311,Swastik Reality,AGENT,1,BHK,Apartment,,Parel,Mumbai,"50,000",365,Area in sq ft,Unfurnished,No Deposit,1 bathrooms,East facing
+312,Swastik Reality,AGENT,3,BHK,Apartment,L And T Crescent Bay,Parel,Mumbai,1.25 L,1750,Area in sq ft,Semi-Furnished,No Deposit,3 bathrooms,NorthEast facing
+313,Swastik Reality,AGENT,4,BHK,Apartment,L And T Crescent Bay,Parel,Mumbai,2.6 L,3400,Area in sq ft,Semi-Furnished,No Deposit,3 bathrooms,NorthEast facing
+314,Swastik Reality,AGENT,2,BHK,Apartment,L And T Crescent Bay,Parel,Mumbai,1.1 L,1200,Area in sq ft,Semi-Furnished,No Deposit,2 bathrooms,NorthEast facing
+315,Royal Real Estate Agency,AGENT,2,BHK,Apartment,,Dombivali East,Mumbai,"14,000",650,Area in sq ft,Semi-Furnished,No Deposit,1 bathrooms,
+316,Azuroin,AGENT,2,BHK,Apartment,Lodha Amara Tower 20 21,Thane West,Mumbai,"35,000",750,Area in sq ft,Furnished,No Deposit,2 bathrooms,NorthEast facing
+317,Azuroin,AGENT,2,BHK,Apartment,Lodha Amara Tower 20 21,Thane West,Mumbai,"38,000",835,Area in sq ft,Furnished,No Deposit,2 bathrooms,NorthEast facing
+318,Azuroin,AGENT,2,BHK,Apartment,Lodha Amara Tower 20 21,Thane West,Mumbai,"32,000",835,Area in sq ft,Semi-Furnished,No Deposit,2 bathrooms,NorthEast facing
+319,MANASVI PROPERTIES,AGENT,3,BHK,Apartment,Runwal Forest Tower 5 To 8,Kanjurmarg,Mumbai,"66,000",1085,Area in sq ft,Semi-Furnished,No Deposit,2 bathrooms,West facing
+320,MANASVI PROPERTIES,AGENT,3,BHK,Apartment,Runwal Forest Tower 5 To 8,Kanjurmarg,Mumbai,"68,000",1085,Area in sq ft,Semi-Furnished,No Deposit,2 bathrooms,NorthWest facing
+321,Takshak Properties,AGENT,1,BHK,Apartment,Joshi Sai Anuraj,Karanjade,Mumbai,"8,500",660,Area in sq ft,Unfurnished,No Deposit,1 bathrooms,East facing
+322,PropertyPistol Realty Pvt Ltd,AGENT,1,BHK,Apartment,,Seawoods,Mumbai,"26,000",1000,Area in sq ft,Unfurnished,No Deposit,1 bathrooms,NorthEast facing
+323,PropertyPistol Realty Pvt Ltd,AGENT,3,BHK,Apartment,Pyramid Aastha Alavio,Seawoods,Mumbai,"45,000",1500,Area in sq ft,Semi-Furnished,No Deposit,3 bathrooms,NorthEast facing
+324,Swastik Reality,AGENT,2,BHK,Apartment,Mittal Phoenix Towers,Lower Parel,Mumbai,1.25 L,1200,Area in sq ft,Semi-Furnished,No Deposit,2 bathrooms,SouthEast facing
+325,PropertyPistol Realty Pvt Ltd,AGENT,1,BHK,Apartment,Reputed Builder Balaji Bhavan,Seawoods,Mumbai,"16,000",580,Area in sq ft,Unfurnished,No Deposit,1 bathrooms,NorthEast facing
+326,PropertyPistol Realty Pvt Ltd,AGENT,2,BHK,Apartment,,Seawoods,Mumbai,"58,000",1100,Area in sq ft,Furnished,No Deposit,2 bathrooms,East facing
+327,PropertyPistol Realty Pvt Ltd,AGENT,2,BHK,Apartment,Kalpataru Sunrise,Thane West,Mumbai,"35,000",1120,Area in sq ft,Unfurnished,No Deposit,2 bathrooms,East facing
+328,PropertyPistol Realty Pvt Ltd,AGENT,1,RK,Studio Apartment,,Seawoods,Mumbai,"8,500",480,Area in sq ft,Unfurnished,No Deposit,1 bathrooms,East facing
+329,PropertyPistol Realty Pvt Ltd,AGENT,3,BHK,Apartment,HCBS Dheeraj Gaurav Heights 1,Andheri West,Mumbai,"95,000",1080,Area in sq ft,Unfurnished,No Deposit,3 bathrooms,NorthEast facing
+330,Aashiyana property consultant,AGENT,2,BHK,Apartment,Godrej Tranquil,Kandivali East,Mumbai,"40,000",1000,Area in sq ft,Unfurnished,No Deposit,2 bathrooms,East facing
+331,Aashiyana property consultant,AGENT,2,BHK,Apartment,Godrej Tranquil,Kandivali East,Mumbai,"38,000",1000,Area in sq ft,Unfurnished,No Deposit,2 bathrooms,East facing
+332,Aashiyana property consultant,AGENT,2,BHK,Apartment,Godrej Tranquil,Kandivali East,Mumbai,"39,000",1000,Area in sq ft,Unfurnished,No Deposit,2 bathrooms,East facing
+333,Aashiyana property consultant,AGENT,2,BHK,Apartment,Godrej Tranquil,Kandivali East,Mumbai,"38,101",1000,Area in sq ft,Unfurnished,No Deposit,2 bathrooms,East facing
+334,Trishul property,AGENT,5,BHK,Apartment,Dheeraj Realty Dheeraj Insignia,Santacruz East,Mumbai,1.3 L,1500,Area in sq ft,Semi-Furnished,No Deposit,4 bathrooms,
+335,Trishul property,AGENT,2,BHK,Apartment,Reputed Builder 30 Union Park,Bandra West,Mumbai,2.2 L,1400,Area in sq ft,Furnished,No Deposit,2 bathrooms,East facing
+336,Trishul property,AGENT,1,BHK,Apartment,,Santacruz East,Mumbai,"30,000",550,Area in sq ft,Semi-Furnished,No Deposit,1 bathrooms,
+337,Trishul property,AGENT,1,BHK,Apartment,,Santacruz East,Mumbai,"39,000",650,Area in sq ft,Furnished,No Deposit,2 bathrooms,
+338,Trishul property,AGENT,1,RK,Studio Apartment,,Santacruz East,Mumbai,"19,000",550,Area in sq ft,Unfurnished,No Deposit,1 bathrooms,East facing
+339,Trishul property,AGENT,3,BHK,Apartment,Reputed Builder Fair Field,Santacruz West,Mumbai,1.3 L,1350,Area in sq ft,Furnished,No Deposit,3 bathrooms,
+340,Trishul property,AGENT,1,BHK,Apartment,,Santacruz East,Mumbai,"30,000",500,Area in sq ft,Unfurnished,No Deposit,1 bathrooms,
+341,Trishul property,AGENT,3,BHK,Apartment,,Santacruz East,Mumbai,"65,000",1100,Area in sq ft,Unfurnished,No Deposit,3 bathrooms,
+342,Trishul property,AGENT,2,BHK,Apartment,,Santacruz East,Mumbai,"32,000",900,Area in sq ft,Unfurnished,No Deposit,3 bathrooms,
+343,Trishul property,AGENT,2,BHK,Apartment,,Santacruz East,Mumbai,"32,000",950,Area in sq ft,Unfurnished,No Deposit,3 bathrooms,
+344,Trishul property,AGENT,1,RK,Studio Apartment,,Santacruz East,Mumbai,"15,000",350,Area in sq ft,Unfurnished,No Deposit,1 bathrooms,
+345,Trishul property,AGENT,1,BHK,Apartment,,Santacruz East,Mumbai,"30,000",500,Area in sq ft,Unfurnished,No Deposit,1 bathrooms,
+346,Trishul property,AGENT,1,RK,Studio Apartment,,Santacruz East,Mumbai,"17,000",450,Area in sq ft,Unfurnished,No Deposit,1 bathrooms,North facing
+347,Trishul property,AGENT,2,BHK,Apartment,,Worli,Mumbai,2.5 L,1000,Area in sq ft,Furnished,No Deposit,3 bathrooms,West facing
+348,Trishul property,AGENT,2,BHK,Apartment,,Santacruz West,Mumbai,"85,000",1050,Area in sq ft,Furnished,No Deposit,2 bathrooms,East facing
+349,Trishul property,AGENT,2,BHK,Apartment,,Santacruz East,Mumbai,"45,000",950,Area in sq ft,Furnished,No Deposit,2 bathrooms,
+350,Trishul property,AGENT,2,BHK,Apartment,,Bandra West,Mumbai,1 L,900,Area in sq ft,Furnished,No Deposit,2 bathrooms,
+351,Trishul property,AGENT,2,BHK,Apartment,,Santacruz East,Mumbai,"50,000",900,Area in sq ft,Furnished,No Deposit,2 bathrooms,
+352,Laabh Properties,AGENT,1,BHK,Apartment,Reputed Builder Amiya,Khar West,Mumbai,"75,000",650,Area in sq ft,Furnished,No Deposit,2 bathrooms,SouthWest facing
+353,Laabh Properties,AGENT,2,BHK,Apartment,,Bandra West,Mumbai,1.5 L,800,Area in sq ft,Semi-Furnished,No Deposit,2 bathrooms,East facing
+354,Laabh Properties,AGENT,1,BHK,Apartment,Silver Springs Apartment,Bandra West,Mumbai,"70,000",650,Area in sq ft,Unfurnished,No Deposit,2 bathrooms,SouthWest facing
+355,PropertyPistol Realty Pvt Ltd,AGENT,2,BHK,Apartment,Juhi Greens,Seawoods,Mumbai,"58,000",975,Area in sq ft,Furnished,No Deposit,2 bathrooms,East facing
+356,PropertyPistol Realty Pvt Ltd,AGENT,1,BHK,Apartment,Reputed Builder Amar CHS,Seawoods,Mumbai,"26,000",790,Area in sq ft,Furnished,No Deposit,1 bathrooms,East facing
+357,PropertyPistol Realty Pvt Ltd,AGENT,2,BHK,Apartment,Juhi Greens,Seawoods,Mumbai,"57,000",980,Area in sq ft,Furnished,No Deposit,2 bathrooms,East facing
+358,Vijay Estate Agency,AGENT,2,BHK,Apartment,,Mahalaxmi,Mumbai,"80,000",1100,Area in sq ft,Semi-Furnished,No Deposit,2 bathrooms,East facing
+359,Shree Homes Enterprises,AGENT,3,BHK,Apartment,Vishesh Balaji Symphony,Panvel,Mumbai,"23,000",1400,Area in sq ft,Semi-Furnished,No Deposit,3 bathrooms,East facing
+360,VibrantKey,AGENT,3,BHK,Apartment,Darshan Pride,Tardeo,Mumbai,1.9 L,1750,Area in sq ft,Semi-Furnished,No Deposit,3 bathrooms,South facing
+361,G K GROUP,AGENT,1,BHK,Apartment,Marathon Nexzone Acrux 1,Panvel,Mumbai,"13,500",825,Area in sq ft,Semi-Furnished,No Deposit,2 bathrooms,West facing
+362,G K GROUP,AGENT,1,BHK,Apartment,Marathon Nexzone Acrux 1,Panvel,Mumbai,"13,500",825,Area in sq ft,Semi-Furnished,No Deposit,2 bathrooms,East facing
+363,G K GROUP,AGENT,1,BHK,Apartment,Marathon Nexzone Acrux 1,Panvel,Mumbai,"13,500",825,Area in sq ft,Semi-Furnished,No Deposit,2 bathrooms,North facing
+364,G K GROUP,AGENT,1,BHK,Apartment,Marathon Nexzone Acrux 1,Panvel,Mumbai,"13,000",825,Area in sq ft,Semi-Furnished,No Deposit,2 bathrooms,West facing
+365,G K GROUP,AGENT,1,BHK,Apartment,Marathon Nexzone Acrux 1,Panvel,Mumbai,"13,000",825,Area in sq ft,Semi-Furnished,No Deposit,2 bathrooms,East facing
+366,G K GROUP,AGENT,1,BHK,Apartment,Marathon Nexzone Acrux 1,Panvel,Mumbai,"13,000",825,Area in sq ft,Semi-Furnished,No Deposit,2 bathrooms,East facing
+367,Takshak Properties,AGENT,4,BHK,Apartment,Indiabulls Park,Panvel,Mumbai,"25,000",2150,Area in sq ft,Unfurnished,No Deposit,4 bathrooms,East facing
+368,Satyam Enterprises,AGENT,1,BHK,Apartment,,Kamothe,Mumbai,"14,000",700,Area in sq ft,Semi-Furnished,No Deposit,1 bathrooms,NorthEast facing
+369,My Vastu Realtors,AGENT,2,BHK,Apartment,,Ulwe,Mumbai,"15,000",1175,Area in sq ft,Unfurnished,No Deposit,2 bathrooms,West facing
+370,My Vastu Realtors,AGENT,3,BHK,Apartment,,Ulwe,Mumbai,"23,000",1500,Area in sq ft,Unfurnished,No Deposit,2 bathrooms,East facing
+371,Takshak Properties,AGENT,2,BHK,Apartment,Krishna Amrut View,Karanjade,Mumbai,"13,000",1130,Area in sq ft,Unfurnished,No Deposit,2 bathrooms,NorthEast facing
+372,SMP Group Real Estate,AGENT,1,BHK,Apartment,,Vashi,Mumbai,"17,000",400,Area in sq ft,Unfurnished,No Deposit,1 bathrooms,
+373,Swastik Reality,AGENT,4,BHK,Apartment,Lodha World Crest,Lower Parel,Mumbai,4.6 L,3000,Area in sq ft,Furnished,No Deposit,4 bathrooms,East facing
+374,Takshak Properties,AGENT,1,BHK,Apartment,Shree Ambe Vinayak Ashray,Karanjade,Mumbai,"8,500",675,Area in sq ft,Unfurnished,No Deposit,1 bathrooms,East facing
+375,PropertyPistol Realty Pvt Ltd,AGENT,2,BHK,Apartment,,Andheri West,Mumbai,"70,000",920,Area in sq ft,Unfurnished,No Deposit,2 bathrooms,East facing
+376,PropertyPistol Realty Pvt Ltd,AGENT,2,BHK,Apartment,Rustomjee Elita,Andheri West,Mumbai,1.4 L,1200,Area in sq ft,Furnished,No Deposit,2 bathrooms,East facing
+377,PropertyPistol Realty Pvt Ltd,AGENT,3,BHK,Apartment,Samarth Aangan,Andheri West,Mumbai,1.35 L,1250,Area in sq ft,Furnished,No Deposit,3 bathrooms,East facing
+378,PropertyPistol Realty Pvt Ltd,AGENT,2,BHK,Apartment,,Hiranandani Estates,Mumbai,"65,000",1120,Area in sq ft,Unfurnished,No Deposit,3 bathrooms,East facing
+379,Azuroin,AGENT,1,BHK,Apartment,Lodha Majiwada Tower 1,Thane West,Mumbai,"25,000",545,Area in sq ft,Semi-Furnished,No Deposit,1 bathrooms,NorthEast facing
+380,Azuroin,AGENT,2,BHK,Apartment,Lodha Luxuria,Thane West,Mumbai,"35,000",778,Area in sq ft,Semi-Furnished,No Deposit,2 bathrooms,NorthEast facing
+381,Jyoti Enterprise,AGENT,3,BHK,Apartment,Lodha Park,Lower Parel,Mumbai,1.15 L,1190,Area in sq ft,Semi-Furnished,No Deposit,3 bathrooms,
+382,Jyoti Enterprise,AGENT,2,BHK,Apartment,Indiabulls Greens,Panvel,Mumbai,"16,500",1100,Area in sq ft,Semi-Furnished,No Deposit,2 bathrooms,
+383,Jyoti Enterprise,AGENT,2,BHK,Apartment,Indiabulls Greens,Panvel,Mumbai,"25,500",1100,Area in sq ft,Furnished,No Deposit,2 bathrooms,
+384,Jyoti Enterprise,AGENT,2,BHK,Apartment,Vishesh Balaji Symphony,Panvel,Mumbai,"16,000",1065,Area in sq ft,Semi-Furnished,No Deposit,2 bathrooms,
+385,Jyoti Enterprise,AGENT,2,BHK,Apartment,Vishesh Balaji Symphony,Panvel,Mumbai,"18,000",1055,Area in sq ft,Semi-Furnished,No Deposit,2 bathrooms,
+386,Jyoti Enterprise,AGENT,2,BHK,Apartment,Vishesh Balaji Symphony,Panvel,Mumbai,"15,500",1055,Area in sq ft,Semi-Furnished,No Deposit,2 bathrooms,
+387,Jyoti Enterprise,AGENT,1,BHK,Apartment,Vishesh Balaji Symphony,Panvel,Mumbai,"11,000",600,Area in sq ft,Semi-Furnished,No Deposit,1 bathrooms,
+388,Jyoti Enterprise,AGENT,1,BHK,Apartment,Vishesh Balaji Symphony,Panvel,Mumbai,"12,500",700,Area in sq ft,Semi-Furnished,No Deposit,1 bathrooms,West facing
+389,Neha,AGENT,1,BHK,Apartment,,Dombivali East,Mumbai,"12,500",700,Area in sq ft,Furnished,No Deposit,2 bathrooms,
+390,Neha,AGENT,1,BHK,Apartment,,Dombivali East,Mumbai,"8,000",700,Area in sq ft,Semi-Furnished,No Deposit,2 bathrooms,
+391,Neha,AGENT,2,BHK,Apartment,,Dombivali East,Mumbai,"11,000",560,Area in sq ft,Unfurnished,No Deposit,2 bathrooms,
+392,Neha,AGENT,1,BHK,Apartment,,Kalyan East,Mumbai,"6,000",650,Area in sq ft,Unfurnished,No Deposit,2 bathrooms,
+393,PropertyPistol Realty Pvt Ltd,AGENT,3,BHK,Apartment,Varun Garden,Thane West,Mumbai,"45,000",1400,Area in sq ft,Unfurnished,No Deposit,3 bathrooms,East facing
+394,Swastik Reality,AGENT,4,BHK,Apartment,Reputed Builder Rajkamal Heights,Parel,Mumbai,2 L,2400,Area in sq ft,Semi-Furnished,No Deposit,5 bathrooms,East facing
+395,Swastik Reality,AGENT,3,BHK,Apartment,,Worli,Mumbai,3.5 L,1950,Area in sq ft,Semi-Furnished,No Deposit,4 bathrooms,East facing
+396,Swastik Reality,AGENT,4,BHK,Apartment,Indiabulls Blu Tower A,Worli,Mumbai,4.5 L,3200,Area in sq ft,Furnished,No Deposit,6 bathrooms,East facing
+397,Swastik Reality,AGENT,3,BHK,Apartment,Lodha World One,Lower Parel,Mumbai,3.3 L,3400,Area in sq ft,Semi-Furnished,No Deposit,4 bathrooms,East facing
+398,Swastik Reality,AGENT,4,BHK,Apartment,Reputed Builder Beaumonde Towers,Prabhadevi,Mumbai,10 L,4500,Area in sq ft,Furnished,No Deposit,4 bathrooms,
+399,Swastik Reality,AGENT,2,BHK,Apartment,,Lower Parel,Mumbai,1 L,850,Area in sq ft,Semi-Furnished,No Deposit,2 bathrooms,East facing
+400,Swastik Reality,AGENT,2,BHK,Apartment,,Prabhadevi,Mumbai,1 L,1050,Area in sq ft,Semi-Furnished,No Deposit,2 bathrooms,East facing
+401,Swastik Reality,AGENT,3,BHK,Apartment,,Worli,Mumbai,1.5 L,1650,Area in sq ft,Semi-Furnished,No Deposit,3 bathrooms,SouthEast facing
+402,Swastik Reality,AGENT,3,BHK,Apartment,Lodha World One,Lower Parel,Mumbai,3.5 L,2100,Area in sq ft,Furnished,No Deposit,4 bathrooms,
+403,Swastik Reality,AGENT,5,BHK,Apartment,K Raheja Artesia Residential Wing Constructed On Part Of The Project Land,Worli,Mumbai,12 L,4900,Area in sq ft,Semi-Furnished,No Deposit,5 bathrooms,East facing
+404,Swastik Reality,AGENT,4,BHK,Apartment,Lodha Marquise,Worli,Mumbai,2.75 L,3000,Area in sq ft,Semi-Furnished,No Deposit,4 bathrooms,SouthEast facing
+405,Noronha Estate Agency,AGENT,2,BHK,Apartment,Agarwal Doshi Complex,Vasai,Mumbai,"16,000",950,Area in sq ft,Furnished,No Deposit,2 bathrooms,East facing
+406,Noronha Estate Agency,AGENT,2,BHK,Apartment,Rajhans Kshitij Aspen Wing C,Vasai,Mumbai,"13,000",950,Area in sq ft,Unfurnished,No Deposit,2 bathrooms,East facing
+407,Noronha Estate Agency,AGENT,1,BHK,Apartment,Reputed Builder Galaxy Villa,Vasai,Mumbai,"10,000",600,Area in sq ft,Semi-Furnished,No Deposit,,
+408,Noronha Estate Agency,AGENT,2,BHK,Apartment,Reputed Builder Ram Rahim Tower,Vasai,Mumbai,"20,000",1100,Area in sq ft,Semi-Furnished,No Deposit,2 bathrooms,East facing
+409,Noronha Estate Agency,AGENT,1,BHK,Apartment,Reputed Builder Galaxy Villa,Vasai,Mumbai,"10,000",550,Area in sq ft,Semi-Furnished,No Deposit,1 bathrooms,East facing
+410,Noronha Estate Agency,AGENT,2,BHK,Apartment,Rajhans Rajhans Kshitij Iris Wing E F G,Vasai,Mumbai,"12,000",990,Area in sq ft,Unfurnished,No Deposit,2 bathrooms,East facing
+411,Noronha Estate Agency,AGENT,2,BHK,Apartment,Kaul Kingston Tower,Vasai,Mumbai,"15,000",980,Area in sq ft,Furnished,No Deposit,2 bathrooms,East facing
+412,Noronha Estate Agency,AGENT,1,BHK,Apartment,,Vasai West,Mumbai,"10,000",600,Area in sq ft,Unfurnished,No Deposit,1 bathrooms,East facing
+413,Noronha Estate Agency,AGENT,2,BHK,Apartment,Manav Wisteria,Vasai,Mumbai,"18,000",850,Area in sq ft,Semi-Furnished,No Deposit,2 bathrooms,East facing
+414,Sarvam Properties,AGENT,2,BHK,Apartment,,Ghatkopar East,Mumbai,"45,000",753,Area in sq ft,Semi-Furnished,No Deposit,2 bathrooms,East facing
+415,PropertyPistol Realty Pvt Ltd,AGENT,3,BHK,Apartment,Soham Crystal Spires,Thane West,Mumbai,"75,000",1324,Area in sq ft,Semi-Furnished,No Deposit,3 bathrooms,NorthEast facing
+416,SMP Group Real Estate,AGENT,2,BHK,Apartment,,Vashi,Mumbai,"17,000",550,Area in sq ft,Unfurnished,No Deposit,1 bathrooms,
+417,Samadhan Real Estate Consultant,AGENT,2,BHK,Apartment,Cidco NRI Complex,Seawoods,Mumbai,"60,000",1250,Area in sq ft,Semi-Furnished,No Deposit,3 bathrooms,North facing
+418,Samadhan Real Estate Consultant,AGENT,3,BHK,Apartment,Cidco NRI Complex Phase 2,Seawoods,Mumbai,"75,000",1650,Area in sq ft,Semi-Furnished,No Deposit,3 bathrooms,North facing
+419,Samadhan Real Estate Consultant,AGENT,2,BHK,Apartment,Akshar Shreeji Heights,Seawoods,Mumbai,"55,000",1250,Area in sq ft,Unfurnished,No Deposit,2 bathrooms,North facing
+420,Samadhan Real Estate Consultant,AGENT,2,BHK,Apartment,Tharwani Tharwani Heights,Sanpada,Mumbai,"55,000",1250,Area in sq ft,Semi-Furnished,No Deposit,2 bathrooms,North facing
+421,Samadhan Real Estate Consultant,AGENT,3,BHK,Apartment,Cidco NRI Complex Phase 2,Seawoods,Mumbai,"75,000",1650,Area in sq ft,Semi-Furnished,No Deposit,4 bathrooms,North facing
+422,Samadhan Real Estate Consultant,AGENT,2,BHK,Apartment,Sejal Suyash Pride,Ulwe,Mumbai,"15,000",1050,Area in sq ft,Unfurnished,No Deposit,2 bathrooms,NorthWest facing
+423,Samadhan Real Estate Consultant,AGENT,3,BHK,Apartment,Tharwani Tharwani Heights,Sanpada,Mumbai,"75,000",1650,Area in sq ft,Semi-Furnished,No Deposit,3 bathrooms,North facing
+424,KD Real Estate,AGENT,1,RK,Studio Apartment,,Kalamboli,Mumbai,"8,000",400,Area in sq ft,Unfurnished,No Deposit,1 bathrooms,East facing
+425,KD Real Estate,AGENT,2,BHK,Apartment,Swaraj Homes Vaikunth CHS,Kamothe,Mumbai,"17,000",1100,Area in sq ft,Unfurnished,No Deposit,2 bathrooms,East facing
+426,Aashiyana property consultant,AGENT,2,BHK,Apartment,Godrej Tranquil,Kandivali East,Mumbai,"35,000",1000,Area in sq ft,Unfurnished,No Deposit,2 bathrooms,East facing
+427,PropertyPistol Realty Pvt Ltd,AGENT,1,BHK,Apartment,DSS Mahavir Kalpavruksha,Thane West,Mumbai,"24,000",620,Area in sq ft,Unfurnished,No Deposit,1 bathrooms,East facing
+428,Swastik Reality,AGENT,3,BHK,Apartment,,Worli,Mumbai,2.8 L,2200,Area in sq ft,Furnished,No Deposit,3 bathrooms,East facing
+429,SMP Group Real Estate,AGENT,3,BHK,Apartment,Reputed Builder Haridwar House,Vashi,Mumbai,"85,000",3000,Area in sq ft,Furnished,No Deposit,3 bathrooms,East facing
+430,Reliance Estates - Since 1985,AGENT,2,BHK,Apartment,Lodha Bel Air,Jogeshwari West,Mumbai,"75,000",1250,Area in sq ft,Unfurnished,No Deposit,2 bathrooms,East facing
+431,Reliance Estates - Since 1985,AGENT,3,BHK,Apartment,Lodha Bel Air,Jogeshwari West,Mumbai,1 L,1600,Area in sq ft,Unfurnished,No Deposit,3 bathrooms,East facing
+432,VibrantKey,AGENT,3,BHK,Apartment,,Malabar Hill,Mumbai,2.75 L,1380,Area in sq ft,Semi-Furnished,No Deposit,2 bathrooms,
+433,VibrantKey,AGENT,2,BHK,Apartment,,Tardeo,Mumbai,1.25 L,950,Area in sq ft,Furnished,No Deposit,2 bathrooms,SouthWest facing
+434,VibrantKey,AGENT,2,BHK,Apartment,,Tardeo,Mumbai,1.25 L,900,Area in sq ft,Furnished,No Deposit,3 bathrooms,East facing
+435,VibrantKey,AGENT,1,BHK,Apartment,,Tardeo,Mumbai,"70,000",460,Area in sq ft,Furnished,No Deposit,1 bathrooms,West facing
+436,PropertyPistol Realty Pvt Ltd,AGENT,2,BHK,Apartment,Reputed Builder Garden Estate,Thane West,Mumbai,"28,000",700,Area in sq ft,Semi-Furnished,No Deposit,2 bathrooms,NorthEast facing
+437,PropertyPistol Realty Pvt Ltd,AGENT,2,BHK,Apartment,Paradise Sai Crystals,Kharghar,Mumbai,"32,000",1150,Area in sq ft,Unfurnished,No Deposit,2 bathrooms,East facing
+438,PropertyPistol Realty Pvt Ltd,AGENT,2,BHK,Apartment,,Seawoods,Mumbai,"26,000",1120,Area in sq ft,Semi-Furnished,No Deposit,2 bathrooms,East facing
+439,PropertyPistol Realty Pvt Ltd,AGENT,1,BHK,Apartment,Rutu Estate,Thane West,Mumbai,"24,000",450,Area in sq ft,Semi-Furnished,No Deposit,1 bathrooms,NorthEast facing
+440,Tejasvi Realty Pvt Ltd,AGENT,4,BHK,Apartment,,Juhu,Mumbai,3 L,2002,Area in sq ft,Furnished,No Deposit,4 bathrooms,West facing
+441,Hari om realtors,AGENT,2,BHK,Apartment,Paradise Sai Sahil,Ulwe,Mumbai,"16,000",1125,Area in sq ft,Unfurnished,No Deposit,1 bathrooms,
+442,PropertyPistol Realty Pvt Ltd,AGENT,3,BHK,Apartment,DLH The Park Residences Phase 1,Andheri West,Mumbai,1.4 L,1100,Area in sq ft,Semi-Furnished,No Deposit,3 bathrooms,North facing
+443,Swastik Reality,AGENT,2,BHK,Apartment,,Lower Parel,Mumbai,1 L,1150,Area in sq ft,Semi-Furnished,No Deposit,3 bathrooms,NorthEast facing
+444,Swastik Reality,AGENT,3,BHK,Apartment,L And T Crescent Bay T4,Parel,Mumbai,1.2 L,1650,Area in sq ft,Semi-Furnished,No Deposit,3 bathrooms,East facing
+445,Azuroin,AGENT,2,BHK,Apartment,Vijay Orovia Phase 1,Thane West,Mumbai,"29,500",793,Area in sq ft,Semi-Furnished,No Deposit,2 bathrooms,NorthEast facing
+446,Azuroin,AGENT,2,BHK,Apartment,Dosti West County,Thane West,Mumbai,"30,000",853,Area in sq ft,Semi-Furnished,No Deposit,2 bathrooms,NorthEast facing
+447,Azuroin,AGENT,2,BHK,Apartment,Kalpataru Sunrise,Thane West,Mumbai,"28,000",635,Area in sq ft,Semi-Furnished,No Deposit,2 bathrooms,NorthEast facing
+448,Reliance Estates - Since 1985,AGENT,3,BHK,Apartment,Sunteck City Avenue 1,Goregaon West,Mumbai,"85,000",1750,Area in sq ft,Unfurnished,No Deposit,3 bathrooms,East facing
+449,Reliance Estates - Since 1985,AGENT,4,BHK,Apartment,Windsor Grande Residences,Andheri West,Mumbai,3.2 L,4300,Area in sq ft,Furnished,No Deposit,5 bathrooms,North facing
+450,Reliance Estates - Since 1985,AGENT,3,BHK,Apartment,Sheth Auris Serenity,Malad West,Mumbai,1.2 L,1600,Area in sq ft,Unfurnished,No Deposit,3 bathrooms,East facing
+451,Reliance Estates - Since 1985,AGENT,2,BHK,Apartment,Kabra Paradise,Andheri West,Mumbai,"60,000",1100,Area in sq ft,Unfurnished,No Deposit,2 bathrooms,East facing
+452,Reliance Estates - Since 1985,AGENT,2,BHK,Apartment,Supreme 19,Andheri West,Mumbai,"75,000",1150,Area in sq ft,Unfurnished,No Deposit,2 bathrooms,East facing
+453,Reliance Estates - Since 1985,AGENT,3,BHK,Apartment,Rustomjee Elanza,Malad West,Mumbai,"80,000",1375,Area in sq ft,Unfurnished,No Deposit,3 bathrooms,East facing
+454,Reliance Estates - Since 1985,AGENT,2,BHK,Apartment,Khandelwal Sai Iconic,Andheri West,Mumbai,"55,000",1080,Area in sq ft,Unfurnished,No Deposit,2 bathrooms,East facing
+455,Reliance Estates - Since 1985,AGENT,2,BHK,Apartment,Kabra Metro One Wing A and B Of Pratap CHSL,Andheri West,Mumbai,"70,000",1050,Area in sq ft,Unfurnished,No Deposit,2 bathrooms,East facing
+456,Reliance Estates - Since 1985,AGENT,2,BHK,Apartment,Supreme 19,Andheri West,Mumbai,"67,500",1250,Area in sq ft,Unfurnished,No Deposit,2 bathrooms,East facing
+457,Reliance Estates - Since 1985,AGENT,2,BHK,Apartment,,Andheri West,Mumbai,"60,000",1100,Area in sq ft,Unfurnished,No Deposit,2 bathrooms,
+458,Reliance Estates - Since 1985,AGENT,2,BHK,Apartment,Platinum Casa Millennia,Andheri West,Mumbai,"56,000",1200,Area in sq ft,Unfurnished,No Deposit,2 bathrooms,East facing
+459,Mahadev Properties,AGENT,1,BHK,Apartment,,kasaradavali thane west,Mumbai,"12,999",642,Area in sq ft,Unfurnished,No Deposit,2 bathrooms,NorthWest facing
+460,PREMIUM PROPERTIES,AGENT,1,BHK,Apartment,Reputed Builder Bhoomi Green,Borivali East,Mumbai,"30,000",600,Area in sq ft,Semi-Furnished,No Deposit,2 bathrooms,East facing
+461,SUNRISE REAL ESTATE,AGENT,2,BHK,Apartment,Ajmera Julian Alps,Wadala,Mumbai,"55,600",955,Area in sq ft,Semi-Furnished,No Deposit,2 bathrooms,East facing
+462,Hari om realtors,AGENT,1,RK,Studio Apartment,,Ulwe,Mumbai,"8,500",655,Area in sq ft,Unfurnished,No Deposit,1 bathrooms,NorthEast facing
+463,Hari om realtors,AGENT,1,BHK,Apartment,,Ulwe,Mumbai,"10,000",650,Area in sq ft,Semi-Furnished,No Deposit,1 bathrooms,East facing
+464,Hari om realtors,AGENT,1,BHK,Apartment,,Ulwe,Mumbai,"9,000",650,Area in sq ft,Unfurnished,No Deposit,1 bathrooms,
+465,SUNRISE REAL ESTATE,AGENT,2,BHK,Apartment,Lodha New Cuffe Parade Tower 11,Wadala,Mumbai,"79,000",840,Area in sq ft,Semi-Furnished,No Deposit,2 bathrooms,
+466,SUNRISE REAL ESTATE,AGENT,2,BHK,Apartment,Lodha New Cuffe Parade Lodha Altia,Wadala,Mumbai,"80,000",750,Area in sq ft,Semi-Furnished,No Deposit,2 bathrooms,East facing
+467,Individual Agent,AGENT,2,BHK,Apartment,Goodwill Goodwill Gardens,Kharghar,Mumbai,"21,000",1100,Area in sq ft,Unfurnished,No Deposit,2 bathrooms,East facing
+468,Laabh Properties,AGENT,2,BHK,Apartment,,Khar West,Mumbai,1 L,900,Area in sq ft,Semi-Furnished,No Deposit,3 bathrooms,East facing
+469,Laabh Properties,AGENT,3,BHK,Apartment,,Bandra West,Mumbai,2.5 L,1200,Area in sq ft,Furnished,No Deposit,3 bathrooms,West facing
+470,Laabh Properties,AGENT,3,BHK,Apartment,L Nagpal Anupama Heights,Khar,Mumbai,1.6 L,1400,Area in sq ft,Semi-Furnished,No Deposit,3 bathrooms,East facing
+471,Laabh Properties,AGENT,1,BHK,Apartment,,Bandra West,Mumbai,"70,000",600,Area in sq ft,Semi-Furnished,No Deposit,2 bathrooms,West facing
+472,PropertyPistol Realty Pvt Ltd,AGENT,1,BHK,Apartment,Lodha Splendora,Thane West,Mumbai,"18,000",700,Area in sq ft,Unfurnished,No Deposit,1 bathrooms,NorthEast facing
+473,PropertyPistol Realty Pvt Ltd,AGENT,2,BHK,Apartment,,Seawoods,Mumbai,"32,000",680,Area in sq ft,Unfurnished,No Deposit,2 bathrooms,NorthEast facing
+474,Om sai estate,AGENT,2,BHK,Apartment,Wadhwa Shiv Valley,Kalyan West,Mumbai,"13,000",900,Area in sq ft,Unfurnished,No Deposit,2 bathrooms,East facing
+475,Om sai estate,AGENT,2,BHK,Apartment,Raunak City,Kalyan West,Mumbai,"13,000",870,Area in sq ft,Unfurnished,No Deposit,2 bathrooms,East facing
+476,Om sai estate,AGENT,1,BHK,Apartment,Mehta Amrut Pearl,Kalyan West,Mumbai,"10,000",700,Area in sq ft,Unfurnished,No Deposit,2 bathrooms,East facing
+477,Om sai estate,AGENT,1,BHK,Apartment,Reputed Builder Nebula Darshan,Kalyan West,Mumbai,"9,500",575,Area in sq ft,Unfurnished,No Deposit,1 bathrooms,East facing
+478,MANASVI PROPERTIES,AGENT,2,BHK,Apartment,Runwal Bliss Wing B,Kanjurmarg,Mumbai,"55,000",850,Area in sq ft,Semi-Furnished,No Deposit,2 bathrooms,West facing
+479,MANASVI PROPERTIES,AGENT,2,BHK,Apartment,Runwal Forest Tower 1 To 4,Kanjurmarg,Mumbai,"49,000",800,Area in sq ft,Semi-Furnished,No Deposit,2 bathrooms,West facing
+480,MANASVI PROPERTIES,AGENT,2,BHK,Apartment,Kanakia Silicon Valley,Powai,Mumbai,"84,000",850,Area in sq ft,Semi-Furnished,No Deposit,2 bathrooms,West facing
+481,MANASVI PROPERTIES,AGENT,2,BHK,Apartment,Runwal Forest Tower 1 To 4,Kanjurmarg,Mumbai,"51,000",771,Area in sq ft,Semi-Furnished,No Deposit,2 bathrooms,West facing
+482,MANASVI PROPERTIES,AGENT,3,BHK,Apartment,Godrej The Trees,Vikhroli,Mumbai,1.25 L,1250,Area in sq ft,Semi-Furnished,No Deposit,3 bathrooms,West facing
+483,PropertyPistol Realty Pvt Ltd,AGENT,3,BHK,Apartment,,Seawoods,Mumbai,"45,000",1500,Area in sq ft,Semi-Furnished,No Deposit,3 bathrooms,East facing
+484,Swastik Reality,AGENT,2,BHK,Apartment,Darshan Rico,Lower Parel,Mumbai,1.5 L,1800,Area in sq ft,Semi-Furnished,No Deposit,3 bathrooms,East facing
+485,Swastik Reality,AGENT,2,BHK,Apartment,Lodha Park,Lower Parel,Mumbai,1.2 L,931,Area in sq ft,Semi-Furnished,No Deposit,2 bathrooms,
+486,Swastik Reality,AGENT,1,BHK,Apartment,,Lower Parel,Mumbai,"65,000",700,Area in sq ft,Furnished,No Deposit,1 bathrooms,East facing
+487,Swastik Reality,AGENT,2,BHK,Apartment,Reputed Builder Shilpa Tower,Lower Parel,Mumbai,1.2 L,1100,Area in sq ft,Furnished,No Deposit,4 bathrooms,North facing
+488,Swastik Reality,AGENT,2,BHK,Apartment,,Worli,Mumbai,"95,000",1100,Area in sq ft,Semi-Furnished,No Deposit,2 bathrooms,East facing
+489,Aadhar enterprises,AGENT,1,BHK,Apartment,,Thakurli,Mumbai,"12,000",700,Area in sq ft,Unfurnished,No Deposit,1 bathrooms,North facing
+490,VibrantKey,AGENT,1,BHK,Apartment,,Tardeo,Mumbai,"70,000",460,Area in sq ft,Furnished,No Deposit,1 bathrooms,West facing
+491,Om Sai Siddhi Properties,AGENT,1,BHK,Apartment,Lodha Casa Rio,Dombivali,Mumbai,"8,000",693,Area in sq ft,Unfurnished,No Deposit,1 bathrooms,NorthEast facing
+492,Om Sai Siddhi Properties,AGENT,2,BHK,Apartment,Lodha Casa Rio,Dombivali,Mumbai,"12,400",909,Area in sq ft,Unfurnished,No Deposit,2 bathrooms,NorthEast facing
+493,MANASVI PROPERTIES,AGENT,4,BHK,Apartment,Godrej The Trees,Vikhroli,Mumbai,1.95 L,1450,Area in sq ft,Furnished,No Deposit,3 bathrooms,West facing
+494,Swastik Reality,AGENT,3,BHK,Apartment,K Raheja Modern Vivarea South Tower,Agripada,Mumbai,4.74 L,2250,Area in sq ft,Semi-Furnished,No Deposit,4 bathrooms,
+495,PropertyPistol Realty Pvt Ltd,AGENT,3,BHK,Apartment,Neelkanth Greens,Thane West,Mumbai,"36,000",1100,Area in sq ft,Semi-Furnished,No Deposit,3 bathrooms,East facing
+496,Sarvam Properties,AGENT,4,BHK,Apartment,,Ghatkopar East,Mumbai,1.45 L,1897,Area in sq ft,Furnished,No Deposit,4 bathrooms,East facing
+497,Bajrangi Realtors,AGENT,2,BHK,Apartment,,Kurla East,Mumbai,"30,000",625,Area in sq ft,Unfurnished,No Deposit,1 bathrooms,West facing
+498,Bajrangi Realtors,AGENT,1,BHK,Apartment,Raghav One,Kurla,Mumbai,"41,000",425,Area in sq ft,Semi-Furnished,No Deposit,1 bathrooms,East facing
+499,Vijay Estate Agency,AGENT,2,BHK,Apartment,,Bhandup West,Mumbai,"48,000",800,Area in sq ft,Semi-Furnished,No Deposit,2 bathrooms,East facing
+500,PropertyPistol Realty Pvt Ltd,AGENT,3,BHK,Apartment,,Andheri West,Mumbai,1.1 L,1200,Area in sq ft,Furnished,No Deposit,3 bathrooms,NorthEast facing
+501,Shree associat,AGENT,3,BHK,Apartment,,Kalyan West,Mumbai,"26,000",1200,Area in sq ft,Furnished,No Deposit,3 bathrooms,East facing
+502,Shree associat,AGENT,2,BHK,Apartment,,Kalyan West,Mumbai,"25,000",920,Area in sq ft,Furnished,No Deposit,2 bathrooms,East facing
+503,Azuroin,AGENT,1,BHK,Apartment,,Thane West,Mumbai,"24,000",517,Area in sq ft,Unfurnished,No Deposit,1 bathrooms,NorthEast facing
+504,Azuroin,AGENT,1,BHK,Apartment,Ashar Edge,Thane West,Mumbai,"27,000",545,Area in sq ft,Semi-Furnished,No Deposit,1 bathrooms,NorthEast facing
+505,Azuroin,AGENT,2,BHK,Apartment,,Thane West,Mumbai,"28,003",772,Area in sq ft,Semi-Furnished,No Deposit,2 bathrooms,NorthEast facing
+506,MANASVI PROPERTIES,AGENT,3,BHK,Apartment,Godrej The Trees,Vikhroli,Mumbai,1.3 L,1135,Area in sq ft,Semi-Furnished,No Deposit,3 bathrooms,West facing
+507,Jyoti Enterprise,AGENT,2,BHK,Apartment,Vishesh Balaji Symphony,Panvel,Mumbai,"15,000",1065,Area in sq ft,Semi-Furnished,No Deposit,2 bathrooms,East facing
+508,Jyoti Enterprise,AGENT,2,BHK,Apartment,Vishesh Balaji Symphony,Panvel,Mumbai,"13,000",800,Area in sq ft,Semi-Furnished,No Deposit,1 bathrooms,West facing
+509,Jyoti Enterprise,AGENT,2,BHK,Apartment,Vishesh Balaji Symphony,Panvel,Mumbai,"19,000",1005,Area in sq ft,Furnished,No Deposit,2 bathrooms,South facing
+510,Reliance Estates - Since 1985,AGENT,4,BHK,Apartment,Lodha Bel Air,Jogeshwari West,Mumbai,1.3 L,1900,Area in sq ft,Unfurnished,No Deposit,4 bathrooms,East facing
+511,Eastern Coast Properties,AGENT,2,BHK,Apartment,Indiabulls Blu Tower A,Worli,Mumbai,2.45 L,827,Area in sq ft,Semi-Furnished,No Deposit,2 bathrooms,East facing
+512,SUNRISE REAL ESTATE,AGENT,3,BHK,Apartment,Rajhans Mount Everest,Wadala,Mumbai,"80,000",1215,Area in sq ft,Furnished,No Deposit,3 bathrooms,
+513,Shree Homes Enterprises,AGENT,2,BHK,Apartment,Future Hill,Panvel,Mumbai,"11,000",900,Area in sq ft,Semi-Furnished,No Deposit,2 bathrooms,
+514,Shree Homes Enterprises,AGENT,3,BHK,Apartment,Vishesh Balaji Symphony,Panvel,Mumbai,"23,000",1560,Area in sq ft,Semi-Furnished,No Deposit,2 bathrooms,
+515,Eastern Coast Properties,AGENT,4,BHK,Apartment,Lodha World Crest,Lower Parel,Mumbai,3.25 L,2357,Area in sq ft,Semi-Furnished,No Deposit,3 bathrooms,NorthEast facing
+516,Eastern Coast Properties,AGENT,4,BHK,Apartment,,Worli,Mumbai,3.9 L,1600,Area in sq ft,Semi-Furnished,No Deposit,3 bathrooms,East facing
+517,EstatesHUB,AGENT,3,BHK,Apartment,Bholenath Hresa Sainagar Apartment Pvt Ltd,Chembur,Mumbai,"82,000",980,Area in sq ft,Semi-Furnished,No Deposit,2 bathrooms,North facing
+518,Azuroin,AGENT,2,BHK,Apartment,Rustomjee Azziano Wing G,Thane West,Mumbai,"48,000",753,Area in sq ft,Furnished,No Deposit,2 bathrooms,NorthEast facing
+519,Green Group Real Estate Consultants,AGENT,2,BHK,Apartment,Moraj Riverside Park,Panvel,Mumbai,"14,000",950,Area in sq ft,Unfurnished,No Deposit,2 bathrooms,East facing
+520,Bricks Property Consultant,AGENT,3,BHK,Apartment,,Dombivali East,Mumbai,"14,000",1197,Area in sq ft,Unfurnished,No Deposit,2 bathrooms,East facing
+521,Bricks Property Consultant,AGENT,2,BHK,Apartment,,Dombivali East,Mumbai,"13,000",999,Area in sq ft,Semi-Furnished,No Deposit,2 bathrooms,NorthWest facing
+522,Bricks Property Consultant,AGENT,2,BHK,Apartment,,Dombivali East,Mumbai,"12,000",999,Area in sq ft,Unfurnished,No Deposit,2 bathrooms,NorthEast facing
+523,Azuroin,AGENT,1,BHK,Apartment,Lodha Quality Home Tower 2,Thane West,Mumbai,"18,000",417,Area in sq ft,Semi-Furnished,No Deposit,1 bathrooms,NorthEast facing
+524,Azuroin,AGENT,2,BHK,Apartment,,Thane West,Mumbai,"50,000",750,Area in sq ft,Furnished,No Deposit,2 bathrooms,NorthEast facing
+525,Azuroin,AGENT,3,BHK,Apartment,Lodha Amara Tower 20 21,Thane West,Mumbai,"40,000",1055,Area in sq ft,Semi-Furnished,No Deposit,3 bathrooms,NorthEast facing
+526,Azuroin,AGENT,2,BHK,Apartment,Runwal Garden City,Thane West,Mumbai,"37,000",744,Area in sq ft,Furnished,No Deposit,1 bathrooms,
+527,Azuroin,AGENT,2,BHK,Apartment,Runwal Garden City,Thane West,Mumbai,"37,000",744,Area in sq ft,Furnished,No Deposit,1 bathrooms,NorthEast facing
+528,Azuroin,AGENT,1,BHK,Apartment,Lodha Quality Home Tower 2,Thane West,Mumbai,"16,000",417,Area in sq ft,Semi-Furnished,No Deposit,1 bathrooms,NorthEast facing
+529,Azuroin,AGENT,2,BHK,Apartment,Piramal Vaikunth Thane,Thane West,Mumbai,"45,001",1106,Area in sq ft,Semi-Furnished,No Deposit,2 bathrooms,NorthEast facing
+530,Azuroin,AGENT,2,BHK,Apartment,Ashar Edge,Thane West,Mumbai,"38,000",753,Area in sq ft,Unfurnished,No Deposit,2 bathrooms,NorthEast facing
+531,Azuroin,AGENT,2,BHK,Apartment,Ashar Edge,Thane West,Mumbai,"37,000",753,Area in sq ft,Semi-Furnished,No Deposit,2 bathrooms,
+532,Azuroin,AGENT,2,BHK,Apartment,Ashar Edge,Thane West,Mumbai,"37,000",753,Area in sq ft,Semi-Furnished,No Deposit,2 bathrooms,NorthEast facing
+533,Azuroin,AGENT,2,BHK,Apartment,Swaraj Homes Nirlac Solitaire Society,Thane West,Mumbai,"30,000",1075,Area in sq ft,Furnished,No Deposit,2 bathrooms,NorthEast facing
+534,Individual Agent,AGENT,3,BHK,Apartment,Paradise Sai Solitaire,Kharghar,Mumbai,"40,000",1750,Area in sq ft,Semi-Furnished,No Deposit,3 bathrooms,East facing
+535,Laabh Properties,AGENT,2,BHK,Apartment,Bhuvnesh Westside,Bandra West,Mumbai,1.1 L,800,Area in sq ft,Unfurnished,No Deposit,2 bathrooms,West facing
+536,Hari om realtors,AGENT,1,BHK,Apartment,,Ulwe,Mumbai,"8,500",665,Area in sq ft,Unfurnished,No Deposit,1 bathrooms,NorthWest facing
+537,Hari om realtors,AGENT,2,BHK,Apartment,Shreenathji Mayuresh Delta,Ulwe,Mumbai,"22,000",1350,Area in sq ft,Unfurnished,No Deposit,2 bathrooms,NorthEast facing
+538,Hari om realtors,AGENT,2,BHK,Apartment,Platinum Emporius,Ulwe,Mumbai,"24,000",1175,Area in sq ft,Unfurnished,No Deposit,2 bathrooms,NorthEast facing
+539,Hari om realtors,AGENT,3,BHK,Apartment,Reputed Builder City Heights,Ulwe,Mumbai,"17,000",1585,Area in sq ft,Unfurnished,No Deposit,3 bathrooms,East facing
+540,Hari om realtors,AGENT,1,BHK,Apartment,Shagun Paradise,Ulwe,Mumbai,"10,500",1085,Area in sq ft,Unfurnished,No Deposit,1 bathrooms,NorthWest facing
+541,Hari om realtors,AGENT,1,RK,Studio Apartment,,Ulwe,Mumbai,"6,500",425,Area in sq ft,Unfurnished,No Deposit,1 bathrooms,East facing
+542,Individual Agent,AGENT,3,BHK,Apartment,Nisarg Hyde Park,Kharghar,Mumbai,"40,000",1570,Area in sq ft,Furnished,No Deposit,3 bathrooms,West facing
+543,Jyoti Enterprise,AGENT,2,BHK,Apartment,Marathon Marathon Nexzone,Panvel,Mumbai,"12,000",1100,Area in sq ft,Unfurnished,No Deposit,2 bathrooms,
+544,Jyoti Enterprise,AGENT,2,BHK,Apartment,Vishesh Balaji Symphony,Panvel,Mumbai,"15,000",1065,Area in sq ft,Semi-Furnished,No Deposit,2 bathrooms,East facing
+545,Jyoti Enterprise,AGENT,3,BHK,Apartment,Indiabulls Greens,Panvel,Mumbai,"32,000",1450,Area in sq ft,Furnished,No Deposit,3 bathrooms,
+546,Jyoti Enterprise,AGENT,2,BHK,Apartment,Vishesh Balaji Symphony,Panvel,Mumbai,"16,000",1055,Area in sq ft,Semi-Furnished,No Deposit,2 bathrooms,East facing
+547,Bricks Property Consultant,AGENT,2,BHK,Apartment,Lodha Casa Rio Gold,Dombivali,Mumbai,"12,000",963,Area in sq ft,Unfurnished,No Deposit,2 bathrooms,East facing
+548,Bricks Property Consultant,AGENT,2,BHK,Apartment,Lodha Casa Rio Gold,Dombivali,Mumbai,"16,500",969,Area in sq ft,Semi-Furnished,No Deposit,2 bathrooms,East facing
+549,Noronha Estate Agency,AGENT,2,BHK,Apartment,,Vasai West,Mumbai,"13,000",850,Area in sq ft,Unfurnished,No Deposit,2 bathrooms,East facing
+550,Reliance Estates - Since 1985,AGENT,4,BHK,Apartment,HDIL Metropolis Residences,Andheri West,Mumbai,"95,000",2000,Area in sq ft,Unfurnished,No Deposit,4 bathrooms,East facing
+551,Green Group Real Estate Consultants,AGENT,1,BHK,Apartment,Moraj Riverside Park,Panvel,Mumbai,"9,000",650,Area in sq ft,Unfurnished,No Deposit,1 bathrooms,East facing
+552,Green Group Real Estate Consultants,AGENT,1,BHK,Apartment,Moraj Riverside Park,Panvel,Mumbai,"10,000",650,Area in sq ft,Unfurnished,No Deposit,1 bathrooms,East facing
+553,Green Group Real Estate Consultants,AGENT,3,BHK,Apartment,Swaraj Homes Neelkanth Darshan CHS,Panvel,Mumbai,"21,000",1300,Area in sq ft,Semi-Furnished,No Deposit,2 bathrooms,North facing
+554,Green Group Real Estate Consultants,AGENT,1,BHK,Apartment,Moraj Riverside Park,Panvel,Mumbai,"12,000",650,Area in sq ft,Unfurnished,No Deposit,1 bathrooms,East facing
+555,Stilt Real Estate,AGENT,3,BHK,Apartment,Kanakia Paris,Bandra Kurla Complex,Mumbai,1.05 L,1027,Area in sq ft,Semi-Furnished,No Deposit,2 bathrooms,
+556,Sanjay,AGENT,2,BHK,Apartment,,Kalyan West,Mumbai,"23,000",950,Area in sq ft,Semi-Furnished,No Deposit,2 bathrooms,West facing
+557,Kuber property,AGENT,3,BHK,Apartment,Ayodhya Construction Co Saffron Residency Phase 1,Kurla,Mumbai,"70,000",1100,Area in sq ft,Furnished,No Deposit,2 bathrooms,NorthEast facing
+558,PREMIUM PROPERTIES,AGENT,1,BHK,Apartment,K Raheja Eastate,Borivali East,Mumbai,"29,000",600,Area in sq ft,Semi-Furnished,No Deposit,2 bathrooms,North facing
+559,Hari om realtors,AGENT,2,BHK,Apartment,Ashtavinayak Aangan,Ulwe,Mumbai,"15,000",1250,Area in sq ft,Unfurnished,No Deposit,2 bathrooms,NorthEast facing
+560,PropertyPistol Realty Pvt Ltd,AGENT,2,BHK,Apartment,,Seawoods,Mumbai,"27,000",900,Area in sq ft,Unfurnished,No Deposit,2 bathrooms,East facing
+561,SUNRISE REAL ESTATE,AGENT,2,BHK,Apartment,Ajmera Girnar,Wadala,Mumbai,"67,000",716,Area in sq ft,Furnished,No Deposit,2 bathrooms,East facing
+562,SUNRISE REAL ESTATE,AGENT,3,BHK,Apartment,Rajhans Mount Everest,Wadala,Mumbai,"67,000",1315,Area in sq ft,Semi-Furnished,No Deposit,2 bathrooms,East facing
+563,Green Group Real Estate Consultants,AGENT,2,BHK,Apartment,National Plaza,Panvel,Mumbai,"17,000",1150,Area in sq ft,Unfurnished,No Deposit,2 bathrooms,East facing
+564,Stilt Real Estate,AGENT,2,BHK,Apartment,Kanakia Paris,Bandra Kurla Complex,Mumbai,"95,000",980,Area in sq ft,Semi-Furnished,No Deposit,2 bathrooms,East facing
+565,Stilt Real Estate,AGENT,3,BHK,Apartment,Kanakia Paris,Bandra Kurla Complex,Mumbai,1.25 L,1200,Area in sq ft,Semi-Furnished,No Deposit,3 bathrooms,East facing
+566,Stilt Real Estate,AGENT,3,BHK,Apartment,Kanakia Paris,Bandra Kurla Complex,Mumbai,1.2 L,1150,Area in sq ft,Semi-Furnished,No Deposit,3 bathrooms,East facing
+567,Stilt Real Estate,AGENT,3,BHK,Apartment,Kanakia Paris,Bandra Kurla Complex,Mumbai,1.05 L,1100,Area in sq ft,Semi-Furnished,No Deposit,2 bathrooms,East facing
+568,Stilt Real Estate,AGENT,3,BHK,Apartment,Kalpataru Sparkle,Bandra East,Mumbai,2.75 L,1600,Area in sq ft,Furnished,No Deposit,3 bathrooms,East facing
+569,Stilt Real Estate,AGENT,3,BHK,Apartment,Kanakia Paris,Bandra Kurla Complex,Mumbai,1.35 L,1400,Area in sq ft,Semi-Furnished,No Deposit,3 bathrooms,East facing
+570,Stilt Real Estate,AGENT,2,BHK,Apartment,Kanakia Paris,Bandra Kurla Complex,Mumbai,1 L,970,Area in sq ft,Semi-Furnished,No Deposit,2 bathrooms,East facing
+571,Stilt Real Estate,AGENT,3,BHK,Apartment,Kalpataru Sparkle,Bandra East,Mumbai,2 L,1580,Area in sq ft,Semi-Furnished,No Deposit,3 bathrooms,East facing
+572,Stilt Real Estate,AGENT,3,BHK,Apartment,Kalpataru Sparkle,Bandra East,Mumbai,2.2 L,1600,Area in sq ft,Semi-Furnished,No Deposit,3 bathrooms,East facing
+573,Prem Housing,AGENT,2,BHK,Apartment,Mayfair The View,Vikhroli,Mumbai,"46,500",1020,Area in sq ft,Semi-Furnished,No Deposit,2 bathrooms,West facing
+574,Prem Housing,AGENT,2,BHK,Apartment,Mayfair The View,Vikhroli,Mumbai,"47,000",1020,Area in sq ft,Unfurnished,No Deposit,2 bathrooms,West facing
+575,Prem Housing,AGENT,3,BHK,Apartment,Runwal Forest Tower 5 To 8,Kanjurmarg,Mumbai,"68,000",1160,Area in sq ft,Semi-Furnished,No Deposit,3 bathrooms,West facing
+576,Prem Housing,AGENT,3,BHK,Apartment,Runwal Lily at Runwal Forest,Kanjurmarg,Mumbai,"75,000",1900,Area in sq ft,Semi-Furnished,No Deposit,3 bathrooms,West facing
+577,Right House Properties,AGENT,2,BHK,Apartment,,Chembur,Mumbai,"30,000",750,Area in sq ft,Unfurnished,No Deposit,3 bathrooms,NorthEast facing
+578,Right House Properties,AGENT,1,BHK,Apartment,,Chembur,Mumbai,"26,000",600,Area in sq ft,Unfurnished,No Deposit,2 bathrooms,NorthEast facing
+579,Right House Properties,AGENT,1,BHK,Apartment,,Chembur,Mumbai,"27,000",480,Area in sq ft,Unfurnished,No Deposit,1 bathrooms,East facing
+580,Housing Guru,AGENT,3,BHK,Apartment,Runwal Runwal Forests Tower 9 To 11,Kanjurmarg,Mumbai,"85,000",1550,Area in sq ft,Unfurnished,No Deposit,3 bathrooms,West facing
+581,Right House Properties,AGENT,2,BHK,Apartment,,Chembur,Mumbai,"38,000",850,Area in sq ft,Unfurnished,No Deposit,2 bathrooms,SouthEast facing
+582,Prem Housing,AGENT,2,BHK,Apartment,Mayfair The View,Vikhroli,Mumbai,"47,500",1020,Area in sq ft,Unfurnished,No Deposit,2 bathrooms,West facing
+583,Prem Housing,AGENT,2,BHK,Apartment,Mayfair The View,Vikhroli,Mumbai,"46,500",1020,Area in sq ft,Unfurnished,No Deposit,2 bathrooms,West facing
+584,Prem Housing,AGENT,2,BHK,Apartment,Runwal Forest Tower 1 To 4,Kanjurmarg,Mumbai,"39,000",771,Area in sq ft,Semi-Furnished,No Deposit,2 bathrooms,West facing
+585,Prem Housing,AGENT,2,BHK,Apartment,Mayfair The View,Vikhroli,Mumbai,"48,000",1020,Area in sq ft,Semi-Furnished,No Deposit,2 bathrooms,West facing
+586,Sanjay,AGENT,1,BHK,Apartment,,Kalyan West,Mumbai,"13,500",650,Area in sq ft,Semi-Furnished,No Deposit,1 bathrooms,West facing
+587,Om Properties,AGENT,2,BHK,Apartment,,Kalwa,Mumbai,"21,000",800,Area in sq ft,Furnished,No Deposit,2 bathrooms,
+588,India Direct Homecom,AGENT,2,BHK,Apartment,Marathon Marathon Nexzone,Panvel,Mumbai,"15,000",1050,Area in sq ft,Unfurnished,No Deposit,2 bathrooms,East facing
+589,G K GROUP,AGENT,2,BHK,Apartment,Marathon Nexzone Zodiac 1,Panvel,Mumbai,"14,000",995,Area in sq ft,Semi-Furnished,No Deposit,2 bathrooms,West facing
+590,G K GROUP,AGENT,2,BHK,Apartment,Marathon Nexzone Acrux 1,Panvel,Mumbai,"14,000",995,Area in sq ft,Semi-Furnished,No Deposit,2 bathrooms,East facing
+591,G K GROUP,AGENT,2,BHK,Apartment,Marathon Nexzone Acrux 1,Panvel,Mumbai,"14,000",995,Area in sq ft,Semi-Furnished,No Deposit,2 bathrooms,West facing
+592,G K GROUP,AGENT,2,BHK,Apartment,Marathon Nexzone Acrux 1,Panvel,Mumbai,"15,500",995,Area in sq ft,Semi-Furnished,No Deposit,2 bathrooms,West facing
+593,G K GROUP,AGENT,2,BHK,Apartment,Marathon Nexzone Acrux 1,Panvel,Mumbai,"15,500",995,Area in sq ft,Semi-Furnished,No Deposit,2 bathrooms,East facing
+594,Om Properties,AGENT,1,BHK,Apartment,,Kalwa,Mumbai,"18,000",650,Area in sq ft,Unfurnished,No Deposit,1 bathrooms,
+595,Azuroin,AGENT,2,BHK,Apartment,Lodha Quality Home,Thane West,Mumbai,"28,000",574,Area in sq ft,Furnished,No Deposit,2 bathrooms,NorthEast facing
+596,Azuroin,AGENT,2,BHK,Apartment,Lodha Majiwada Tower 1,Thane West,Mumbai,"34,500",803,Area in sq ft,Semi-Furnished,No Deposit,2 bathrooms,NorthEast facing
+597,Azuroin,AGENT,1,BHK,Apartment,Lodha Majiwada Tower 1,Thane West,Mumbai,"25,000",545,Area in sq ft,Semi-Furnished,No Deposit,1 bathrooms,NorthEast facing
+598,Azuroin,AGENT,2,BHK,Apartment,Vijay Orovia Phase 1,Thane West,Mumbai,"29,500",793,Area in sq ft,Semi-Furnished,No Deposit,2 bathrooms,NorthEast facing
+599,Azuroin,AGENT,2,BHK,Apartment,Dosti West County,Thane West,Mumbai,"30,000",853,Area in sq ft,Semi-Furnished,No Deposit,2 bathrooms,NorthEast facing
+600,Azuroin,AGENT,2,BHK,Apartment,Kalpataru Sunrise,Thane West,Mumbai,"28,000",635,Area in sq ft,Semi-Furnished,No Deposit,2 bathrooms,NorthEast facing
+601,Azuroin,AGENT,3,BHK,Apartment,Piramal Vaikunth Thane,Thane West,Mumbai,"70,000",1320,Area in sq ft,Semi-Furnished,No Deposit,3 bathrooms,NorthEast facing
+602,Azuroin,AGENT,2,BHK,Apartment,Piramal Vaikunth Thane,Thane West,Mumbai,"49,000",1104,Area in sq ft,Semi-Furnished,No Deposit,2 bathrooms,NorthEast facing
+603,Azuroin,AGENT,2,BHK,Apartment,Piramal Vaikunth Thane,Thane West,Mumbai,"46,000",1038,Area in sq ft,Semi-Furnished,No Deposit,2 bathrooms,NorthEast facing
+604,Azuroin,AGENT,2,BHK,Apartment,Piramal Vaikunth Thane,Thane West,Mumbai,"50,000",1104,Area in sq ft,Semi-Furnished,No Deposit,2 bathrooms,NorthEast facing
+605,Azuroin,AGENT,3,BHK,Apartment,Kalpataru Sunrise,Thane West,Mumbai,"45,000",1155,Area in sq ft,Semi-Furnished,No Deposit,3 bathrooms,NorthEast facing
+606,My Vastu Realtors,AGENT,1,BHK,Apartment,,Ulwe,Mumbai,"7,500",650,Area in sq ft,Unfurnished,No Deposit,1 bathrooms,NorthEast facing
+607,My Vastu Realtors,AGENT,1,BHK,Apartment,Krishna Heights,Dronagiri,Mumbai,"5,700",735,Area in sq ft,Unfurnished,No Deposit,1 bathrooms,East facing
+608,My Vastu Realtors,AGENT,1,BHK,Apartment,Radhe Krishna Heights,Ulwe,Mumbai,"7,500",690,Area in sq ft,Unfurnished,No Deposit,1 bathrooms,
+609,SUNRISE REAL ESTATE,AGENT,3,BHK,Apartment,Lodha Enchante,Wadala,Mumbai,1.3 L,1450,Area in sq ft,Semi-Furnished,No Deposit,3 bathrooms,East facing
+610,SUNRISE REAL ESTATE,AGENT,1,BHK,Apartment,Lodha Enchante,Wadala,Mumbai,"65,000",550,Area in sq ft,Unfurnished,No Deposit,1 bathrooms,East facing
+611,SUNRISE REAL ESTATE,AGENT,1,BHK,Apartment,Lodha Enchante,Wadala,Mumbai,"60,002",570,Area in sq ft,Unfurnished,No Deposit,1 bathrooms,East facing
+612,SUNRISE REAL ESTATE,AGENT,1,BHK,Apartment,Lodha Enchante,Wadala,Mumbai,"60,000",570,Area in sq ft,Unfurnished,No Deposit,1 bathrooms,East facing
+613,SUNRISE REAL ESTATE,AGENT,3,BHK,Apartment,Lodha New Cuffe Parade Lodha Altia,Wadala,Mumbai,1.35 L,1750,Area in sq ft,Semi-Furnished,No Deposit,3 bathrooms,East facing
+614,Stilt Real Estate,AGENT,3,BHK,Apartment,Rustomjee Oriana,Bandra East,Mumbai,1.5 L,1400,Area in sq ft,Semi-Furnished,No Deposit,3 bathrooms,West facing
+615,Stilt Real Estate,AGENT,3,BHK,Apartment,Kalpataru Sparkle,Bandra East,Mumbai,2.25 L,1400,Area in sq ft,Furnished,No Deposit,3 bathrooms,East facing
+616,Swastik Reality,AGENT,4,BHK,Apartment,Lodha Marquise,Worli,Mumbai,3 L,3000,Area in sq ft,Semi-Furnished,No Deposit,4 bathrooms,SouthEast facing
+617,Green Group Real Estate Consultants,AGENT,1,BHK,Apartment,,Panvel,Mumbai,"14,000",750,Area in sq ft,Furnished,No Deposit,1 bathrooms,East facing
+618,Green Group Real Estate Consultants,AGENT,3,BHK,Apartment,Indiabulls Greens,Panvel,Mumbai,"18,000",1900,Area in sq ft,Unfurnished,No Deposit,3 bathrooms,East facing
+619,Green Group Real Estate Consultants,AGENT,2,BHK,Apartment,Moraj Riverside Park,Panvel,Mumbai,"22,000",1100,Area in sq ft,Furnished,No Deposit,2 bathrooms,East facing
+620,Green Group Real Estate Consultants,AGENT,2,BHK,Apartment,Moraj Riverside Park,Panvel,Mumbai,"12,000",1000,Area in sq ft,Unfurnished,No Deposit,1 bathrooms,East facing
+621,Green Group Real Estate Consultants,AGENT,1,RK,Studio Apartment,,Karanjade,Mumbai,"5,000",400,Area in sq ft,Unfurnished,No Deposit,1 bathrooms,East facing
+622,Green Group Real Estate Consultants,AGENT,2,BHK,Apartment,,Kamothe,Mumbai,"25,000",1100,Area in sq ft,Furnished,No Deposit,2 bathrooms,East facing
+623,SUNRISE REAL ESTATE,AGENT,2,BHK,Apartment,Lodha New Cuffe Parade Tower 11,Wadala,Mumbai,"79,000",790,Area in sq ft,Semi-Furnished,No Deposit,2 bathrooms,East facing
+624,Housing Guru,AGENT,1,BHK,Apartment,Hiranandani Regent Hill C D And E Wing,Powai,Mumbai,"55,000",681,Area in sq ft,Semi-Furnished,No Deposit,1 bathrooms,West facing
+625,Housing Guru,AGENT,2,BHK,Apartment,Hiranandani Zen Atlantis,Powai,Mumbai,"95,000",1250,Area in sq ft,Semi-Furnished,No Deposit,2 bathrooms,West facing
+626,Housing Guru,AGENT,3,BHK,Apartment,Runwal Forest Tower 5 To 8,Kanjurmarg,Mumbai,"85,000",1550,Area in sq ft,Unfurnished,No Deposit,3 bathrooms,West facing
+627,Housing Guru,AGENT,3,BHK,Apartment,Runwal Forest Tower 5 To 8,Kanjurmarg,Mumbai,"80,000",1550,Area in sq ft,Unfurnished,No Deposit,3 bathrooms,West facing
+628,Housing Guru,AGENT,1,BHK,Apartment,Hiranandani Regent Hill C D And E Wing,Powai,Mumbai,"55,000",600,Area in sq ft,Semi-Furnished,No Deposit,1 bathrooms,West facing
+629,Housing Guru,AGENT,1,BHK,Apartment,Hiranandani Regent Hill C D And E Wing,Powai,Mumbai,"55,000",600,Area in sq ft,Semi-Furnished,No Deposit,1 bathrooms,West facing
+630,Housing Guru,AGENT,2,BHK,Apartment,Hiranandani Zen Atlantis,Powai,Mumbai,1.1 L,1250,Area in sq ft,Unfurnished,No Deposit,2 bathrooms,West facing
+631,Housing Guru,AGENT,3,BHK,Apartment,Runwal Runwal Forests Tower 9 To 11,Kanjurmarg,Mumbai,"85,000",1550,Area in sq ft,Unfurnished,No Deposit,3 bathrooms,West facing
+632,Housing Guru,AGENT,3,BHK,Apartment,Runwal Runwal Forests Tower 9 To 11,Kanjurmarg,Mumbai,"86,000",1550,Area in sq ft,Unfurnished,No Deposit,3 bathrooms,East facing
+633,Housing Guru,AGENT,1,BHK,Apartment,Hiranandani Regent Hill C D And E Wing,Powai,Mumbai,"54,000",600,Area in sq ft,Semi-Furnished,No Deposit,1 bathrooms,East facing
+634,Housing Guru,AGENT,3,BHK,Apartment,Runwal Runwal Forests Tower 9 To 11,Kanjurmarg,Mumbai,"85,000",1550,Area in sq ft,Unfurnished,No Deposit,3 bathrooms,West facing
+635,Housing Guru,AGENT,3,BHK,Apartment,Runwal Runwal Forests Tower 9 To 11,Kanjurmarg,Mumbai,"87,000",1550,Area in sq ft,Unfurnished,No Deposit,3 bathrooms,West facing
+636,Housing Guru,AGENT,3,BHK,Apartment,Runwal Runwal Forests Tower 9 To 11,Kanjurmarg,Mumbai,"87,000",1550,Area in sq ft,Unfurnished,No Deposit,3 bathrooms,West facing
+637,MANASVI PROPERTIES,AGENT,3,BHK,Apartment,Runwal Forest Tower 5 To 8,Kanjurmarg,Mumbai,"65,000",1085,Area in sq ft,Semi-Furnished,No Deposit,2 bathrooms,West facing
+638,PropertyPistol Realty Pvt Ltd,AGENT,2,BHK,Apartment,,Borivali West,Mumbai,"40,000",920,Area in sq ft,Semi-Furnished,No Deposit,2 bathrooms,East facing
+639,PropertyPistol Realty Pvt Ltd,AGENT,3,BHK,Apartment,Today Grande Vista,Ulwe,Mumbai,"27,000",1580,Area in sq ft,Unfurnished,No Deposit,3 bathrooms,East facing
+640,Housing Guru,AGENT,2,BHK,Apartment,Hiranandani Zen Atlantis,Powai,Mumbai,1.2 L,1250,Area in sq ft,Semi-Furnished,No Deposit,2 bathrooms,West facing
+641,Housing Guru,AGENT,2,BHK,Apartment,Hiranandani Zen Atlantis,Powai,Mumbai,1.2 L,1250,Area in sq ft,Semi-Furnished,No Deposit,2 bathrooms,West facing
+642,Kuber property,AGENT,2,BHK,Apartment,Hubtown Seasons,Chembur,Mumbai,"80,000",1200,Area in sq ft,Semi-Furnished,No Deposit,2 bathrooms,East facing
+643,Kuber property,AGENT,3,BHK,Apartment,Godrej Prime,Chembur,Mumbai,"80,000",1300,Area in sq ft,Unfurnished,No Deposit,2 bathrooms,East facing
+644,Kuber property,AGENT,2,BHK,Apartment,MICL Aaradhya One,Chembur,Mumbai,"75,000",1150,Area in sq ft,Unfurnished,No Deposit,2 bathrooms,NorthEast facing
+645,Prime property,AGENT,1,BHK,Apartment,Ram Pushpanjali Residency Phase III,Thane West,Mumbai,"14,000",630,Area in sq ft,Semi-Furnished,No Deposit,2 bathrooms,East facing
+646,Prime property,AGENT,2,BHK,Apartment,Puraniks Aarambh,Thane West,Mumbai,"15,000",950,Area in sq ft,Unfurnished,No Deposit,2 bathrooms,North facing
+647,MANASVI PROPERTIES,AGENT,2,BHK,Apartment,Runwal Forest Tower 1 To 4,Kanjurmarg,Mumbai,"47,000",598,Area in sq ft,Semi-Furnished,No Deposit,2 bathrooms,East facing
+648,A A REAL ESTATE,AGENT,2,BHK,Apartment,Reputed Builder Raj Paradise,Andheri East,Mumbai,"50,000",902,Area in sq ft,Semi-Furnished,No Deposit,2 bathrooms,East facing
+649,A A REAL ESTATE,AGENT,2,BHK,Apartment,Reputed Builder Raj Paradise,Andheri East,Mumbai,"44,000",850,Area in sq ft,Furnished,No Deposit,2 bathrooms,East facing
+650,Om sai estate,AGENT,1,BHK,Apartment,Godrej Hill,Kalyan West,Mumbai,"10,000",600,Area in sq ft,Semi-Furnished,No Deposit,1 bathrooms,East facing
+651,Om sai estate,AGENT,3,BHK,Apartment,,Kalyan West,Mumbai,"40,000",1550,Area in sq ft,Furnished,No Deposit,3 bathrooms,NorthEast facing
+652,Om sai estate,AGENT,1,BHK,Apartment,Tharwani Rosalie,Kalyan West,Mumbai,"12,000",666,Area in sq ft,Unfurnished,No Deposit,1 bathrooms,East facing
+653,Sanjay,AGENT,1,BHK,Apartment,,Kalyan West,Mumbai,"9,500",600,Area in sq ft,Unfurnished,No Deposit,1 bathrooms,West facing
+654,Sanjay,AGENT,1,BHK,Apartment,,Kalyan West,Mumbai,"13,500",650,Area in sq ft,Semi-Furnished,No Deposit,1 bathrooms,West facing
+655,Prime property,AGENT,1,BHK,Apartment,Puraniks Tokyo Bay Phase 2C,Thane West,Mumbai,"13,000",600,Area in sq ft,Unfurnished,No Deposit,2 bathrooms,North facing
+656,Bricks Property Consultant,AGENT,3,BHK,Apartment,Lodha Casa Bella Gold,Dombivali,Mumbai,"18,000",1085,Area in sq ft,Unfurnished,No Deposit,3 bathrooms,NorthEast facing
+657,Bricks Property Consultant,AGENT,2,BHK,Apartment,Lodha Casa Bella Gold,Dombivali,Mumbai,"11,500",767,Area in sq ft,Unfurnished,No Deposit,2 bathrooms,East facing
+658,Bajrangi Realtors,AGENT,2,BHK,Apartment,,Kurla East,Mumbai,"34,440",615,Area in sq ft,Unfurnished,No Deposit,2 bathrooms,West facing
+659,Sanjay,AGENT,3,BHK,Apartment,Raunak City Sector IV D3,Kalyan West,Mumbai,"28,000",1200,Area in sq ft,Unfurnished,No Deposit,3 bathrooms,West facing
+660,Prime property,AGENT,2,BHK,Apartment,Haware Haware Citi,Thane West,Mumbai,"14,000",902,Area in sq ft,Unfurnished,No Deposit,2 bathrooms,North facing
+661,Prime property,AGENT,1,BHK,Apartment,Raunak Heights,Thane West,Mumbai,"13,500",580,Area in sq ft,Semi-Furnished,No Deposit,2 bathrooms,North facing
+662,Right House Properties,AGENT,2,BHK,Apartment,,Ghatkopar East,Mumbai,"60,000",750,Area in sq ft,Semi-Furnished,No Deposit,2 bathrooms,NorthWest facing
+663,Royal Real Estate Agency,AGENT,1,BHK,Apartment,Swaraj Homes Elora Complex CHS,Dombivali,Mumbai,"16,000",700,Area in sq ft,Unfurnished,No Deposit,2 bathrooms,
+664,Royal Real Estate Agency,AGENT,1,BHK,Apartment,,Dombivli (West),Mumbai,"10,000",550,Area in sq ft,Unfurnished,No Deposit,1 bathrooms,East facing
+665,A A REAL ESTATE,AGENT,1,BHK,Apartment,Reputed Builder NG Complex,Andheri East,Mumbai,"36,000",615,Area in sq ft,Furnished,No Deposit,1 bathrooms,
+666,A A REAL ESTATE,AGENT,3,BHK,Apartment,Sheth Vasant Oasis,Andheri East,Mumbai,"89,000",1300,Area in sq ft,Furnished,No Deposit,2 bathrooms,East facing
+667,A A REAL ESTATE,AGENT,2,BHK,Apartment,Sheth Vasant Oasis,Andheri East,Mumbai,"79,000",1050,Area in sq ft,Furnished,No Deposit,2 bathrooms,East facing
+668,A A REAL ESTATE,AGENT,2,BHK,Apartment,DSK Madhuban,Andheri East,Mumbai,"45,000",800,Area in sq ft,Semi-Furnished,No Deposit,2 bathrooms,East facing
+669,Prime property,AGENT,1,BHK,Apartment,Vihang Vermont,Thane West,Mumbai,"13,000",650,Area in sq ft,Unfurnished,No Deposit,2 bathrooms,North facing
+670,Prime property,AGENT,2,BHK,Apartment,Puraniks Tokyo Bay Phase 2C,Thane West,Mumbai,"19,500",970,Area in sq ft,Unfurnished,No Deposit,2 bathrooms,North facing
+671,Prime property,AGENT,1,BHK,Apartment,Khade KIPL Morya,Thane West,Mumbai,"12,500",650,Area in sq ft,Unfurnished,No Deposit,2 bathrooms,North facing
+672,DHARTI ESTATE CONSULTANT,AGENT,2,BHK,Apartment,Reputed Builder Akash Darshan,Santacruz East,Mumbai,"62,000",700,Area in sq ft,Furnished,No Deposit,2 bathrooms,East facing
+673,DHARTI ESTATE CONSULTANT,AGENT,1,RK,Studio Apartment,Reputed Builder Pride Of Kalina,Santacruz East,Mumbai,"24,000",300,Area in sq ft,Unfurnished,No Deposit,1 bathrooms,
+674,DHARTI ESTATE CONSULTANT,AGENT,2,BHK,Apartment,,Santacruz East,Mumbai,"75,000",900,Area in sq ft,Semi-Furnished,No Deposit,2 bathrooms,North facing
+675,Disha Real Estate Consultant,AGENT,2,BHK,Apartment,Puraniks Hometown Phase 2,Thane West,Mumbai,"19,000",900,Area in sq ft,Semi-Furnished,No Deposit,2 bathrooms,East facing
+676,Disha Real Estate Consultant,AGENT,1,BHK,Apartment,Puraniks Rumah Bali,Thane West,Mumbai,"14,500",590,Area in sq ft,Unfurnished,No Deposit,1 bathrooms,East facing
+677,Disha Real Estate Consultant,AGENT,1,BHK,Apartment,Vihang Vermont,Thane West,Mumbai,"14,000",635,Area in sq ft,Unfurnished,No Deposit,1 bathrooms,NorthEast facing
+678,Disha Real Estate Consultant,AGENT,2,BHK,Apartment,Vihang Vermont,Thane West,Mumbai,"18,000",950,Area in sq ft,Semi-Furnished,No Deposit,2 bathrooms,East facing
+679,Disha Real Estate Consultant,AGENT,3,BHK,Apartment,Haware Citi,Thane West,Mumbai,"18,000",1170,Area in sq ft,Semi-Furnished,No Deposit,2 bathrooms,East facing
+680,Disha Real Estate Consultant,AGENT,1,BHK,Apartment,Vihang Vermont,Thane West,Mumbai,"16,000",650,Area in sq ft,Semi-Furnished,No Deposit,1 bathrooms,East facing
+681,Disha Real Estate Consultant,AGENT,2,BHK,Apartment,Puraniks Aarambh,Thane West,Mumbai,"16,000",850,Area in sq ft,Unfurnished,No Deposit,2 bathrooms,South facing
+682,Disha Real Estate Consultant,AGENT,2,BHK,Apartment,Monarch Cosmos Enclave Chestnut,Thane West,Mumbai,"20,000",850,Area in sq ft,Unfurnished,No Deposit,2 bathrooms,West facing
+683,Disha Real Estate Consultant,AGENT,1,BHK,Apartment,Maison Tarangan,Thane West,Mumbai,"14,000",600,Area in sq ft,Unfurnished,No Deposit,1 bathrooms,NorthWest facing
+684,Bricks Property Consultant,AGENT,2,BHK,Apartment,,Dombivali East,Mumbai,"9,000",710,Area in sq ft,Unfurnished,No Deposit,2 bathrooms,North facing
+685,Azuroin,AGENT,2,BHK,Apartment,Ashar Edge,Thane West,Mumbai,"38,000",780,Area in sq ft,Semi-Furnished,No Deposit,2 bathrooms,NorthEast facing
+686,Prime property,AGENT,1,RK,Studio Apartment,Haware Haware Citi,Thane West,Mumbai,"8,500",324,Area in sq ft,Unfurnished,No Deposit,2 bathrooms,North facing
+687,Prime property,AGENT,2,BHK,Apartment,Godrej Emerald,Thane West,Mumbai,"22,000",1050,Area in sq ft,Semi-Furnished,No Deposit,2 bathrooms,NorthEast facing
+688,Prime property,AGENT,1,BHK,Apartment,Khade KIPL Morya,Thane West,Mumbai,"13,500",650,Area in sq ft,Unfurnished,No Deposit,2 bathrooms,North facing
+689,Prime property,AGENT,1,BHK,Apartment,Puraniks Aarambh,Thane West,Mumbai,"13,000",650,Area in sq ft,Unfurnished,No Deposit,2 bathrooms,North facing
+690,Prime property,AGENT,2,BHK,Apartment,Haware Haware Citi,Thane West,Mumbai,"15,500",902,Area in sq ft,Unfurnished,No Deposit,2 bathrooms,North facing
+691,Prime property,AGENT,2,BHK,Apartment,Haware Haware Citi,Thane West,Mumbai,"17,500",950,Area in sq ft,Semi-Furnished,No Deposit,2 bathrooms,North facing
+692,Laabh Properties,AGENT,2,BHK,Apartment,Rizvi Nectar Apartment,Bandra West,Mumbai,1 L,800,Area in sq ft,Semi-Furnished,No Deposit,2 bathrooms,East facing
+693,Noronha Estate Agency,AGENT,2,BHK,Apartment,,Vasai West,Mumbai,"13,000",870,Area in sq ft,Unfurnished,No Deposit,2 bathrooms,East facing
+694,Noronha Estate Agency,AGENT,1,BHK,Apartment,Reputed Builder Galaxy Villa,Vasai,Mumbai,"10,000",600,Area in sq ft,Semi-Furnished,No Deposit,1 bathrooms,East facing
+695,Prime property,AGENT,2,BHK,Apartment,Puraniks City Phase 3,Thane West,Mumbai,"20,000",960,Area in sq ft,Semi-Furnished,No Deposit,2 bathrooms,North facing
+696,Sanjay,AGENT,1,BHK,Apartment,,Kalyan West,Mumbai,"10,500",650,Area in sq ft,Unfurnished,No Deposit,1 bathrooms,
+697,Laabh Properties,AGENT,2,BHK,Apartment,Swaraj Homes Hill Niketan Apartment,Bandra West,Mumbai,1.25 L,800,Area in sq ft,Furnished,No Deposit,2 bathrooms,West facing
+698,Om sai estate,AGENT,2,BHK,Apartment,,Kalyan West,Mumbai,"16,000",900,Area in sq ft,Semi-Furnished,No Deposit,2 bathrooms,East facing
+699,Om sai estate,AGENT,1,BHK,Apartment,Gurukrupa Guru Atman,Kalyan West,Mumbai,"15,000",710,Area in sq ft,Furnished,No Deposit,2 bathrooms,East facing
+700,Om sai estate,AGENT,2,BHK,Apartment,Gurukrupa Guru Atman,Kalyan West,Mumbai,"21,500",967,Area in sq ft,Furnished,No Deposit,2 bathrooms,East facing
+701,Om sai estate,AGENT,1,BHK,Apartment,Ajmera New Era Yogidham Phase IV Tower C,Kalyan West,Mumbai,"13,500",715,Area in sq ft,Unfurnished,No Deposit,2 bathrooms,West facing
+702,Om sai estate,AGENT,2,BHK,Apartment,,Kalyan West,Mumbai,"24,000",1120,Area in sq ft,Semi-Furnished,No Deposit,2 bathrooms,East facing
+703,Om sai estate,AGENT,1,BHK,Apartment,Raunak City,Kalyan West,Mumbai,"9,000",587,Area in sq ft,Unfurnished,No Deposit,1 bathrooms,East facing
+704,Om sai estate,AGENT,2,BHK,Apartment,Reputed Builder Vasant Valley,Kalyan West,Mumbai,"20,000",1120,Area in sq ft,Semi-Furnished,No Deposit,2 bathrooms,East facing
+705,Azuroin,AGENT,2,BHK,Apartment,Piramal Vaikunth Thane,Thane West,Mumbai,"42,000",1049,Area in sq ft,Semi-Furnished,No Deposit,2 bathrooms,NorthEast facing
+706,Azuroin,AGENT,1,BHK,Apartment,Lodha Casa Royale,Thane West,Mumbai,"21,000",685,Area in sq ft,Semi-Furnished,No Deposit,1 bathrooms,NorthEast facing
+707,Azuroin,AGENT,2,BHK,Apartment,Lodha Amara Tower 20 21,Thane West,Mumbai,"40,000",982,Area in sq ft,Furnished,No Deposit,2 bathrooms,NorthEast facing
+708,Azuroin,AGENT,2,BHK,Apartment,Lodha Amara Tower 20 21,Thane West,Mumbai,"23,000",553,Area in sq ft,Unfurnished,No Deposit,2 bathrooms,NorthEast facing
+709,Azuroin,AGENT,2,BHK,Apartment,Runwal Garden City,Thane West,Mumbai,"37,000",744,Area in sq ft,Furnished,No Deposit,2 bathrooms,NorthEast facing
+710,Azuroin,AGENT,2,BHK,Apartment,Ashar Edge,Thane West,Mumbai,"38,000",753,Area in sq ft,Unfurnished,No Deposit,2 bathrooms,NorthEast facing
+711,Azuroin,AGENT,2,BHK,Apartment,Ashar Edge,Thane West,Mumbai,"37,000",753,Area in sq ft,Semi-Furnished,No Deposit,2 bathrooms,NorthEast facing
+712,Azuroin,AGENT,2,BHK,Apartment,Swaraj Homes Nirlac Solitaire Society,Thane West,Mumbai,"31,000",1075,Area in sq ft,Furnished,No Deposit,2 bathrooms,NorthEast facing
+713,Azuroin,AGENT,2,BHK,Apartment,Piramal Vaikunth Thane,Thane West,Mumbai,"45,000",968,Area in sq ft,Semi-Furnished,No Deposit,2 bathrooms,NorthEast facing
+714,Azuroin,AGENT,2,BHK,Apartment,Lodha Amara Tower 20 21,Thane West,Mumbai,"42,000",982,Area in sq ft,Furnished,No Deposit,2 bathrooms,NorthEast facing
+715,Azuroin,AGENT,2,BHK,Apartment,Runwal Garden City,Thane West,Mumbai,"36,000",744,Area in sq ft,Furnished,No Deposit,2 bathrooms,NorthEast facing
+716,Star Realtors,AGENT,3,BHK,Apartment,Lodha Elisium,Wadala,Mumbai,1.1 L,1701,Area in sq ft,Semi-Furnished,No Deposit,1 bathrooms,East facing
+717,Star Realtors,AGENT,2,BHK,Apartment,Lodha Dioro,Wadala,Mumbai,"87,000",1377,Area in sq ft,Semi-Furnished,No Deposit,1 bathrooms,SouthEast facing
+718,Star Realtors,AGENT,3,BHK,Apartment,Lodha Dioro,Wadala,Mumbai,1.3 L,1701,Area in sq ft,Semi-Furnished,No Deposit,1 bathrooms,East facing
+719,Sanjay,AGENT,3,BHK,Apartment,Reputed Builder Vasant Valley,Kalyan West,Mumbai,"41,000",1300,Area in sq ft,Furnished,No Deposit,3 bathrooms,West facing
+720,Sanjay,AGENT,1,BHK,Apartment,,Kalyan West,Mumbai,"9,500",650,Area in sq ft,Unfurnished,No Deposit,1 bathrooms,West facing
+721,Sanjay,AGENT,2,BHK,Apartment,,Kalyan West,Mumbai,"17,000",950,Area in sq ft,Unfurnished,No Deposit,2 bathrooms,West facing
+722,Prime property,AGENT,3,BHK,Apartment,Haware Haware Citi,Thane West,Mumbai,"17,100",1105,Area in sq ft,Unfurnished,No Deposit,3 bathrooms,North facing
+723,Prime property,AGENT,1,BHK,Apartment,Haware Haware Citi,Thane West,Mumbai,"10,990",625,Area in sq ft,Unfurnished,No Deposit,2 bathrooms,East facing
+724,Prime property,AGENT,2,BHK,Apartment,Haware Haware Citi,Thane West,Mumbai,"13,999",902,Area in sq ft,Unfurnished,No Deposit,2 bathrooms,North facing
+725,Prime property,AGENT,1,RK,Studio Apartment,Haware Haware Citi,Thane West,Mumbai,"8,500",324,Area in sq ft,Unfurnished,No Deposit,2 bathrooms,North facing
+726,Sanjay,AGENT,2,BHK,Apartment,,Kalyan West,Mumbai,"18,000",900,Area in sq ft,Unfurnished,No Deposit,2 bathrooms,West facing
+727,Sanjay,AGENT,3,BHK,Apartment,,Kalyan West,Mumbai,"29,000",1200,Area in sq ft,Semi-Furnished,No Deposit,3 bathrooms,West facing
+728,Sanjay,AGENT,1,BHK,Apartment,,Kalyan West,Mumbai,"16,000",650,Area in sq ft,Furnished,No Deposit,1 bathrooms,West facing
+729,Sanjay,AGENT,1,BHK,Apartment,,Kalyan West,Mumbai,"10,000",650,Area in sq ft,Unfurnished,No Deposit,1 bathrooms,West facing
+730,Sanjay,AGENT,2,BHK,Apartment,Ashapura Neelkanth Shrushti,Kalyan West,Mumbai,"19,000",950,Area in sq ft,Semi-Furnished,No Deposit,2 bathrooms,West facing
+731,Prime property,AGENT,1,BHK,Apartment,Puraniks Tokyo Bay Phase 1,Thane West,Mumbai,"15,000",650,Area in sq ft,Semi-Furnished,No Deposit,2 bathrooms,NorthEast facing
+732,Prime property,AGENT,1,BHK,Apartment,Puraniks Rumah Bali,Thane West,Mumbai,"14,000",650,Area in sq ft,Unfurnished,No Deposit,2 bathrooms,North facing
+733,Sanjay,AGENT,2,BHK,Apartment,,Kalyan West,Mumbai,"19,000",650,Area in sq ft,Semi-Furnished,No Deposit,2 bathrooms,West facing
+734,Prem Housing,AGENT,2,BHK,Apartment,Runwal Forest Tower 1 To 4,Kanjurmarg,Mumbai,"38,000",771,Area in sq ft,Semi-Furnished,No Deposit,2 bathrooms,West facing
+735,Prem Housing,AGENT,2,BHK,Apartment,Runwal Forest Tower 1 To 4,Kanjurmarg,Mumbai,"36,000",771,Area in sq ft,Unfurnished,No Deposit,2 bathrooms,SouthWest facing
+736,PropertyPistol Realty Pvt Ltd,AGENT,2,BHK,Apartment,Reputed Builder Innovative Heritage,Seawoods,Mumbai,"25,000",1000,Area in sq ft,Unfurnished,No Deposit,2 bathrooms,NorthEast facing
+737,Prime property,AGENT,2,BHK,Apartment,Haware Haware Citi,Thane West,Mumbai,"13,900",902,Area in sq ft,Unfurnished,No Deposit,2 bathrooms,East facing
+738,Prime property,AGENT,1,BHK,Apartment,Puraniks Aarambh,Thane West,Mumbai,"12,000",630,Area in sq ft,Unfurnished,No Deposit,2 bathrooms,North facing
+739,Prime property,AGENT,1,BHK,Apartment,Vijay Yashraj Park,Thane West,Mumbai,"14,000",700,Area in sq ft,Semi-Furnished,No Deposit,2 bathrooms,North facing
+740,Prime property,AGENT,2,BHK,Apartment,Puraniks Aarambh,Thane West,Mumbai,"15,000",950,Area in sq ft,Unfurnished,No Deposit,2 bathrooms,North facing
+741,Prime property,AGENT,3,BHK,Apartment,Haware Haware Citi,Thane West,Mumbai,"16,500",1105,Area in sq ft,Unfurnished,No Deposit,3 bathrooms,North facing
+742,Sanjay,AGENT,2,BHK,Apartment,,Kalyan West,Mumbai,"20,000",900,Area in sq ft,Semi-Furnished,No Deposit,2 bathrooms,West facing
+743,Sanjay,AGENT,1,BHK,Apartment,,Kalyan West,Mumbai,"14,500",650,Area in sq ft,Unfurnished,No Deposit,1 bathrooms,West facing
+744,Prime property,AGENT,2,BHK,Apartment,Haware Haware Citi,Thane West,Mumbai,"14,000",902,Area in sq ft,Unfurnished,No Deposit,2 bathrooms,North facing
+745,Disha Real Estate Consultant,AGENT,1,BHK,Apartment,Terraform Everest Marigold,Thane West,Mumbai,"13,000",575,Area in sq ft,Unfurnished,No Deposit,2 bathrooms,West facing
+746,Disha Real Estate Consultant,AGENT,2,BHK,Apartment,Vihang Vermont,Thane West,Mumbai,"18,000",1050,Area in sq ft,Unfurnished,No Deposit,2 bathrooms,East facing
+747,Disha Real Estate Consultant,AGENT,1,BHK,Apartment,Puraniks Puranik City Sector 6,Thane West,Mumbai,"17,900",700,Area in sq ft,Unfurnished,No Deposit,2 bathrooms,NorthEast facing
+748,Disha Real Estate Consultant,AGENT,2,BHK,Apartment,Aakar Manas Residency,Thane West,Mumbai,"17,000",700,Area in sq ft,Semi-Furnished,No Deposit,2 bathrooms,East facing
+749,Right House Properties,AGENT,2,BHK,Apartment,,Chembur,Mumbai,"50,000",850,Area in sq ft,Unfurnished,No Deposit,2 bathrooms,NorthEast facing
+750,Right House Properties,AGENT,1,BHK,Apartment,,Chembur,Mumbai,"35,000",645,Area in sq ft,Semi-Furnished,No Deposit,2 bathrooms,NorthEast facing
+751,Right House Properties,AGENT,1,BHK,Apartment,,Chembur,Mumbai,"38,000",520,Area in sq ft,Furnished,No Deposit,1 bathrooms,West facing
+752,Sanjay,AGENT,1,BHK,Apartment,,Kalyan West,Mumbai,"14,000",650,Area in sq ft,Semi-Furnished,No Deposit,1 bathrooms,West facing
+753,PropertyPistol Realty Pvt Ltd,AGENT,2,BHK,Apartment,,Seawoods,Mumbai,"34,000",1040,Area in sq ft,Semi-Furnished,No Deposit,2 bathrooms,East facing
+754,PropertyPistol Realty Pvt Ltd,AGENT,2,BHK,Apartment,HDIL Metropolis Residences,Andheri West,Mumbai,1.1 L,1180,Area in sq ft,Unfurnished,No Deposit,3 bathrooms,East facing
+755,Star Realtors,AGENT,1,BHK,Apartment,Lodha Enchante,Wadala,Mumbai,"55,000",730,Area in sq ft,Semi-Furnished,No Deposit,1 bathrooms,South facing
+756,Star Realtors,AGENT,2,BHK,Apartment,Lodha Elisium,Wadala,Mumbai,"80,000",1701,Area in sq ft,Semi-Furnished,No Deposit,2 bathrooms,East facing
+757,Star Realtors,AGENT,2,BHK,Apartment,Lodha Dioro,Wadala,Mumbai,"85,000",925,Area in sq ft,Semi-Furnished,No Deposit,2 bathrooms,West facing
+758,Star Realtors,AGENT,3,BHK,Apartment,Lodha Elisium,Wadala,Mumbai,1.24 L,1701,Area in sq ft,Semi-Furnished,No Deposit,4 bathrooms,East facing
+759,Star Realtors,AGENT,2,BHK,Apartment,Lodha Dioro,Wadala,Mumbai,"57,000",1337,Area in sq ft,Unfurnished,No Deposit,2 bathrooms,SouthWest facing
+760,Star Realtors,AGENT,2,BHK,Apartment,Lodha Elisium,Wadala,Mumbai,"88,000",955,Area in sq ft,Semi-Furnished,No Deposit,2 bathrooms,SouthWest facing
+761,Star Realtors,AGENT,3,BHK,Apartment,Lodha Elisium,Wadala,Mumbai,1.25 L,1701,Area in sq ft,Semi-Furnished,No Deposit,4 bathrooms,West facing
+762,Star Realtors,AGENT,3,BHK,Apartment,Lodha Dioro,Wadala,Mumbai,1.2 L,1701,Area in sq ft,Semi-Furnished,No Deposit,4 bathrooms,West facing
+763,Star Realtors,AGENT,2,BHK,Apartment,Lodha New Cuffe Parade Lodha Altia,Wadala,Mumbai,"91,000",1500,Area in sq ft,Unfurnished,No Deposit,2 bathrooms,North facing
+764,Sarvam Properties,AGENT,3,BHK,Apartment,,Ghatkopar East,Mumbai,1.25 L,1437,Area in sq ft,Furnished,No Deposit,3 bathrooms,East facing
+765,Om sai estate,AGENT,2,BHK,Apartment,Mohan Heights,Kalyan West,Mumbai,"26,000",1060,Area in sq ft,Semi-Furnished,No Deposit,2 bathrooms,East facing
+766,Sanjay,AGENT,3,BHK,Apartment,,Kalyan West,Mumbai,"26,000",1200,Area in sq ft,Unfurnished,No Deposit,3 bathrooms,West facing
+767,Sanjay,AGENT,1,BHK,Apartment,,Kalyan West,Mumbai,"10,000",650,Area in sq ft,Unfurnished,No Deposit,1 bathrooms,West facing
+768,Bricks Property Consultant,AGENT,2,BHK,Apartment,Lodha Casa Bella Gold,Dombivali,Mumbai,"13,000",864,Area in sq ft,Unfurnished,No Deposit,2 bathrooms,NorthEast facing
+769,Bricks Property Consultant,AGENT,3,BHK,Apartment,,Dombivali East,Mumbai,"41,000",1445,Area in sq ft,Semi-Furnished,No Deposit,3 bathrooms,East facing
+770,SUNRISE REAL ESTATE,AGENT,2,BHK,Apartment,Reputed Builder Mount Alps A,Wadala,Mumbai,"49,000",925,Area in sq ft,Unfurnished,No Deposit,2 bathrooms,NorthEast facing
+771,Galaxy homes,AGENT,2,BHK,Apartment,Bhoomi Homes Maple Hills,Kharghar,Mumbai,"26,000",1085,Area in sq ft,Semi-Furnished,No Deposit,2 bathrooms,East facing
+772,Galaxy homes,AGENT,2,BHK,Apartment,Reputed Builder Dharti Aangan,Kharghar,Mumbai,"17,000",980,Area in sq ft,Unfurnished,No Deposit,2 bathrooms,East facing
+773,Galaxy homes,AGENT,2,BHK,Apartment,Prince Alisha Paradise,Kharghar,Mumbai,"18,500",1025,Area in sq ft,Unfurnished,No Deposit,2 bathrooms,East facing
+774,Galaxy homes,AGENT,1,BHK,Apartment,,Kharghar,Mumbai,"12,000",650,Area in sq ft,Unfurnished,No Deposit,2 bathrooms,East facing
+775,Galaxy homes,AGENT,1,BHK,Apartment,Gami Viona,Kharghar,Mumbai,"15,500",650,Area in sq ft,Unfurnished,No Deposit,1 bathrooms,East facing
+776,G K GROUP,AGENT,3,BHK,Apartment,Paradise Sai World City Panvel,Panvel,Mumbai,"29,000",1650,Area in sq ft,Semi-Furnished,No Deposit,3 bathrooms,North facing
+777,G K GROUP,AGENT,3,BHK,Apartment,Paradise Sai World City Panvel,Panvel,Mumbai,"29,000",1650,Area in sq ft,Semi-Furnished,No Deposit,3 bathrooms,West facing
+778,G K GROUP,AGENT,3,BHK,Apartment,Paradise Sai World City Panvel,Panvel,Mumbai,"28,000",1650,Area in sq ft,Semi-Furnished,No Deposit,3 bathrooms,North facing
+779,G K GROUP,AGENT,3,BHK,Apartment,Indiabulls Greens,Panvel,Mumbai,"24,000",1650,Area in sq ft,Semi-Furnished,No Deposit,3 bathrooms,West facing
+780,G K GROUP,AGENT,2,BHK,Apartment,Marathon Nexzone Aura 1,Panvel,Mumbai,"14,500",825,Area in sq ft,Semi-Furnished,No Deposit,2 bathrooms,East facing
+781,Sanjay,AGENT,1,BHK,Apartment,,Kalyan West,Mumbai,"10,400",650,Area in sq ft,Unfurnished,No Deposit,1 bathrooms,West facing
+782,A A REAL ESTATE,AGENT,2,BHK,Apartment,Reputed Builder Raj Paradise,Andheri East,Mumbai,"49,000",980,Area in sq ft,Semi-Furnished,No Deposit,2 bathrooms,West facing
+783,A A REAL ESTATE,AGENT,2,BHK,Apartment,Reputed Builder Raj Paradise,Andheri East,Mumbai,"50,000",902,Area in sq ft,Semi-Furnished,No Deposit,2 bathrooms,West facing
+784,A A REAL ESTATE,AGENT,2,BHK,Apartment,Reputed Builder Raj Paradise,Andheri East,Mumbai,"48,000",910,Area in sq ft,Semi-Furnished,No Deposit,2 bathrooms,East facing
+785,A A REAL ESTATE,AGENT,2,BHK,Apartment,Reputed Builder Raj Paradise,Andheri East,Mumbai,"48,500",902,Area in sq ft,Semi-Furnished,No Deposit,2 bathrooms,West facing
+786,A A REAL ESTATE,AGENT,2,BHK,Apartment,Reputed Builder Raj Paradise,Andheri East,Mumbai,"49,000",1000,Area in sq ft,Semi-Furnished,No Deposit,2 bathrooms,West facing
+787,Stilt Real Estate,AGENT,3,BHK,Apartment,Kanakia Paris,Bandra Kurla Complex,Mumbai,1.1 L,1024,Area in sq ft,Semi-Furnished,No Deposit,2 bathrooms,East facing
+788,Om Properties,AGENT,1,BHK,Apartment,Ashar Aria,Thane West,Mumbai,"22,000",650,Area in sq ft,Unfurnished,No Deposit,2 bathrooms,
+789,Om Properties,AGENT,1,RK,Studio Apartment,,Kalwa,Mumbai,"10,000",350,Area in sq ft,Unfurnished,No Deposit,1 bathrooms,
+790,Azuroin,AGENT,1,BHK,Apartment,Lodha Quality Home Tower 1,Thane West,Mumbai,"16,000",417,Area in sq ft,Unfurnished,No Deposit,1 bathrooms,NorthEast facing
+791,Azuroin,AGENT,2,BHK,Apartment,Lodha Quality Home Tower 2,Thane West,Mumbai,"25,000",575,Area in sq ft,Furnished,No Deposit,2 bathrooms,NorthEast facing
+792,Azuroin,AGENT,2,BHK,Apartment,Lodha Crown Kolshet,Thane West,Mumbai,"24,000",574,Area in sq ft,Semi-Furnished,No Deposit,2 bathrooms,NorthEast facing
+793,Azuroin,AGENT,1,BHK,Apartment,Lodha Quality Home Tower 1,Thane West,Mumbai,"17,000",417,Area in sq ft,Semi-Furnished,No Deposit,1 bathrooms,NorthEast facing
+794,Azuroin,AGENT,2,BHK,Apartment,Lodha Quality Home Tower 2,Thane West,Mumbai,"28,000",575,Area in sq ft,Furnished,No Deposit,2 bathrooms,NorthEast facing
+795,Azuroin,AGENT,1,BHK,Apartment,Lodha Crown Kolshet,Thane West,Mumbai,"17,011",465,Area in sq ft,Unfurnished,No Deposit,1 bathrooms,NorthEast facing
+796,Azuroin,AGENT,1,BHK,Apartment,Lodha Quality Home Tower 1,Thane West,Mumbai,"16,000",417,Area in sq ft,Unfurnished,No Deposit,1 bathrooms,NorthEast facing
+797,Azuroin,AGENT,2,BHK,Apartment,Lodha Crown Kolshet,Thane West,Mumbai,"28,020",574,Area in sq ft,Furnished,No Deposit,2 bathrooms,NorthEast facing
+798,Azuroin,AGENT,1,BHK,Apartment,Lodha Crown Kolshet,Thane West,Mumbai,"16,500",456,Area in sq ft,Unfurnished,No Deposit,1 bathrooms,NorthEast facing
+799,Azuroin,AGENT,1,BHK,Apartment,Lodha Quality Home Tower 2,Thane West,Mumbai,"17,000",417,Area in sq ft,Unfurnished,No Deposit,1 bathrooms,NorthEast facing
+800,Azuroin,AGENT,2,BHK,Apartment,Lodha Quality Home Tower 2,Thane West,Mumbai,"25,022",575,Area in sq ft,Furnished,No Deposit,2 bathrooms,NorthEast facing
+801,Azuroin,AGENT,1,BHK,Apartment,Lodha Quality Home Tower 5,Thane West,Mumbai,"17,000",418,Area in sq ft,Unfurnished,No Deposit,1 bathrooms,NorthEast facing
+802,Azuroin,AGENT,2,BHK,Apartment,Lodha Quality Home Tower 2,Thane West,Mumbai,"22,000",575,Area in sq ft,Unfurnished,No Deposit,2 bathrooms,NorthEast facing
+803,Azuroin,AGENT,1,BHK,Apartment,Lodha Crown Kolshet,Thane West,Mumbai,"18,000",456,Area in sq ft,Semi-Furnished,No Deposit,1 bathrooms,NorthEast facing
+804,Azuroin,AGENT,2,BHK,Apartment,Lodha Quality Home,Thane West,Mumbai,"28,000",574,Area in sq ft,Furnished,No Deposit,2 bathrooms,NorthEast facing
+805,Azuroin,AGENT,2,BHK,Apartment,Lodha Quality Home Tower 2,Thane West,Mumbai,"25,000",575,Area in sq ft,Semi-Furnished,No Deposit,2 bathrooms,NorthEast facing
+806,Housing Guru,AGENT,3,BHK,Apartment,Nahar Amrit Shakti,Powai,Mumbai,"72,000",1250,Area in sq ft,Furnished,No Deposit,2 bathrooms,West facing
+807,Housing Guru,AGENT,1,BHK,Apartment,Hiranandani Regent Hill C D And E Wing,Powai,Mumbai,"56,000",610,Area in sq ft,Semi-Furnished,No Deposit,1 bathrooms,West facing
+808,Housing Guru,AGENT,1,BHK,Apartment,Hiranandani Regent Hill C D And E Wing,Powai,Mumbai,"56,000",600,Area in sq ft,Semi-Furnished,No Deposit,2 bathrooms,East facing
+809,Housing Guru,AGENT,1,BHK,Apartment,Hiranandani Regent Hill C D And E Wing,Powai,Mumbai,"56,000",600,Area in sq ft,Semi-Furnished,No Deposit,2 bathrooms,West facing
+810,Housing Guru,AGENT,2,BHK,Apartment,Nahar Olivia,Powai,Mumbai,"59,000",980,Area in sq ft,Unfurnished,No Deposit,2 bathrooms,West facing
+811,Kuber property,AGENT,3,BHK,Apartment,MM Spectra,Chembur,Mumbai,"65,000",1600,Area in sq ft,Semi-Furnished,No Deposit,3 bathrooms,NorthWest facing
+812,Kuber property,AGENT,2,BHK,Apartment,MM Spectra,Chembur,Mumbai,"52,000",1200,Area in sq ft,Semi-Furnished,No Deposit,2 bathrooms,West facing
+813,Kuber property,AGENT,2,BHK,Apartment,MM Spectra,Chembur,Mumbai,"55,000",1200,Area in sq ft,Semi-Furnished,No Deposit,2 bathrooms,NorthEast facing
+814,Bajrangi Realtors,AGENT,2,BHK,Apartment,,Kurla East,Mumbai,"35,000",615,Area in sq ft,Unfurnished,No Deposit,2 bathrooms,
+815,Sanjay,AGENT,2,BHK,Apartment,,Kalyan West,Mumbai,"19,000",950,Area in sq ft,Semi-Furnished,No Deposit,2 bathrooms,West facing
+816,Rajesh Rasale,AGENT,1,BHK,Apartment,,Thane West,Mumbai,"23,000",500,Area in sq ft,Furnished,No Deposit,2 bathrooms,East facing
+817,Sanjay,AGENT,3,BHK,Apartment,,Kalyan West,Mumbai,"26,000",1200,Area in sq ft,Semi-Furnished,No Deposit,3 bathrooms,East facing
+818,Sanjay,AGENT,1,BHK,Apartment,,Kalyan West,Mumbai,"10,000",650,Area in sq ft,Semi-Furnished,No Deposit,1 bathrooms,West facing
+819,PropertyPistol Realty Pvt Ltd,AGENT,2,BHK,Apartment,,Thane West,Mumbai,"35,000",720,Area in sq ft,Unfurnished,No Deposit,2 bathrooms,East facing
+820,PropertyPistol Realty Pvt Ltd,AGENT,2,BHK,Apartment,A C Crystal Avenue,Ulwe,Mumbai,"15,000",1100,Area in sq ft,Unfurnished,No Deposit,2 bathrooms,East facing
+821,A A REAL ESTATE,AGENT,2,BHK,Apartment,Sheth Vasant Oasis,Andheri East,Mumbai,"65,000",1000,Area in sq ft,Semi-Furnished,No Deposit,2 bathrooms,East facing
+822,A A REAL ESTATE,AGENT,1,BHK,Apartment,Sheth Vasant Oasis,Andheri East,Mumbai,"40,000",650,Area in sq ft,Semi-Furnished,No Deposit,2 bathrooms,West facing
+823,A A REAL ESTATE,AGENT,2,BHK,Apartment,Reputed Builder NG Complex,Andheri East,Mumbai,"50,000",1010,Area in sq ft,Furnished,No Deposit,2 bathrooms,
+824,A A REAL ESTATE,AGENT,1,BHK,Apartment,Reputed Builder Ashok Nagar Complex,Andheri East,Mumbai,"35,000",610,Area in sq ft,Furnished,No Deposit,2 bathrooms,
+825,A A REAL ESTATE,AGENT,2,BHK,Apartment,Kanakia Rainforest,Andheri East,Mumbai,"57,000",750,Area in sq ft,Semi-Furnished,No Deposit,2 bathrooms,East facing
+826,Azuroin,AGENT,2,BHK,Apartment,Lodha Luxuria,Thane West,Mumbai,"35,000",887,Area in sq ft,Semi-Furnished,No Deposit,2 bathrooms,NorthEast facing
+827,G K GROUP,AGENT,3,BHK,Apartment,Paradise Sai World City Panvel,Panvel,Mumbai,"30,000",1650,Area in sq ft,Semi-Furnished,No Deposit,3 bathrooms,North facing
+828,G K GROUP,AGENT,3,BHK,Apartment,Indiabulls Greens,Panvel,Mumbai,"26,000",1650,Area in sq ft,Semi-Furnished,No Deposit,3 bathrooms,
+829,G K GROUP,AGENT,3,BHK,Apartment,Indiabulls Greens,Panvel,Mumbai,"24,000",1650,Area in sq ft,Semi-Furnished,No Deposit,3 bathrooms,West facing
+830,G K GROUP,AGENT,3,BHK,Apartment,Indiabulls Greens,Panvel,Mumbai,"24,000",1650,Area in sq ft,Semi-Furnished,No Deposit,3 bathrooms,West facing
+831,G K GROUP,AGENT,3,BHK,Apartment,Paradise Sai World City Panvel,Panvel,Mumbai,"30,000",1650,Area in sq ft,Semi-Furnished,No Deposit,3 bathrooms,West facing
+832,G K GROUP,AGENT,3,BHK,Apartment,Paradise Sai World City Panvel,Panvel,Mumbai,"30,000",1650,Area in sq ft,Semi-Furnished,No Deposit,3 bathrooms,West facing
+833,G K GROUP,AGENT,3,BHK,Apartment,Paradise Sai World City Panvel,Panvel,Mumbai,"30,000",1650,Area in sq ft,Semi-Furnished,No Deposit,3 bathrooms,North facing
+834,Prime property,AGENT,2,BHK,Apartment,Vihang Vermont,Thane West,Mumbai,"18,000",750,Area in sq ft,Unfurnished,No Deposit,2 bathrooms,East facing
+835,Prime property,AGENT,1,BHK,Apartment,Puraniks Rumah Bali,Thane West,Mumbai,"14,000",640,Area in sq ft,Semi-Furnished,No Deposit,2 bathrooms,
+836,Prime property,AGENT,1,BHK,Apartment,Khade KIPL Morya,Thane West,Mumbai,"13,000",650,Area in sq ft,Unfurnished,No Deposit,2 bathrooms,North facing
+837,G K GROUP,AGENT,2,BHK,Apartment,Paradise Sai World City,Panvel,Mumbai,"21,000",1250,Area in sq ft,Semi-Furnished,No Deposit,2 bathrooms,West facing
+838,G K GROUP,AGENT,3,BHK,Apartment,Paradise Sai World City Panvel,Panvel,Mumbai,"30,000",1650,Area in sq ft,Semi-Furnished,No Deposit,3 bathrooms,North facing
+839,G K GROUP,AGENT,2,BHK,Apartment,Marathon Nexzone Aura 1,Panvel,Mumbai,"14,000",825,Area in sq ft,Semi-Furnished,No Deposit,2 bathrooms,West facing
+840,G K GROUP,AGENT,2,BHK,Apartment,Marathon Nexzone Aura 1,Panvel,Mumbai,"14,000",825,Area in sq ft,Semi-Furnished,No Deposit,2 bathrooms,West facing
+841,G K GROUP,AGENT,2,BHK,Apartment,Marathon Nexzone Aura 1,Panvel,Mumbai,"14,000",825,Area in sq ft,Semi-Furnished,No Deposit,2 bathrooms,West facing
+842,G K GROUP,AGENT,2,BHK,Apartment,Marathon Nexzone Aura 1,Panvel,Mumbai,"14,000",825,Area in sq ft,Semi-Furnished,No Deposit,2 bathrooms,East facing
+843,G K GROUP,AGENT,2,BHK,Apartment,Marathon Nexzone Aura 1,Panvel,Mumbai,"14,000",825,Area in sq ft,Semi-Furnished,No Deposit,2 bathrooms,West facing
+844,G K GROUP,AGENT,2,BHK,Apartment,Marathon Nexzone Aura 1,Panvel,Mumbai,"14,000",825,Area in sq ft,Semi-Furnished,No Deposit,2 bathrooms,West facing
+845,G K GROUP,AGENT,2,BHK,Apartment,Marathon Nexzone Aura 1,Panvel,Mumbai,"14,000",825,Area in sq ft,Semi-Furnished,No Deposit,2 bathrooms,East facing
+846,G K GROUP,AGENT,2,BHK,Apartment,Marathon Nexzone Aura 1,Panvel,Mumbai,"14,000",825,Area in sq ft,Semi-Furnished,No Deposit,2 bathrooms,East facing
+847,G K GROUP,AGENT,2,BHK,Apartment,Marathon Nexzone Aura 1,Panvel,Mumbai,"14,500",825,Area in sq ft,Semi-Furnished,No Deposit,2 bathrooms,West facing
+848,G K GROUP,AGENT,2,BHK,Apartment,Marathon Nexzone Aura 1,Panvel,Mumbai,"14,500",825,Area in sq ft,Semi-Furnished,No Deposit,2 bathrooms,West facing
+849,G K GROUP,AGENT,2,BHK,Apartment,Marathon Nexzone Aura 1,Panvel,Mumbai,"14,000",825,Area in sq ft,Semi-Furnished,No Deposit,2 bathrooms,East facing
+850,G K GROUP,AGENT,2,BHK,Apartment,Marathon Nexzone Aura 1,Panvel,Mumbai,"14,000",825,Area in sq ft,Semi-Furnished,No Deposit,2 bathrooms,East facing
+851,G K GROUP,AGENT,2,BHK,Apartment,Marathon Nexzone Aura 1,Panvel,Mumbai,"14,000",825,Area in sq ft,Semi-Furnished,No Deposit,2 bathrooms,East facing
+852,G K GROUP,AGENT,3,BHK,Apartment,Paradise Sai World City Panvel,Panvel,Mumbai,"30,000",1650,Area in sq ft,Semi-Furnished,No Deposit,3 bathrooms,North facing
+853,G K GROUP,AGENT,1,BHK,Apartment,Marathon Nexzone Ion 1,Panvel,Mumbai,"12,000",825,Area in sq ft,Semi-Furnished,No Deposit,2 bathrooms,West facing
+854,G K GROUP,AGENT,3,BHK,Apartment,Indiabulls Greens,Panvel,Mumbai,"24,000",1650,Area in sq ft,Semi-Furnished,No Deposit,3 bathrooms,West facing
+855,A A REAL ESTATE,AGENT,3,BHK,Apartment,Sheth Vasant Oasis,Andheri East,Mumbai,"92,000",1500,Area in sq ft,Semi-Furnished,No Deposit,3 bathrooms,East facing
+856,A A REAL ESTATE,AGENT,2,BHK,Apartment,Runwal Elina,Andheri East,Mumbai,"50,000",800,Area in sq ft,Furnished,No Deposit,2 bathrooms,East facing
+857,A A REAL ESTATE,AGENT,1,BHK,Apartment,Reputed Builder NG Complex,Andheri East,Mumbai,"35,000",610,Area in sq ft,Furnished,No Deposit,1 bathrooms,
+858,A A REAL ESTATE,AGENT,2,BHK,Apartment,Sheth Vasant Oasis,Andheri East,Mumbai,"80,000",1050,Area in sq ft,Furnished,No Deposit,2 bathrooms,East facing
+859,A A REAL ESTATE,AGENT,2,BHK,Apartment,DSK Madhuban,Andheri East,Mumbai,"55,000",800,Area in sq ft,Furnished,No Deposit,2 bathrooms,East facing
+860,A A REAL ESTATE,AGENT,3,BHK,Apartment,Sheth Vasant Oasis,Andheri East,Mumbai,"85,000",1500,Area in sq ft,Semi-Furnished,No Deposit,3 bathrooms,East facing
+861,A A REAL ESTATE,AGENT,1,BHK,Apartment,Kanakia Rainforest,Andheri East,Mumbai,"52,000",550,Area in sq ft,Furnished,No Deposit,2 bathrooms,East facing
+862,A A REAL ESTATE,AGENT,2,BHK,Apartment,Sheth Vasant Oasis,Andheri East,Mumbai,"78,000",1050,Area in sq ft,Furnished,No Deposit,2 bathrooms,East facing
+863,A A REAL ESTATE,AGENT,1,BHK,Apartment,Sheth Vasant Oasis,Andheri East,Mumbai,"55,000",700,Area in sq ft,Furnished,No Deposit,2 bathrooms,
+864,A A REAL ESTATE,AGENT,2,BHK,Apartment,Kanakia Kanakia Sevens,Andheri East,Mumbai,"56,000",1050,Area in sq ft,Semi-Furnished,No Deposit,2 bathrooms,East facing
+865,A A REAL ESTATE,AGENT,3,BHK,Apartment,Sheth Vasant Oasis,Andheri East,Mumbai,"85,000",1300,Area in sq ft,Furnished,No Deposit,2 bathrooms,East facing
+866,A A REAL ESTATE,AGENT,2,BHK,Apartment,DSK Madhuban,Andheri East,Mumbai,"57,000",800,Area in sq ft,Furnished,No Deposit,2 bathrooms,East facing
+867,Om Sai Siddhi Properties,AGENT,2,BHK,Apartment,Lodha Casa Rio,Dombivali,Mumbai,"12,500",909,Area in sq ft,Unfurnished,No Deposit,2 bathrooms,East facing
+868,Kushvin Properties,AGENT,2,BHK,Apartment,Balaji Delta Tower,Ulwe,Mumbai,"30,000",1275,Area in sq ft,Furnished,No Deposit,2 bathrooms,East facing
+869,Stilt Real Estate,AGENT,4,BHK,Apartment,Dheeraj Realty Dheeraj Insignia,Santacruz East,Mumbai,1.45 L,1450,Area in sq ft,Semi-Furnished,No Deposit,5 bathrooms,East facing
+870,Jyoti Enterprise,AGENT,3,BHK,Apartment,Marathon Nexzone Triton 1,Panvel,Mumbai,"35,000",980,Area in sq ft,Semi-Furnished,No Deposit,2 bathrooms,
+871,PropertyPistol Realty Pvt Ltd,AGENT,3,BHK,Apartment,DLH The Park Residences Phase 1,Andheri West,Mumbai,1.3 L,1210,Area in sq ft,Unfurnished,No Deposit,3 bathrooms,NorthEast facing
+872,PropertyPistol Realty Pvt Ltd,AGENT,2,BHK,Apartment,FSK Sukhkarta I CHSL,Seawoods,Mumbai,"35,000",950,Area in sq ft,Unfurnished,No Deposit,2 bathrooms,NorthEast facing
+873,G K GROUP,AGENT,2,BHK,Apartment,Paradise Sai World City,Panvel,Mumbai,"20,000",1250,Area in sq ft,Semi-Furnished,No Deposit,2 bathrooms,East facing
+874,G K GROUP,AGENT,2,BHK,Apartment,Paradise Sai World City,Panvel,Mumbai,"22,000",1240,Area in sq ft,Semi-Furnished,No Deposit,2 bathrooms,West facing
+875,G K GROUP,AGENT,2,BHK,Apartment,Marathon Nexzone Zodiac 1,Panvel,Mumbai,"13,100",960,Area in sq ft,Semi-Furnished,No Deposit,2 bathrooms,East facing
+876,G K GROUP,AGENT,3,BHK,Apartment,Marathon Nexzone Aura 1,Panvel,Mumbai,"19,500",1460,Area in sq ft,Semi-Furnished,No Deposit,3 bathrooms,West facing
+877,G K GROUP,AGENT,3,BHK,Apartment,Marathon Nexzone Aura 1,Panvel,Mumbai,"19,500",1460,Area in sq ft,Semi-Furnished,No Deposit,3 bathrooms,West facing
+878,G K GROUP,AGENT,2,BHK,Apartment,Paradise Sai World City,Panvel,Mumbai,"20,000",1250,Area in sq ft,Semi-Furnished,No Deposit,2 bathrooms,East facing
+879,G K GROUP,AGENT,2,BHK,Apartment,Paradise Sai World City,Panvel,Mumbai,"21,000",1250,Area in sq ft,Semi-Furnished,No Deposit,2 bathrooms,North facing
+880,G K GROUP,AGENT,2,BHK,Apartment,Paradise Sai World City,Panvel,Mumbai,"21,000",1250,Area in sq ft,Semi-Furnished,No Deposit,2 bathrooms,North facing
+881,G K GROUP,AGENT,2,BHK,Apartment,Paradise Sai World City,Panvel,Mumbai,"22,000",1250,Area in sq ft,Semi-Furnished,No Deposit,2 bathrooms,North facing
+882,H K homes,AGENT,1,BHK,Apartment,Gami Amar Harmony,Taloja,Mumbai,"10,000",690,Area in sq ft,Unfurnished,No Deposit,1 bathrooms,NorthEast facing
+883,H K homes,AGENT,1,BHK,Apartment,Sai Kaveesha,Taloja,Mumbai,"7,000",560,Area in sq ft,Semi-Furnished,No Deposit,1 bathrooms,NorthEast facing
+884,H K homes,AGENT,1,BHK,Apartment,Shiv Corner,Taloja,Mumbai,"8,000",650,Area in sq ft,Unfurnished,No Deposit,1 bathrooms,NorthEast facing
+885,G K GROUP,AGENT,2,BHK,Apartment,Paradise Sai World City,Panvel,Mumbai,"20,000",1250,Area in sq ft,Semi-Furnished,No Deposit,2 bathrooms,West facing
+886,G K GROUP,AGENT,2,BHK,Apartment,Paradise Sai World City,Panvel,Mumbai,"20,000",1250,Area in sq ft,Semi-Furnished,No Deposit,2 bathrooms,East facing
+887,G K GROUP,AGENT,2,BHK,Apartment,Paradise Sai World City,Panvel,Mumbai,"21,000",1250,Area in sq ft,Semi-Furnished,No Deposit,2 bathrooms,East facing
+888,G K GROUP,AGENT,2,BHK,Apartment,Paradise Sai World City,Panvel,Mumbai,"21,000",1250,Area in sq ft,Semi-Furnished,No Deposit,2 bathrooms,North facing
+889,G K GROUP,AGENT,2,BHK,Apartment,Paradise Sai World City,Panvel,Mumbai,"21,000",1250,Area in sq ft,Semi-Furnished,No Deposit,2 bathrooms,North facing
+890,G K GROUP,AGENT,2,BHK,Apartment,Paradise Sai World City,Panvel,Mumbai,"21,000",1250,Area in sq ft,Semi-Furnished,No Deposit,2 bathrooms,North facing
+891,G K GROUP,AGENT,2,BHK,Apartment,Paradise Sai World City,Panvel,Mumbai,"21,000",1250,Area in sq ft,Semi-Furnished,No Deposit,2 bathrooms,North facing
+892,G K GROUP,AGENT,2,BHK,Apartment,Paradise Sai World City,Panvel,Mumbai,"23,000",1250,Area in sq ft,Semi-Furnished,No Deposit,2 bathrooms,North facing
+893,G K GROUP,AGENT,2,BHK,Apartment,Paradise Sai World City,Panvel,Mumbai,"20,000",1250,Area in sq ft,Semi-Furnished,No Deposit,2 bathrooms,West facing
+894,G K GROUP,AGENT,2,BHK,Apartment,Paradise Sai World City,Panvel,Mumbai,"22,000",1250,Area in sq ft,Semi-Furnished,No Deposit,2 bathrooms,West facing
+895,G K GROUP,AGENT,2,BHK,Apartment,Paradise Sai World City,Panvel,Mumbai,"22,000",1250,Area in sq ft,Semi-Furnished,No Deposit,2 bathrooms,West facing
+896,G K GROUP,AGENT,2,BHK,Apartment,Paradise Sai World City,Panvel,Mumbai,"20,000",1250,Area in sq ft,Semi-Furnished,No Deposit,2 bathrooms,West facing
+897,G K GROUP,AGENT,2,BHK,Apartment,Paradise Sai World City,Panvel,Mumbai,"22,000",1250,Area in sq ft,Semi-Furnished,No Deposit,2 bathrooms,West facing
+898,Sanjay,AGENT,2,BHK,Apartment,,Kalyan West,Mumbai,"19,000",950,Area in sq ft,Unfurnished,No Deposit,2 bathrooms,West facing
+899,Om Real Estate Property Consultant,AGENT,2,BHK,Apartment,Varad Varad Heights,Chembur,Mumbai,"40,000",950,Area in sq ft,Unfurnished,No Deposit,2 bathrooms,
+900,Azuroin,AGENT,3,BHK,Apartment,Piramal Vaikunth Thane,Thane West,Mumbai,"70,000",1320,Area in sq ft,Semi-Furnished,No Deposit,3 bathrooms,NorthEast facing
+901,Azuroin,AGENT,2,BHK,Apartment,Piramal Vaikunth Thane,Thane West,Mumbai,"46,000",1138,Area in sq ft,Semi-Furnished,No Deposit,2 bathrooms,NorthEast facing
+902,Azuroin,AGENT,2,BHK,Apartment,Lodha Majiwada Tower 1,Thane West,Mumbai,"34,500",803,Area in sq ft,Semi-Furnished,No Deposit,2 bathrooms,NorthEast facing
+903,Om Sai Siddhi Properties,AGENT,2,BHK,Apartment,Lodha Casa Bella,Dombivali,Mumbai,"10,000",747,Area in sq ft,Unfurnished,No Deposit,2 bathrooms,NorthEast facing
+904,Om Sai Siddhi Properties,AGENT,2,BHK,Apartment,Lodha Casa Rio,Dombivali,Mumbai,"12,500",909,Area in sq ft,Unfurnished,No Deposit,2 bathrooms,East facing
+905,Sanjay,AGENT,3,BHK,Apartment,,Kalyan West,Mumbai,"28,000",1200,Area in sq ft,Semi-Furnished,No Deposit,3 bathrooms,West facing
+906,G K GROUP,AGENT,3,BHK,Apartment,Indiabulls Greens,Panvel,Mumbai,"26,000",1650,Area in sq ft,Semi-Furnished,No Deposit,3 bathrooms,North facing
+907,G K GROUP,AGENT,3,BHK,Apartment,Indiabulls Greens,Panvel,Mumbai,"26,000",1650,Area in sq ft,Semi-Furnished,No Deposit,3 bathrooms,West facing
+908,Prime property,AGENT,3,BHK,Apartment,Haware Haware Citi,Thane West,Mumbai,"21,000",1105,Area in sq ft,Semi-Furnished,No Deposit,3 bathrooms,North facing
+909,Galaxy homes,AGENT,1,BHK,Apartment,Reputed Builder Bella Vista,Kharghar,Mumbai,"12,500",650,Area in sq ft,Unfurnished,No Deposit,1 bathrooms,East facing
+910,Green Group Real Estate Consultants,AGENT,3,BHK,Apartment,National Harmony,Panvel,Mumbai,"25,000",1400,Area in sq ft,Semi-Furnished,No Deposit,3 bathrooms,East facing
+911,H K homes,AGENT,1,BHK,Apartment,Marwah Group Apartment,Taloja,Mumbai,"6,000",450,Area in sq ft,Unfurnished,No Deposit,1 bathrooms,NorthEast facing
+912,G K GROUP,AGENT,2,BHK,Apartment,Marathon Nexzone Aura 1,Panvel,Mumbai,"14,500",825,Area in sq ft,Semi-Furnished,No Deposit,2 bathrooms,West facing
+913,G K GROUP,AGENT,2,BHK,Apartment,Marathon Nexzone Aura 1,Panvel,Mumbai,"14,500",825,Area in sq ft,Semi-Furnished,No Deposit,2 bathrooms,South facing
+914,G K GROUP,AGENT,2,BHK,Apartment,Marathon Nexzone Aura 1,Panvel,Mumbai,"14,500",825,Area in sq ft,Semi-Furnished,No Deposit,2 bathrooms,North facing
+915,G K GROUP,AGENT,2,BHK,Apartment,Marathon Nexzone Aura 1,Panvel,Mumbai,"14,500",825,Area in sq ft,Semi-Furnished,No Deposit,2 bathrooms,West facing
+916,G K GROUP,AGENT,2,BHK,Apartment,Marathon Nexzone Aura 1,Panvel,Mumbai,"14,000",825,Area in sq ft,Semi-Furnished,No Deposit,2 bathrooms,West facing
+917,G K GROUP,AGENT,2,BHK,Apartment,Marathon Nexzone Aura 1,Panvel,Mumbai,"14,000",825,Area in sq ft,Semi-Furnished,No Deposit,2 bathrooms,
+918,G K GROUP,AGENT,2,BHK,Apartment,Paradise Sai World City,Panvel,Mumbai,"21,500",1250,Area in sq ft,Semi-Furnished,No Deposit,2 bathrooms,North facing
+919,G K GROUP,AGENT,2,BHK,Apartment,Paradise Sai World City,Panvel,Mumbai,"22,000",1250,Area in sq ft,Semi-Furnished,No Deposit,2 bathrooms,North facing
+920,Sanjay,AGENT,3,BHK,Apartment,,Kalyan West,Mumbai,"27,000",1200,Area in sq ft,Unfurnished,No Deposit,3 bathrooms,West facing
+921,G K GROUP,AGENT,3,BHK,Apartment,Indiabulls Greens,Panvel,Mumbai,"25,000",1650,Area in sq ft,Semi-Furnished,No Deposit,3 bathrooms,East facing
+922,DHARTI ESTATE CONSULTANT,AGENT,3,BHK,Apartment,,Santacruz East,Mumbai,1.5 L,2500,Area in sq ft,Furnished,No Deposit,3 bathrooms,East facing
+923,Prem Housing,AGENT,2,BHK,Apartment,Mayfair The View,Vikhroli,Mumbai,"46,000",1020,Area in sq ft,Unfurnished,No Deposit,2 bathrooms,West facing
+924,Prime property,AGENT,1,RK,Studio Apartment,Haware Haware Citi,Thane West,Mumbai,"8,200",324,Area in sq ft,Unfurnished,No Deposit,2 bathrooms,North facing
+925,Prime property,AGENT,1,BHK,Apartment,Haware Haware Citi,Thane West,Mumbai,"11,000",625,Area in sq ft,Unfurnished,No Deposit,2 bathrooms,North facing
+926,G K GROUP,AGENT,2,BHK,Apartment,Marathon Nexzone Aura 1,Panvel,Mumbai,"14,000",825,Area in sq ft,Semi-Furnished,No Deposit,2 bathrooms,West facing
+927,G K GROUP,AGENT,1,BHK,Apartment,Marathon Nexzone Aura 1,Panvel,Mumbai,"12,500",825,Area in sq ft,Semi-Furnished,No Deposit,2 bathrooms,West facing
+928,G K GROUP,AGENT,1,BHK,Apartment,Marathon Nexzone Aura 1,Panvel,Mumbai,"12,500",825,Area in sq ft,Semi-Furnished,No Deposit,2 bathrooms,West facing
+929,Prime property,AGENT,1,BHK,Apartment,Haware Haware Citi,Thane West,Mumbai,"11,000",625,Area in sq ft,Unfurnished,No Deposit,2 bathrooms,North facing
+930,Prime property,AGENT,2,BHK,Apartment,Haware Haware Citi,Thane West,Mumbai,"14,000",902,Area in sq ft,Unfurnished,No Deposit,2 bathrooms,North facing
+931,Prime property,AGENT,1,RK,Studio Apartment,Haware Haware Citi,Thane West,Mumbai,"8,500",324,Area in sq ft,Unfurnished,No Deposit,2 bathrooms,North facing
+932,Tejasvi Realty Pvt Ltd,AGENT,4,BHK,Apartment,,Juhu,Mumbai,4.5 L,2400,Area in sq ft,Furnished,No Deposit,4 bathrooms,West facing
+933,Tejasvi Realty Pvt Ltd,AGENT,3,BHK,Apartment,,Juhu,Mumbai,1.7 L,1400,Area in sq ft,Semi-Furnished,No Deposit,3 bathrooms,East facing
+934,Prime property,AGENT,1,BHK,Apartment,Puraniks Tokyo Bay Phase 2C,Thane West,Mumbai,"12,900",630,Area in sq ft,Unfurnished,No Deposit,2 bathrooms,North facing
+935,Prime property,AGENT,1,BHK,Apartment,Khade KIPL Morya,Thane West,Mumbai,"13,000",630,Area in sq ft,Unfurnished,No Deposit,2 bathrooms,North facing
+936,Prime property,AGENT,3,BHK,Apartment,Haware Haware Citi,Thane West,Mumbai,"16,800",1105,Area in sq ft,Unfurnished,No Deposit,3 bathrooms,North facing
+937,Prime property,AGENT,1,BHK,Apartment,Haware Haware Citi,Thane West,Mumbai,"10,999",625,Area in sq ft,Unfurnished,No Deposit,2 bathrooms,North facing
+938,Prime property,AGENT,2,BHK,Apartment,Puraniks Aarambh,Thane West,Mumbai,"16,000",950,Area in sq ft,Semi-Furnished,No Deposit,2 bathrooms,North facing
+939,Prime property,AGENT,2,BHK,Apartment,Haware Haware Citi,Thane West,Mumbai,"14,000",902,Area in sq ft,Unfurnished,No Deposit,2 bathrooms,East facing
+940,Prime property,AGENT,1,BHK,Apartment,Khade KIPL Morya,Thane West,Mumbai,"13,500",650,Area in sq ft,Unfurnished,No Deposit,2 bathrooms,North facing
+941,Shree Homes Enterprises,AGENT,1,BHK,Apartment,Reputed Builder Shiv Kalptaru Apartment,Kamothe,Mumbai,"11,500",650,Area in sq ft,Unfurnished,No Deposit,1 bathrooms,
+942,Green Group Real Estate Consultants,AGENT,3,BHK,Apartment,National Harmony,Panvel,Mumbai,"25,000",1400,Area in sq ft,Unfurnished,No Deposit,3 bathrooms,East facing
+943,Shree Riddhi Siddhi Estate Consultant,AGENT,1,BHK,Apartment,,Ghatkopar West,Mumbai,"22,000",430,Area in sq ft,Semi-Furnished,No Deposit,1 bathrooms,
+944,Shree Riddhi Siddhi Estate Consultant,AGENT,1,BHK,Apartment,,Ghatkopar West,Mumbai,"21,000",410,Area in sq ft,Unfurnished,No Deposit,1 bathrooms,East facing
+945,Shree Riddhi Siddhi Estate Consultant,AGENT,1,BHK,Apartment,,Ghatkopar West,Mumbai,"24,000",400,Area in sq ft,Semi-Furnished,No Deposit,1 bathrooms,South facing
+946,Shree Riddhi Siddhi Estate Consultant,AGENT,1,BHK,Apartment,,Ghatkopar West,Mumbai,"21,500",400,Area in sq ft,Semi-Furnished,No Deposit,1 bathrooms,South facing
+947,Sanjay,AGENT,1,BHK,Apartment,Vasant Park,Kalyan West,Mumbai,"10,000",650,Area in sq ft,Unfurnished,No Deposit,1 bathrooms,West facing
+948,Sanjay,AGENT,2,BHK,Apartment,Reputed Builder Madhav Shruti,Kalyan West,Mumbai,"25,500",950,Area in sq ft,Unfurnished,No Deposit,2 bathrooms,West facing
+949,Sanjay,AGENT,1,BHK,Apartment,,Kalyan West,Mumbai,"12,000",650,Area in sq ft,Semi-Furnished,No Deposit,1 bathrooms,West facing
+950,Sanjay,AGENT,3,BHK,Apartment,Godrej Hill,Kalyan West,Mumbai,"28,000",1300,Area in sq ft,Unfurnished,No Deposit,3 bathrooms,West facing
+951,Prime property,AGENT,1,BHK,Apartment,Puraniks Aarambh,Thane West,Mumbai,"12,000",700,Area in sq ft,Unfurnished,No Deposit,2 bathrooms,North facing
+952,Prime property,AGENT,1,BHK,Apartment,Haware Haware Citi,Thane West,Mumbai,"11,999",625,Area in sq ft,Semi-Furnished,No Deposit,2 bathrooms,North facing
+953,Jai Shree Ganesh Realtors,AGENT,2,BHK,Apartment,Giriraj Horizon,Kharghar,Mumbai,"32,000",1250,Area in sq ft,Furnished,No Deposit,2 bathrooms,NorthEast facing
+954,Jai Shree Ganesh Realtors,AGENT,2,BHK,Apartment,,Kharghar,Mumbai,"30,000",1180,Area in sq ft,Unfurnished,No Deposit,2 bathrooms,NorthEast facing
+955,Jai Shree Ganesh Realtors,AGENT,3,BHK,Apartment,Kesar Exotica Phase I Basement Plus Ground Plus Upper 14 Floors,Kharghar,Mumbai,"46,000",1850,Area in sq ft,Semi-Furnished,No Deposit,3 bathrooms,NorthEast facing
+956,Jai Shree Ganesh Realtors,AGENT,2,BHK,Apartment,Paradise Sai Mannat,Kharghar,Mumbai,"42,000",1650,Area in sq ft,Unfurnished,No Deposit,2 bathrooms,East facing
+957,Jai Shree Ganesh Realtors,AGENT,3,BHK,Apartment,Regency Regency Gardens,Kharghar,Mumbai,"48,000",1450,Area in sq ft,Furnished,No Deposit,3 bathrooms,East facing
+958,Jai Shree Ganesh Realtors,AGENT,2,BHK,Apartment,Mahaavir Heritage,Kharghar,Mumbai,"25,000",1300,Area in sq ft,Semi-Furnished,No Deposit,2 bathrooms,East facing
+959,Jai Shree Ganesh Realtors,AGENT,3,BHK,Apartment,Paradise Sai Spring,Kharghar,Mumbai,"32,000",1650,Area in sq ft,Semi-Furnished,No Deposit,3 bathrooms,West facing
+960,Jai Shree Ganesh Realtors,AGENT,2,BHK,Apartment,Paradise Sai Mannat,Kharghar,Mumbai,"32,000",1250,Area in sq ft,Semi-Furnished,No Deposit,2 bathrooms,East facing
+961,Jai Shree Ganesh Realtors,AGENT,2,BHK,Apartment,Juhi Niharika Residency,Kharghar,Mumbai,"24,000",1300,Area in sq ft,Semi-Furnished,No Deposit,2 bathrooms,East facing
+962,Jai Shree Ganesh Realtors,AGENT,1,BHK,Apartment,CGEWHO Kendriya Vihar,Kharghar,Mumbai,"28,000",650,Area in sq ft,Furnished,No Deposit,1 bathrooms,East facing
+963,Jai Shree Ganesh Realtors,AGENT,3,BHK,Apartment,Regency Regency Gardens,Kharghar,Mumbai,"50,000",1500,Area in sq ft,Furnished,No Deposit,3 bathrooms,East facing
+964,Jai Shree Ganesh Realtors,AGENT,3,BHK,Apartment,Reputed Builder Kesar Harmony,Kharghar,Mumbai,"55,000",1715,Area in sq ft,Semi-Furnished,No Deposit,3 bathrooms,East facing
+965,Jai Shree Ganesh Realtors,AGENT,3,BHK,Apartment,Concrete Sai Saakshaat,Kharghar,Mumbai,"42,000",1650,Area in sq ft,Semi-Furnished,No Deposit,3 bathrooms,East facing
+966,Jai Shree Ganesh Realtors,AGENT,3,BHK,Apartment,Reputed Builder Raghunath Vihar,Kharghar,Mumbai,"38,000",1600,Area in sq ft,Semi-Furnished,No Deposit,3 bathrooms,
+967,Jai Shree Ganesh Realtors,AGENT,2,BHK,Apartment,Seawood Seawoods Concept Unnathi,Kharghar,Mumbai,"25,000",1250,Area in sq ft,Semi-Furnished,No Deposit,2 bathrooms,
+968,Jai Shree Ganesh Realtors,AGENT,3,BHK,Apartment,Bhagwati Greens 1,Kharghar,Mumbai,"65,000",1800,Area in sq ft,Semi-Furnished,No Deposit,3 bathrooms,East facing
+969,Jai Shree Ganesh Realtors,AGENT,3,BHK,Apartment,Bhagwati Greens 1,Kharghar,Mumbai,"68,000",1800,Area in sq ft,Semi-Furnished,No Deposit,3 bathrooms,East facing
+970,Jai Shree Ganesh Realtors,AGENT,2,BHK,Apartment,Regency Park,Kharghar,Mumbai,"42,000",1150,Area in sq ft,Semi-Furnished,No Deposit,2 bathrooms,
+971,Jai Shree Ganesh Realtors,AGENT,2,BHK,Apartment,Regency Regency Gardens,Kharghar,Mumbai,"42,000",1250,Area in sq ft,Semi-Furnished,No Deposit,2 bathrooms,NorthEast facing
+972,Jai Shree Ganesh Realtors,AGENT,2,BHK,Apartment,Devisha Hex Blox,Kharghar,Mumbai,"35,000",1230,Area in sq ft,Semi-Furnished,No Deposit,2 bathrooms,NorthEast facing
+973,Jai Shree Ganesh Realtors,AGENT,3,BHK,Apartment,Kesar Exotica Phase I Basement Plus Ground Plus Upper 14 Floors,Kharghar,Mumbai,"46,000",1850,Area in sq ft,Unfurnished,No Deposit,3 bathrooms,NorthEast facing
+974,Jai Shree Ganesh Realtors,AGENT,3,BHK,Apartment,CGEWHO Kendriya Vihar,Kharghar,Mumbai,"36,000",1500,Area in sq ft,Furnished,No Deposit,3 bathrooms,
+975,Jai Shree Ganesh Realtors,AGENT,2,BHK,Apartment,Sai Yashaskaram,Kharghar,Mumbai,"32,000",1300,Area in sq ft,Furnished,No Deposit,2 bathrooms,East facing
+976,Jai Shree Ganesh Realtors,AGENT,2,BHK,Apartment,Keshav Winds,Kharghar,Mumbai,"25,000",1250,Area in sq ft,Semi-Furnished,No Deposit,2 bathrooms,East facing
+977,Jai Shree Ganesh Realtors,AGENT,2,BHK,Apartment,Giriraj Horizon,Kharghar,Mumbai,"30,000",1300,Area in sq ft,Semi-Furnished,No Deposit,2 bathrooms,East facing
+978,Jai Shree Ganesh Realtors,AGENT,3,BHK,Apartment,Nisarg Hyde Park,Kharghar,Mumbai,"32,000",1700,Area in sq ft,Semi-Furnished,No Deposit,3 bathrooms,East facing
+979,Jai Shree Ganesh Realtors,AGENT,2,BHK,Apartment,Gajra Bhoomi Heights,Kharghar,Mumbai,"31,000",1250,Area in sq ft,Unfurnished,No Deposit,2 bathrooms,NorthEast facing
+980,Jai Shree Ganesh Realtors,AGENT,4,BHK,Apartment,B Chopda Oval Apartments,Kharghar,Mumbai,"36,000",2500,Area in sq ft,Semi-Furnished,No Deposit,4 bathrooms,East facing
+981,DHARTI ESTATE CONSULTANT,AGENT,2,BHK,Apartment,Vaibhav Paradise,Santacruz East,Mumbai,"70,000",1000,Area in sq ft,Furnished,No Deposit,2 bathrooms,East facing
+982,DHARTI ESTATE CONSULTANT,AGENT,2,BHK,Apartment,Reputed Builder Silver Avenue,Santacruz East,Mumbai,"75,000",1000,Area in sq ft,Furnished,No Deposit,2 bathrooms,East facing
+983,DHARTI ESTATE CONSULTANT,AGENT,2,BHK,Apartment,Reputed Builder Silver Avenue,Santacruz East,Mumbai,1.1 L,1200,Area in sq ft,Furnished,No Deposit,3 bathrooms,East facing
+984,DHARTI ESTATE CONSULTANT,AGENT,2,BHK,Apartment,Kamla Habitat,Santacruz East,Mumbai,"70,000",1200,Area in sq ft,Furnished,No Deposit,2 bathrooms,North facing
+985,Azuroin,AGENT,1,BHK,Apartment,Ashar Edge,Thane West,Mumbai,"26,000",486,Area in sq ft,Unfurnished,No Deposit,1 bathrooms,NorthEast facing
+986,Azuroin,AGENT,2,BHK,Apartment,Ashar Edge,Thane West,Mumbai,"40,000",753,Area in sq ft,Unfurnished,No Deposit,2 bathrooms,NorthEast facing
+987,Azuroin,AGENT,3,BHK,Apartment,Kalpataru Sunrise,Thane West,Mumbai,"45,000",1155,Area in sq ft,Semi-Furnished,No Deposit,3 bathrooms,NorthEast facing
+988,Azuroin,AGENT,2,BHK,Apartment,Rustomjee Azziano Wing G,Thane West,Mumbai,"42,000",747,Area in sq ft,Furnished,No Deposit,2 bathrooms,NorthEast facing
+989,Azuroin,AGENT,2,BHK,Apartment,Lodha Quality Home,Thane West,Mumbai,"25,000",575,Area in sq ft,Furnished,No Deposit,2 bathrooms,NorthEast facing
+990,Azuroin,AGENT,1,BHK,Apartment,Lodha Amara Tower 20 21,Thane West,Mumbai,"24,000",553,Area in sq ft,Semi-Furnished,No Deposit,1 bathrooms,NorthEast facing
+991,Azuroin,AGENT,2,BHK,Apartment,Lodha Quality Home,Thane West,Mumbai,"26,000",575,Area in sq ft,Semi-Furnished,No Deposit,2 bathrooms,NorthEast facing
+992,Azuroin,AGENT,1,BHK,Apartment,Lodha Quality Home,Thane West,Mumbai,"16,500",418,Area in sq ft,Semi-Furnished,No Deposit,1 bathrooms,NorthEast facing
+993,Om Properties,AGENT,2,BHK,Apartment,,Kalwa,Mumbai,"21,000",925,Area in sq ft,Semi-Furnished,No Deposit,2 bathrooms,
+994,Rightside Properties,AGENT,5,BHK,Apartment,Hiranandani Evita,Powai,Mumbai,4.25 L,4580,Area in sq ft,Semi-Furnished,No Deposit,4 bathrooms,NorthEast facing
+995,Sanjay,AGENT,2,BHK,Apartment,Ajmera New Era Yogidham Phase IV Tower C,Kalyan West,Mumbai,"15,000",650,Area in sq ft,Furnished,No Deposit,2 bathrooms,West facing
+996,Prime property,AGENT,1,BHK,Apartment,Haware Haware Citi,Thane West,Mumbai,"11,000",625,Area in sq ft,Unfurnished,No Deposit,2 bathrooms,East facing
+997,Sanjay,AGENT,1,BHK,Apartment,,Kalyan West,Mumbai,"9,000",650,Area in sq ft,Unfurnished,No Deposit,1 bathrooms,West facing
+998,Prime property,AGENT,1,BHK,Apartment,Raunak Heights,Thane West,Mumbai,"12,990",600,Area in sq ft,Semi-Furnished,No Deposit,2 bathrooms,North facing
+999,Prime property,AGENT,2,BHK,Apartment,Puraniks Tokyo Bay Phase 2A,Thane West,Mumbai,"20,000",1050,Area in sq ft,Semi-Furnished,No Deposit,2 bathrooms,North facing

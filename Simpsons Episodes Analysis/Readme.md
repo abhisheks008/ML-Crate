@@ -76,6 +76,7 @@ This comprehensive analysis provides insights into character dynamics, episode t
 For detailed code and additional analyses, refer to the Python script used for this report.
 
 ---
-Author: Sai Kiran B L S
+## Contributor: Sai Kiran B L S
+
 Github: [Sai Kiran B L S](https://github.com/Bayyana-kiran)
 

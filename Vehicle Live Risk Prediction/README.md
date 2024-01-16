@@ -93,17 +93,18 @@ These sample images show relationship of columns with each other(more detail in 
 
 ### Models and Accuracies
 
-| Model                         | Accuracy   | MSE SCORE
-| ----------------------------- | ---------- | 
-| Decision Tree                 | 0.9996     |
-| Random Forest                 | 1.0        |
-| ANN                           | 1.0        |
-| Logistic Regression           | 1.0        |
-| Lasso                         | N.A        | 0.03247239784420999
-| Gradient Boost                | 1.0        |
-| Ridge                         | N.A        | 0.007214250517408194
-| MLP                           | 0.9997     | 
-| XGBoost                       | 1.0        |
+| Model                         | Accuracy   | MSE SCORE          |
+| ----------------------------- |:----------:| ------------------:|
+| Decision Tree                 | 0.9996     |                    |
+| Random Forest                 | 1.0        |                    |
+| ANN                           | 1.0        |                    |
+| Logistic Regression           | 1.0        |                    |
+| Lasso                         | N.A        | 0.03247239784420999|
+| Gradient Boost                | 1.0        |                    |
+| Ridge                         | N.A        | 0.007214250517408194|
+| MLP                           | 0.9997     |                    |
+| XGBoost                       | 1.0        |                    |
+
 
 ...
 

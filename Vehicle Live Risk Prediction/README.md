@@ -1,4 +1,6 @@
-**VEHICLE RISK PREDICTION MODEL**
+**VEHICLE LIVE RISK PREDICTION MODEL**
+
+
 **GOAL**
 
 To build a machine learning model for predicting the risk of accident or not.
@@ -48,7 +50,7 @@ These sample images show relationship of columns with each other(more detail in 
 3) Reason was found to be all columns are organised so perfectly that each column has power to change result based on its patterns 
    for example:almost all speeding column entries having YES result provide >50 risk score.
 4) Similar patterns can be observed with respect to other columns.
-5)Various HyperParameters and column dropping was implemented to signify no overfitting for such a perfect database.
+5) Various HyperParameters and column dropping was implemented to signify no overfitting for such a perfect database.
 
 **NAME**
 Keshav Arora

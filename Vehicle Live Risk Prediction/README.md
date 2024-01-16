@@ -58,6 +58,11 @@ These sample images show relationship of columns with each other(more detail in 
 2) Random Forest
 3) ANN 
 4) Multivariate Logisitic Regression
+5) Lasso
+6) Gradient Boost
+7) Ridge
+8) MLP
+9) XGBoost
 
 **LIBRARIES**
 1) PANDAS
@@ -65,6 +70,8 @@ These sample images show relationship of columns with each other(more detail in 
 3) TENSORFLOW
 4) MATPLOTLIB
 5) SEABORN
+6) SCIKIT-LEARN
+7) XGBOOST
 
 **IMPLEMENTATION**
 1) Loaded the dataset with 20 columns having 15000 entries.
@@ -80,6 +87,25 @@ These sample images show relationship of columns with each other(more detail in 
    for example:almost all speeding column entries having YES result provide >50 risk score.
 4) Similar patterns can be observed with respect to other columns.
 5) Various HyperParameters and column dropping was implemented to signify no overfitting for such a perfect database.
+
+
+...
+
+### Models and Accuracies
+
+| Model                         | Accuracy   | MSE SCORE
+| ----------------------------- | ---------- | 
+| Decision Tree                 | 0.9996     |
+| Random Forest                 | 1.0        |
+| ANN                           | 1.0        |
+| Logistic Regression           | 1.0        |
+| Lasso                         | N.A        | 0.03247239784420999
+| Gradient Boost                | 1.0        |
+| Ridge                         | N.A        | 0.007214250517408194
+| MLP                           | 0.9997     | 
+| XGBoost                       | 1.0        |
+
+...
 
 **NAME**
 Keshav Arora

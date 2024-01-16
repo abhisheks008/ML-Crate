@@ -15,11 +15,40 @@ To analyze various factors that could possibly lead to an accident and then trai
 
 **Visualization and EDA of different attributes:**
 
+
 ![Alt Text](./Images/1.png)
 
 ![Alt Text](./Images/2.png)
 
 ![Alt Text](./Images/3.png)
+
+![Alt Text](./Images/boxplot_Fatigue_Level.png)
+
+![Alt Text](./Images/boxplot_Landscape.png)
+
+![Alt Text](./Images/boxplot_Light_Conditions.png)
+
+
+![Alt Text](./Images/boxplot_Medical_Condition.png)
+
+![Alt Text](./Images/boxplot_Road_Hazards.png)
+
+![Alt Text](./Images/boxplot_Road_Surface_Condition.png)
+
+![Alt Text](./Images/boxplot_Road_Type.png)
+
+![Alt Text](./Images/boxplot_Time_of_Day.png)
+
+![Alt Text](./Images/boxplot_Traffic_Density.png)
+
+![Alt Text](./Images/boxplot_Visibility.png)
+
+![Alt Text](./Images/boxplot_Weather.png)
+
+
+
+
+
 
 
 These sample images show relationship of columns with each other(more detail in notebook 1 with EDA)

@@ -42,7 +42,7 @@ https://www.kaggle.com/datasets/irinhoque/mental-health-insights-vulnerable-canc
 
 | Model                         | Accuracy   | 
 | ----------------------------- |:----------:| 
-| ROBERTA                       | 0.78(Expected) |                    
+| ROBERTA                       | 0.87(expected)|                    
 | LSTM                          | 0.72       |                    
 | Neural Network                | 0.67       |                    
 | Logistic Regression           | 0.71       |                    
@@ -50,7 +50,7 @@ https://www.kaggle.com/datasets/irinhoque/mental-health-insights-vulnerable-canc
 **NOTE:NO GRAPHS WERE PLOTTED**
 
 
-**ROBERTA MODEL IN TENSORFLOW AND PYTORCH WERE NOT FULLY TRAINED DUE TO LACK OF RESOURCES ON MY MACHINE,HOWEVER I WILL BE ATTACHING RESULT OF ONLY 1 EPOCH**
+**ROBERTA MODEL IN TENSORFLOW AND PYTORCH WERE NOT FULLY TRAINED DUE TO LACK OF RESOURCES ON MY MACHINE,HOWEVER I WILL BE ATTACHING RESULT OF ONLY 2 EPOCHS**
 
 
 **IMAGE**

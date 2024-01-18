@@ -33,7 +33,7 @@ The main aim of the project is to make a model that helps to predict the closing
 
 <img alt="graph" src="./Images/bar graph of the dataset.png">
 
-<img alt="graph" src="./Images/histrogram of the dataset.png">
+<img alt="graph" src="./Images/histogram of the dataset.png">
 
 
 **MODELS USED**

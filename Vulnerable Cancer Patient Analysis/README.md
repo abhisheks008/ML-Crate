@@ -36,14 +36,13 @@ Explore [Mental Health Insights for Vulnerable Cancer Patients](https://www.kagg
 | Neural Network    | 0.67       |                    
 | Logistic Regression| 0.71      |                    
 
-**NOTE: No graphs were plotted**
-
-**ROBERTA MODEL IN TENSORFLOW AND PYTORCH WERE PARTIALLY TRAINED DUE TO RESOURCE LIMITATIONS; RESULTS FROM 3 EPOCHS WILL BE PROVIDED**
-
-**IMAGE**
+**VISUALISATION**
 ![Alt Text](./Images/confusion_matrix.png)
 
 ![Alt Text](./Images/intensity.png)
+
+##CONCLUSION
+Roberta Model has best accuracy in detecting sentiment of a person from their place provided paragraphs.
 
 ## NAME
 

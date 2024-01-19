@@ -37,7 +37,9 @@ Explore [Mental Health Insights for Vulnerable Cancer Patients](https://www.kagg
 | Logistic Regression| 0.71      |                    
 
 **VISUALISATION**
+
 ![Alt Text](./Images/confusion_matrix.png)
+
 ![Alt Text](./Images/intensity.png)
 
 **CONCLUSION**

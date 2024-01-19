@@ -37,13 +37,13 @@ Explore [Mental Health Insights for Vulnerable Cancer Patients](https://www.kagg
 | Logistic Regression| 0.71      |                    
 
 **VISUALISATION**
-![Alt Text](./Images/confusion_matrix.png)
-
+![Alt Text](./Images/confusion_matrix.png)<br>
 ![Alt Text](./Images/intensity.png)
 
-##CONCLUSION
-Roberta Model has best accuracy in detecting sentiment of a person from their place provided paragraphs.
+**CONCLUSION**
 
-## NAME
+Roberta Model has the best accuracy in detecting sentiment of a person from their provided paragraphs.
+
+**NAME**
 
 Keshav Arora

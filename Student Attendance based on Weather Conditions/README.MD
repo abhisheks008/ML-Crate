@@ -20,7 +20,7 @@ There are 3 features in the datasets:
 
 ### Visualization and EDA of different attributes:
 
-<img alt="graph" src=".images/Temperature Distribution.png">
+https://github.com/rajneeshkabdwal4/ML-Crate/blob/feat/StudentAttendanceModel/Student%20Attendance%20based%20on%20Weather%20Conditions/images/Student%20Attendance%20on%20different%20Temperature.png
 
 <img alt="graph" src=".images/Weather Distribution.png">
 

@@ -53,6 +53,7 @@ The dataset contains the following columns:
 
 ![Histogram of PISAMATH performance scores](<../Images/Histogram of PISAMATH performance scores.png>)
 ![Histogram of PISAREAD performance scores](<../Images/Histogram of PISAREAD performance scores.png>)
+![Histogram of PISASCIENCE performance scores](<../Images/Histogram of PISASCIENCE performance scores.png>)
 
 ![gender based score comparison in OECD and Non-OECD countries](<../Images/gender based score comparison in OECD and Non-OECD countries.png>)
 For more plots checkout the .ipynb file :)

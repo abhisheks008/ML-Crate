@@ -22,7 +22,6 @@ The dataset contains the following columns:
 - Subject (Boys, Girls, Total)
 - Time (the year which performance scores were measured[values between 2000 to 2018])
 - Value (The mean score of performance indicator)
-- Genre
 
 **WHAT I HAD DONE**
 
@@ -40,11 +39,9 @@ The dataset contains the following columns:
 
 
 **VISUALIZATION**
-![Time-based_Trends_PISAMATH](../Images/Time-based_Trends_PISAMATH.html)
-[Time-based_Trends_PISAREAD](../Images/Time-based_Trends_PISAREAD.html)
-[Time-based_Trends_PISASCIENCE](../Images/Time-based_Trends_PISASCIENCE.html)
-
-![Comparison of Performance Scores between OECD and Non-OECD Countries](<../Images/Comparison of Performance Scores between OECD and Non-OECD Countries.png>)
+![Time-based_Trends_PISAMATH](../Images/Time-based_Trends_PISAMATH.png)
+![Time-based_Trends_PISAREAD](../Images/Time-based_Trends_PISAREAD.png)
+![Time-based_Trends_PISASCIENCE](../Images/Time-based_Trends_PISASCIENCE.png)
 
 ![Educational_Performance_by_Gender_PISAMATH](../Images/Educational_Performance_by_Gender_PISAMATH.png)
 ![Educational_Performance_by_Gender_PISAREAD](../Images/Educational_Performance_by_Gender_PISAREAD.png)
@@ -52,11 +49,17 @@ The dataset contains the following columns:
 
 ![comparison with benchmark](<../Images/comparison with benchmark.png>)
 
+![Comparison of Performance Scores between OECD and Non-OECD Countries](<../Images/Comparison of Performance Scores between OECD and Non-OECD Countries.png>)
+
 ![Histogram of PISAMATH performance scores](<../Images/Histogram of PISAMATH performance scores.png>)
 ![Histogram of PISAREAD performance scores](<../Images/Histogram of PISAREAD performance scores.png>)
-![Educational_Performance_by_Gender_PISASCIENCE](../Images/Educational_Performance_by_Gender_PISASCIENCE.png)
 
 ![gender based score comparison in OECD and Non-OECD countries](<../Images/gender based score comparison in OECD and Non-OECD countries.png>)
+For more plots checkout the .ipynb file :)
+<br>
+
+<br>
+
 **CONCLUSION**
 - OECD countries have better mean scores in all three indicators as compared to Non-OECD countries.
 - Girls have outperformed boys in PISAREAD by a greater margin than boys have outperformed girls in PISAMATHS.
@@ -64,6 +67,9 @@ The dataset contains the following columns:
 - The same trend in gender was observed both in OECD and Non-OECD countries.
 - Comparison against benchmark (OAVG) shows that most countries have performed nicely in PISAREAD and badly in PISAMATH and PISASCIENCE.
 - Average scores for countries have reamined save over years in all the three indicators.
+- KOR and FIN have performed most well in PISAREAD 
+- KOR and JPN have performed greatly in PISAMATH over the years.
+- FIN and SGP have taken lead in PISASCIENC scores.
 
 **AUTHOR**
 

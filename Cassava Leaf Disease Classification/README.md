@@ -43,7 +43,10 @@ https://www.kaggle.com/datasets/nirmalsankalana/cassava-leaf-disease-classificat
 
 **VISUALISATION**
 
+
 ![Alt Text](./Images/Plot.png)
+
+After Effective Undersampling from 17k to 3k ish in last class
 
 ![Alt Text](./Images/Example.png)
 

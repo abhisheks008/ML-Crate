@@ -22,20 +22,24 @@ https://www.kaggle.com/datasets/nirmalsankalana/cassava-leaf-disease-classificat
 - Scikit-Learn
 
 ## IMPLEMENTATION
-1. Load dataset (10,000 entries, 3 columns).
-2. Clean text data (handle null values, spaces, capitalization).
-3. Use 4 sentiment classes: Positive, Neutral, Negative, Very Negative.
-4. Implement tokenization for sequence conversion.
-5. Train models with various algorithms.
+1. Load dataset (21,000 entries and 5 columns)
+2. Implemented Deep learning models.
+3. Applied data augmentation and undersampling of dataset separately for comparison.
+4. Alexnet and undersampled models werent trained fully due to computational and time constraints but their expected accuracy is mapped logically.
+
 
 ## Models and Accuracies
 
-| Model             | Accuracy   | 
-| ----------------- |:----------:| 
-| Roberta           | 0.79       |                    
-| LSTM              | 0.72       |                    
-| Neural Network    | 0.67       |                    
-| Logistic Regression| 0.71      |                    
+| Model             | Accuracy   | Validation Loss |
+| ----------------- |:----------:|:---------------:|
+| CNN               | 0.70       |     0.808       |
+| VGG16             | 0.61       |     0.911       |
+| CNN(Data Aug)     | 0.66       |     0.865       |
+| ResNet            | 0.61       |     1.099       |
+| InceptionV3       | 0.69       |     0.833       |
+| AlexNet           | ~0.62      |     ~1.000      |
+| CNN(Undersampled) | ~0.5       |     ~1.00       |
+             
 
 **VISUALISATION**
 
@@ -45,7 +49,7 @@ https://www.kaggle.com/datasets/nirmalsankalana/cassava-leaf-disease-classificat
 
 **CONCLUSION**
 
-Inception Model has best accuracy out of all models
+CNN Model is the best out of all models(accuracy and validation loss).In this database undersampling and data augmentation were found to not have any significant impact.
 
 **NAME**
 

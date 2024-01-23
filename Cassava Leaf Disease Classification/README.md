@@ -46,9 +46,11 @@ https://www.kaggle.com/datasets/nirmalsankalana/cassava-leaf-disease-classificat
 
 ![Alt Text](./Images/Plot.png)
 
-After Effective Undersampling from 17k to 3k ish in last class
+After Effective Undersampling from 17k to 2k ish in last class of mosaic_disease.
 
 ![Alt Text](./Images/Example.png)
+
+Example of Mismatch for demonstration purpose.
 
 **CONCLUSION**
 

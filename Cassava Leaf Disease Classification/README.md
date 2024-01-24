@@ -43,6 +43,11 @@ https://www.kaggle.com/datasets/nirmalsankalana/cassava-leaf-disease-classificat
 
 **VISUALISATION**
 
+![Alt Text](./Images/1.png)
+EDA Analysis as Bar Graph(Before Undersampling)
+
+![Alt Text](./Images/2.png)
+EDA Analysis as Pie Chart(Before Undersampling)
 
 ![Alt Text](./Images/Plot.png)
 

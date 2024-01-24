@@ -20,6 +20,7 @@ https://www.kaggle.com/datasets/nirmalsankalana/cassava-leaf-disease-classificat
 - OS,Shutil
 - Matplotlib
 - Scikit-Learn
+- Seaborn
 
 ## IMPLEMENTATION
 1. Load dataset (21,000 entries and 5 columns)
@@ -44,9 +45,11 @@ https://www.kaggle.com/datasets/nirmalsankalana/cassava-leaf-disease-classificat
 **VISUALISATION**
 
 ![Alt Text](./Images/1.png)
+
 EDA Analysis as Bar Graph(Before Undersampling)
 
 ![Alt Text](./Images/2.png)
+
 EDA Analysis as Pie Chart(Before Undersampling)
 
 ![Alt Text](./Images/Plot.png)

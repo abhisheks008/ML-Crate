@@ -3,7 +3,7 @@
 
 **GOAL**
 
-To build nlp based ml model for google question and answer dataset to specify category it predicts.
+To build nlp based ml models for google question and answer dataset to specify category of device it predicts.
 
 **DATASET**
 
@@ -11,7 +11,7 @@ https://www.kaggle.com/datasets/aashidutt3/google-devices-q-and-a-dataset
 
 **DESCRIPTION**
 
-To analyze various factors that could possibly lead to an accident and then training all those factors via machine learning.
+To analyze question asked by customer along with device to predict which category problem falls onto wrt google dataset.
 
 **Visualization and EDA of different attributes:**
 
@@ -39,26 +39,26 @@ To analyze various factors that could possibly lead to an accident and then trai
 **LIBRARIES**
 1) PANDAS
 2) NUMPY
-3) CATBOSOT
+3) CATBOOST
 4) MATPLOTLIB
 5) OS
 6) SCIKIT-LEARN
 7) XGBOOST
+8) SPACY
 
 **IMPLEMENTATION**
-1) Loaded the dataset with 20 columns having 15000 entries.
-2) Implementated EDA with visualisation to check for relationships between data.
-3) Model was trained efficiently with different algorithms
-4) 50+ risk_score was considered as parameter for accident risk,whereas less than value signified no risk of accident.
-4) Different notebooks with different models were used for clear and concise display of information for mentor.
+1) Loaded the dataset with 3 columns having 997 entries.
+2) Implementated EDA with visualisation using wordcloud to get estimate of important labels to be used later on for classification.
+3) Duplicate values were taken care of and text cleaning was implemented.
+4) Distortion score elbow for K-means was implemented.
+5) Tokenization and vectorization of textual data was implemented
+6) Model was trained efficiently with different machine learning algorithms
+
 
 **RESULT**
-1) Decision Tree calculated exceptional accuracy of 0.9996.
-2) Whereas rest of the models had perfection of 1.0
-3) Reason was found to be all columns are organised so perfectly that each column has power to change result based on its patterns 
-   for example:almost all speeding column entries having YES result provide >50 risk score.
-4) Similar patterns can be observed with respect to other columns.
-5) Various HyperParameters and column dropping was implemented to signify no overfitting for such a perfect database.
+1) Multivariate Logisitic Regression calculated exceptional accuracy of 0.86
+2) Rest of the models performed fairly well wrt to smaller database.
+
 
 
 ...
@@ -69,7 +69,7 @@ To analyze various factors that could possibly lead to an accident and then trai
 | ----------------------------- |:----------:|
 | Decision Tree                 | 0.76       |                    
 | Random Forest                 | 0.7592     |                    
-| Logistic Regression           | 0.86       |                    
+| Logistic Regression(Multi)    | 0.86       |                    
 | Gradient Boost                | 0.796      |                    
 | Ridge                         | 0.82       | 
 | MLP                           | 0.83       |                    
@@ -80,4 +80,5 @@ To analyze various factors that could possibly lead to an accident and then trai
 ...
 
 **NAME**
+
 Keshav Arora

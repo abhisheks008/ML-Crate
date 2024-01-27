@@ -1,0 +1,14 @@
+The libraries and software required to run this project are as follows:
+
+1. Jupyter Notebook (anaconda3)
+2. numpy 
+3. pandas 
+4. matplotlib 
+5. seaborn
+6. plotly
+7. missingno
+8. scikit-learn
+9. IPython
+10. graphviz
+
+

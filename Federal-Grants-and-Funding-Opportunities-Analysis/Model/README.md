@@ -68,5 +68,5 @@ Visualization plays a crucial role in understanding the trends and patterns in t
 
 1. Correlation : ![correlation map](https://github.com/adi271001/ML-Crate/blob/Federal-Grants/Federal-Grants-and-Funding-Opportunities-Analysis/Images/__results___10_0.png)
 2. Word Cloud : ![word cloud](https://github.com/adi271001/ML-Crate/blob/Federal-Grants/Federal-Grants-and-Funding-Opportunities-Analysis/Images/__results___12_0.png)
-3. Missing Data : ![Missing Data](https://github.com/adi271001/ML-Crate/blob/Federal-Grants/Federal-Grants-and-Funding-Opportunities-Analysis/Images/__results___8_1)
+3. Missing Data : ![Missing Data](https://github.com/adi271001/ML-Crate/blob/Federal-Grants/Federal-Grants-and-Funding-Opportunities-Analysis/Images/__results___8_1.png)
 

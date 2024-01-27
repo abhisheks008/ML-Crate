@@ -65,7 +65,7 @@ Missing values Matrix
 
 1. During EDA, it was observed that there is a direct correlation between the bounty amount and coins. To put it precisely, one Replit coin is equivalent to $100 bounty. Thus, these two fields can be combined into a single column.
 2. A linear relationship between the bounty amount and the company offering bounty was also observed from the plots. The companies offering the highest bounty amounts were observed to be Human-Protocol, YazanMoghrabi and WilliamBarber7. The bounties most often offered were 45, 90, 180 and 22.5 USD.
-3. The Predictive models implemented using Linear Regression, Decision Tree, and KNN algorithms were all observed to be reasonably accurate, with the Linear Regression model having the least Absolute error of just 0.04 approximately.
+3. The Predictive models implemented using Linear Regression, Decision Tree, and KNN algorithms were all observed to be reasonably accurate, with the Linear Regression model performing best, having the least Absolute error of just 0.04 approximately.
 
 **YOUR NAME**
 

@@ -67,8 +67,8 @@ Each model is trained and evaluated for specific tasks related to federal grants
 Visualization plays a crucial role in understanding the trends and patterns in the data. The project includes the creation of various plots, including violin plots, heatmaps, and network analysis plots.
 
 1. Correlation : ![correlation map](https://github.com/adi271001/ML-Crate/blob/Federal-Grants/Federal%20Grants%20And%20Funding%20Opportunities%20Analysis/Images/__results___10_0.png)
-2. Word Cloud : ![word cloud](https://github.com/adi271001/ML-Crate/blob/Federal-Grants/Federal%20Grants%20And%20Funding%20Opportunities%20Analysis/Images/__results___8_1.png)
-3. Missing Data : ![Missing Data]()
+2. Word Cloud : ![word cloud](https://github.com/adi271001/ML-Crate/blob/Federal-Grants/Federal%20Grants%20And%20Funding%20Opportunities%20Analysis/Images/__results___12_0.png)
+3. Missing Data : ![Missing Data](https://github.com/adi271001/ML-Crate/blob/Federal-Grants/Federal%20Grants%20And%20Funding%20Opportunities%20Analysis/Images/__results___8_1.png)
 
 ## Conclusion
 In conclusion, the Federal Grants and Funding Analysis project has provided valuable insights into the dynamics of federal grants and funding opportunities spanning from 2004 to 2024. Through a combination of exploratory data analysis (EDA), machine learning modeling, and extensive visualization, we have gained a comprehensive understanding of various aspects related to federal funding movements.

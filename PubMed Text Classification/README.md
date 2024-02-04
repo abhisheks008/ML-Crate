@@ -21,6 +21,7 @@ The dataset underwent preprocessing to address label sparsity and reduce the out
 - Three state-of-the-art pre-trained language models were employed: BioBERT, RoBERTa, and XLNet.
 - Training involved optimization for multi-label classification with a focus on improving F1 and flat validation accuracies.
 - Graphs depicting training loss, F1 validation accuracy, and flat validation accuracy over epochs are available in the `results` directory.
+- the training runs charts can be seen in weughts and Biases Dashboard:  https://wandb.ai/ai-guru/Multi%20Label%20Classification%20of%20PubMed%20Articles%20%28Paper%20Night%20Presentation%29
 
 ## Conclusion
 

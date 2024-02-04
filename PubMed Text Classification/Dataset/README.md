@@ -25,9 +25,6 @@ The MeSH major labels in the dataset have been organized in a hierarchical struc
 - **MeSH Labels:** Originally 10-15 per article, reduced to major labels.
 - **Root Labels:** Reduced and mapped categories for more manageable classification.
 
-## Citation
-
-If you use this dataset in your research or publication, please cite the original dataset source and any relevant papers provided by the dataset creators.
 
 ## Acknowledgments
 

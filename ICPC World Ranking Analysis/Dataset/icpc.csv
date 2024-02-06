@@ -1,0 +1,501 @@
+Year,Host,World Final Ranking,University,Country,Medal,Percentage Score,num_of_top_100_last_20_year
+2020,Russia,1,Nizhny Novgorod State University,Russia,Yes,80,8
+2020,Russia,2,Seoul National University,South Korea,Yes,73.33,16
+2020,Russia,3,St. Petersburg ITMO University,Russia,Yes,73.33,21
+2020,Russia,4,Moscow Institute of Physics and Technology,Russia,Yes,73.33,11
+2020,Russia,5,University of Wroclaw,Poland,Yes,73.33,12
+2020,Russia,6,University of Cambridge,UK,Yes,73.33,5
+2020,Russia,7,Belarusian State University,Belarus,Yes,73.33,18
+2020,Russia,8,University of Bucharest,Romania,Yes,66.67,10
+2020,Russia,9,Massachusetts Institute of Technology,USA,Yes,66.67,20
+2020,Russia,10,Kharkiv National University of Radio Electronics,Ukraine,Yes,66.67,1
+2020,Russia,11,University of Illinois at Urbana-Champaign,USA,Yes,66.67,11
+2020,Russia,12,National Research University Higher School of Economics,Russia,Yes,60,7
+2020,Russia,13,St. Petersburg State University,Russia,No,60,21
+2020,Russia,14,University of Warsaw,Poland,No,60,21
+2020,Russia,15,Utrecht - Leiden University,Netherlands,No,60,2
+2020,Russia,16,Harvard University,USA,No,60,11
+2020,Russia,17,University of Central Florida,USA,No,53.33,19
+2020,Russia,18,National Taiwan University,Taiwan,No,53.33,19
+2020,Russia,19,St. Petersburg Campus of Higher School of Economics,Russia,No,53.33,2
+2020,Russia,20,Moscow State University,Russia,No,53.33,21
+2020,Russia,21,University of Wisconsin - Madison,USA,No,53.33,19
+2020,Russia,22,Universidad de Buenos Aires - FCEN,Argentina,No,53.33,11
+2020,Russia,23,Korea University,South Korea,No,53.33,5
+2020,Russia,24,"Faculty of Computer Science, Belgrade",Serbia,No,46.67,1
+2020,Russia,25,University of British Columbia,Canada,No,46.67,15
+2020,Russia,26,University of Latvia,Latvia,No,46.67,6
+2020,Russia,27,University of Aizu,Japan,No,46.67,4
+2020,Russia,28,Bangladesh University of Engineering and Technology,Bangladesh,No,46.67,17
+2020,Russia,29,Amirkabir University of Technology,Iran,No,46.67,9
+2020,Russia,30,Indraprastha Institute of Information Technology,India,No,46.67,1
+2020,Russia,31,Ecole Polytechnique,France,No,46.67,2
+2020,Russia,32,Universitas Indonesia,Indonesia,No,46.67,3
+2020,Russia,33,University of Dhaka,Bangladesh,No,40,4
+2020,Russia,34,Yonsei University,South Korea,No,40,5
+2020,Russia,35,Innopolis University,Russia,No,40,2
+2020,Russia,36,Jagiellonian University in Krakow,Poland,No,40,13
+2020,Russia,37,Indian Institute of Technology - Bombay,India,No,40,12
+2020,Russia,38,Universidad Nacional de Córdoba - FaMAF,Argentina,No,40,9
+2020,Russia,39,Saratov State University,Russia,No,40,17
+2020,Russia,40,ETH Zürich,Switzerland,No,40,9
+2020,Russia,41,Indian Institute of Technology - Delhi,India,No,40,6
+2020,Russia,42,Technische Universität München,Germany,No,40,3
+2020,Russia,43,Princess Sumaya University for Technology,Jordan,No,40,2
+2020,Russia,44,Sharif University of Technology,Iran,No,40,19
+2020,Russia,45,Indian Institute of Technology - Kanpur,India,No,40,7
+2020,Russia,46,International Institute of Information Technology - Hyderabad,India,No,33.33,9
+2020,Russia,47,Universidade de Brasília,Brazil,No,33.33,2
+2020,Russia,48,Indian Institute of Technology - Kharagpur,India,No,33.33,3
+2020,Russia,49,Kazan (Volga Region) Federal University,Russia,No,33.33,2
+2020,Russia,50,Free University of Tbilisi,Georgia,No,33.33,2
+2019,Portugal,1,Moscow State University,Russia,Yes,90.91,21
+2019,Portugal,2,Massachusetts Institute of Technology,USA,Yes,81.82,20
+2019,Portugal,3,The University of Tokyo,Japan,Yes,81.82,18
+2019,Portugal,4,University of Warsaw,Poland,Yes,72.73,21
+2019,Portugal,5,National Taiwan University,Taiwan,Yes,72.73,19
+2019,Portugal,6,University of Wroclaw,Poland,Yes,72.73,12
+2019,Portugal,7,Seoul National University,South Korea,Yes,63.64,16
+2019,Portugal,8,KimChaek University of Technology,North Korea,Yes,63.64,1
+2019,Portugal,9,Sharif University of Technology,Iran,Yes,63.64,19
+2019,Portugal,10,Moscow Institute of Physics & Technology,Russia,Yes,63.64,11
+2019,Portugal,11,National Research University Higher School of Economics,Russia,Yes,63.64,7
+2019,Portugal,12,The Chinese University of Hong Kong,Hong Kong,Yes,63.64,16
+2019,Portugal,13,Fudan University,China,No,63.64,19
+2019,Portugal,14,Nanjing University,China,No,63.64,3
+2019,Portugal,15,Peking University,China,No,63.64,16
+2019,Portugal,16,Shanghai Jiao Tong University,China,No,63.64,20
+2019,Portugal,17,St. Petersburg ITMO University,Russia,No,63.64,21
+2019,Portugal,18,Tsinghua University,China,No,63.64,20
+2019,Portugal,19,University of Cambridge,UK,No,63.64,5
+2019,Portugal,20,University of Oxford,UK,No,63.64,4
+2019,Portugal,21,Beihang University,China,No,54.55,7
+2019,Portugal,22,Belarusian State University,Belarus,No,54.55,6
+2019,Portugal,23,Belarusian State University of Informatics and Radioelectronics,Belarus,No,54.55,18
+2019,Portugal,24,Harvard University,USA,No,54.55,11
+2019,Portugal,25,International IT University,Kazakhstan,No,54.55,4
+2019,Portugal,26,KAIST,South Korea,No,54.55,14
+2019,Portugal,27,National Chiao Tung University,Taiwan,No,54.55,4
+2019,Portugal,28,Saratov State University,Russia,No,54.55,17
+2019,Portugal,29,Scuola Normale Superiore,Italy,No,54.55,2
+2019,Portugal,30,Stanford University,USA,No,54.55,16
+2019,Portugal,31,Syrian Virtual University,Syria,No,54.55,2
+2019,Portugal,32,Technische Universität München,Germany,No,54.55,3
+2019,Portugal,33,The University of Texas at Austin,USA,No,54.55,14
+2019,Portugal,34,Universitas Indonesia,Indonesia,No,54.55,3
+2019,Portugal,35,Universitat Politècnica de Catalunya,Spain,No,54.55,12
+2019,Portugal,36,University of Tsukuba,Japan,No,54.55,4
+2019,Portugal,37,University of Zagreb,Croatia,No,54.55,6
+2019,Portugal,38,Ural Federal University,Russia,No,54.55,7
+2019,Portugal,39,Zhejiang University,China,No,54.55,17
+2019,Portugal,40,Zhongshan (Sun Yat-sen) University,China,No,54.55,17
+2019,Portugal,41,East China Normal University,China,No,45.46,4
+2019,Portugal,42,École Normale Supérieure de Paris,France,No,45.46,5
+2019,Portugal,43,ETH Zürich,Switzerland,No,45.46,9
+2019,Portugal,44,Hanoi University of Science and Technology,Viet Nam,No,45.46,1
+2019,Portugal,45,Indian Institute of Technology - Madras,India,No,45.46,8
+2019,Portugal,46,Indian Institute of Technology - Roorkee,India,No,45.46,6
+2019,Portugal,47,Kyoto University,Japan,No,45.46,13
+2019,Portugal,48,Princeton University,USA,No,45.46,7
+2019,Portugal,49,South China University of Technology,China,No,45.46,7
+2019,Portugal,50,St. Petersburg State University,Russia,No,45.46,2
+2018,China,1,Moscow State University,Russia,Yes,81.82,21
+2018,China,2,Moscow Institute of Physics & Technology,Russia,Yes,72.73,11
+2018,China,3,Peking University,China,Yes,72.73,15
+2018,China,4,The University of Tokyo,Japan,Yes,72.73,18
+2018,China,5,Seoul National University,South Korea,Yes,63.64,16
+2018,China,6,University of New South Wales,Australia,Yes,63.64,15
+2018,China,7,Tsinghua University,China,Yes,63.64,20
+2018,China,8,Shanghai Jiao Tong University,China,Yes,63.64,20
+2018,China,9,St. Petersburg ITMO University,Russia,Yes,63.64,21
+2018,China,10,University of Central Florida,USA,Yes,63.64,19
+2018,China,11,Massachusetts Institute of Technology,USA,Yes,63.64,20
+2018,China,12,Vilnius University,Lithuania,Yes,63.64,2
+2018,China,13,Ural Federal University,Russia,Yes,63.64,7
+2018,China,14,University of Warsaw,Poland,No,54.55,21
+2018,China,15,University of Engineering and Technology - VNU,Viet Nam,No,54.55,6
+2018,China,16,Taiwan University,Taiwan,No,54.55,19
+2018,China,17,Universidade de São Paulo,Brazil,No,54.55,9
+2018,China,18,Lviv National University,Ukraine,No,54.55,6
+2018,China,19,Fudan University,China,No,54.55,18
+2018,China,20,KAIST,South Korea,No,54.55,14
+2018,China,21,Stanford University,USA,No,54.55,16
+2018,China,22,St. Petersburg State University,Russia,No,54.55,21
+2018,China,23,Beihang University,China,No,54.55,7
+2018,China,24,University of Bucharest,Romania,No,54.55,10
+2018,China,25,Universidad Nacional de Córdoba - FaMAF,Argentina,No,54.55,9
+2018,China,26,Harvard University,USA,No,54.55,11
+2018,China,27,Fuzhou University,China,No,54.55,8
+2018,China,28,Zhongshan (Sun Yat-sen) University,China,No,54.55,17
+2018,China,29,ETH Zürich,Switzerland,No,54.54,9
+2018,China,30,University of Helsinki,Finland,No,54.54,5
+2018,China,31,Sharif University of Technology,Iran,No,45.46,19
+2018,China,32,Guangdong University of Technology,China,No,45.46,3
+2018,China,33,Carnegie Mellon University,USA,No,45.46,17
+2018,China,34,National Research University Higher School of Economics,Russia,No,45.46,7
+2018,China,35,International Institute of Information Technology - Hyderabad,India,No,45.46,9
+2018,China,36,Facultad de Ciencias-Universidad Nacional Autónoma de México,Mexico,No,45.46,1
+2018,China,37,Jagiellonian University in Krakow,Poland,No,45.46,13
+2018,China,38,Perm State University,Russia,No,45.46,7
+2018,China,39,University of California at Berkeley,USA,No,45.46,8
+2018,China,40,University of Cambridge,UK,No,45.46,5
+2018,China,41,Institut Teknologi Bandung,Indonesia,No,45.46,3
+2018,China,42,Beijing Normal University,China,No,45.46,5
+2018,China,43,Scuola Normale Superiore,Italy,No,45.46,2
+2018,China,44,Saratov State University,Russia,No,45.46,17
+2018,China,45,Novosibirsk State University,Russia,No,45.46,13
+2018,China,46,Hangzhou Dianzi University,China,No,45.46,5
+2018,China,47,University of Oxford,UK,No,45.46,4
+2018,China,48,Tokyo Institute of Technology,Japan,No,45.46,5
+2018,China,49,Ulsan National Institute of Science and Technology,South Korea,No,45.46,2
+2018,China,50,Sharif University of Technology,Iran,No,45.46,19
+2017,USA,1,St. Petersburg ITMO University,Russia,Yes,83.33,21
+2017,USA,2,University of Warsaw,Poland,Yes,83.33,21
+2017,USA,3,Seoul National University,South Korea,Yes,83.33,16
+2017,USA,4,St. Petersburg State University,Russia,Yes,83.33,22
+2017,USA,5,Moscow Institute of Physics & Technology,Russia,Yes,83.33,11
+2017,USA,6,Tsinghua University,China,Yes,75,20
+2017,USA,7,Peking University,China,Yes,75,15
+2017,USA,8,Fudan University,China,Yes,66.67,18
+2017,USA,9,KAIST,South Korea,Yes,66.67,14
+2017,USA,10,Ural Federal University,Russia,Yes,66.67,7
+2017,USA,11,KTH - Royal Institute of Technology,Sweden,Yes,66.67,10
+2017,USA,12,The University of Tokyo,Japan,Yes,66.67,18
+2017,USA,13,Shanghai Jiao Tong University,China,No,58.33,20
+2017,USA,14,Perm State University,Russia,No,58.33,7
+2017,USA,15,University of Electronic Science and Technology of China,China,No,58.33,10
+2017,USA,16,University of New South Wales,Australia,No,58.33,15
+2017,USA,17,University of Helsinki,Finland,No,58.33,5
+2017,USA,18,University of Waterloo,Canada,No,58.33,18
+2017,USA,19,University of Central Florida,USA,No,58.33,19
+2017,USA,20,St. Petersburg Academic University,Russia,No,50,5
+2017,USA,21,Fuzhou University,China,No,50,8
+2017,USA,22,University of Latvia,Latvia,No,50,6
+2017,USA,23,University of British Columbia,Canada,No,50,15
+2017,USA,24,Massachusetts Institute of Technology,USA,No,50,20
+2017,USA,25,National Taiwan University,Taiwan,No,50,19
+2017,USA,26,Saratov State University,Russia,No,50,17
+2017,USA,27,University of Zagreb,Croatia,No,50,6
+2017,USA,28,University of Bucharest,Romania,No,50,10
+2017,USA,29,University of Wroclaw,Poland,No,50,12
+2017,USA,30,Lviv National University,Ukraine,No,50,6
+2017,USA,31,University of Rochester,USA,No,50,3
+2017,USA,32,National University of Singapore,Singapore,No,50,13
+2017,USA,33,Hangzhou Dianzi University,China,No,50,5
+2017,USA,34,ETH Zürich,Switzerland,No,41.67,9
+2017,USA,35,The Chinese University of Hong Kong,Hong Kong,No,41.67,16
+2017,USA,36,Belarusian State University of Informatics and Radioelectronics,Belarus,No,41.67,6
+2017,USA,37,Tomsk Polytechnic University,Russia,No,41.67,1
+2017,USA,38,Chulalongkorn University,Thailand,No,41.67,1
+2017,USA,39,University of Engineering and Technology - VNU,Viet Nam,No,41.67,6
+2017,USA,40,Jagiellonian University in Krakow,Poland,No,41.67,13
+2017,USA,41,Moscow State University,Russia,No,41.67,21
+2017,USA,42,National Research University Higher School of Economics,Russia,No,41.67,7
+2017,USA,43,Uzhgorod National University,Ukraine,No,41.67,2
+2017,USA,44,Universidad de La Habana,Cuba,No,41.67,5
+2017,USA,45,Universitas Indonesia,Indonesia,No,41.67,3
+2017,USA,46,École Normale Supérieure de Paris,France,No,41.67,5
+2017,USA,47,POLITEHNICA University of Bucharest,Romania,No,41.67,4
+2017,USA,48,University of California at Berkeley,USA,No,41.67,8
+2017,USA,49,Novosibirsk State University,Russia,No,41.67,13
+2017,USA,50,Washington University in St. Louis,USA,No,41.67,2
+2016,Thailand,1,St. Petersburg State University,Russia,Yes,84.62,22
+2016,Thailand,2,Shanghai Jiao Tong University,China,Yes,84.62,20
+2016,Thailand,3,Harvard University,USA,Yes,76.92,11
+2016,Thailand,4,Moscow Institute of Physics & Technology,Russia,Yes,76.92,11
+2016,Thailand,5,University of Warsaw,Poland,Yes,76.92,21
+2016,Thailand,6,Massachusetts Institute of Technology,USA,Yes,69.23,20
+2016,Thailand,7,St. Petersburg ITMO University,Russia,Yes,69.23,21
+2016,Thailand,8,Ural Federal University,Russia,Yes,69.23,7
+2016,Thailand,9,University of Wroclaw,Poland,Yes,69.23,12
+2016,Thailand,10,Nizhny Novgorod State University,Russia,Yes,69.23,8
+2016,Thailand,11,Lviv National University,Ukraine,Yes,69.23,6
+2016,Thailand,12,Fudan University,China,Yes,69.23,18
+2016,Thailand,13,University of Waterloo,Canada,No,69.23,18
+2016,Thailand,14,The University of Tokyo,Japan,No,61.54,18
+2016,Thailand,15,National University of Singapore,Singapore,No,61.54,13
+2016,Thailand,16,Moscow State University,Russia,No,61.54,21
+2016,Thailand,17,Belarusian State University of Informatics and Radioelectronics,Belarus,No,61.54,6
+2016,Thailand,18,Tsinghua University,China,No,61.54,20
+2016,Thailand,19,National Taiwan University,Taiwan,No,61.54,19
+2016,Thailand,20,University of Helsinki,Finland,No,61.54,5
+2016,Thailand,21,Zhongshan (Sun Yat-sen) University,China,No,61.54,17
+2016,Thailand,22,St. Petersburg Academic University,Russia,No,61.54,5
+2016,Thailand,23,Beihang University,Russia,No,61.54,6
+2016,Thailand,24,Saratov State University,Russia,No,61.54,17
+2016,Thailand,25,Jagiellonian University in Krakow,Poland,No,61.54,13
+2016,Thailand,26,Moscow Aviation Institute,Russia,No,61.54,4
+2016,Thailand,27,Sharif University of Technology,Iran,No,61.54,19
+2016,Thailand,28,University of Zagreb,Croatia,No,53.85,6
+2016,Thailand,29,University of Engineering and Technology - VNU,Viet Nam,No,53.85,6
+2016,Thailand,30,Kim Il Sung University,North Korea,No,53.85,1
+2016,Thailand,31,Kyoto University,Japan,No,53.85,13
+2016,Thailand,32,Universidad Nacional de Rosario,Argentina,No,53.85,3
+2016,Thailand,33,University of Central Florida,USA,No,53.85,19
+2016,Thailand,34,Tianjin University,China,No,53.85,6
+2016,Thailand,35,Belarusian State University,Belarus,No,53.85,18
+2016,Thailand,36,University of California at Berkeley,USA,No,53.85,8
+2016,Thailand,37,Zhejiang University,China,No,53.85,17
+2016,Thailand,38,Innopolis University,Russia,No,53.85,2
+2016,Thailand,39,KAIST,South Korea,No,53.85,14
+2016,Thailand,40,Cornell University,USA,No,53.85,12
+2016,Thailand,41,The Chinese University of Hong Kong,China,No,53.85,16
+2016,Thailand,42,Universidade Federal de Pernambuco,Brazil,No,53.85,13
+2016,Thailand,43,Peking University,China,No,53.85,15
+2016,Thailand,44,National Chiao Tung University,Taiwan,No,46.15,3
+2016,Thailand,45,Taras Shevchenko National University of Kyiv,Ukraine,No,46.15,11
+2016,Thailand,46,Universidade Federal de Campina Grande,Brazil,No,46.15,3
+2016,Thailand,47,Beijing University of Posts and Telecommunications,China,No,46.15,7
+2016,Thailand,48,University of Electronic Science and Technology of China,China,No,46.15,10
+2016,Thailand,49,Stanford University,USA,No,46.15,16
+2016,Thailand,50,Jahangirnagar University,Bangladesh,No,46.15,2
+2015,Morocco,1,St. Petersburg ITMO University,Russia,Yes,100,21
+2015,Morocco,2,Moscow State University,Russia,Yes,84.62,21
+2015,Morocco,3,The University of Tokyo,Japan,Yes,84.62,18
+2015,Morocco,4,Tsinghua University,China,Yes,76.92,20
+2015,Morocco,5,Peking University,China,Yes,76.92,15
+2015,Morocco,6,University of California at Berkeley,USA,Yes,76.92,8
+2015,Morocco,7,University of Zagreb,Croatia,Yes,69.23,6
+2015,Morocco,8,Charles University in Prague,Czechia,Yes,76.92,8
+2015,Morocco,9,Shanghai Jiao Tong University,China,Yes,76.92,20
+2015,Morocco,10,Massachusetts Institute of Technology,USA,Yes,76.92,20
+2015,Morocco,11,Korea University,South Korea,Yes,69.23,5
+2015,Morocco,12,University of Warsaw,Poland,Yes,69.23,21
+2015,Morocco,13,University of Waterloo,Canada,No,69.23,18
+2015,Morocco,14,University of Wroclaw,Poland,No,69.23,12
+2015,Morocco,15,Fudan University,China,No,61.54,18
+2015,Morocco,16,Lviv National University,Ukraine,No,61.54,6
+2015,Morocco,17,Jagiellonian University in Krakow,Poland,No,61.54,13
+2015,Morocco,18,Universidad de Buenos Aires - FCEN,Argentina,No,61.54,11
+2015,Morocco,19,Harvard University,USA,No,61.54,11
+2015,Morocco,20,University of Southern California,USA,No,61.54,8
+2015,Morocco,21,Belarusian State University,Belarus,No,61.54,18
+2015,Morocco,22,University of California Los Angeles,USA,No,61.54,2
+2015,Morocco,23,University of Electronic Science and Technology of China,China,No,61.54,10
+2015,Morocco,24,Carnegie Mellon University,USA,No,61.54,17
+2015,Morocco,25,KAIST,South Korea,No,61.54,14
+2015,Morocco,26,Sharif University of Technology,Iran,No,61.54,19
+2015,Morocco,27,Georgia Institute of Technology,USA,No,61.54,8
+2015,Morocco,28,KTH - Royal Institute of Technology,Sweden,No,53.85,10
+2015,Morocco,29,National Taiwan University,Taiwan,No,53.85,19
+2015,Morocco,30,Beihang University,China,No,53.85,6
+2015,Morocco,31,Shanghai University,China,No,53.85,3
+2015,Morocco,32,Kyoto University,Japan,No,53.85,13
+2015,Morocco,33,National University of Singapore,Singapore,No,53.85,13
+2015,Morocco,34,Universidade de São Paulo,Brazil,No,53.85,9
+2015,Morocco,35,Odessa National Mechnikov University,Ukraine,No,53.85,2
+2015,Morocco,36,University of Central Florida,USA,No,53.85,19
+2015,Morocco,37,Universitat Politècnica de Catalunya,Spain,No,53.85,5
+2015,Morocco,38,Beijing Jiaotong University,China,No,53.85,5
+2015,Morocco,39,South China Agricultural University,China,No,53.85,3
+2015,Morocco,40,University of Tsukuba,Japan,No,53.85,3
+2015,Morocco,41,University of Bucharest,Romania,No,53.85,10
+2015,Morocco,42,National Research University Higher School of Economics,Russia,No,53.85,7
+2015,Morocco,43,Zhejiang SCI-TECH University,China,No,53.85,1
+2015,Morocco,44,Taras Shevchenko National University of Kyiv,Ukraine,No,53.85,11
+2015,Morocco,45,National University of Defense Technology,China,No,53.85,6
+2015,Morocco,46,Saint Petersburg Academic University ? Nanotechnology Research and Education Centre RAS,Russia,No,53.85,5
+2015,Morocco,47,Moscow Institute of Physics & Technology,Russia,No,53.85,11
+2015,Morocco,48,Zhejiang University,China,No,53.85,17
+2015,Morocco,49,Hangzhou Dianzi University,China,No,53.85,5
+2015,Morocco,50,University of Michigan at Ann Arbor,USA,No,53.85,7
+2014,Russia,1,St. Petersburg State University,Russia,Yes,58.33,22
+2014,Russia,2,Moscow State University,Russia,Yes,58.33,21
+2014,Russia,3,Peking University,China,Yes,50,15
+2014,Russia,4,National Taiwan University,Taiwan,Yes,50,19
+2014,Russia,5,University of Warsaw,Poland,Yes,41.67,21
+2014,Russia,6,Shanghai Jiao Tong University,China,Yes,41.67,20
+2014,Russia,7,The University of Tokyo,Japan,Yes,41.67,18
+2014,Russia,8,University of Zagreb,Croatia,Yes,41.67,6
+2014,Russia,9,St. Petersburg ITMO University,Russia,Yes,41.67,21
+2014,Russia,10,National Research University Higher School of Economics,Russia,Yes,33.33,7
+2014,Russia,11,Tsinghua University,China,Yes,33.33,20
+2014,Russia,12,Comenius University,Slovakia,Yes,33.33,4
+2014,Russia,13,New York University,USA,No,33.33,2
+2014,Russia,14,Belarusian State University,Belarus,No,33.33,18
+2014,Russia,15,Zhejiang University,China,No,33.33,17
+2014,Russia,16,University of Electronic Science and Technology of China,China,No,33.33,10
+2014,Russia,17,University of Wroclaw,Poland,No,33.33,12
+2014,Russia,18,Taras Shevchenko National University of Kyiv,Ukraine,No,33.33,11
+2014,Russia,19,The University of Texas at Brownsville,USA,No,25,1
+2014,Russia,20,International IT University,Kazakhstan,No,25,4
+2014,Russia,21,University of Central Florida,USA,No,25,19
+2014,Russia,22,University of New South Wales,Australia,No,25,15
+2014,Russia,23,Zhongshan (Sun Yat-sen) University,China,No,25,17
+2014,Russia,24,Massachusetts Institute of Technology,USA,No,25,20
+2014,Russia,25,National University of Science and Technology "MISiS",Russia,No,25,2
+2014,Russia,26,Instituto Militar de Engenharia,Brazil,No,25,3
+2014,Russia,27,Bangladesh University of Engineering and Technology,Bangladesh,No,25,17
+2014,Russia,28,Korea University,South Korea,No,25,5
+2014,Russia,29,Novosibirsk State University,Russia,No,25,13
+2014,Russia,30,Kaunas University of Technology,Lithuania,No,25,2
+2014,Russia,31,South China Agricultural University,China,No,25,3
+2014,Russia,32,Izhevsk State Technical University,Russia,No,25,7
+2014,Russia,33,National University of Singapore,Singapore,No,25,13
+2014,Russia,34,Renmin University of China,China,No,25,4
+2014,Russia,35,Jilin University,China,No,25,2
+2014,Russia,36,Universidade Federal de Pernambuco,Brazil,No,25,13
+2014,Russia,37,Moscow State University - Tashkent,Uzbekistan,No,25,1
+2014,Russia,38,Delft University of Technology,Netherlands,No,25,2
+2014,Russia,39,The Chinese University of Hong Kong,Hong Kong,No,25,16
+2014,Russia,40,Fudan University,China,No,25,18
+2014,Russia,41,Fuzhou University,China,No,25,8
+2014,Russia,42,Indian Institute of Technology - Indore,India,No,25,4
+2014,Russia,43,Kyoto University,Japan,No,25,13
+2014,Russia,44,University of Southern California,USA,No,25,8
+2014,Russia,45,V.N. Karazin Kharkiv National University,Ukraine,No,16.67,2
+2014,Russia,46,Beijing Normal University,China,No,16.67,5
+2014,Russia,47,Universidad Nacional de Colombia - Bogotá,Colombia,No,16.67,7
+2014,Russia,48,Jagiellonian University in Krakow,Poland,No,16.67,13
+2014,Russia,49,Petrozavodsk State University,Russia,No,16.67,8
+2014,Russia,50,International Institute of Information Technology - Hyderabad,India,No,16.67,9
+2013,Russia,1,St. Petersburg ITMO University,Russia,Yes,90.91,21
+2013,Russia,2,Shanghai Jiao Tong University,China,Yes,81.82,20
+2013,Russia,3,The University of Tokyo,Japan,Yes,72.73,18
+2013,Russia,4,National Taiwan University,Taiwan,Yes,72.73,19
+2013,Russia,5,St. Petersburg State University,Russia,Yes,72.73,22
+2013,Russia,6,University of Warsaw,Poland,Yes,72.73,21
+2013,Russia,7,Taras Shevchenko National University of Kyiv,Ukraine,Yes,72.73,11
+2013,Russia,8,Belarusian State University,Belarus,Yes,63.64,18
+2013,Russia,9,Jagiellonian University in Krakow,Poland,Yes,63.64,13
+2013,Russia,10,Moscow State University,Russia,Yes,54.55,21
+2013,Russia,11,Carnegie Mellon University,USA,Yes,54.55,17
+2013,Russia,12,Tsinghua University,China,Yes,54.55,20
+2013,Russia,13,Perm State University,Russia,Yes,54.55,7
+2013,Russia,14,Altai State Technical University,Russia,No,54.55,6
+2013,Russia,15,Ufa State Aviation Technical University,Russia,No,54.55,5
+2013,Russia,16,Ural Federal University,Russia,No,54.55,7
+2013,Russia,17,Northeast Normal University,China,No,54.55,2
+2013,Russia,18,Massachusetts Institute of Technology,USA,No,54.55,20
+2013,Russia,19,Peking University,China,No,54.55,15
+2013,Russia,20,The Chinese University of Hong Kong,Hong Kong,No,54.55,16
+2013,Russia,21,University of Southern California,USA,No,54.55,8
+2013,Russia,22,South China University of Technology,China,No,54.55,7
+2013,Russia,23,Institut Teknologi Bandung,Indonesia,No,54.55,3
+2013,Russia,24,Novosibirsk State University,Russia,No,54.55,13
+2013,Russia,25,The University of Electro-Communications,Japan,No,54.55,2
+2013,Russia,26,Stanford University,USA,No,54.55,16
+2013,Russia,27,Saratov State University,Russia,No,45.46,17
+2013,Russia,28,Zhongshan (Sun Yat-sen) University,China,No,45.46,17
+2013,Russia,29,Beihang University,China,No,45.46,6
+2013,Russia,30,Sharif University of Technology,Iran,No,45.46,19
+2013,Russia,31,ETH Zürich,Switzerland,No,45.46,9
+2013,Russia,32,Ludwig-Maximilians Universität München,Germany,No,45.46,1
+2013,Russia,33,Beijing Institute of Technology,China,No,45.46,4
+2013,Russia,34,University of Wroclaw,Poland,No,45.46,12
+2013,Russia,35,Samara State Aerospace University,Russia,No,45.46,2
+2013,Russia,36,Fudan University,China,No,45.46,18
+2013,Russia,37,V.N. Karazin Kharkiv National University,Ukraine,No,45.46,2
+2013,Russia,38,Comenius University,Slovakia,No,45.46,5
+2013,Russia,39,University of Maryland,USA,No,45.46,7
+2013,Russia,40,Moscow Institute of Physics & Technology,Russia,No,45.46,11
+2013,Russia,41,"Ningbo Institute of Technology, ZJU",China,No,45.46,1
+2013,Russia,42,Instituto Tecnológico de Aeronautica,Brazil,No,45.46,8
+2013,Russia,43,Universidade Federal de Pernambuco,Brazil,No,45.46,12
+2013,Russia,44,Universitat Politècnica de Catalunya,Spain,No,45.46,11
+2013,Russia,45,Columbia University,USA,No,45.46,4
+2013,Russia,46,University of Toronto,Canada,No,45.46,9
+2013,Russia,47,Moscow Aviation Institute,Russia,No,45.46,4
+2013,Russia,48,University of Bucharest,Romania,No,36.36,10
+2013,Russia,49,National University of Singapore,Singapore,No,36.36,13
+2013,Russia,50,Kazakh-British Technical University,Kazakhstan,No,36.36,6
+2012,Poland,1,St. Petersburg ITMO University,Russia,Yes,75,21
+2012,Poland,2,University of Warsaw,Poland,Yes,75,21
+2012,Poland,3,Moscow Institute of Physics & Technology,Russia,Yes,66.67,11
+2012,Poland,4,Shanghai Jiao Tong University,China,Yes,58.33,20
+2012,Poland,5,Belarusian State University,Belarus,Yes,58.33,18
+2012,Poland,6,Zhongshan (Sun Yat-sen) University,China,Yes,58.33,17
+2012,Poland,7,Harvard University,USA,Yes,58.33,11
+2012,Poland,8,The Chinese University of Hong Kong,Hong Kong,Yes,58.33,16
+2012,Poland,9,University of Waterloo,Canada,Yes,50,18
+2012,Poland,10,Moscow State University,Russia,Yes,50,21
+2012,Poland,11,The University of Tokyo,Japan,Yes,50,18
+2012,Poland,12,Belarusian State University of Informatics and Radioelectronics,Belarus,Yes,50,6
+2012,Poland,13,Saratov State University,Russia,No,50,17
+2012,Poland,14,Stanford University,USA,No,50,16
+2012,Poland,15,Peking University,China,No,50,15
+2012,Poland,16,Kazakh-British Technical University,Kazakhstan,No,50,5
+2012,Poland,17,Nanyang Technological University,Singapore,No,50,10
+2012,Poland,18,Nizhny Novgorod State University,Russia,No,41.67,8
+2012,Poland,19,National Taiwan University,Taiwan,No,41.67,19
+2012,Poland,20,Indian Institute of Technology - Delhi,India,No,41.67,6
+2012,Poland,21,National Technical University "Kharkiv Polytechnic Institute",Ukraine,No,41.67,4
+2012,Poland,22,Massachusetts Institute of Technology,USA,No,41.67,20
+2012,Poland,23,St. Petersburg State University,Russia,No,41.67,22
+2012,Poland,24,Jagiellonian University in Krakow,Poland,No,41.67,13
+2012,Poland,25,Tsinghua University,China,No,41.67,20
+2012,Poland,26,Princeton University,USA,No,41.67,6
+2012,Poland,27,Kyoto University,Japan,No,41.67,13
+2012,Poland,28,University of Latvia,Latvia,No,41.67,6
+2012,Poland,29,Ural Federal University,Russia,No,41.67,7
+2012,Poland,30,International Institute of Information Technology - Hyderabad,India,No,41.67,9
+2012,Poland,31,Wuhan University,China,No,41.67,6
+2012,Poland,32,University of Wroclaw,Poland,No,41.67,12
+2012,Poland,33,Carnegie Mellon University,USA,No,41.67,17
+2012,Poland,34,University of British Columbia,Canada,No,41.67,14
+2012,Poland,35,Fuzhou University,China,No,41.67,8
+2012,Poland,36,Hong Kong University of Science and Technology,Hong Kong,No,33.33,4
+2012,Poland,37,University of Bucharest,Romania,No,33.33,10
+2012,Poland,38,Fudan University,China,No,33.33,18
+2012,Poland,39,Delft University of Technology,Netherlands,No,33.33,2
+2012,Poland,40,Volgograd State Technical University,Russia,No,33.33,2
+2012,Poland,41,Taurida V.I. Vernadsky National University,Ukraine,No,33.33,4
+2012,Poland,42,University of Alberta,Canada,No,33.33,11
+2012,Poland,43,University of the Philippines - Diliman,Philippines,No,33.33,3
+2012,Poland,44,University of New South Wales,Australia,No,33.33,15
+2012,Poland,45,Charles University in Prague,Czechia,No,33.33,8
+2012,Poland,46,Zhejiang University of Technology,China,No,33.33,4
+2012,Poland,47,Universidade Federal de Campina Grande,Brazil,No,33.33,3
+2012,Poland,48,University of Central Florida,USA,No,33.33,19
+2012,Poland,49,Universidad de Buenos Aires - FCEN,Argentina,No,33.33,11
+2012,Poland,50,Tianjin University,China,No,33.33,6
+2011,USA,1,Zhejiang University,China,Yes,72.73,17
+2011,USA,2,University of Michigan at Ann Arbor,USA,Yes,72.73,7
+2011,USA,3,Tsinghua University,China,Yes,63.64,20
+2011,USA,4,St. Petersburg State University,Russia,Yes,63.64,22
+2011,USA,5,Nizhny Novgorod State University,Russia,Yes,63.64,8
+2011,USA,6,Saratov State University,Russia,Yes,63.64,17
+2011,USA,7,Friedrich-Alexander-University Erlangen-Nuremberg,Germany,Yes,63.64,3
+2011,USA,8,Donetsk National University,Ukraine,Yes,63.64,1
+2011,USA,9,Jagiellonian University in Krakow,Poland,Yes,63.64,13
+2011,USA,10,Moscow State University,Russia,Yes,63.64,21
+2011,USA,11,Ural State University,Russia,Yes,63.64,8
+2011,USA,12,University of Waterloo,Canada,Yes,63.64,18
+2011,USA,13,Taurida V.I. Vernadsky National University,Ukraine,No,54.55,4
+2011,USA,14,National Taiwan University,Taiwan,No,54.55,19
+2011,USA,15,University of Warsaw,Poland,No,54.55,21
+2011,USA,16,St. Petersburg ITMO University,Russia,No,54.55,1
+2011,USA,17,Nanyang Technological University,Singapore,No,54.55,11
+2011,USA,18,Universidad de Buenos Aires - FCEN,Argentina,No,54.55,11
+2011,USA,19,KAIST,South Korea,No,54.55,14
+2011,USA,20,Peking University,China,No,54.55,15
+2011,USA,21,Sharif University of Technology,Iran,No,54.55,19
+2011,USA,22,Carnegie Mellon University,USA,No,54.55,17
+2011,USA,23,Shanghai Jiao Tong University,China,No,54.55,20
+2011,USA,24,Lviv National University,Ukraine,No,54.55,6
+2011,USA,25,The Chinese University of Hong Kong,Hong Kong,No,54.55,16
+2011,USA,26,Zhongshan (Sun Yat-sen) University,China,No,54.55,17
+2011,USA,27,University of Electronic Science and Technology of China,China,No,45.46,10
+2011,USA,28,Taras Shevchenko National University of Kyiv,Ukraine,No,45.46,11
+2011,USA,29,Massachusetts Institute of Technology,USA,No,45.46,20
+2011,USA,30,Belarusian State University,Belarus,No,45.46,18
+2011,USA,31,Universidade Federal de Pernambuco,Brazil,No,45.46,12
+2011,USA,32,Tokyo Institute of Technology,Japan,No,45.46,18
+2011,USA,33,South Ural State University,Russia,No,45.46,5
+2011,USA,34,Kazakh-British Technical University,Kazakhstan,No,45.46,5
+2011,USA,35,Perm State University,Russia,No,45.46,7
+2011,USA,36,Kyoto University,Japan,No,45.46,13
+2011,USA,37,Novosibirsk State University,Russia,No,45.46,13
+2011,USA,38,Fudan University,China,No,45.46,18
+2011,USA,39,Harbin Institute of Technology,China,No,45.46,4
+2011,USA,40,Tianjin University,China,No,45.46,6
+2011,USA,41,University of Helsinki,Finland,No,45.46,5
+2011,USA,42,Universidade Federal do Paraná,Brazil,No,36.36,3
+2011,USA,43,Moscow Institute of Physics & Technology,Russia,No,36.36,11
+2011,USA,44,Wuhan University,China,No,36.36,6
+2011,USA,45,Universidade de São Paulo - Escola Politécnica,Brazil,No,36.36,1
+2011,USA,46,Princeton University,USA,No,36.36,6
+2011,USA,47,Universidade de São Paulo - Instituto de Matemática e Estatística,Brazil,No,36.36,3
+2011,USA,48,International Institute of Information Technology - Hyderabad,India,No,36.36,9
+2011,USA,49,East China Normal University,China,No,36.36,4
+2011,USA,50,Universidad Nacional de Córdoba - FaMAF,Argentina,No,36.36,9

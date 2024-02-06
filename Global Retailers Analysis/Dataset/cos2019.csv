@@ -1,0 +1,251 @@
+rank;name;country_of_origin;retail_revenue;parent_company_revenue;parent_company_net_income;dominant_operational_format;countries_of_operation;retail_revenue_cagr
+1;Wal-Mart Stores, Inc.;US;500343.0;500343.0;10523.0;Hypermarket/Supercenter/Superstore;29;0.013
+2;Costco Wholesale Corporation;US;129025.0;129025.0;2714.0;Cash & Carry/Warehouse Club;12;0.054
+3;The Kroger Co.;US;118982.0;122662.0;1889.0;Supermarket;1;0.042
+4;Amazon.com, Inc.;US;118573.0;177866.0;3033.0;Non-Store;14;0.18
+5;Schwarz Group;Germany;111766.0;111766.0;;Discount Store;30;0.075
+6;The Home Depot, Inc.;US;100904.0;100904.0;8630.0;Home Improvement;4;0.062
+7;Walgreens Boots Alliance, Inc.;US;99115.0;118214.0;4101.0;Drug Store/Pharmacy;10;0.067
+8;Aldi Einkauf GmbH & Co. oHG;Germany;98287.0;98287.0;;Discount Store;18;0.072
+9;CVS Health Corporation;US;79398.0;184765.0;;Drug Store/Pharmacy;3;0.045
+10;Tesco PLC;UK;73961.0;75338.0;1123.0;Hypermarket/Supercenter/Superstore;8;-0.024
+11;Ahold Delhaize;Netherlands;72312.0;72312.0;2108.0;Supermarket;10;0.138
+12;Target Corporation;US;71879.0;71879.0;2934.0;Discount Department Store;1;0.0
+13;Aeon Co., Ltd.;Japan;70072.0;75283.0;833.0;Hypermarket/Supercenter/Superstore;11;0.087
+14;Lowe's Companies, Inc.;US;68619.0;68619.0;3447.0;Home Improvement;3;0.063
+15;Albertsons Companies, Inc.;US;59925.0;59925.0;46.0;Supermarket;1;0.744
+16;Auchan Holding SA;France;58614.0;59913.0;574.0;Hypermarket/Supercenter/Superstore;14;0.025
+17;Edeka Group;Germany;57484.0;58499.0;;Supermarket;1;0.032
+18;Seven & I Holdings Co., Ltd.;Japan;51889.0;54177.0;1767.0;Convenience/Forecourt Store;19;0.039
+19;REWE Combine;Germany;49713.0;55708.0;381.0;Supermarket;11;0.03
+20;JD.com, Inc.;China;49088.0;53601.0;2.0;Non-Store;1;0.524
+21;Wesfarmers Limited;Australia;48748.0;51826.0;928.0;Supermarket;4;0.036
+22;Woolworths Limited;Australia;42891.0;44140.0;1391.0;Supermarket;3;-0.006
+23;Casino Guichard-Perrachon S.A.;France;42631.0;43097.0;361.0;Hypermarket/Supercenter/Superstore;27;-0.018
+24;Best Buy Co., Inc.;US;42151.0;42151.0;1000.0;Electronics Specialty;4;-0.032
+25;Centres Distributeurs E. Leclerc;France;41535.0;;;Hypermarket/Supercenter/Superstore;6;0.009
+26;Metro AG;Germany;40961.0;40961.0;380.0;Cash & Carry/Warehouse Club;15;
+27;The IKEA Group (INGKA Holding B.V.);Netherlands;37426.0;39836.0;2732.0;Other Specialty;29;0.048
+28;J Sainsbury plc;UK;36611.0;37290.0;405.0;Hypermarket/Supercenter/Superstore;2;0.037
+29;The TJX Companies, Inc.;US;35865.0;35865.0;2608.0;Apparel/Footwear Specialty;10;0.067
+30;Loblaw Companies Limited;Canada;35147.0;35969.0;1175.0;Hypermarket/Supercenter/Superstore;6;0.081
+31;Publix Super Markets, Inc.;US;34837.0;34837.0;2292.0;Supermarket;1;0.047
+32;LVMH Moët Hennessy-Louis Vuitton S.A.;France;33289.0;48057.0;6330.0;Other Specialty;70;0.118
+33;ITM Développement;France;31853.0;46889.0;;Supermarket;4;0.001
+34;Apple Inc. / Apple Retail Stores;US;30500.0;229234.0;;Electronics Specialty;19;0.101
+35;Inditex, S.A.;Spain;28891.0;28891.0;3845.0;Apparel/Footwear Specialty;96;0.097
+36;Suning.com Co., Ltd. (formerly Suning;China;27801.0;27801.0;599.0;Electronics Specialty;2;0.138
+37;Macy's, Inc.;US;24837.0;24837.0;1536.0;Department Store;5;-0.021
+38;H.E. Butt Grocery Company;US;24600.0;24600.0;;Supermarket;2;0.049
+39;Migros-Genossenschafts Bund;Switzerland;24529.0;28071.0;503.0;Hypermarket/Supercenter/Superstore;4;0.023
+40;Ceconomy AG;Germany;24434.0;24434.0;1272.0;Electronics Specialty;15;
+41;Mercadona, S.A.;Spain;23683.0;23683.0;363.0;Supermarket;2;0.037
+42;Dollar General Corporation;US;23471.0;23471.0;1539.0;Discount Store;1;0.079
+43;H & M Hennes & Mauritz AB;Sweden;23197.0;23197.0;1877.0;Apparel/Footwear Specialty;69;0.106
+44;Coop Group;Switzerland;22517.0;29207.0;485.0;Supermarket;7;-0.006
+45;Wm Morrison Supermarkets PLC;UK;22426.0;22426.0;404.0;Supermarket;1;-0.01
+46;Dollar Tree, Inc.;US;22246.0;22246.0;1714.0;Discount Store;2;0.246
+47;X5 Retail Group N.V.;Russia;22191.0;22191.0;538.0;Discount Store;1;0.214
+48;Système U, Centrale Nationale;France;21607.0;27480.0;;Supermarket;2;0.006
+49;Groupe Adeo SA;France;20886.0;24572.0;;Home Improvement;13;0.073
+50;A.S. Watson Group;Hong Kong;20039.0;20039.0;;Drug Store/Pharmacy;24;0.01
+51;"PJSC ""Magnit""";Russia;19381.0;19592.0;609.0;Convenience/Forecourt Store;1;0.203
+52;Kohl's Corporation;US;19095.0;19095.0;859.0;Department Store;1;-0.002
+53;Empire Company Limited;Canada;18946.0;18946.0;141.0;Supermarket;1;0.068
+54;Meijer, Inc.;US;18900.0;18900.0;;Hypermarket/Supercenter/Superstore;1;0.053
+55;Jerónimo Martins, SGPS, S.A.;Portugal;18346.0;18346.0;465.0;Discount Store;3;0.088
+56;Fast Retailing Co., Ltd.;Japan;16815.0;16841.0;1166.0;Apparel/Footwear Specialty;21;0.15
+57;Sears Holdings Corporation;US;16702.0;16702.0;383.0;Department Store;2;-0.16
+58;Whole Foods Market, Inc.;US;16030.0;16030.0;245.0;Supermarket;3;0.065
+59;The Gap, Inc.;US;15855.0;15855.0;848.0;Apparel/Footwear Specialty;46;0.003
+60;Rite Aid Corporation;US;15833.0;21529.0;943.0;Drug Store/Pharmacy;1;-0.09
+61;Cencosud S.A.;Chile;15279.0;16040.0;675.0;Supermarket;5;0.028
+62;El Corte Inglés, S.A.;Spain;15267.0;18379.0;233.0;Department Store;15;0.031
+63;Kingfisher plc;UK;15142.0;15142.0;630.0;Home improvement;10;0.02
+64;Nordstrom, Inc.;US;15137.0;15478.0;437.0;Department Store;3;0.052
+65;Lotte Shopping Co., Ltd.;S. Korea;14911.0;16042.0;18.0;Discount Store;6;-0.064
+66;CP ALL Plc.;Thailand;14387.0;14389.0;589.0;Convenience/Forecourt Store;1;0.202
+67;Yamada Denki Co., Ltd.;Japan;14198.0;14198.0;261.0;Electronics Specialty;5;-0.015
+68;Marks and Spencer Group plc;UK;14168.0;14168.0;39.0;Department Store;57;0.013
+69;Ross Stores, Inc.;US;14135.0;14135.0;1363.0;Apparel/Footwear Specialty;1;0.078
+70;Dixons Carphone plc;UK;14072.0;14072.0;222.0;Electronics Specialty;9;0.045
+71;Coop Italia;Italy;13593.0;16682.0;;Hypermarket/Supercenter/Superstore;1;0.008
+72;John Lewis Partnership plc;UK;13257.0;13257.0;96.0;Supermarket;1;0.038
+73;Conad Consorzio Nazionale,;Italy;13188.0;14653.0;;Supermarket;5;0.036
+74;E-MART Inc.;S. Korea;12876.0;14010.0;554.0;Supermarket;5;0.039
+75;BJ’s Wholesale Club Holdings, Inc.;US;12755.0;12755.0;50.0;Cash & Carry/Warehouse Club;1;0.012
+76;FEMSA Comercio, S.A. de C.V.;Mexico;12684.0;12684.0;;Convenience/Forecourt Store;4;0.227
+77;L Brands, Inc.;US;12632.0;12632.0;983.0;Apparel/Footwear Specialty;75;0.038
+78;J. C. Penney Company, Inc.;US;12506.0;12506.0;116.0;Department Store;2;-0.007
+79;Décathlon S.A.;France;12399.0;12399.0;;Other Specialty;30;0.095
+80;Bed Bath and Beyond Inc.;US;12349.0;12349.0;425.0;Other Specialty;4;0.025
+81;China Resources Vanguard Co., Ltd.;China;12266.0;15333.0;;Hypermarket/Supercenter/Superstore;1;0.041
+82;ICA Gruppen AB;Sweden;12178.0;12449.0;485.0;Supermarket;5;0.019
+83;Otto (GmbH & Co KG);Germany;12158.0;16665.0;599.0;Non-Store;30;0.009
+84;FamilyMart UNY Holdings Co., Ltd.;Japan;11443.0;11443.0;328.0;Convenience/Forecourt Store;8;
+85;Spar Holding AG;Austria;11403.0;11489.0;274.0;Supermarket;8;0.028
+86;Shoprite Holdings Ltd.;S. Africa;11294.0;11294.0;405.0;Supermarket;15;0.094
+87;Dairy Farm International Holdings;Hong Kong;11289.0;11289.0;393.0;Supermarket;11;0.029
+88;S Group;Finland;11260.0;12706.0;;Supermarket;3;0.005
+89;Isetan Mitsukoshi Holdings Ltd.;Japan;11170.0;11447.0;9.0;Department Store;8;0.005
+90;S.A.C.I. Falabella;Chile;11143.0;12644.0;857.0;Home Improvement;6;0.078
+91;Hudson's Bay Company;Canada;11109.0;11109.0;450.0;Department Store;9;0.286
+92;Vipshop Holdings Limited;China;10939.0;11206.0;291.0;Non-Store;1;0.738
+93;AutoZone, Inc.;US;10889.0;10889.0;1281.0;Other Specialty;4;0.048
+94;Reliance Industries Limited / Reliance;India;10649.0;66739.0;;Supermarket;1;0.448
+95;Gome Retail Holdings Limited;China;10588.0;10588.0;167.0;Electronics Specialty;1;-0.002
+96;NIKE, Inc. / NIKE Direct;US;10428.0;36397.0;;Apparel/Footwear Specialty;65;0.192
+97;Liberty Interactive Corporation /;US;10404.0;10404.0;2487.0;Non-Store;9;0.008
+98;Kering S.A.;France;10274.0;17446.0;2102.0;Apparel/Footwear Specialty;95;0.133
+99;Dirk Rossmann GmbH;Germany;10144.0;10144.0;;Drug Store/Pharmacy;6;0.086
+100;dm-drogerie markt GmbH + Co. KG;Germany;10091.0;11315.0;;Drug Store/Pharmacy;13;0.083
+101;Metro Inc.;Canada;10022.0;10022.0;463.0;Supermarket;1;0.024
+102;Hy-Vee, Inc.;US;100000.0;100000.0;;Supermarket;1;0.054
+103;Menard, Inc.;US;10000.0;10000.0;;Home Improvement;1;0.017
+104;NorgesGruppen ASA;Norway;9890.0;10348.0;253.0;Discount Store;1;0.066
+105;Distribuidora Internacional de;Spain;9717.0;9892.0;123.0;Discount Store;4;-0.032
+106;Louis Delhaize S.A.;Belgium;9581.0;9581.0;;Hypermarket/Supercenter/Superstore;4;-0.026
+107;Southeastern Grocers, LLC;US;9500.0;9500.0;;Supermarket;1;0.023
+108;Advance Auto Parts, Inc.;US;9374.0;9374.0;476.0;Other Specialty;3;0.086
+109;Canadian Tire Corporation, Limited;Canada;9353.0;10347.0;631.0;Other Specialty;1;0.032
+110;GameStop Corp.;US;9225.0;9225.0;35.0;Other Specialty;14;0.007
+111;Co-operative Group Ltd.;UK;9155.0;12189.0;90.0;Convenience/Forecourt Store;1;-0.03
+112;The Sherwin-Williams Company /;US;9117.0;14984.0;1814.0;Home Improvement;14;0.11
+113;O'Reilly Automotive, Inc.;US;8978.0;8978.0;1134.0;Other Specialty;1;0.077
+114;Associated British Foods plc / Primark;UK;8931.0;19445.0;;Apparel/Footwear Specialty;11;0.15
+115;Giant Eagle, Inc.;US;8900.0;8900.0;;Supermarket;1;-0.021
+116;Salling Group (formerly Dansk;Denmark;8858.0;8910.0;257.0;Discount Store;4;0.014
+117;Colruyt Group;Belgium;8817.0;10544.0;437.0;Supermarket;3;0.037
+118;Wegmans Food Markets, Inc.;US;8700.0;8700.0;;Supermarket;1;0.055
+119;Central Group;Thailand;8631.0;10247.0;;Department Store;6;0.143
+120;Dick's Sporting Goods, Inc.;US;8590.0;8590.0;323.0;Other Specialty;1;0.08
+121;Esselunga S.p.A.;Italy;8560.0;8560.0;337.0;Hypermarket/Supercenter/Superstore;1;0.023
+122;FNAC Darty S.A. (formerly Groupe FNAC;France;8395.0;8395.0;140.0;Other Specialty;9;0.129
+123;Dufry AG;Switzerland;8290.0;8377.0;111.0;Other Specialty;64;0.217
+124;Don Quijote Holdings Co., Ltd.;Japan;8279.0;8532.0;352.0;Discount Department Store;2;0.108
+125;Tengelmann Warenhandelsgesellschaft;Germany;8183.0;8454.0;;Home Improvement;13;-0.009
+126;Organización Soriana, S.A.B. de C.V.;Mexico;8120.0;8120.0;243.0;Hypermarket/Supercenter/Superstore;1;0.08
+127;Yonghui Superstores Co., Ltd.;China;8119.0;8668.0;249.0;Hypermarket/Supercenter/Superstore;1;0.182
+128;Kesko Corporation;Finland;8115.0;12033.0;303.0;Supermarket;8;-0.016
+129;Compagnie Financière Richemont SA;Switzerland;8073.0;12819.0;1426.0;Other Specialty;55;0.049
+130;PetSmart, Inc.;US;8000.0;8000.0;;Other Specialty;3;0.034
+131;Bass Pro Group, LLC;US;7837.0;8000.0;;Other Specialty;2;0.247
+132;Globus Holding GmbH & Co. KG;Germany;7789.0;7861.0;;Hypermarket/Supercenter/Superstore;4;0.034
+133;Foot Locker, Inc.;US;7782.0;7782.0;284.0;Apparel/Footwear Specialty;26;0.047
+134;Takashimaya Company, Ltd.;Japan;7735.0;8520.0;216.0;Department Store;4;0.014
+135;H2O Retailing Corporation;Japan;7724.0;8316.0;132.0;Department Store;2;0.124
+136;Chow Tai Fook Jewellery Group Limited;Hong Kong;7575.0;7575.0;538.0;Other Specialty;7;0.006
+137;C&A Europe;Belgium/;7555.0;7555.0;;Apparel/Footwear Specialty;18;-0.006
+138;Emke Group / Lulu Group International;UAE;7420.0;7420.0;;Hypermarket/Supercenter/Superstore;10;0.102
+139;Tractor Supply Company;US;7256.0;7256.0;423.0;Other Specialty;1;0.092
+140;The SPAR Group Limited;S. Africa;7252.0;7252.0;136.0;Supermarket;12;0.174
+141;Reitan Group;Norway;7214.0;7882.0;337.0;Discount Store;7;0.059
+142;Bic Camera Inc.;Japan;7151.0;7151.0;140.0;Electronics Specialty;1;0.088
+143;Beisia Group Co., Ltd.;Japan;7145.0;7766.0;;Home Improvement;1;0.008
+144;Homeplus Stores Co., Ltd.;S. Korea;7109.0;7109.0;46.0;Hypermarket/Supercenter/Superstore;1;
+145;Majid Al Futtaim Holding LLC;UAE;7047.0;8785.0;597.0;Hypermarket/Supercenter/Superstore;14;0.097
+146;WinCo Foods LLC;US;7000.0;7000.0;;Supermarket;1;0.057
+147;Shanghai Bailian Group Co., Ltd.;China;6980.0;6980.0;125.0;Hypermarket/Supercenter/Superstore;1;-0.002
+148;President Chain Store Corp.;Taiwan;6866.0;7259.0;1061.0;Convenience/Forecourt Store;4;0.022
+149;GS Retail Co., Ltd.;S. Korea;6828.0;7295.0;102.0;Convenience/Forecourt Store;2;0.12
+150;BİM Birleşik Mağazalar A.Ş.;Turkey;6792.0;6792.0;237.0;Discount Store;3;0.201
+151;Army and Air Force Exchange Service;US;6692.0;6692.0;300.0;Convenience/Forecourt Store;34;-0.061
+152;Ascena Retail Group, Inc.;US;6650.0;6650.0;1067.0;Apparel/Footwear Specialty;3;0.147
+153;Jumbo Groep Holding B.V.;Netherlands;6368.0;6502.0;176.0;Supermarket;1;-0.001
+154;Axel Johnson AB;Sweden;6296.0;9025.0;211.0;Supermarket;3;0.051
+155;Dillard's, Inc.;US;6269.0;6423.0;221.0;Department Store;1;-0.012
+156;Sonae, SGPS, SA;Portugal;6260.0;6436.0;196.0;Supermarket;24;0.045
+157;Lenta Group;Russia;6258.0;6258.0;227.0;Hypermarket/Supercenter/Superstore;1;0.271
+158;Izumi Co., Ltd.;Japan;6248.0;6248.0;245.0;Hypermarket/Supercenter/Superstore;1;0.064
+159;Signet Jewelers Limited;US;6232.0;6253.0;519.0;Other Specialty;5;0.094
+160;Pick n Pay Stores Limited;S. Africa;6225.0;6225.0;99.0;Supermarket;7;0.066
+161;Edion Corporation;Japan;6191.0;6191.0;81.0;Electronics Specialty;1;0.0
+162;Bauhaus GmbH & Co. KG;Germany;6145.0;6145.0;;Home Improvement;19;0.05
+163;Yodobashi Camera Co., Ltd.;Japan;6139.0;6139.0;;Electronics Specialty;1;0.013
+164;K's Holdings Corporation;Japan;6127.0;6127.0;205.0;Electronics Specialty;1;0.013
+165;Burlington Stores, Inc.;US;6110.0;6110.0;385.0;Department Store;2;0.08
+166;Tsuruha Holdings Inc.;Japan;6086.0;6086.0;239.0;Drug Store/Pharmacy;2;0.144
+167;Life Corporation Co., Ltd.;Japan;6081.0;6081.0;59.0;Supermarket;1;0.054
+168;Gruppo Eurospin;Italy;5935.0;5952.0;250.0;Discount Store;2;0.082
+169;SM Investments Corporation;Philippines;5886.0;7850.0;1021.0;Hypermarket/Supercenter/Superstore;1;0.132
+170;Staples, Inc.;US;5800.0;16000.0;;Other Specialty;4;-0.149
+171;El Puerto de Liverpool, S.A.B. de C.V.;Mexico;5738.0;6456.0;522.0;Department Store;1;0.131
+172;Coop Danmark A/S;Denmark;5668.0;5865.0;46.0;Supermarket;2;-0.009
+173;Deichmann SE;Germany;5636.0;6537.0;;Apparel/Footwear Specialty;26;0.051
+174;Ulta Beauty, Inc (formerly Ulta Salon,;US;5607.0;5885.0;555.0;Other Specialty;1;0.217
+175;Berkshire Hathaway Inc. / Retailing;US;5574.0;242137.0;;Other Specialty;9;0.085
+176;Coop Norge, the Group;Norway;5508.0;5792.0;46.0;Supermarket;1;0.089
+177;The Michaels Companies, Inc.;US;5362.0;5362.0;390.0;Other Specialty;2;0.04
+178;Lojas Americanas S.A.;Brazil;5336.0;5336.0;25.0;Discount Department Store;1;0.085
+179;Woolworths Holdings Limited;S. Africa;5332.0;5332.0;276.0;Department Store;14;0.143
+180;Hermès International SCA;France;5320.0;6255.0;1382.0;Apparel/Footwear Specialty;46;0.111
+181;JB Hi-Fi Limited;Australia;5311.0;5311.0;181.0;Electronics Specialty;2;0.157
+182;Williams-Sonoma, Inc.;US;5292.0;5292.0;260.0;Non-Store;14;0.055
+183;Grupo Eroski;Spain;5280.0;5778.0;38.0;Supermarket;1;-0.052
+184;Big Lots, Inc.;US;5271.0;5271.0;190.0;Discount Store;1;-0.005
+185;Next plc;UK;5248.0;5269.0;769.0;Apparel/Footwear Specialty;74;0.027
+186;Lawson, Inc.;Japan;5234.0;5898.0;241.0;Convenience/Forecourt Store;6;0.066
+187;Wumart Holdings, Inc.;China;5223.0;6000.0;299.0;Supermarket;1;
+188;Tapestry, Inc. (formerly Coach, Inc.);US;5120.0;5880.0;398.0;Other Specialty;70;0.025
+189;Sundrug Co., Ltd.;Japan;5090.0;5090.0;224.0;Drug Store/Pharmacy;1;0.067
+190;Shimamura Co., Ltd.;Japan;5071.0;5071.0;267.0;Apparel/Footwear Specialty;3;0.028
+191;Zalando SE;Germany;5060.0;5060.0;115.0;Non-store;15;0.311
+192;Cosmos Pharmaceutical Corp.;Japan;5054.0;5054.0;160.0;Drug Store/Pharmacy;1;0.111
+193;Nitori Holdings Co., Ltd.;Japan;5015.0;5133.0;576.0;Other Specialty;4;0.102
+194;MatsumotoKiyoshi Holdings Co., Ltd.;Japan;5014.0;5042.0;205.0;Drug Store/Pharmacy;2;0.041
+195;Demoulas Super Markets, Inc.;US;5000.0;5000.0;;Supermarket;1;0.045
+196;Office Depot, Inc.;US;4962.0;10240.0;181.0;Other Specialty;2;-0.038
+197;Grupo Comercial Chedraui, S.A.B. de C.V.;Mexico;4954.0;4999.0;112.0;Hypermarket/Supercenter/Superstore;2;0.082
+198;Academy Ltd. (dba Academy Sports +;US;4900.0;4900.0;;Other Specialty;1;0.07
+199;Defense Commissary Agency (DeCA);US;4900.0;4900.0;;Supermarket;13;-0.043
+200;E.Land World Co., Ltd.;S. Korea;4891.0;5780.0;580.0;Apparel/Footwear Specialty;3;0.022
+201;OJSC Dixy Group;Russia;4803.0;4846.0;103.0;Supermarket;1;0.14
+202;Müller Holding Ltd. & Co. KG;Germany;4786.0;4786.0;;Drug Store/Pharmacy;7;0.047
+203;Foodstuffs North Island Ltd.;New Zealand;4741.0;4741.0;14.0;Supermarket;1;
+204;XXXLutz Group;Austria;4729.0;4729.0;;Other Specialty;10;0.073
+205;Wayfair, Inc.;US;4721.0;4721.0;245.0;Non-Store;4;0.51
+206;Neiman Marcus Group LTD LLC;US;4706.0;4706.0;532.0;Department Store;2;0.016
+207;PT Indomarco Prismatama (Indomaret);Indonesia;4703.0;4703.0;33.0;Convenience/Forecourt Store;1;0.169
+208;Agrokor d.d.;Croatia;4702.0;5933.0;914.0;Supermarket;5;0.066
+209;Valor Holdings Co., Ltd.;Japan;4668.0;4908.0;69.0;Supermarket;2;0.048
+210;Sprouts Farmers Market, Inc.;US;4665.0;4665.0;158.0;Supermarket;1;0.21
+211;East Japan Railway Company (JR East);Japan;4646.0;26614.0;;Convenience/Forecourt Store;1;0.05
+212;Arcs Co., Ltd.;Japan;4602.0;4612.0;92.0;Supermarket;1;0.035
+213;Hobby Lobby Stores, Inc.;US;4600.0;4600.0;;Other Specialty;1;0.069
+214;PT Sumber Alfaria Trijaya Tbk (Alfamart);Indonesia;4579.0;4579.0;19.0;Convenience/Forecourt Store;1;0.177
+215;Smart & Final Stores, Inc.;US;4571.0;4571.0;139.0;Cash & Carry/Warehouse Club;2;0.085
+216;McKesson Europe AG (formerly Celesio;Germany;4561.0;24625.0;;Drug Store/Pharmacy;9;0.024
+217;PETCO Animal Supplies, Inc.;US;4550.0;4550.0;;Other Specialty;3;0.052
+218;The Save Mart Companies;US;4500.0;4500.0;;Supermarket;1;0.0
+219;HORNBACH Baumarkt AG Group;Germany;4488.0;4488.0;68.0;Home Improvement;9;0.052
+220;Save-A-Lot Food Stores Ltd.;US;4470.0;4470.0;;Discount Store;2;
+221;Reinalt-Thomas Corporation;US;4400.0;4400.0;;Other Specialty;1;0.035
+222;Stater Bros. Holdings Inc.;US;4340.0;4340.0;;Supermarket;1;0.023
+223;RaiaDrogasil S.A.;Brazil;4337.0;4337.0;160.0;Drug Store/Pharmacy;1;0.199
+224;Sports Direct International plc;UK;4240.0;4730.0;37.0;Other Specialty;24;0.109
+225;Migros Ticaret A.Ş.;Turkey;4206.0;4206.0;140.0;Supermarket;3;0.188
+226;Belk, Inc.;US;4200.0;4200.0;;Department Store;1;0.012
+227;Sugi Holdings Co., Ltd.;Japan;4079.0;4101.0;147.0;Drug Store/Pharmacy;1;0.059
+228;Tiffany & Co.;US;4045.0;4170.0;370.0;Other Specialty;27;0.023
+229;B&M European Value Retail S.A.;UK;4012.0;4012.0;246.0;Discount Store;2;0.265
+230;Nojima Corporation;Japan;4006.0;4528.0;123.0;Electronics Specialty;1;0.173
+231;Save On Foods;Canada;4005.0;4005.0;;Supermarket;1;0.082
+232;Iceland Topco Limited;UK;3995.0;3995.0;59.0;Supermarket;6;0.027
+233;SHV Holdings N.V. / Makro;Netherlands;3979.0;22397.0;;Cash & Carry/Warehouse Club;5;-0.141
+234;JD Sports Fashion Plc;UK;3943.0;4107.0;307.0;Other Specialty;14;0.217
+235;Chongqing Department Store Co., Ltd.;China;3941.0;4869.0;96.0;Department Store;1;-0.005
+236;Tokyu Corporation;Japan;3903.0;10272.0;;Department Store;2;-0.009
+237;A101 Yeni Mağazacılık A.S;Turkey;3892.0;3892.0;;Discount Store;1;0.464
+238;Grandvision N.V.;Netherlands;3888.0;3888.0;281.0;Other Specialty;44;0.065
+239;NORMA Unternehmens Stiftung;Germany;3877.0;3877.0;;Discount Store;4;0.027
+240;Ingles Markets, Inc.;US;3861.0;4003.0;54.0;Supermarket;1;0.015
+241;Wangfujing Group Co., Ltd.;China;3859.0;3859.0;138.0;Department Store;1;0.074
+242;Action Nederland BV;Netherlands;3853.0;3853.0;;Discount department store;7;0.314
+243;Lagardère Travel Retail SAS;France;3834.0;3846.0;;Other Specialty;34;0.037
+244;Intersport Deutschland eG;Germany;3821.0;4103.0;;Other Specialty;6;0.057
+245;Daiso Industries Co., Ltd.;Japan;3816.0;4103.0;;Discount Department Store;27;0.053
+246;American Eagle Outfitters, Inc.;US;3796.0;3796.0;204.0;Apparel/Footwear Specialty;31;0.018
+247;Coop Sverige AB;Sweden;3764.0;3764.0;2.0;Supermarket;1;
+248;Heiwado Co., Ltd.;Japan;3743.0;3931.0;86.0;Hypermarket/Supercenter/Superstore;2;0.023
+249;Magazine Luiza S.A.;Brazil;3735.0;3752.0;122.0;Other Specialty;1;0.111
+250;The Golub Corporation;US;3700.0;3700.0;;Supermarket;1;0.012

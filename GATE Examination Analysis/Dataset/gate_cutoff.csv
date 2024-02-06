@@ -1,0 +1,94 @@
+,Sr No,Paper Name,Paper Code,GEN,OBC,SC/ST,Year
+0,1,Life Sciences,XL,31.70,28.50,21.10,2020
+1,2,Civil Engineering,CE,32.90,29.60,21.90,2020
+2,3,Electrical Engineering,EE,33.40,30.00,22.20,2020
+3,4,Computer Science and Information Technology,CS,28.50,25.60,19.00,2020
+4,5,Mechanical Engineering,ME,34.00,30.60,22.60,2020
+5,6,Petroleum Engineering,PE,39.80,35.80,26.50,2020
+6,7,Electronics and Communication Engineering,EC,28.80,25.90,19.20,2020
+7,8,Chemical Engineering,CH,35.70,32.10,23.80,2020
+8,9,Chemistry,CY,26.70,24.00,17.80,2020
+9,10,Biotechnology,BT,30.70,27.60,20.40,2020
+10,11,Engineering Sciences Minor,XE,26.00,23.40,17.30,2020
+11,12,Textile Engineering and Fibre Science,TF,37.10,33.30,24.70,2020
+12,13,Aerospace Engineering,AE,27.20,24.40,18.10,2020
+13,14,Agricultural Engineering,AG,26.30,23.60,17.50,2020
+14,15,Architecture and Planning,AR,34.80,31.30,23.20,2020
+15,16,Ecology and Evolution,EY,42.20,37.90,28.10,2020
+16,17,Geology,GG,38.40,34.50,25.60,2020
+17,18,Mathematics,MA,25.00,22.50,16.70,2020
+18,19,Mining Engineering,MN,32.70,29.40,21.80,2020
+19,20,Metallurgical Engineering,MT,49.20,44.20,32.80,2020
+20,21,Physics,PH,37.20,33.40,24.80,2020
+21,22,Production and Industrial Engineering,PI,36.60,32.90,24.40,2020
+22,23,Statistics,ST,25.00,22.50,16.60,2020
+23,24,Biomedical Engineering,BM,25.00,22.50,16.60,2020
+24,25,Life Sciences,XL,36.70,33.00,24.50,2019
+25,26,Civil Engineering,CE,28.20,25.40,18.80,2019
+26,27,Electrical Engineering,EE,39.60,35.60,26.40,2019
+27,28,Computer Science and Information Technology,CS,29.50,26.60,19.70,2019
+28,29,Mechanical Engineering,ME,34.10,30.70,22.70,2019
+29,30,Petroleum Engineering,PE,49.90,44.90,33.30,2019
+30,31,Electronics and Communication Engineering,EC,26.70,24.00,17.80,2019
+31,32,Chemical Engineering,CH,34.80,31.30,23.20,2019
+32,33,Chemistry,CY,32.00,28.80,21.30,2019
+33,34,Biotechnology,BT,35.90,32.30,23.90,2019
+34,35,Engineering Sciences,XE,26.70,24.00,17.80,2019
+35,36,Textile Engineering and Fibre Science,TF,40.10,36.10,26.70,2019
+36,37,Aerospace Engineering,AE,33.50,30.20,22.30,2019
+37,38,Agricultural Engineering,AG,28.30,25.50,18.90,2019
+38,39,Architecture and Planning,AR,41.00,36.90,27.30,2019
+39,40,Ecology and Evolution,EY,37.10,33.40,24.70,2019
+40,41,Geology and Geophysics,GG,44.50,40.10,29.70,2019
+41,42,Instrumentation Engineering,IN,31.90,28.70,21.30,2019
+42,43,Mathematics,MA,25.00,22.50,16.70,2019
+43,44,Mining Engineering,MN,31.50,28.40,21.00,2019
+44,45,Metallurgical Engineering,MT,53.50,48.10,35.70,2019
+45,46,Physics,PH,25.20,22.70,16.80,2019
+46,47,Production and Industrial Engineering,PI,32.20,29.00,21.50,2019
+47,48,Statistics,ST,32.50,29.20,21.70,2019
+48,49,Aerospace Engineering,AE,34.40,30.90,22.90,2018
+49,50,Agricultural Engineering,AG,25.00,22.50,16.60,2018
+50,51,Architecture and Planning,AR,43.90,39.50,29.20,2018
+51,52,Biotechnology,BT,27.90,25.10,18.50,2018
+52,53,Civil Engineering,CE,26.90,24.20,17.90,2018
+53,54,Chemical Engineering,CH,37.80,34.00,25.10,2018
+54,55,Computer Science and Information Technology,CS,25.00,22.50,16.60,2018
+55,56,Chemistry,CY,25.40,22.80,16.90,2018
+56,57,Electronics and Communication Engineering,EC,25.00,22.50,16.60,2018
+57,58,Electrical Engineering,EE,29.10,26.10,19.40,2018
+58,59,Ecology and Evolution,EY,49.30,44.30,32.80,2018
+59,60,Geology and Geophysics,GG,32.40,29.10,21.50,2018
+60,61,Instrumentation Engineering,IN,37.10,33.30,24.70,2018
+61,62,Mathematics,MA,29.40,26.40,19.50,2018
+62,63,Mechanical Engineering,ME,34.70,31.20,23.10,2018
+63,64,Mining Engineering,MN,45.00,40.50,30.00,2018
+64,65,Metallurgical Engineering,MT,40.30,36.20,26.80,2018
+65,66,Petroleum Engineering,PE,39.80,35.80,26.50,2018
+66,67,Physics,PH,29.00,26.10,19.30,2018
+67,68,Production and Industrial Engineering,PI,32.00,28.80,21.30,2018
+68,69,Textile Engineering and Fibre Science,TF,32.20,28.90,21.40,2018
+69,70,Engineering Sciences,XE,31.50,28.30,21.00,2018
+70,71,Life Sciences,XL,29.90,26.90,19.90,2018
+71,72,Electronics and Communication,EC,25.00,22.50,16.60,2017
+72,73,Civil Engineering,CE,28.70,25.80,19.10,2017
+73,74,Electrical Engineering,EE,25.20,25.20,16.70,2017
+74,75,Mechanical Engineering,ME,32.87,29.00,21.00,2017
+75,76,Computer Science & Information Technology,CS,25.00,22.50,16.60,2017
+76,77,Instrumentation Engineering,IN,34.60,31.10,23.00,2017
+77,78,Chemical Engineering,CH,44.30,39.80,29.50,2017
+78,79,Biotechnology,BT,38.90,35.00,25.90,2017
+79,80,Mechanical Engineering,ME,29.60,26.60,19.70,2016
+80,81,Civil Engineering,CE,25.00,22.50,16.60,2016
+81,82,Electrical Engineering,EE,25.10,22.50,16.70,2016
+82,83,Electronics and Communication Engineering ,EC,25.00,22.50,16.60,2016
+83,84,Computer Science and Information Technology,CS,25.00,22.50,16.60,2016
+84,85,Instrumentation Engineering ,IN,31.60,28.40,21.00,2016
+85,86,Production and Industrial Engineering,PI,26.40,23.70,17.50,2016
+86,87,Mechanical Engineering,ME,32.73,29.46,21.82,2015
+87,88,Civil Engineering,CE,25.00,22.50,16.67,2015
+88,89,Electrical Engineering,EE,25.00,22.50,16.67,2015
+89,90,Electronics and Communication Engineering,EC,25.00,22.50,16.67,2015
+90,91,Computer Science and Information Technology,CS,25.00,22.50,16.67,2015
+91,92,Instrumentation Engineering,IN,25.45,22.90,16.96,2015
+92,93,Production and Industrial Engineering,PI,26.82,24.14,17.88,2015

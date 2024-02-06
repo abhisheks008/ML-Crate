@@ -1,0 +1,924 @@
+firstname,surname,born_country_code,died_country_code,gender,year,category,share,name_of_university,city_of_university,country_of_university,born_month,age,age_get_prize
+Wilhelm Conrad,Röntgen,DE,DE,male,1901,physics,1,Munich University,Munich,Germany,Mar,78,56
+Hendrik A.,Lorentz,NL,NL,male,1902,physics,2,Leiden University,Leiden,the Netherlands,Jul,75,49
+Pieter,Zeeman,NL,NL,male,1902,physics,2,Amsterdam University,Amsterdam,the Netherlands,May,78,37
+Henri,Becquerel,FR,FR,male,1903,physics,2,École Polytechnique,Paris,France,Dec,56,51
+Pierre,Curie,FR,FR,male,1903,physics,4,École municipale de physique et de chimie industrielles (Municipal School of Industrial Physics and Chemistry),Paris,France,May,47,44
+Marie,Curie,PL,FR,female,1903,physics,4,,,,Nov,67,36
+Marie,Curie,PL,FR,female,1911,chemistry,1,Sorbonne University,Paris,France,Nov,67,44
+Lord,Rayleigh,GB,GB,male,1904,physics,1,Royal Institution of Great Britain,London,United Kingdom,Nov,77,62
+Philipp,Lenard,SK,DE,male,1905,physics,1,Kiel University,Kiel,Germany,Jun,85,43
+J.J.,Thomson,GB,GB,male,1906,physics,1,University of Cambridge,Cambridge,United Kingdom,Dec,84,50
+Albert A.,Michelson,PL,US,male,1907,physics,1,University of Chicago,Chicago IL,USA,Dec,79,55
+Gabriel,Lippmann,LU,,male,1908,physics,1,Sorbonne University,Paris,France,Aug,76,63
+Guglielmo,Marconi,IT,IT,male,1909,physics,2,Marconi Wireless Telegraph Co. Ltd.,London,United Kingdom,Apr,63,35
+Ferdinand,Braun,DE,US,male,1909,physics,2,Strasbourg University,Strasbourg,Germany (now France),Jun,68,59
+Johannes Diderik,van der Waals,NL,NL,male,1910,physics,1,Amsterdam University,Amsterdam,the Netherlands,Nov,86,73
+Wilhelm,Wien,RU,DE,male,1911,physics,1,Würzburg University,Würzburg,Germany,Jan,64,47
+Gustaf,Dalén,SE,SE,male,1912,physics,1,Swedish Gas-Accumulator Co.,Lidingö Stockholm,Sweden,Nov,68,43
+Heike,Kamerlingh Onnes,NL,NL,male,1913,physics,1,Leiden University,Leiden,the Netherlands,Sep,73,60
+Max,von Laue,DE,DE,male,1914,physics,1,Frankfurt-on-the-Main University,Frankfurt-on-the-Main,Germany,Oct,81,35
+William,Bragg,GB,GB,male,1915,physics,2,University College,London,United Kingdom,Jul,80,53
+Lawrence,Bragg,AU,GB,male,1915,physics,2,Victoria University,Manchester,United Kingdom,Mar,81,25
+Charles Glover,Barkla,GB,GB,male,1917,physics,1,Edinburgh University,Edinburgh,United Kingdom,Jun,67,40
+Max,Planck,DE,DE,male,1918,physics,1,Berlin University,Berlin,Germany,Apr,89,60
+Johannes,Stark,DE,DE,male,1919,physics,1,Greifswald University,Greifswald,Germany,Apr,83,45
+Charles Edouard,Guillaume,CH,FR,male,1920,physics,1,Bureau International des Poids et Mesures (International Bureau of Weights and Measures),Sèvres,France,Feb,77,59
+Albert,Einstein,DE,US,male,1921,physics,1,Kaiser-Wilhelm-Institut (now Max-Planck-Institut) für Physik,Berlin,Germany,Mar,76,42
+Niels,Bohr,DK,DK,male,1922,physics,1,Copenhagen University,Copenhagen,Denmark,Oct,77,37
+Robert A.,Millikan,US,US,male,1923,physics,1,California Institute of Technology (Caltech),Pasadena CA,USA,Mar,85,55
+Manne,Siegbahn,SE,SE,male,1924,physics,1,Uppsala University,Uppsala,Sweden,Dec,92,38
+James,Franck,DE,DE,male,1925,physics,2,Goettingen University,Göttingen,Germany,Aug,82,43
+Gustav,Hertz,DE,DE,male,1925,physics,2,Halle University,Halle,Germany,Jul,88,38
+Jean Baptiste,Perrin,FR,US,male,1926,physics,1,Sorbonne University,Paris,France,Sep,72,56
+Arthur H.,Compton,US,US,male,1927,physics,2,University of Chicago,Chicago IL,USA,Sep,70,35
+C.T.R.,Wilson,GB,GB,male,1927,physics,2,University of Cambridge,Cambridge,United Kingdom,Feb,90,58
+Owen Willans,Richardson,GB,GB,male,1928,physics,1,London University,London,United Kingdom,Apr,80,49
+Louis,de Broglie,FR,FR,male,1929,physics,1,Sorbonne University Institut Henri Poincaré,Paris,France,Aug,95,37
+Sir Chandrasekhara Venkata,Raman,IN,IN,male,1930,physics,1,Calcutta University,Calcutta,India,Nov,82,42
+Werner,Heisenberg,DE,DE,male,1932,physics,1,Leipzig University,Leipzig,Germany,Dec,75,31
+Erwin,Schrödinger,AT,AT,male,1933,physics,2,Berlin University,Berlin,Germany,Aug,74,46
+Paul A.M.,Dirac,GB,US,male,1933,physics,2,University of Cambridge,Cambridge,United Kingdom,Aug,82,31
+James,Chadwick,GB,GB,male,1935,physics,1,Liverpool University,Liverpool,United Kingdom,Oct,83,44
+Victor F.,Hess,AT,US,male,1936,physics,2,Innsbruck University,Innsbruck,Austria,Jun,81,53
+Carl D.,Anderson,US,US,male,1936,physics,2,California Institute of Technology (Caltech),Pasadena CA,USA,Sep,86,31
+Clinton,Davisson,US,US,male,1937,physics,2,Bell Telephone Laboratories,New York NY,USA,Oct,77,56
+George Paget,Thomson,GB,GB,male,1937,physics,2,London University,London,United Kingdom,May,83,45
+Enrico,Fermi,IT,US,male,1938,physics,1,Rome University,Rome,Italy,Sep,53,37
+Ernest,Lawrence,US,US,male,1939,physics,1,University of California,Berkeley CA,USA,Aug,57,38
+Otto,Stern,PL,US,male,1943,physics,1,Carnegie Institute of Technology,Pittsburgh PA,USA,Feb,81,55
+Isidor Isaac,Rabi,PL,US,male,1944,physics,1,Columbia University,New York NY,USA,Jul,90,46
+Wolfgang,Pauli,AT,CH,male,1945,physics,1,Princeton University,Princeton NJ,USA,Apr,58,45
+Percy W.,Bridgman,US,US,male,1946,physics,1,Harvard University,Cambridge MA,USA,Apr,79,64
+Edward V.,Appleton,GB,GB,male,1947,physics,1,Department of Scientific and Industrial Research,London,United Kingdom,Sep,73,55
+Patrick M.S.,Blackett,GB,GB,male,1948,physics,1,Victoria University,Manchester,United Kingdom,Nov,77,51
+Hideki,Yukawa,JP,JP,male,1949,physics,1,Kyoto Imperial University,Kyoto,Japan,Jan,74,42
+Cecil,Powell,GB,IT,male,1950,physics,1,Bristol University,Bristol,United Kingdom,Dec,66,47
+John,Cockcroft,GB,GB,male,1951,physics,2,Atomic Energy Research Establishment,Harwell Berkshire,United Kingdom,May,70,54
+Ernest T.S.,Walton,IE,GB,male,1951,physics,2,Trinity College,Dublin,Ireland,Oct,92,48
+Felix,Bloch,CH,CH,male,1952,physics,2,Stanford University,Stanford CA,USA,Oct,78,47
+E. M.,Purcell,US,US,male,1952,physics,2,Harvard University,Cambridge MA,USA,Aug,85,40
+Frits,Zernike,NL,NL,male,1953,physics,1,Groningen University,Groningen,the Netherlands,Jul,78,65
+Max,Born,PL,DE,male,1954,physics,2,Edinburgh University,Edinburgh,United Kingdom,Dec,88,72
+Walther,Bothe,DE,DE,male,1954,physics,2,University of Heidelberg,Heidelberg,Germany,Jan,66,63
+Willis E.,Lamb,US,US,male,1955,physics,2,Stanford University,Stanford CA,USA,Jul,95,42
+Polykarp,Kusch,DE,US,male,1955,physics,2,Columbia University,New York NY,USA,Jan,82,44
+William B.,Shockley,GB,US,male,1956,physics,3,Semiconductor Laboratory of Beckman Instruments Inc.,Mountain View CA,USA,Feb,79,46
+John,Bardeen,US,US,male,1956,physics,3,University of Illinois,Urbana IL,USA,May,83,48
+John,Bardeen,US,US,male,1972,physics,3,University of Illinois,Urbana IL,USA,May,83,64
+Walter H.,Brattain,CN,US,male,1956,physics,3,Bell Telephone Laboratories,Murray Hill NJ,USA,Feb,85,54
+Chen Ning,Yang,CN,,male,1957,physics,2,Institute for Advanced Study,Princeton NJ,USA,Sep,98,35
+Tsung-Dao,Lee,CN,,male,1957,physics,2,Columbia University,New York NY,USA,Nov,94,31
+Pavel A.,Cherenkov,RU,RU,male,1958,physics,3,P.N. Lebedev Physical Institute,Moscow,USSR (now Russia),Jul,86,54
+Igor Y.,Tamm,RU,RU,male,1958,physics,3,Lomonosov Moscow State University,Moscow,USSR (now Russia),Jul,76,63
+Emilio,Segrè,IT,US,male,1959,physics,2,University of California,Berkeley CA,USA,Feb,84,54
+Owen,Chamberlain,US,US,male,1959,physics,2,University of California,Berkeley CA,USA,Jul,86,39
+Donald A.,Glaser,US,US,male,1960,physics,1,University of California,Berkeley CA,USA,Sep,87,34
+Robert,Hofstadter,US,US,male,1961,physics,2,Stanford University,Stanford CA,USA,Feb,75,46
+Rudolf,Mössbauer,DE,,male,1961,physics,2,Technical University,Munich,Germany,Jan,82,32
+Lev,Landau,AZ,RU,male,1962,physics,1,Academy of Sciences,Moscow,USSR (now Russia),Jan,60,54
+Eugene,Wigner,HU,US,male,1963,physics,2,Princeton University,Princeton NJ,USA,Nov,93,61
+Maria,Goeppert Mayer,PL,US,female,1963,physics,4,University of California,San Diego CA,USA,Jun,66,57
+J. Hans D.,Jensen,DE,DE,male,1963,physics,4,University of Heidelberg,Heidelberg,Germany,Jun,66,56
+Charles H.,Townes,US,US,male,1964,physics,2,Massachusetts Institute of Technology (MIT),Cambridge MA,USA,Jul,100,49
+Nicolay G.,Basov,RU,RU,male,1964,physics,4,P.N. Lebedev Physical Institute,Moscow,USSR (now Russia),Dec,79,42
+Aleksandr M.,Prokhorov,AU,RU,male,1964,physics,4,P.N. Lebedev Physical Institute,Moscow,USSR (now Russia),Jul,86,48
+Sin-Itiro,Tomonaga,JP,JP,male,1965,physics,3,Tokyo University of Education,Tokyo,Japan,Mar,73,59
+Julian,Schwinger,US,US,male,1965,physics,3,Harvard University,Cambridge MA,USA,Feb,76,47
+Richard P.,Feynman,US,US,male,1965,physics,3,California Institute of Technology (Caltech),Pasadena CA,USA,May,70,47
+Alfred,Kastler,FR,FR,male,1966,physics,1,École Normale Supérieure,Paris,France,May,82,64
+Hans,Bethe,FR,US,male,1967,physics,1,Cornell University,Ithaca NY,USA,Jul,99,61
+Luis,Alvarez,US,US,male,1968,physics,1,University of California,Berkeley CA,USA,Jun,77,57
+Murray,Gell-Mann,US,US,male,1969,physics,1,California Institute of Technology (Caltech),Pasadena CA,USA,Sep,90,40
+Hannes,Alfvén,SE,SE,male,1970,physics,2,Royal Institute of Technology,Stockholm,Sweden,May,87,62
+Louis,Néel,FR,FR,male,1970,physics,2,University of Grenoble,Grenoble,France,Nov,96,66
+Dennis,Gabor,HU,GB,male,1971,physics,1,Imperial College,London,United Kingdom,Jun,79,71
+Leon N.,Cooper,US,,male,1972,physics,3,Brown University,Providence RI,USA,Feb,90,42
+Robert,Schrieffer,US,US,male,1972,physics,3,University of Pennsylvania,Philadelphia PA,USA,May,88,41
+Leo,Esaki,JP,,male,1973,physics,4,IBM Thomas J. Watson Research Center,Yorktown Heights NY,USA,Mar,95,48
+Ivar,Giaever,NO,,male,1973,physics,4,General Electric Company,Schenectady NY,USA,Apr,91,44
+Brian D.,Josephson,GB,,male,1973,physics,2,University of Cambridge,Cambridge,United Kingdom,Jan,80,33
+Martin,Ryle,GB,GB,male,1974,physics,2,University of Cambridge,Cambridge,United Kingdom,Sep,66,56
+Antony,Hewish,GB,,male,1974,physics,2,University of Cambridge,Cambridge,United Kingdom,May,96,50
+Aage N.,Bohr,DK,DK,male,1975,physics,3,Niels Bohr Institute,Copenhagen,Denmark,Jun,87,53
+Ben R.,Mottelson,US,,male,1975,physics,3,Nordita,Copenhagen,Denmark,Jul,94,49
+James,Rainwater,US,US,male,1975,physics,3,Columbia University,New York NY,USA,Dec,69,58
+Burton,Richter,US,US,male,1976,physics,2,Stanford Linear Accelerator Center,Stanford CA,USA,Mar,87,45
+Samuel C.C.,Ting,US,,male,1976,physics,2,Massachusetts Institute of Technology (MIT),Cambridge MA,USA,Jan,84,40
+Philip W.,Anderson,US,US,male,1977,physics,3,Bell Telephone Laboratories,Murray Hill NJ,USA,Dec,97,54
+Sir Nevill F.,Mott,GB,GB,male,1977,physics,3,University of Cambridge,Cambridge,United Kingdom,Sep,91,72
+John H.,van Vleck,US,US,male,1977,physics,3,Harvard University,Cambridge MA,USA,Mar,81,78
+Pyotr,Kapitsa,RU,RU,male,1978,physics,2,Academy of Sciences,Moscow,USSR (now Russia),Jul,90,84
+Arno,Penzias,DE,,male,1978,physics,4,Bell Laboratories,Holmdel NJ,USA,Apr,87,45
+Robert Woodrow,Wilson,US,,male,1978,physics,4,Bell Laboratories,Holmdel NJ,USA,Jan,84,42
+Sheldon,Glashow,US,,male,1979,physics,3,Harvard University Lyman Laboratory,Cambridge MA,USA,Dec,88,47
+Abdus,Salam,PK,GB,male,1979,physics,3,International Centre for Theoretical Physics,Trieste,Italy,Jan,70,53
+Steven,Weinberg,US,,male,1979,physics,3,Harvard University,Cambridge MA,USA,May,87,46
+James,Cronin,US,US,male,1980,physics,2,University of Chicago,Chicago IL,USA,Sep,85,49
+Val,Fitch,US,US,male,1980,physics,2,Princeton University,Princeton NJ,USA,Mar,92,57
+Nicolaas,Bloembergen,NL,US,male,1981,physics,4,Harvard University,Cambridge MA,USA,Mar,97,61
+Arthur L.,Schawlow,US,US,male,1981,physics,4,Stanford University,Stanford CA,USA,May,78,60
+Kai M.,Siegbahn,SE,SE,male,1981,physics,2,Uppsala University,Uppsala,Sweden,Apr,89,63
+Kenneth G.,Wilson,US,US,male,1982,physics,1,Cornell University,Ithaca NY,USA,Jun,77,46
+Subramanyan,Chandrasekhar,PK,US,male,1983,physics,2,University of Chicago,Chicago IL,USA,Oct,85,73
+William A.,Fowler,US,US,male,1983,physics,2,California Institute of Technology (Caltech),Pasadena CA,USA,Aug,84,72
+Carlo,Rubbia,IT,,male,1984,physics,2,CERN,Geneva,Switzerland,Mar,86,50
+Simon,van der Meer,NL,CH,male,1984,physics,2,CERN,Geneva,Switzerland,Nov,86,59
+Klaus,von Klitzing,PL,,male,1985,physics,1,Max-Planck-Institut für Festkörperforschung,Stuttgart,Germany,Jun,77,42
+Ernst,Ruska,DE,DE,male,1986,physics,2,Fritz-Haber-Institut der Max-Planck-Gesellschaft,Berlin,Germany,Dec,82,80
+Gerd,Binnig,DE,,male,1986,physics,4,IBM Zurich Research Laboratory,Rüschlikon,Switzerland,Jul,73,39
+Heinrich,Rohrer,CH,CH,male,1986,physics,4,IBM Zurich Research Laboratory,Rüschlikon,Switzerland,Jun,80,53
+J. Georg,Bednorz,DE,,male,1987,physics,2,IBM Zurich Research Laboratory,Rüschlikon,Switzerland,May,70,37
+K. Alex,Müller,CH,,male,1987,physics,2,IBM Zurich Research Laboratory,Rüschlikon,Switzerland,Apr,93,60
+Leon M.,Lederman,US,US,male,1988,physics,3,Fermi National Accelerator Laboratory,Batavia IL,USA,Jul,96,66
+Melvin,Schwartz,US,US,male,1988,physics,3,Digital Pathways Inc.,Mountain View CA,USA,Nov,74,56
+Jack,Steinberger,DE,,male,1988,physics,3,CERN,Geneva,Switzerland,May,99,67
+Norman F.,Ramsey,US,US,male,1989,physics,2,Harvard University,Cambridge MA,USA,Aug,96,74
+Hans G.,Dehmelt,DE,US,male,1989,physics,4,University of Washington,Seattle WA,USA,Sep,95,67
+Wolfgang,Paul,DE,DE,male,1989,physics,4,University of Bonn,Bonn,Germany,Aug,80,76
+Jerome I.,Friedman,US,,male,1990,physics,3,Massachusetts Institute of Technology (MIT),Cambridge MA,USA,Mar,90,60
+Henry W.,Kendall,US,US,male,1990,physics,3,Massachusetts Institute of Technology (MIT),Cambridge MA,USA,Dec,73,64
+Richard E.,Taylor,CA,US,male,1990,physics,3,Stanford University,Stanford CA,USA,Nov,89,61
+Pierre-Gilles,de Gennes,FR,FR,male,1991,physics,1,Collège de France,Paris,France,Oct,75,59
+Georges,Charpak,PL,FR,male,1992,physics,1,École Supérieure de Physique et Chimie,Paris,France,Aug,86,68
+Russell A.,Hulse,US,,male,1993,physics,2,Princeton University,Princeton NJ,USA,Nov,70,43
+Joseph H.,Taylor Jr.,US,,male,1993,physics,2,Princeton University,Princeton NJ,USA,Mar,79,52
+Bertram N.,Brockhouse,CA,CA,male,1994,physics,2,McMaster University,Hamilton Ontario,Canada,Jul,85,76
+Clifford G.,Shull,US,US,male,1994,physics,2,Massachusetts Institute of Technology (MIT),Cambridge MA,USA,Sep,86,79
+Martin L.,Perl,US,US,male,1995,physics,2,Stanford University,Stanford CA,USA,Jun,87,68
+Frederick,Reines,US,US,male,1995,physics,2,University of California,Irvine CA,USA,Mar,80,77
+David M.,Lee,US,,male,1996,physics,3,Cornell University,Ithaca NY,USA,Jan,89,65
+Douglas D.,Osheroff,US,,male,1996,physics,3,Stanford University,Stanford CA,USA,Aug,75,51
+Robert C.,Richardson,US,US,male,1996,physics,3,Cornell University,Ithaca NY,USA,Jun,76,59
+Steven,Chu,US,,male,1997,physics,3,Stanford University,Stanford CA,USA,Feb,72,49
+Claude,Cohen-Tannoudji,DZ,,male,1997,physics,3,Collège de France,Paris,France,Apr,87,64
+William D.,Phillips,US,,male,1997,physics,3,National Institute of Standards and Technology,Gaithersburg MD,USA,Nov,72,49
+Robert B.,Laughlin,US,,male,1998,physics,3,Stanford University,Stanford CA,USA,Nov,70,48
+Horst L.,Störmer,DE,,male,1998,physics,3,Columbia University,New York NY,USA,Apr,71,49
+Daniel C.,Tsui,CN,,male,1998,physics,3,Princeton University,Princeton NJ,USA,Feb,81,59
+Gerardus,'t Hooft,NL,,male,1999,physics,2,Utrecht University,Utrecht,the Netherlands,Jul,74,53
+Martinus J.G.,Veltman,NL,,male,1999,physics,2,,,,Jun,89,68
+Jacobus H.,van 't Hoff,NL,DE,male,1901,chemistry,1,Berlin University,Berlin,Germany,Aug,59,49
+Emil,Fischer,DE,DE,male,1902,chemistry,1,Berlin University,Berlin,Germany,Oct,67,50
+Svante,Arrhenius,SE,SE,male,1903,chemistry,1,Stockholm University,Stockholm,Sweden,Feb,68,44
+Sir William,Ramsay,GB,GB,male,1904,chemistry,1,University College,London,United Kingdom,Oct,64,52
+Adolf,von Baeyer,DE,DE,male,1905,chemistry,1,Munich University,Munich,Germany,Oct,82,70
+Henri,Moissan,FR,FR,male,1906,chemistry,1,Sorbonne University,Paris,France,Sep,55,54
+Eduard,Buchner,DE,RO,male,1907,chemistry,1,Landwirtschaftliche Hochschule (Agricultural College),Berlin,Germany,May,57,47
+Ernest,Rutherford,NZ,GB,male,1908,chemistry,1,Victoria University,Manchester,United Kingdom,Aug,66,37
+Wilhelm,Ostwald,LV,DE,male,1909,chemistry,1,Leipzig University,Leipzig,Germany,Sep,79,56
+Otto,Wallach,RU,DE,male,1910,chemistry,1,Goettingen University,Göttingen,Germany,Mar,84,63
+Victor,Grignard,FR,FR,male,1912,chemistry,2,Nancy University,Nancy,France,May,64,41
+Paul,Sabatier,FR,FR,male,1912,chemistry,2,Toulouse University,Toulouse,France,Nov,87,58
+Alfred,Werner,FR,CH,male,1913,chemistry,1,University of Zurich,Zurich,Switzerland,Dec,53,47
+Theodore W.,Richards,US,US,male,1914,chemistry,1,Harvard University,Cambridge MA,USA,Jan,60,46
+Richard,Willstätter,DE,CH,male,1915,chemistry,1,Munich University,Munich,Germany,Aug,70,43
+Fritz,Haber,PL,CH,male,1918,chemistry,1,Kaiser-Wilhelm-Institut (now Fritz-Haber-Institut) für physikalische Chemie und Electrochemie,Berlin-Dahlem,Germany,Dec,66,50
+Walther,Nernst,DE,DE,male,1920,chemistry,1,Berlin University,Berlin,Germany,Jun,77,56
+Frederick,Soddy,GB,GB,male,1921,chemistry,1,University of Oxford,Oxford,United Kingdom,Sep,79,44
+Francis W.,Aston,GB,GB,male,1922,chemistry,1,University of Cambridge,Cambridge,United Kingdom,Sep,68,45
+Fritz,Pregl,SI,AT,male,1923,chemistry,1,Graz University,Graz,Austria,Sep,61,54
+Richard,Zsigmondy,AT,DE,male,1925,chemistry,1,Goettingen University,Göttingen,Germany,Apr,64,60
+The,Svedberg,SE,SE,male,1926,chemistry,1,Uppsala University,Uppsala,Sweden,Aug,87,42
+Heinrich,Wieland,DE,DE,male,1927,chemistry,1,Munich University,Munich,Germany,Jun,80,50
+Adolf,Windaus,DE,DE,male,1928,chemistry,1,Goettingen University,Göttingen,Germany,Dec,83,52
+Arthur,Harden,GB,GB,male,1929,chemistry,2,London University,London,United Kingdom,Oct,75,64
+Hans,von Euler-Chelpin,DE,SE,male,1929,chemistry,2,Stockholm University,Stockholm,Sweden,Feb,91,56
+Hans,Fischer,DE,DE,male,1930,chemistry,1,Technische Hochschule (Institute of Technology),Munich,Germany,Jul,64,49
+Carl,Bosch,DE,DE,male,1931,chemistry,2,University of Heidelberg,Heidelberg,Germany,Aug,66,57
+Friedrich,Bergius,PL,AR,male,1931,chemistry,2,University of Heidelberg,Heidelberg,Germany,Oct,65,47
+Irving,Langmuir,US,US,male,1932,chemistry,1,General Electric Company,Schenectady NY,USA,Jan,76,51
+Harold C.,Urey,US,US,male,1934,chemistry,1,Columbia University,New York NY,USA,Apr,88,41
+Frédéric,Joliot,FR,FR,male,1935,chemistry,2,Institut du Radium,Paris,France,Mar,58,35
+Irène,Joliot-Curie,FR,FR,female,1935,chemistry,2,Institut du Radium,Paris,France,Sep,59,38
+Peter,Debye,NL,US,male,1936,chemistry,1,Berlin University,Berlin,Germany,Mar,82,52
+Norman,Haworth,GB,GB,male,1937,chemistry,2,Birmingham University,Birmingham,United Kingdom,Mar,67,54
+Paul,Karrer,RU,CH,male,1937,chemistry,2,University of Zurich,Zurich,Switzerland,Apr,82,48
+Richard,Kuhn,AT,DE,male,1938,chemistry,1,Kaiser-Wilhelm-Institut (now Max-Planck Institut) für Medizinische Forschung,Heidelberg,Germany,Dec,67,38
+Adolf,Butenandt,DE,DE,male,1939,chemistry,2,Kaiser-Wilhelm-Institut (now Max-Planck-Institut) für Biochemie,Berlin-Dahlem,Germany,Mar,92,36
+Leopold,Ruzicka,HR,CH,male,1939,chemistry,2,Eidgenössische Technische Hochschule (Swiss Federal Institute of Technology),Zurich,Switzerland,Sep,89,52
+George,de Hevesy,HU,DE,male,1943,chemistry,1,Stockholm University,Stockholm,Sweden,Aug,81,58
+Otto,Hahn,DE,DE,male,1944,chemistry,1,Kaiser-Wilhelm-Institut (now Max-Planck Institut) für Chemie,Berlin-Dahlem,Germany,Mar,89,65
+Artturi,Virtanen,FI,FI,male,1945,chemistry,1,University of Helsinki,Helsinki,Finland,Jan,78,50
+James B.,Sumner,US,US,male,1946,chemistry,2,Cornell University,Ithaca NY,USA,Nov,68,59
+John H.,Northrop,US,US,male,1946,chemistry,4,Rockefeller Institute for Medical Research,Princeton NJ,USA,Jul,96,55
+Wendell M.,Stanley,US,ES,male,1946,chemistry,4,Rockefeller Institute for Medical Research,Princeton NJ,USA,Aug,67,42
+Sir Robert,Robinson,GB,GB,male,1947,chemistry,1,University of Oxford,Oxford,United Kingdom,Sep,89,61
+Arne,Tiselius,SE,SE,male,1948,chemistry,1,Uppsala University,Uppsala,Sweden,Aug,69,46
+William F.,Giauque,CA,US,male,1949,chemistry,1,University of California,Berkeley CA,USA,May,87,54
+Otto,Diels,DE,DE,male,1950,chemistry,2,Kiel University,Kiel,Germany,Jan,78,74
+Kurt,Alder,PL,DE,male,1950,chemistry,2,Cologne University,Cologne,Germany,Jul,56,48
+Edwin M.,McMillan,US,US,male,1951,chemistry,2,University of California,Berkeley CA,USA,Sep,84,44
+Glenn T.,Seaborg,US,US,male,1951,chemistry,2,University of California,Berkeley CA,USA,Apr,87,39
+Archer J.P.,Martin,GB,GB,male,1952,chemistry,2,National Institute for Medical Research,London,United Kingdom,Mar,92,42
+Richard L.M.,Synge,GB,GB,male,1952,chemistry,2,Rowett Research Institute,Bucksburn (Scotland),United Kingdom,Oct,80,38
+Hermann,Staudinger,DE,DE,male,1953,chemistry,1,University of Freiburg,Breisgau,Germany,Mar,84,72
+Linus,Pauling,US,US,male,1962,peace,1,California Institute of Technology (Caltech),Pasadena CA,USA,Feb,93,61
+Linus,Pauling,US,US,male,1954,chemistry,1,California Institute of Technology (Caltech),Pasadena CA,USA,Feb,93,53
+Vincent,du Vigneaud,US,US,male,1955,chemistry,1,Cornell University,Ithaca NY,USA,May,77,54
+Sir Cyril,Hinshelwood,GB,GB,male,1956,chemistry,2,University of Oxford,Oxford,United Kingdom,May,70,59
+Nikolay,Semenov,RU,RU,male,1956,chemistry,2,Institute for Chemical Physics of the Academy of Sciences of the USSR,Moscow,USSR (now Russia),Apr,90,60
+Lord,Todd,GB,GB,male,1957,chemistry,1,University of Cambridge,Cambridge,United Kingdom,Oct,90,50
+Frederick,Sanger,GB,GB,male,1958,chemistry,1,University of Cambridge,Cambridge,United Kingdom,Aug,95,40
+Frederick,Sanger,GB,GB,male,1980,chemistry,4,MRC Laboratory of Molecular Biology,Cambridge,United Kingdom,Aug,95,62
+Jaroslav,Heyrovsky,CZ,CZ,male,1959,chemistry,1,Polarographic Institute of the Czechoslovak Academy of Science,Prague,Czechoslovakia (now Czech Republic),Dec,77,69
+Willard F.,Libby,US,US,male,1960,chemistry,1,University of California,Los Angeles CA,USA,Dec,72,52
+Melvin,Calvin,US,US,male,1961,chemistry,1,University of California,Berkeley CA,USA,Apr,86,50
+Max F.,Perutz,AT,GB,male,1962,chemistry,2,MRC Laboratory of Molecular Biology,Cambridge,United Kingdom,May,88,48
+John C.,Kendrew,GB,GB,male,1962,chemistry,2,MRC Laboratory of Molecular Biology,Cambridge,United Kingdom,Mar,80,45
+Karl,Ziegler,DE,DE,male,1963,chemistry,2,Max-Planck-Institut für Kohlenforschung (Max-Planck-Institute for Carbon Research),Mülheim/Ruhr,Germany,Nov,75,65
+Giulio,Natta,IT,IT,male,1963,chemistry,2,Institute of Technology,Milan,Italy,Feb,76,60
+Dorothy Crowfoot,Hodgkin,EG,GB,female,1964,chemistry,1,University of Oxford Royal Society,Oxford,United Kingdom,May,84,54
+Robert B.,Woodward,US,US,male,1965,chemistry,1,Harvard University,Cambridge MA,USA,Apr,62,48
+Robert S.,Mulliken,US,US,male,1966,chemistry,1,University of Chicago,Chicago IL,USA,Jun,90,70
+Manfred,Eigen,DE,DE,male,1967,chemistry,2,Max-Planck-Institut für Physikalische Chemie,Göttingen,Germany,May,92,40
+Ronald G.W.,Norrish,GB,GB,male,1967,chemistry,4,Institute of Physical Chemistry,Cambridge,United Kingdom,Nov,81,70
+George,Porter,GB,GB,male,1967,chemistry,4,Royal Institution of Great Britain,London,United Kingdom,Dec,82,47
+Lars,Onsager,NO,US,male,1968,chemistry,1,Yale University,New Haven CT,USA,Nov,73,65
+Derek,Barton,GB,US,male,1969,chemistry,2,Imperial College,London,United Kingdom,Sep,80,51
+Odd,Hassel,NO,NO,male,1969,chemistry,2,University of Oslo,Oslo,Norway,May,84,72
+Luis,Leloir,FR,AR,male,1970,chemistry,1,Institute for Biochemical Research,Buenos Aires,Argentina,Sep,81,64
+Gerhard,Herzberg,DE,CA,male,1971,chemistry,1,National Research Council of Canada,Ottawa,Canada,Dec,95,67
+Christian,Anfinsen,US,US,male,1972,chemistry,2,National Institutes of Health,Bethesda MD,USA,Mar,79,56
+Stanford,Moore,US,US,male,1972,chemistry,4,Rockefeller University,New York NY,USA,Sep,69,59
+William H.,Stein,US,US,male,1972,chemistry,4,Rockefeller University,New York NY,USA,Jun,69,61
+Ernst Otto,Fischer,DE,DE,male,1973,chemistry,2,Technical University,Munich,Germany,Nov,89,55
+Geoffrey,Wilkinson,GB,GB,male,1973,chemistry,2,Imperial College,London,United Kingdom,Jul,75,52
+Paul J.,Flory,US,US,male,1974,chemistry,1,Stanford University,Stanford CA,USA,Jun,75,64
+John,Cornforth,AU,,male,1975,chemistry,2,University of Sussex,Brighton,United Kingdom,Sep,96,58
+Vladimir,Prelog,BA,CH,male,1975,chemistry,2,Eidgenössische Technische Hochschule (Swiss Federal Institute of Technology),Zurich,Switzerland,Jul,92,69
+William,Lipscomb,US,US,male,1976,chemistry,1,Harvard University,Cambridge MA,USA,Dec,92,57
+Ilya,Prigogine,RU,BE,male,1977,chemistry,1,Université Libre de Bruxelles,Brussels,Belgium,Jan,86,60
+Peter,Mitchell,GB,GB,male,1978,chemistry,1,Glynn Research Laboratories,Bodmin,United Kingdom,Sep,72,58
+Herbert C.,Brown,GB,US,male,1979,chemistry,2,Purdue University,West Lafayette IN,USA,May,92,67
+Georg,Wittig,DE,DE,male,1979,chemistry,2,University of Heidelberg,Heidelberg,Germany,Jun,90,82
+Paul,Berg,US,,male,1980,chemistry,2,Stanford University,Stanford CA,USA,Jun,94,54
+Walter,Gilbert,US,,male,1980,chemistry,4,Harvard University Biological Laboratories,Cambridge MA,USA,Mar,88,48
+Kenichi,Fukui,JP,JP,male,1981,chemistry,2,Kyoto University,Kyoto,Japan,Oct,80,63
+Roald,Hoffmann,UA,,male,1981,chemistry,2,Cornell University,Ithaca NY,USA,Jul,83,44
+Aaron,Klug,LT,,male,1982,chemistry,1,MRC Laboratory of Molecular Biology,Cambridge,United Kingdom,Aug,92,56
+Henry,Taube,CA,US,male,1983,chemistry,1,Stanford University,Stanford CA,USA,Nov,90,68
+Bruce,Merrifield,US,US,male,1984,chemistry,1,Rockefeller University,New York NY,USA,Jul,85,63
+Herbert A.,Hauptman,US,US,male,1985,chemistry,2,The Medical Foundation of Buffalo,Buffalo NY,USA,Feb,94,68
+Jerome,Karle,US,,male,1985,chemistry,2,US Naval Research Laboratory,Washington DC,USA,Jun,95,67
+Dudley R.,Herschbach,US,,male,1986,chemistry,3,Harvard University,Cambridge MA,USA,Jun,88,54
+Yuan T.,Lee,TW,,male,1986,chemistry,3,University of California,Berkeley CA,USA,Nov,84,50
+John C.,Polanyi,DE,,male,1986,chemistry,3,University of Toronto,Toronto,Canada,Jan,91,57
+Donald J.,Cram,US,US,male,1987,chemistry,3,University of California,Los Angeles CA,USA,Apr,82,68
+Jean-Marie,Lehn,FR,,male,1987,chemistry,3,Université Louis Pasteur,Strasbourg,France,Sep,81,48
+Charles J.,Pedersen,KR,US,male,1987,chemistry,3,Du Pont,Wilmington DE,USA,Oct,85,83
+Johann,Deisenhofer,DE,,male,1988,chemistry,3,University of Texas Southwestern Medical Center at Dallas,Dallas TX,USA,Sep,77,45
+Robert,Huber,DE,,male,1988,chemistry,3,Max-Planck-Institut für Biochemie,Martinsried,Germany,Feb,83,51
+Hartmut,Michel,DE,,male,1988,chemistry,3,Max-Planck-Institut für Biophysik,Frankfurt-on-the-Main,Germany,Jul,72,40
+Sidney,Altman,CA,,male,1989,chemistry,2,Yale University,New Haven CT,USA,May,81,50
+Thomas R.,Cech,US,,male,1989,chemistry,2,University of Colorado,Boulder CO,USA,Dec,73,42
+Elias James,Corey,US,,male,1990,chemistry,1,Harvard University,Cambridge MA,USA,Jul,92,62
+Richard R.,Ernst,CH,,male,1991,chemistry,1,Eidgenössische Technische Hochschule (Swiss Federal Institute of Technology),Zurich,Switzerland,Aug,87,58
+Rudolph A.,Marcus,CA,,male,1992,chemistry,1,California Institute of Technology (Caltech),Pasadena CA,USA,Jul,97,69
+Kary B.,Mullis,US,US,male,1993,chemistry,2,,,,Dec,75,49
+Michael,Smith,GB,CA,male,1993,chemistry,2,University of British Columbia,Vancouver,Canada,Apr,68,61
+George A.,Olah,HU,US,male,1994,chemistry,1,University of Southern California,Los Angeles CA,USA,May,90,67
+Paul J.,Crutzen,NL,,male,1995,chemistry,3,Max-Planck-Institut für Chemie,Mainz,Germany,Dec,87,62
+Mario J.,Molina,MX,,male,1995,chemistry,3,Massachusetts Institute of Technology (MIT),Cambridge MA,USA,Mar,77,52
+F. Sherwood,Rowland,US,US,male,1995,chemistry,3,University of California,Irvine CA,USA,Jun,85,68
+Robert F.,Curl Jr.,US,,male,1996,chemistry,3,Rice University,Houston TX,USA,Aug,87,63
+Sir Harold,Kroto,GB,GB,male,1996,chemistry,3,University of Sussex,Brighton,United Kingdom,Oct,77,57
+Richard E.,Smalley,US,US,male,1996,chemistry,3,Rice University,Houston TX,USA,Jun,62,53
+Paul D.,Boyer,US,US,male,1997,chemistry,4,University of California,Los Angeles CA,USA,Jul,100,79
+John E.,Walker,GB,,male,1997,chemistry,4,MRC Laboratory of Molecular Biology,Cambridge,United Kingdom,Jan,79,56
+Jens C.,Skou,DK,DK,male,1997,chemistry,2,Aarhus University,Aarhus,Denmark,Oct,100,79
+Walter,Kohn,AT,US,male,1998,chemistry,2,University of California,Santa Barbara CA,USA,Mar,93,75
+John,Pople,GB,US,male,1998,chemistry,2,Northwestern University,Evanston IL,USA,Oct,79,73
+Ahmed,Zewail,EG,US,male,1999,chemistry,1,California Institute of Technology (Caltech),Pasadena CA,USA,Feb,70,53
+Emil,von Behring,PL,DE,male,1901,medicine,1,Marburg University,Marburg,Germany,Mar,63,47
+Ronald,Ross,IN,GB,male,1902,medicine,1,University College,Liverpool,United Kingdom,May,75,45
+Niels Ryberg,Finsen,DK,DK,male,1903,medicine,1,Finsen Medical Light Institute,Copenhagen,Denmark,Dec,44,43
+Ivan,Pavlov,RU,RU,male,1904,medicine,1,Military Medical Academy,St. Petersburg,Russia,Sep,87,55
+Robert,Koch,DE,DE,male,1905,medicine,1,Institute for Infectious Diseases,Berlin,Germany,Dec,67,62
+Camillo,Golgi,IT,IT,male,1906,medicine,2,Pavia University,Pavia,Italy,Jul,83,63
+Santiago,Ramón y Cajal,ES,ES,male,1906,medicine,2,Madrid University,Madrid,Spain,May,82,54
+Alphonse,Laveran,FR,FR,male,1907,medicine,1,Institut Pasteur,Paris,France,Jun,77,62
+Ilya,Mechnikov,UA,FR,male,1908,medicine,2,Institut Pasteur,Paris,France,May,71,63
+Paul,Ehrlich,PL,DE,male,1908,medicine,2,Goettingen University,Göttingen,Germany,Mar,61,54
+Theodor,Kocher,CH,CH,male,1909,medicine,1,Berne University,Bern,Switzerland,Aug,76,68
+Albrecht,Kossel,DE,DE,male,1910,medicine,1,University of Heidelberg,Heidelberg,Germany,Sep,74,57
+Allvar,Gullstrand,SE,SE,male,1911,medicine,1,Uppsala University,Uppsala,Sweden,Jun,68,49
+Alexis,Carrel,FR,FR,male,1912,medicine,1,Rockefeller Institute for Medical Research,New York NY,USA,Jun,71,39
+Charles,Richet,FR,FR,male,1913,medicine,1,Sorbonne University,Paris,France,Aug,85,63
+Robert,Bárány,AT,SE,male,1914,medicine,1,Vienna University,Vienna,Austria,Apr,60,38
+Jules,Bordet,BE,BE,male,1919,medicine,1,Brussels University,Brussels,Belgium,Jun,91,49
+August,Krogh,DK,DK,male,1920,medicine,1,Copenhagen University,Copenhagen,Denmark,Nov,75,46
+Archibald V.,Hill,GB,GB,male,1922,medicine,2,London University,London,United Kingdom,Sep,91,36
+Otto,Meyerhof,DE,US,male,1922,medicine,2,Kiel University,Kiel,Germany,Apr,67,38
+Frederick G.,Banting,CA,CA,male,1923,medicine,2,University of Toronto,Toronto,Canada,Nov,50,32
+John,Macleod,GB,GB,male,1923,medicine,2,University of Toronto,Toronto,Canada,Sep,59,47
+Willem,Einthoven,ID,NL,male,1924,medicine,1,Leiden University,Leiden,the Netherlands,May,67,64
+Johannes,Fibiger,DK,DK,male,1926,medicine,1,Copenhagen University,Copenhagen,Denmark,Apr,61,59
+Julius,Wagner-Jauregg,AT,AT,male,1927,medicine,1,Vienna University,Vienna,Austria,Mar,83,70
+Charles,Nicolle,FR,TN,male,1928,medicine,1,Institut Pasteur,Tunis,Tunisia,Sep,70,62
+Christiaan,Eijkman,NL,NL,male,1929,medicine,2,Utrecht University,Utrecht,the Netherlands,Aug,72,71
+Sir Frederick,Hopkins,GB,GB,male,1929,medicine,2,University of Cambridge,Cambridge,United Kingdom,Jun,86,68
+Karl,Landsteiner,AT,US,male,1930,medicine,1,Rockefeller Institute for Medical Research,New York NY,USA,Jun,75,62
+Otto,Warburg,DE,DE,male,1931,medicine,1,Kaiser-Wilhelm-Institut (now Max-Planck-Institut) für Biologie,Berlin-Dahlem,Germany,Oct,87,48
+Sir Charles,Sherrington,GB,GB,male,1932,medicine,2,University of Oxford,Oxford,United Kingdom,Nov,95,75
+Edgar,Adrian,GB,GB,male,1932,medicine,2,University of Cambridge,Cambridge,United Kingdom,Nov,88,43
+Thomas H.,Morgan,US,US,male,1933,medicine,1,California Institute of Technology (Caltech),Pasadena CA,USA,Sep,79,67
+George H.,Whipple,US,US,male,1934,medicine,3,University of Rochester,Rochester NY,USA,Aug,98,56
+George R.,Minot,US,US,male,1934,medicine,3,Harvard University,Cambridge MA,USA,Dec,65,49
+William P.,Murphy,US,US,male,1934,medicine,3,Harvard University,Cambridge MA,USA,Feb,95,42
+Hans,Spemann,DE,DE,male,1935,medicine,1,University of Freiburg im Breisgau,Breisgau,Germany,Jun,72,66
+Sir Henry,Dale,GB,GB,male,1936,medicine,2,National Institute for Medical Research,London,United Kingdom,Jun,93,61
+Otto,Loewi,DE,US,male,1936,medicine,2,Graz University,Graz,Austria,Jun,88,63
+Albert,Szent-Györgyi,HU,US,male,1937,medicine,1,Szeged University,Szeged,Hungary,Sep,93,44
+Corneille,Heymans,BE,BE,male,1938,medicine,1,Ghent University,Ghent,Belgium,Mar,76,46
+Gerhard,Domagk,PL,DE,male,1939,medicine,1,Munster University,Munster,Germany,Oct,69,44
+Henrik,Dam,DK,DK,male,1943,medicine,2,Polytechnic Institute,Copenhagen,Denmark,Feb,81,48
+Edward A.,Doisy,US,US,male,1943,medicine,2,Saint Louis University,St. Louis MO,USA,Nov,93,50
+Joseph,Erlanger,US,US,male,1944,medicine,2,Washington University,St. Louis MO,USA,Jan,91,70
+Herbert S.,Gasser,US,US,male,1944,medicine,2,Rockefeller Institute for Medical Research,New York NY,USA,Jul,75,56
+Sir Alexander,Fleming,GB,GB,male,1945,medicine,3,London University,London,United Kingdom,Aug,74,64
+Ernst B.,Chain,DE,IE,male,1945,medicine,3,University of Oxford,Oxford,United Kingdom,Jun,73,39
+Sir Howard,Florey,AU,GB,male,1945,medicine,3,University of Oxford,Oxford,United Kingdom,Sep,70,47
+Hermann J.,Muller,US,US,male,1946,medicine,1,Indiana University,Bloomington IN,USA,Dec,77,56
+Carl,Cori,CZ,US,male,1947,medicine,4,Washington University,St. Louis MO,USA,Dec,88,51
+Gerty,Cori,CZ,US,female,1947,medicine,4,Washington University,St. Louis MO,USA,Aug,61,51
+Bernardo,Houssay,AR,AR,male,1947,medicine,2,Instituto de Biologia y Medicina Experimental (Institute for Biology and Experimental Medicine),Buenos Aires,Argentina,Apr,84,60
+Paul,Müller,CH,CH,male,1948,medicine,1,Laboratorium der Farben-Fabriken J.R. Geigy A.G. (Laboratory of the J.R. Geigy Dye-Factory Co.),Basel,Switzerland,Jan,66,49
+Walter,Hess,CH,CH,male,1949,medicine,2,University of Zurich,Zurich,Switzerland,Mar,92,68
+Egas,Moniz,PT,PT,male,1949,medicine,2,University of Lisbon,Lisbon,Portugal,Nov,81,75
+Edward C.,Kendall,US,US,male,1950,medicine,3,Mayo Clinic,Rochester MN,USA,Mar,86,64
+Tadeus,Reichstein,PL,CH,male,1950,medicine,3,Basel University,Basel,Switzerland,Jul,99,53
+Philip S.,Hench,US,JM,male,1950,medicine,3,Mayo Clinic,Rochester MN,USA,Feb,69,54
+Max,Theiler,ZA,US,male,1951,medicine,1,Laboratories of the Division of Medicine and Public Health Rockefeller Foundation,New York NY,USA,Jan,73,52
+Selman A.,Waksman,UA,US,male,1952,medicine,1,Rutgers University,New Brunswick NJ,USA,Jul,85,64
+Hans,Krebs,DE,GB,male,1953,medicine,2,Sheffield University,Sheffield,United Kingdom,Aug,81,53
+Fritz,Lipmann,RU,US,male,1953,medicine,2,Harvard Medical School,Boston MA,USA,Jun,87,54
+John F.,Enders,US,US,male,1954,medicine,3,Harvard Medical School,Boston MA,USA,Feb,88,57
+Thomas H.,Weller,US,US,male,1954,medicine,3,Research Division of Infectious Diseases Children's Medical Center,Boston MA,USA,Jun,93,39
+Frederick C.,Robbins,US,US,male,1954,medicine,3,Western Reserve University,Cleveland OH,USA,Aug,87,38
+Hugo,Theorell,SE,SE,male,1955,medicine,1,Karolinska Institutet Nobel Medical Institute,Stockholm,Sweden,Jul,79,52
+André F.,Cournand,FR,US,male,1956,medicine,3,Columbia University Division Cardio-Pulmonary Laboratory Bellevue Hospital,New York NY,USA,Sep,93,61
+Werner,Forssmann,DE,DE,male,1956,medicine,3,Mainz University,Mainz,Germany,Aug,75,52
+Dickinson W.,Richards,US,US,male,1956,medicine,3,Columbia University,New York NY,USA,Oct,78,61
+Daniel,Bovet,CH,IT,male,1957,medicine,1,Istituto Superiore di Sanità (Chief Institute of Public Health),Rome,Italy,Mar,85,50
+George,Beadle,US,US,male,1958,medicine,4,California Institute of Technology (Caltech),Pasadena CA,USA,Oct,86,55
+Edward,Tatum,US,US,male,1958,medicine,4,Rockefeller Institute for Medical Research,New York NY,USA,Dec,66,49
+Joshua,Lederberg,US,US,male,1958,medicine,2,University of Wisconsin,Madison WI,USA,May,83,33
+Severo,Ochoa,ES,ES,male,1959,medicine,2,New York University College of Medicine,New York NY,USA,Sep,88,54
+Arthur,Kornberg,US,US,male,1959,medicine,2,Stanford University,Stanford CA,USA,Mar,89,41
+Sir Frank Macfarlane,Burnet,AU,AU,male,1960,medicine,2,Walter and Eliza Hall Institute for Medical Research,Melbourne,Australia,Sep,86,61
+Peter,Medawar,BR,GB,male,1960,medicine,2,University College,London,United Kingdom,Feb,72,45
+Georg,von Békésy,HU,US,male,1961,medicine,1,Harvard University,Cambridge MA,USA,Jun,73,62
+Francis,Crick,GB,US,male,1962,medicine,3,MRC Laboratory of Molecular Biology,Cambridge,United Kingdom,Jun,88,46
+James,Watson,US,,male,1962,medicine,3,Harvard University,Cambridge MA,USA,Apr,92,34
+Maurice,Wilkins,NZ,GB,male,1962,medicine,3,London University,London,United Kingdom,Dec,88,46
+Sir John,Eccles,AU,CH,male,1963,medicine,3,Australian National University,Canberra,Australia,Jan,94,60
+Alan,Hodgkin,GB,GB,male,1963,medicine,3,University of Cambridge,Cambridge,United Kingdom,Feb,84,49
+Andrew,Huxley,GB,GB,male,1963,medicine,3,University College,London,United Kingdom,Nov,95,46
+Konrad,Bloch,PL,US,male,1964,medicine,2,Harvard University,Cambridge MA,USA,Jan,88,52
+Feodor,Lynen,DE,DE,male,1964,medicine,2,Max-Planck-Institut für Zellchemie,Munich,Germany,Apr,68,53
+François,Jacob,FR,FR,male,1965,medicine,3,Institut Pasteur,Paris,France,Jun,93,45
+André,Lwoff,FR,FR,male,1965,medicine,3,Institut Pasteur,Paris,France,May,92,63
+Jacques,Monod,FR,FR,male,1965,medicine,3,Institut Pasteur,Paris,France,Feb,66,55
+Peyton,Rous,US,US,male,1966,medicine,2,Rockefeller University,New York NY,USA,Oct,91,87
+Charles B.,Huggins,CA,US,male,1966,medicine,2,University of Chicago Ben May Laboratory for Cancer Research,Chicago IL,USA,Sep,96,65
+Ragnar,Granit,FI,SE,male,1967,medicine,3,Karolinska Institutet,Stockholm,Sweden,Oct,91,67
+Keffer,Hartline,US,US,male,1967,medicine,3,Rockefeller University,New York NY,USA,Dec,80,64
+George,Wald,US,US,male,1967,medicine,3,Harvard University,Cambridge MA,USA,Nov,91,61
+Robert W.,Holley,US,US,male,1968,medicine,3,Cornell University,Ithaca NY,USA,Jan,71,46
+H. Gobind,Khorana,IN,US,male,1968,medicine,3,University of Wisconsin,Madison WI,USA,Jan,89,46
+Marshall W.,Nirenberg,US,US,male,1968,medicine,3,National Institutes of Health,Bethesda MD,USA,Apr,83,41
+Max,Delbrück,DE,US,male,1969,medicine,3,California Institute of Technology (Caltech),Pasadena CA,USA,Sep,75,63
+Alfred D.,Hershey,US,US,male,1969,medicine,3,Carnegie Institution of Washington,Long Island New York NY,USA,Dec,89,61
+Salvador E.,Luria,IT,US,male,1969,medicine,3,Massachusetts Institute of Technology (MIT),Cambridge MA,USA,Aug,79,57
+Sir Bernard,Katz,DE,GB,male,1970,medicine,3,University College,London,United Kingdom,Mar,92,59
+Ulf,von Euler,SE,SE,male,1970,medicine,3,Karolinska Institutet,Stockholm,Sweden,Feb,78,65
+Julius,Axelrod,US,US,male,1970,medicine,3,National Institutes of Health,Bethesda MD,USA,May,92,58
+Earl W.,Sutherland Jr.,US,US,male,1971,medicine,1,Vanderbilt University,Nashville TN,USA,Nov,59,56
+Gerald M.,Edelman,US,US,male,1972,medicine,2,Rockefeller University,New York NY,USA,Jul,85,43
+Rodney R.,Porter,GB,GB,male,1972,medicine,2,University of Oxford,Oxford,United Kingdom,Oct,68,55
+Karl,von Frisch,AT,DE,male,1973,medicine,3,Zoologisches Institut der Universität München,Munich,Germany,Nov,96,87
+Konrad,Lorenz,AT,AT,male,1973,medicine,3,Konrad-Lorenz-Institut der Österreichischen Akademie der Wissen­schaften Forschungsstelle für Ethologie,Altenberg; Grünau im Almtal,Austria,Nov,86,70
+Nikolaas,Tinbergen,NL,GB,male,1973,medicine,3,University of Oxford,Oxford,United Kingdom,Apr,81,66
+Albert,Claude,BE,BE,male,1974,medicine,3,Université Catholique de Louvain,Louvain,Belgium,Aug,85,76
+Christian,de Duve,GB,BE,male,1974,medicine,3,Rockefeller University,New York NY,USA,Oct,96,57
+George E.,Palade,RO,US,male,1974,medicine,3,Yale University School of Medicine,New Haven CT,USA,Nov,96,62
+David,Baltimore,US,,male,1975,medicine,3,Massachusetts Institute of Technology (MIT),Cambridge MA,USA,Mar,82,37
+Renato,Dulbecco,IT,US,male,1975,medicine,3,Imperial Cancer Research Fund Laboratory,London,United Kingdom,Feb,98,61
+Howard M.,Temin,US,US,male,1975,medicine,3,University of Wisconsin,Madison WI,USA,Dec,60,41
+Baruch S.,Blumberg,US,US,male,1976,medicine,2,The Institute for Cancer Research,Philadelphia PA,USA,Jul,86,51
+D. Carleton,Gajdusek,US,NO,male,1976,medicine,2,National Institutes of Health,Bethesda MD,USA,Sep,85,53
+Roger,Guillemin,FR,,male,1977,medicine,4,The Salk Institute,San Diego CA,USA,Jan,96,53
+Andrew V.,Schally,LT,,male,1977,medicine,4,Veterans Administration Hospital,New Orleans LA,USA,Nov,94,51
+Rosalyn,Yalow,US,US,female,1977,medicine,2,Veterans Administration Hospital,Bronx NY,USA,Jul,90,56
+Werner,Arber,CH,,male,1978,medicine,3,Biozentrum der Universität,Basel,Switzerland,Jun,91,49
+Daniel,Nathans,US,US,male,1978,medicine,3,Johns Hopkins University School of Medicine,Baltimore MD,USA,Oct,71,50
+Hamilton O.,Smith,US,,male,1978,medicine,3,Johns Hopkins University School of Medicine,Baltimore MD,USA,Aug,89,47
+Allan M.,Cormack,ZA,US,male,1979,medicine,2,Tufts University,Medford MA,USA,Feb,74,55
+Godfrey N.,Hounsfield,GB,GB,male,1979,medicine,2,Central Research Laboratories EMI,London,United Kingdom,Aug,85,60
+Baruj,Benacerraf,VE,US,male,1980,medicine,3,Harvard Medical School,Boston MA,USA,Oct,91,60
+Jean,Dausset,FR,ES,male,1980,medicine,3,Université de Paris Laboratoire Immuno-Hématologie,Paris,France,Oct,93,64
+George D.,Snell,US,US,male,1980,medicine,3,Jackson Laboratory,Bar Harbor ME,USA,Dec,93,77
+Roger W.,Sperry,US,US,male,1981,medicine,2,California Institute of Technology (Caltech),Pasadena CA,USA,Aug,81,68
+David H.,Hubel,CA,US,male,1981,medicine,4,Harvard Medical School,Boston MA,USA,Feb,87,55
+Torsten N.,Wiesel,SE,,male,1981,medicine,4,Harvard Medical School,Boston MA,USA,Jun,96,57
+Sune K.,Bergström,SE,SE,male,1982,medicine,3,Karolinska Institutet,Stockholm,Sweden,Jan,88,66
+Bengt I.,Samuelsson,SE,,male,1982,medicine,3,Karolinska Institutet,Stockholm,Sweden,May,86,48
+John R.,Vane,GB,GB,male,1982,medicine,3,The Wellcome Research Laboratories,Beckenham,United Kingdom,Mar,77,55
+Barbara,McClintock,US,US,female,1983,medicine,1,Cold Spring Harbor Laboratory,Cold Spring Harbor NY,USA,Jun,90,81
+Niels K.,Jerne,GB,FR,male,1984,medicine,3,Basel Institute for Immunology,Basel,Switzerland,Dec,83,73
+Georges J.F.,Köhler,DE,DE,male,1984,medicine,3,Basel Institute for Immunology,Basel,Switzerland,Apr,49,38
+César,Milstein,AR,GB,male,1984,medicine,3,MRC Laboratory of Molecular Biology,Cambridge,United Kingdom,Oct,75,57
+Michael S.,Brown,US,,male,1985,medicine,2,University of Texas Southwestern Medical Center at Dallas,Dallas TX,USA,Apr,79,44
+Joseph L.,Goldstein,US,,male,1985,medicine,2,University of Texas Southwestern Medical Center at Dallas,Dallas TX,USA,Apr,80,45
+Stanley,Cohen,US,US,male,1986,medicine,2,Vanderbilt University School of Medicine,Nashville TN,USA,Nov,98,64
+Rita,Levi-Montalcini,IT,IT,female,1986,medicine,2,Institute of Cell Biology of the C.N.R.,Rome,Italy,Apr,103,77
+Susumu,Tonegawa,JP,,male,1987,medicine,1,Massachusetts Institute of Technology (MIT),Cambridge MA,USA,Sep,81,48
+Sir James W.,Black,GB,,male,1988,medicine,3,London University King's College Hospital Medical School,London,United Kingdom,Jun,86,64
+Gertrude B.,Elion,US,US,female,1988,medicine,3,Wellcome Research Laboratories,Research Triangle Park NC,USA,Jan,81,70
+George H.,Hitchings,US,US,male,1988,medicine,3,Wellcome Research Laboratories,Research Triangle Park NC,USA,Apr,93,83
+J. Michael,Bishop,US,,male,1989,medicine,2,University of California School of Medicine,San Francisco CA,USA,Feb,84,53
+Harold E.,Varmus,US,,male,1989,medicine,2,University of California School of Medicine,San Francisco CA,USA,Dec,81,50
+Joseph E.,Murray,US,US,male,1990,medicine,2,Brigham and Women's Hospital,Boston MA,USA,Apr,93,71
+E. Donnall,Thomas,US,US,male,1990,medicine,2,Fred Hutchinson Cancer Research Center,Seattle WA,USA,Mar,92,70
+Erwin,Neher,DE,,male,1991,medicine,2,Max-Planck-Institut für Biophysikalische Chemie,Göttingen,Germany,Mar,76,47
+Bert,Sakmann,DE,,male,1991,medicine,2,Max-Planck-Institut für medizinische Forschung,Heidelberg,Germany,Jun,78,49
+Edmond H.,Fischer,CN,,male,1992,medicine,2,University of Washington,Seattle WA,USA,Apr,100,72
+Edwin G.,Krebs,US,US,male,1992,medicine,2,University of Washington,Seattle WA,USA,Jun,91,74
+Richard J.,Roberts,GB,,male,1993,medicine,2,New England Biolabs,Beverly MA,USA,Sep,77,50
+Phillip A.,Sharp,US,,male,1993,medicine,2,Massachusetts Institute of Technology (MIT) Center for Cancer Research,Cambridge MA,USA,Jun,76,49
+Alfred G.,Gilman,US,US,male,1994,medicine,2,University of Texas Southwestern Medical Center at Dallas,Dallas TX,USA,Jul,74,53
+Martin,Rodbell,US,US,male,1994,medicine,2,National Institute of Environmental Health Sciences,Research Triangle Park NC,USA,Dec,73,69
+Edward B.,Lewis,US,US,male,1995,medicine,3,California Institute of Technology (Caltech),Pasadena CA,USA,May,86,77
+Christiane,Nüsslein-Volhard,DE,,female,1995,medicine,3,Max-Planck-Institut für Entwicklungsbiologie,Tübingen,Germany,Oct,78,53
+Eric F.,Wieschaus,US,,male,1995,medicine,3,Princeton University,Princeton NJ,USA,Jun,73,48
+Peter C.,Doherty,AU,,male,1996,medicine,2,St. Jude Children's Research Hospital,Memphis TN,USA,Oct,80,56
+Rolf M.,Zinkernagel,CH,,male,1996,medicine,2,University of Zurich Institute of Experimental Immunology,Zurich,Switzerland,Jan,76,52
+Stanley B.,Prusiner,US,,male,1997,medicine,1,University of California School of Medicine,San Francisco CA,USA,May,78,55
+Robert F.,Furchgott,US,US,male,1998,medicine,3,SUNY Health Science Center,Brooklyn NY,USA,Jun,93,82
+Louis J.,Ignarro,US,,male,1998,medicine,3,University of California School of Medicine,Los Angeles CA,USA,May,79,57
+Ferid,Murad,US,,male,1998,medicine,3,University of Texas Medical School at Houston,Houston TX,USA,Sep,84,62
+Günter,Blobel,PL,US,male,1999,medicine,1,Rockefeller University,New York NY,USA,May,82,63
+Henry,Dunant,CH,CH,male,1901,peace,2,,,,May,82,73
+Frédéric,Passy,FR,FR,male,1901,peace,2,,,,May,90,79
+Élie,Ducommun,CH,CH,male,1902,peace,2,,,,Feb,73,69
+Albert,Gobat,CH,CH,male,1902,peace,2,,,,May,71,59
+Randal,Cremer,GB,GB,male,1903,peace,1,,,,Mar,80,75
+Bertha,von Suttner,CZ,AT,female,1905,peace,1,,,,Jun,71,62
+Theodore,Roosevelt,US,US,male,1906,peace,1,,,,Oct,61,48
+Ernesto Teodoro,Moneta,IT,IT,male,1907,peace,2,,,,Sep,85,74
+Louis,Renault,FR,FR,male,1907,peace,2,Sorbonne University,Paris,France,May,75,64
+Klas Pontus,Arnoldson,SE,SE,male,1908,peace,2,,,,Oct,72,64
+Fredrik,Bajer,DK,DK,male,1908,peace,2,,,,Apr,85,71
+Auguste,Beernaert,BE,CH,male,1909,peace,2,,,,Jul,83,80
+Paul Henri,d'Estournelles de Constant,FR,FR,male,1909,peace,2,,,,Nov,72,57
+Tobias,Asser,NL,NL,male,1911,peace,2,,,,Apr,75,73
+Alfred,Fried,AT,AT,male,1911,peace,2,,,,Nov,57,47
+Elihu,Root,US,US,male,1912,peace,1,,,,Feb,92,67
+Henri,La Fontaine,BE,BE,male,1913,peace,1,,,,Apr,89,59
+Woodrow,Wilson,US,US,male,1919,peace,1,,,,Dec,68,63
+Léon,Bourgeois,FR,FR,male,1920,peace,1,,,,May,74,69
+Hjalmar,Branting,SE,SE,male,1921,peace,2,,,,Nov,65,61
+Christian,Lange,NO,NO,male,1921,peace,2,,,,Sep,69,52
+Fridtjof,Nansen,NO,NO,male,1922,peace,1,,,,Oct,69,61
+Sir Austen,Chamberlain,GB,GB,male,1925,peace,2,,,,Oct,74,62
+Charles G.,Dawes,US,US,male,1925,peace,2,,,,Aug,86,60
+Aristide,Briand,FR,FR,male,1926,peace,2,,,,Mar,70,64
+Gustav,Stresemann,DE,DE,male,1926,peace,2,,,,May,51,48
+Ferdinand,Buisson,FR,FR,male,1927,peace,2,,,,Dec,91,86
+Ludwig,Quidde,DE,CH,male,1927,peace,2,,,,Mar,83,69
+Frank B.,Kellogg,US,US,male,1929,peace,1,,,,Dec,81,73
+Nathan,Söderblom,SE,SE,male,1930,peace,1,,,,Jan,65,64
+Jane,Addams,US,US,female,1931,peace,2,,,,Sep,75,71
+Nicholas Murray,Butler,US,US,male,1931,peace,2,Columbia University,New York NY,USA,Apr,85,69
+Sir Norman,Angell,GB,GB,male,1933,peace,1,,,,Dec,95,61
+Arthur,Henderson,GB,GB,male,1934,peace,1,,,,Sep,72,71
+Carl,von Ossietzky,DE,DE,male,1935,peace,1,,,,Oct,49,46
+Carlos,Saavedra Lamas,AR,AR,male,1936,peace,1,,,,Nov,81,58
+Robert,Cecil,GB,GB,male,1937,peace,1,,,,Sep,94,73
+Cordell,Hull,US,US,male,1945,peace,1,,,,Oct,84,74
+Emily Greene,Balch,US,US,female,1946,peace,2,,,,Jan,94,79
+John R.,Mott,US,US,male,1946,peace,2,,,,May,90,81
+John,Boyd Orr,GB,GB,male,1949,peace,1,,,,Sep,91,69
+Ralph,Bunche,US,US,male,1950,peace,1,Harvard University,Cambridge MA,USA,Aug,67,46
+Léon,Jouhaux,FR,FR,male,1951,peace,1,,,,Jul,75,72
+Albert,Schweitzer,FR,GA,male,1952,peace,1,,,,Jan,90,77
+George C.,Marshall,US,US,male,1953,peace,1,,,,Dec,79,73
+Lester Bowles,Pearson,CA,CA,male,1957,peace,1,,,,Apr,75,60
+Georges,Pire,BE,BE,male,1958,peace,1,,,,Feb,59,48
+Philip,Noel-Baker,GB,GB,male,1959,peace,1,,,,Nov,93,70
+Albert,Luthuli,ZW,ZA,male,1960,peace,1,,,,Jul,69,62
+Dag,Hammarskjöld,SE,ZM,male,1961,peace,1,,,,Jul,56,56
+Martin Luther,King Jr.,US,US,male,1964,peace,1,,,,Jan,39,35
+René,Cassin,FR,FR,male,1968,peace,1,,,,Oct,89,81
+Norman,Borlaug,US,US,male,1970,peace,1,,,,Mar,95,56
+Willy,Brandt,DE,DE,male,1971,peace,1,,,,Dec,79,58
+Henry,Kissinger,DE,,male,1973,peace,2,,,,May,97,50
+Le Duc Tho,,VN,VN,male,1973,peace,2,,,,Oct,79,62
+Seán,MacBride,FR,IE,male,1974,peace,2,,,,Jan,84,70
+Eisaku,Sato,JP,JP,male,1974,peace,2,,,,Mar,74,73
+Andrei,Sakharov,RU,RU,male,1975,peace,1,,,,May,68,54
+Betty,Williams,GB,GB,female,1976,peace,2,,,,May,77,33
+Mairead,Corrigan,GB,,female,1976,peace,2,,,,Jan,76,32
+Anwar,al-Sadat,EG,EG,male,1978,peace,2,,,,Dec,63,60
+Menachem,Begin,BY,IL,male,1978,peace,2,,,,Aug,79,65
+Anjezë Gonxhe,Bojaxhiu,MK,IN,female,1979,peace,1,,,,Aug,87,69
+Adolfo,Pérez Esquivel,AR,,male,1980,peace,1,,,,Nov,89,49
+Alva,Myrdal,SE,SE,female,1982,peace,2,,,,Jan,84,80
+Alfonso,García Robles,MX,MX,male,1982,peace,2,,,,Mar,80,71
+Lech,Walesa,PL,,male,1983,peace,1,,,,Sep,77,40
+Desmond,Tutu,ZA,,male,1984,peace,1,,,,Oct,89,53
+Elie,Wiesel,RO,US,male,1986,peace,1,,,,Sep,88,58
+Oscar,Arias Sánchez,CR,,male,1987,peace,1,,,,Sep,80,47
+Lhamo,Thondup,CN,,male,1989,peace,1,,,,Jul,85,54
+Mikhail,Gorbachev,RU,,male,1990,peace,1,,,,Mar,89,59
+Aung San Suu Kyi,,MM,,female,1991,peace,1,,,,Jun,75,46
+Rigoberta,Menchú Tum,GT,,female,1992,peace,1,,,,Jan,61,33
+Nelson,Mandela,ZA,ZA,male,1993,peace,2,,,,Jul,95,75
+F.W.,de Klerk,ZA,,male,1993,peace,2,,,,Mar,84,57
+Yasser,Arafat,EG,FR,male,1994,peace,3,,,,Aug,75,65
+Shimon,Peres,BY,IL,male,1994,peace,3,,,,Aug,93,71
+Yitzhak,Rabin,IL,IL,male,1994,peace,3,,,,Mar,73,72
+Joseph,Rotblat,PL,GB,male,1995,peace,2,,,,Nov,97,87
+Carlos Filipe Ximenes,Belo,TL,,male,1996,peace,2,,,,Feb,72,48
+José,Ramos-Horta,TL,,male,1996,peace,2,,,,Dec,71,47
+Jody,Williams,US,,female,1997,peace,2,,,,Oct,70,47
+John,Hume,GB,,male,1998,peace,2,,,,Jan,83,61
+David,Trimble,GB,,male,1998,peace,2,,,,Oct,76,54
+Sully,Prudhomme,FR,FR,male,1901,literature,1,,,,Mar,68,62
+Theodor,Mommsen,DE,DE,male,1902,literature,1,,,,Nov,86,85
+Bjørnstjerne,Bjørnson,NO,FR,male,1903,literature,1,,,,Dec,78,71
+Frédéric,Mistral,FR,FR,male,1904,literature,2,,,,Sep,84,74
+José,Echegaray,ES,ES,male,1904,literature,2,,,,Apr,84,72
+Henryk,Sienkiewicz,PL,CH,male,1905,literature,1,,,,May,70,59
+Giosuè,Carducci,IT,IT,male,1906,literature,1,,,,Jul,72,71
+Rudyard,Kipling,IN,GB,male,1907,literature,1,,,,Dec,71,42
+Rudolf,Eucken,DE,DE,male,1908,literature,1,,,,Jan,80,62
+Selma,Lagerlöf,SE,SE,female,1909,literature,1,,,,Nov,82,51
+Paul,Heyse,DE,DE,male,1910,literature,1,,,,Mar,84,80
+Maurice,Maeterlinck,BE,FR,male,1911,literature,1,,,,Aug,87,49
+Gerhart,Hauptmann,PL,PL,male,1912,literature,1,,,,Nov,84,50
+Rabindranath,Tagore,IN,IN,male,1913,literature,1,,,,May,80,52
+Romain,Rolland,FR,FR,male,1915,literature,1,,,,Jan,78,49
+Verner,von Heidenstam,SE,SE,male,1916,literature,1,,,,Jul,81,57
+Karl,Gjellerup,DK,DE,male,1917,literature,2,,,,Jun,62,60
+Henrik,Pontoppidan,DK,DK,male,1917,literature,2,,,,Jul,86,60
+Carl,Spitteler,CH,CH,male,1919,literature,1,,,,Apr,79,74
+Knut,Hamsun,NO,NO,male,1920,literature,1,,,,Aug,93,61
+Anatole,France,FR,FR,male,1921,literature,1,,,,Apr,80,77
+Jacinto,Benavente,ES,ES,male,1922,literature,1,,,,Aug,88,56
+William Butler,Yeats,IE,FR,male,1923,literature,1,,,,Jun,74,58
+Wladyslaw,Reymont,PL,PL,male,1924,literature,1,,,,May,58,57
+George Bernard,Shaw,IE,GB,male,1925,literature,1,,,,Jul,94,69
+Grazia,Deledda,IT,IT,female,1926,literature,1,,,,Sep,65,55
+Henri,Bergson,FR,FR,male,1927,literature,1,,,,Oct,82,68
+Sigrid,Undset,DK,NO,female,1928,literature,1,,,,May,67,46
+Thomas,Mann,DE,CH,male,1929,literature,1,,,,Jun,80,54
+Sinclair,Lewis,US,IT,male,1930,literature,1,,,,Feb,66,45
+Erik Axel,Karlfeldt,SE,SE,male,1931,literature,1,,,,Jul,67,67
+John,Galsworthy,GB,GB,male,1932,literature,1,,,,Aug,66,65
+Ivan,Bunin,RU,FR,male,1933,literature,1,,,,Oct,83,63
+Luigi,Pirandello,IT,IT,male,1934,literature,1,,,,Jun,69,67
+Eugene,O'Neill,US,US,male,1936,literature,1,,,,Oct,65,48
+Roger,Martin du Gard,FR,FR,male,1937,literature,1,,,,Mar,77,56
+Pearl,Buck,US,US,female,1938,literature,1,,,,Jun,81,46
+Frans Eemil,Sillanpää,FI,FI,male,1939,literature,1,,,,Sep,76,51
+Johannes V.,Jensen,DK,DK,male,1944,literature,1,,,,Jan,77,71
+Gabriela,Mistral,CL,US,female,1945,literature,1,,,,Apr,68,56
+Hermann,Hesse,DE,CH,male,1946,literature,1,,,,Jul,85,69
+André,Gide,FR,FR,male,1947,literature,1,,,,Nov,82,78
+T.S.,Eliot,US,GB,male,1948,literature,1,,,,Sep,77,60
+William,Faulkner,US,US,male,1949,literature,1,,,,Sep,65,52
+Bertrand,Russell,GB,GB,male,1950,literature,1,,,,May,98,78
+Pär,Lagerkvist,SE,SE,male,1951,literature,1,,,,May,83,60
+François,Mauriac,FR,FR,male,1952,literature,1,,,,Oct,85,67
+Winston,Churchill,GB,GB,male,1953,literature,1,,,,Nov,91,79
+Ernest,Hemingway,US,US,male,1954,literature,1,,,,Jul,62,55
+Halldór,Laxness,IS,IS,male,1955,literature,1,,,,Apr,96,53
+Juan Ramón,Jiménez,ES,PR,male,1956,literature,1,,,,Dec,77,75
+Albert,Camus,DZ,FR,male,1957,literature,1,,,,Nov,47,44
+Boris,Pasternak,RU,RU,male,1958,literature,1,,,,Feb,70,68
+Salvatore,Quasimodo,IT,IT,male,1959,literature,1,,,,Aug,67,58
+Saint-John,Perse,GP,FR,male,1960,literature,1,,,,May,88,73
+Ivo,Andric,BA,RS,male,1961,literature,1,,,,Oct,83,69
+John,Steinbeck,US,US,male,1962,literature,1,,,,Feb,66,60
+Giorgos,Seferis,TR,GR,male,1963,literature,1,,,,Mar,71,63
+Jean-Paul,Sartre,FR,FR,male,1964,literature,1,,,,Jun,75,59
+Mikhail,Sholokhov,RU,RU,male,1965,literature,1,,,,May,79,60
+Shmuel,Agnon,UA,IL,male,1966,literature,2,,,,Jul,82,78
+Nelly,Sachs,DE,SE,female,1966,literature,2,,,,Dec,79,75
+Miguel Angel,Asturias,GT,ES,male,1967,literature,1,,,,Oct,75,68
+Yasunari,Kawabata,JP,JP,male,1968,literature,1,,,,Jun,73,69
+Samuel,Beckett,IE,FR,male,1969,literature,1,,,,Apr,83,63
+Alexandr,Solzhenitsyn,RU,RU,male,1970,literature,1,,,,Dec,90,52
+Pablo,Neruda,CL,CL,male,1971,literature,1,,,,Jul,69,67
+Heinrich,Böll,DE,DE,male,1972,literature,1,,,,Dec,68,55
+Patrick,White,GB,AU,male,1973,literature,1,,,,May,78,61
+Eyvind,Johnson,SE,SE,male,1974,literature,2,,,,Jul,76,74
+Harry,Martinson,SE,SE,male,1974,literature,2,,,,May,74,70
+Eugenio,Montale,IT,IT,male,1975,literature,1,,,,Oct,85,79
+Saul,Bellow,CA,US,male,1976,literature,1,,,,Jun,90,61
+Vicente,Aleixandre,ES,ES,male,1977,literature,1,,,,Apr,86,79
+Isaac Bashevis,Singer,PL,US,male,1978,literature,1,,,,Jul,87,74
+Odysseus,Elytis,GR,GR,male,1979,literature,1,,,,Nov,85,68
+Czeslaw,Milosz,LT,PL,male,1980,literature,1,,,,Jun,93,69
+Elias,Canetti,BG,CH,male,1981,literature,1,,,,Jul,89,76
+Gabriel,García Márquez,CO,MX,male,1982,literature,1,,,,Mar,87,55
+William,Golding,GB,GB,male,1983,literature,1,,,,Sep,82,72
+Jaroslav,Seifert,CZ,CZ,male,1984,literature,1,,,,Sep,85,83
+Claude,Simon,MG,FR,male,1985,literature,1,,,,Oct,92,72
+Wole,Soyinka,NG,,male,1986,literature,1,,,,Jul,86,52
+Joseph,Brodsky,RU,US,male,1987,literature,1,,,,May,56,47
+Naguib,Mahfouz,EG,EG,male,1988,literature,1,,,,Dec,95,77
+Camilo José,Cela,ES,ES,male,1989,literature,1,,,,May,86,73
+Octavio,Paz,MX,MX,male,1990,literature,1,,,,Mar,84,76
+Nadine,Gordimer,ZA,ZA,female,1991,literature,1,,,,Nov,91,68
+Derek,Walcott,LC,LC,male,1992,literature,1,,,,Jan,87,62
+Toni,Morrison,US,US,female,1993,literature,1,,,,Feb,88,62
+Kenzaburo,Oe,JP,,male,1994,literature,1,,,,Jan,85,59
+Seamus,Heaney,GB,IE,male,1995,literature,1,,,,Apr,74,56
+Wislawa,Szymborska,PL,PL,female,1996,literature,1,,,,Jul,89,73
+Dario,Fo,IT,IT,male,1997,literature,1,,,,Mar,90,71
+José,Saramago,PT,ES,male,1998,literature,1,,,,Nov,88,76
+Günter,Grass,PL,DE,male,1999,literature,1,,,,Oct,88,72
+Ragnar,Frisch,NO,NO,male,1969,economics,2,University of Oslo,Oslo,Norway,Mar,78,74
+Jan,Tinbergen,NL,NL,male,1969,economics,2,The Netherlands School of Economics,Rotterdam,the Netherlands,Apr,91,66
+Paul A.,Samuelson,US,US,male,1970,economics,1,Massachusetts Institute of Technology (MIT),Cambridge MA,USA,May,94,55
+Simon,Kuznets,BY,US,male,1971,economics,1,Harvard University,Cambridge MA,USA,Apr,84,70
+John R.,Hicks,GB,GB,male,1972,economics,2,All Souls College,Oxford,United Kingdom,Apr,85,68
+Kenneth J.,Arrow,US,US,male,1972,economics,2,Harvard University,Cambridge MA,USA,Aug,96,51
+Wassily,Leontief,RU,US,male,1973,economics,1,Harvard University,Cambridge MA,USA,Aug,93,67
+Gunnar,Myrdal,SE,SE,male,1974,economics,2,,,,Dec,89,76
+Friedrich,von Hayek,AT,DE,male,1974,economics,2,,,,May,93,75
+Leonid Vitaliyevich,Kantorovich,RU,RU,male,1975,economics,2,Academy of Sciences,Moscow,USSR (now Russia),Jan,74,63
+Tjalling C.,Koopmans,NL,US,male,1975,economics,2,Yale University,New Haven CT,USA,Aug,75,65
+Milton,Friedman,US,US,male,1976,economics,1,University of Chicago,Chicago IL,USA,Jul,94,64
+Bertil,Ohlin,SE,SE,male,1977,economics,2,Stockholm School of Economics,Stockholm,Sweden,Apr,80,78
+James E.,Meade,GB,GB,male,1977,economics,2,University of Cambridge,Cambridge,United Kingdom,Jun,88,70
+Herbert,Simon,US,US,male,1978,economics,1,Carnegie Mellon University,Pittsburgh PA,USA,Jun,85,62
+Theodore W.,Schultz,US,US,male,1979,economics,2,University of Chicago,Chicago IL,USA,Apr,96,77
+Sir Arthur,Lewis,LC,BB,male,1979,economics,2,Princeton University,Princeton NJ,USA,Jan,76,64
+Lawrence R.,Klein,US,US,male,1980,economics,1,University of Pennsylvania,Philadelphia PA,USA,Sep,93,60
+James,Tobin,US,US,male,1981,economics,1,Yale University,New Haven CT,USA,Mar,84,63
+George J.,Stigler,US,US,male,1982,economics,1,University of Chicago,Chicago IL,USA,Jan,80,71
+Gerard,Debreu,FR,FR,male,1983,economics,1,University of California,Berkeley CA,USA,Jul,83,62
+Richard,Stone,GB,GB,male,1984,economics,1,University of Cambridge,Cambridge,United Kingdom,Aug,78,71
+Franco,Modigliani,IT,US,male,1985,economics,1,Massachusetts Institute of Technology (MIT),Cambridge MA,USA,Jun,85,67
+James M.,Buchanan Jr.,US,US,male,1986,economics,1,Center for Study of Public Choice,Fairfax VA,USA,Oct,94,67
+Robert M.,Solow,US,,male,1987,economics,1,Massachusetts Institute of Technology (MIT),Cambridge MA,USA,Aug,96,63
+Maurice,Allais,FR,FR,male,1988,economics,1,École Nationale Supérieur des Mines de Paris,Paris,France,May,99,77
+Trygve,Haavelmo,NO,NO,male,1989,economics,1,University of Oslo,Oslo,Norway,Dec,88,78
+Harry M.,Markowitz,US,,male,1990,economics,3,City University of New York,New York NY,USA,Aug,93,63
+Merton H.,Miller,US,US,male,1990,economics,3,University of Chicago,Chicago IL,USA,May,77,67
+William F.,Sharpe,US,,male,1990,economics,3,Stanford University,Stanford CA,USA,Jun,86,56
+Ronald H.,Coase,GB,US,male,1991,economics,1,University of Chicago,Chicago IL,USA,Dec,103,81
+Gary,Becker,US,US,male,1992,economics,1,University of Chicago,Chicago IL,USA,Dec,84,62
+Robert W.,Fogel,US,US,male,1993,economics,2,University of Chicago,Chicago IL,USA,Jul,86,66
+Douglass C.,North,US,US,male,1993,economics,2,Washington University,St. Louis MO,USA,Nov,95,73
+John C.,Harsanyi,HU,US,male,1994,economics,3,University of California,Berkeley CA,USA,May,80,74
+John F.,Nash Jr.,US,US,male,1994,economics,3,Princeton University,Princeton NJ,USA,Jun,87,66
+Reinhard,Selten,PL,PL,male,1994,economics,3,Rheinische Friedrich-Wilhelms-Universität,Bonn,Germany,Oct,86,64
+Robert E.,Lucas Jr.,US,,male,1995,economics,1,University of Chicago,Chicago IL,USA,Sep,83,58
+James A.,Mirrlees,GB,GB,male,1996,economics,2,University of Cambridge,Cambridge,United Kingdom,Jul,82,60
+William,Vickrey,CA,US,male,1996,economics,2,Columbia University,New York NY,USA,Jun,82,82
+Robert C.,Merton,US,,male,1997,economics,2,Harvard University,Cambridge MA,USA,Jul,76,53
+Myron,Scholes,CA,,male,1997,economics,2,Long Term Capital Management,Greenwich CT,USA,Jul,79,56
+Amartya,Sen,IN,,male,1998,economics,1,Trinity College,Cambridge,United Kingdom,Nov,87,65
+Robert,Mundell,CA,,male,1999,economics,1,Columbia University,New York NY,USA,Oct,88,67
+Il´ja M.,Frank,RU,RU,male,1958,physics,3,Lomonosov Moscow State University,Moscow,USSR (now Russia),Oct,82,50
+Arvid,Carlsson,SE,SE,male,2000,medicine,3,Göteborg University,Gothenburg,Sweden,Jan,95,77
+Paul,Greengard,US,US,male,2000,medicine,3,Rockefeller University,New York NY,USA,Dec,94,75
+Eric,Kandel,AT,,male,2000,medicine,3,Columbia University,New York NY,USA,Nov,91,71
+Kim,Dae-jung,KR,,male,2000,peace,1,,,,Dec,84,75
+Zhores,Alferov,BY,RU,male,2000,physics,4,A.F. Ioffe Physico-Technical Institute,St. Petersburg,Russia,Mar,89,70
+Herbert,Kroemer,DE,,male,2000,physics,4,University of California,Santa Barbara CA,USA,Aug,92,72
+Jack,Kilby,US,US,male,2000,physics,2,Texas Instruments,Dallas TX,USA,Nov,82,77
+Alan,Heeger,US,,male,2000,chemistry,3,University of California,Santa Barbara CA,USA,Jan,84,64
+Alan,MacDiarmid,NZ,US,male,2000,chemistry,3,University of Pennsylvania,Philadelphia PA,USA,Apr,80,73
+Hideki,Shirakawa,JP,,male,2000,chemistry,3,University of Tsukuba,Tokyo,Japan,Aug,84,64
+James J.,Heckman,US,,male,2000,economics,2,University of Chicago,Chicago IL,USA,Apr,76,56
+Daniel L.,McFadden,US,,male,2000,economics,2,University of California,Berkeley CA,USA,Jul,83,63
+Xingjian,Gao,CN,,male,2000,literature,1,,,,Jan,80,60
+Leland,Hartwell,US,,male,2001,medicine,3,Fred Hutchinson Cancer Research Center,Seattle WA,USA,Oct,81,62
+Tim,Hunt,GB,,male,2001,medicine,3,Imperial Cancer Research Fund,London,United Kingdom,Feb,77,58
+Sir Paul,Nurse,GB,,male,2001,medicine,3,Imperial Cancer Research Fund,London,United Kingdom,Jan,71,52
+Eric,Cornell,US,,male,2001,physics,3,University of Colorado JILA,Boulder CO,USA,Dec,59,40
+Wolfgang,Ketterle,DE,,male,2001,physics,3,Massachusetts Institute of Technology (MIT),Cambridge MA,USA,Oct,63,44
+Carl,Wieman,US,,male,2001,physics,3,University of Colorado JILA,Boulder CO,USA,Mar,69,50
+William,Knowles,US,US,male,2001,chemistry,4,,,,Jun,95,84
+Ryoji,Noyori,JP,,male,2001,chemistry,4,Nagoya University,Nagoya,Japan,Sep,82,63
+Barry,Sharpless,US,,male,2001,chemistry,2,The Scripps Research Institute,La Jolla CA,USA,Apr,79,60
+George A.,Akerlof,US,,male,2001,economics,3,University of California,Berkeley CA,USA,Jun,80,61
+A. Michael,Spence,US,,male,2001,economics,3,Stanford University,Stanford CA,USA,Nov,77,58
+Joseph E.,Stiglitz,US,,male,2001,economics,3,Columbia University,New York NY,USA,Feb,77,58
+V. S.,Naipaul,TT,GB,male,2001,literature,1,,,,Aug,86,69
+Kofi,Annan,GH,CH,male,2001,peace,2,,,,Apr,80,63
+Sydney,Brenner,ZA,SG,male,2002,medicine,3,The Molecular Sciences Institute,Berkeley CA,USA,Jan,92,75
+H. Robert,Horvitz,US,,male,2002,medicine,3,Massachusetts Institute of Technology (MIT),Cambridge MA,USA,May,73,55
+John E.,Sulston,GB,,male,2002,medicine,3,The Wellcome Trust Sanger Institute,Cambridge,United Kingdom,Mar,76,60
+Raymond,Davis Jr.,US,US,male,2002,physics,4,University of Pennsylvania,Philadelphia PA,USA,Oct,92,88
+Masatoshi,Koshiba,JP,,male,2002,physics,4,University of Tokyo,Tokyo,Japan,Sep,94,76
+Riccardo,Giacconi,IT,US,male,2002,physics,2,Associated Universities Inc.,Washington DC,USA,Oct,87,71
+John B.,Fenn,US,US,male,2002,chemistry,4,Virginia Commonwealth University,Richmond VA,USA,Jun,93,85
+Koichi,Tanaka,JP,,male,2002,chemistry,4,Shimadzu Corp.,Kyoto,Japan,Aug,61,43
+Kurt,Wüthrich,CH,,male,2002,chemistry,2,Eidgenössische Technische Hochschule (Swiss Federal Institute of Technology),Zurich,Switzerland,Oct,82,64
+Daniel,Kahneman,IL,,male,2002,economics,2,Princeton University,Princeton NJ,USA,Mar,86,68
+Vernon L.,Smith,US,,male,2002,economics,2,George Mason University,Fairfax VA,USA,Jan,93,75
+Imre,Kertész,HU,HU,male,2002,literature,1,,,,Nov,87,73
+Jimmy,Carter,US,,male,2002,peace,1,,,,Oct,96,78
+J. M.,Coetzee,ZA,,male,2003,literature,1,,,,Feb,80,63
+Paul C.,Lauterbur,US,US,male,2003,medicine,2,University of Illinois,Urbana IL,USA,May,78,74
+Sir Peter,Mansfield,GB,,male,2003,medicine,2,University of Nottingham School of Physics and Astronomy,Nottingham,United Kingdom,Oct,84,70
+Alexei,Abrikosov,RU,,male,2003,physics,3,Argonne National Laboratory,Argonne IL,USA,Jun,89,75
+Vitaly L.,Ginzburg,RU,,male,2003,physics,3,P.N. Lebedev Physical Institute,Moscow,Russia,Oct,93,87
+Anthony J.,Leggett,GB,,male,2003,physics,3,University of Illinois,Urbana IL,USA,Mar,82,65
+Peter,Agre,US,,male,2003,chemistry,2,Johns Hopkins University School of Medicine,Baltimore MD,USA,Jan,71,54
+Roderick,MacKinnon,US,,male,2003,chemistry,2,Rockefeller University,New York NY,USA,Feb,64,47
+Robert F.,Engle III,US,,male,2003,economics,2,New York University,New York NY,USA,Nov,78,61
+Clive W.J.,Granger,GB,US,male,2003,economics,2,University of California,San Diego CA,USA,Sep,75,69
+Shirin,Ebadi,IR,,female,2003,peace,1,,,,Jun,73,56
+Richard,Axel,US,,male,2004,medicine,2,Columbia University,New York NY,USA,Jul,74,58
+Linda B.,Buck,US,,female,2004,medicine,2,Fred Hutchinson Cancer Research Center,Seattle WA,USA,Jan,73,57
+David J.,Gross,US,,male,2004,physics,3,University of California Kavli Institute for Theoretical Physics,Santa Barbara CA,USA,Feb,79,63
+H. David,Politzer,US,,male,2004,physics,3,California Institute of Technology (Caltech),Pasadena CA,USA,Aug,71,55
+Frank,Wilczek,US,,male,2004,physics,3,Massachusetts Institute of Technology (MIT),Cambridge MA,USA,May,69,53
+Aaron,Ciechanover,IL,,male,2004,chemistry,3,Technion - Israel Institute of Technology,Haifa,Israel,Oct,73,57
+Avram,Hershko,HU,,male,2004,chemistry,3,Technion - Israel Institute of Technology,Haifa,Israel,Dec,83,67
+Irwin,Rose,US,US,male,2004,chemistry,3,University of California,Irvine CA,USA,Jul,89,78
+Elfriede,Jelinek,AT,,female,2004,literature,1,,,,Oct,74,58
+Wangari,Maathai,KE,KE,female,2004,peace,1,,,,Apr,71,64
+Finn E.,Kydland,NO,,male,2004,economics,2,Carnegie Mellon University,Pittsburgh PA,USA,Dec,77,61
+Edward C.,Prescott,US,,male,2004,economics,2,Arizona State University,Tempe AZ,USA,Dec,80,64
+Barry J.,Marshall,AU,,male,2005,medicine,2,NHMRC Helicobacter pylori Research Laboratory QEII Medical Centre,Nedlands,Australia,Sep,69,54
+J. Robin,Warren,AU,,male,2005,medicine,2,,,,Jun,83,68
+Roy J.,Glauber,US,US,male,2005,physics,2,Harvard University,Cambridge MA,USA,Sep,93,80
+John L.,Hall,US,,male,2005,physics,4,University of Colorado JILA,Boulder CO,USA,Aug,86,71
+Theodor W.,Hänsch,DE,,male,2005,physics,4,Max-Planck-Institut für Quantenoptik,Garching,Germany,Oct,79,64
+Yves,Chauvin,BE,FR,male,2005,chemistry,3,Institut Français du Pétrole,Rueil-Malmaison,France,Oct,85,75
+Robert H.,Grubbs,US,,male,2005,chemistry,3,California Institute of Technology (Caltech),Pasadena CA,USA,Feb,78,63
+Richard R.,Schrock,US,,male,2005,chemistry,3,Massachusetts Institute of Technology (MIT),Cambridge MA,USA,Jan,75,60
+Mohamed,ElBaradei,EG,,male,2005,peace,2,,,,Jun,78,63
+Robert J.,Aumann,DE,,male,2005,economics,2,University of Jerusalem Center for RationalityHebrew,Jerusalem,Israel,Jun,90,75
+Thomas C.,Schelling,US,US,male,2005,economics,2,University of Maryland Department of Economics and School of Public Policy,College Park MD,USA,Apr,95,84
+Harold,Pinter,GB,GB,male,2005,literature,1,,,,Oct,78,75
+Andrew Z.,Fire,US,,male,2006,medicine,2,Stanford University School of Medicine,Stanford CA,USA,Apr,61,47
+Craig C.,Mello,US,,male,2006,medicine,2,University of Massachusetts Medical School,Worcester MA,USA,Oct,60,46
+John C.,Mather,US,,male,2006,physics,2,NASA Goddard Space Flight Center,Greenbelt MD,USA,Aug,74,60
+George F.,Smoot,US,,male,2006,physics,2,University of California,Berkeley CA,USA,Feb,75,61
+Roger D.,Kornberg,US,,male,2006,chemistry,1,Stanford University,Stanford CA,USA,Apr,73,59
+Edmund S.,Phelps,US,,male,2006,economics,1,Columbia University,New York NY,USA,Jul,87,73
+Orhan,Pamuk,TR,,male,2006,literature,1,,,,Jun,68,54
+Muhammad,Yunus,BD,,male,2006,peace,2,,,,Jun,80,66
+Mario R.,Capecchi,IT,,male,2007,medicine,3,University of Utah,Salt Lake City UT,USA,Oct,83,70
+Sir Martin J.,Evans,GB,,male,2007,medicine,3,Cardiff University,Cardiff,United Kingdom,Jan,79,66
+Oliver,Smithies,GB,US,male,2007,medicine,3,University of North Carolina,Chapel Hill NC,USA,Jun,92,82
+Albert,Fert,FR,,male,2007,physics,2,Universit&eacute; Paris-Sud,Orsay,France,Mar,82,69
+Peter,Grünberg,CZ,DE,male,2007,physics,2,Forschungszentrum J&uuml;lich,Jülich,Germany,May,79,68
+Gerhard,Ertl,DE,,male,2007,chemistry,1,Fritz-Haber-Institut der Max-Planck-Gesellschaft,Berlin,Germany,Oct,84,71
+Doris,Lessing,IR,GB,female,2007,literature,1,,,,Oct,94,88
+Al,Gore,US,,male,2007,peace,2,,,,Mar,72,59
+Leonid,Hurwicz,RU,US,male,2007,economics,3,University of Minnesota,Minneapolis MN,USA,Aug,91,90
+Eric S.,Maskin,US,,male,2007,economics,3,Institute for Advanced Study,Princeton NJ,USA,Dec,70,57
+Roger B.,Myerson,US,,male,2007,economics,3,University of Chicago,Chicago IL,USA,Mar,69,56
+Harald,zur Hausen,DE,,male,2008,medicine,2,German Cancer Research Center,Heidelberg,Germany,Mar,84,72
+Françoise,Barré-Sinoussi,FR,,female,2008,medicine,4,Regulation of Retroviral Infections Unit Virology Department Institut Pasteur,Paris,France,Jul,73,61
+Luc,Montagnier,FR,,male,2008,medicine,4,World Foundation for AIDS Research and Prevention,Paris,France,Aug,88,76
+Yoichiro,Nambu,JP,JP,male,2008,physics,2,Enrico Fermi Institute University of Chicago,Chicago IL,USA,Jan,94,87
+Makoto,Kobayashi,JP,,male,2008,physics,4,High Energy Accelerator Research Organization (KEK),Tsukuba,Japan,Apr,76,64
+Toshihide,Maskawa,JP,,male,2008,physics,4,Kyoto Sangyo University,Kyoto,Japan,Feb,80,68
+Osamu,Shimomura,JP,JP,male,2008,chemistry,3,Marine Biological Laboratory (MBL),Woods Hole MA,USA,Aug,90,80
+Martin,Chalfie,US,,male,2008,chemistry,3,Columbia University,New York NY,USA,Jan,73,61
+Roger Y.,Tsien,US,US,male,2008,chemistry,3,University of California,San Diego CA,USA,Feb,64,56
+Jean-Marie Gustave,Le Clézio,FR,,male,2008,literature,1,,,,Apr,80,68
+Martti,Ahtisaari,FI,,male,2008,peace,1,,,,Jun,83,71
+Paul,Krugman,US,,male,2008,economics,1,Princeton University,Princeton NJ,USA,Feb,67,55
+Elizabeth H.,Blackburn,AU,,female,2009,medicine,3,University of California,San Francisco CA,USA,Nov,72,61
+Carol W.,Greider,US,,female,2009,medicine,3,Johns Hopkins University School of Medicine,Baltimore MD,USA,Apr,59,48
+Jack W.,Szostak,GB,,male,2009,medicine,3,Harvard Medical School,Boston MA,USA,Nov,68,57
+Charles K.,Kao,CN,,male,2009,physics,2,Standard Telecommunication Laboratories,Harlow,United Kingdom,Nov,85,76
+Willard S.,Boyle,CA,CA,male,2009,physics,4,Bell Laboratories,Murray Hill NJ,USA,Aug,87,85
+George E.,Smith,US,,male,2009,physics,4,Bell Laboratories,Murray Hill NJ,USA,May,90,79
+Venkatraman,Ramakrishnan,IN,,male,2009,chemistry,3,MRC Laboratory of Molecular Biology,Cambridge,United Kingdom,Apr,68,57
+Thomas A.,Steitz,US,US,male,2009,chemistry,3,Yale University,New Haven CT,USA,Aug,78,69
+Ada E.,Yonath,IL,,female,2009,chemistry,3,Weizmann Institute of Science,Rehovot,Israel,Jun,81,70
+Herta,Müller,RO,,female,2009,literature,1,,,,Aug,67,56
+Barack,Obama,US,,male,2009,peace,1,,,,Aug,59,48
+Elinor,Ostrom,US,US,female,2009,economics,2,Indiana University,Bloomington IN,USA,Aug,79,76
+Oliver E.,Williamson,US,,male,2009,economics,2,University of California,Berkeley CA,USA,Sep,88,77
+Robert G.,Edwards,GB,GB,male,2010,medicine,1,University of Cambridge,Cambridge,United Kingdom,Sep,88,85
+Andre,Geim,RU,,male,2010,physics,2,University of Manchester,Manchester,United Kingdom,Oct,62,52
+Konstantin,Novoselov,RU,,male,2010,physics,2,University of Manchester,Manchester,United Kingdom,Aug,46,36
+Richard F.,Heck,US,PH,male,2010,chemistry,3,University of Delaware,,USA,Aug,84,79
+Ei-ichi,Negishi,CN,,male,2010,chemistry,3,Purdue University,West Lafayette IN,USA,Jul,85,75
+Akira,Suzuki,JP,,male,2010,chemistry,3,Hokkaido University,Sapporo,Japan,Sep,90,80
+Mario,Vargas Llosa,PE,,male,2010,literature,1,,,,Mar,84,74
+Xiaobo,Liu,CN,CN,male,2010,peace,1,,,,Dec,62,55
+Peter A.,Diamond,US,,male,2010,economics,3,Massachusetts Institute of Technology (MIT),Cambridge MA,USA,Apr,80,70
+Dale T.,Mortensen,US,US,male,2010,economics,3,Northwestern University,Evanston IL,USA,Feb,75,71
+Christopher A.,Pissarides,CY,,male,2010,economics,3,London School of Economics and Political Science,London,United Kingdom,Feb,72,62
+Bruce A.,Beutler,US,,male,2011,medicine,4,University of Texas Southwestern Medical Center at Dallas,Dallas TX,USA,Dec,63,54
+Jules A.,Hoffmann,LU,,male,2011,medicine,4,University of Strasbourg,Strasbourg,France,Aug,79,70
+Ralph M.,Steinman,CA,,male,2011,medicine,2,Rockefeller University,New York NY,USA,Jan,68,68
+Saul,Perlmutter,US,,male,2011,physics,2,Lawrence Berkeley National Laboratory,Berkeley CA,USA,Sep,61,52
+Brian P.,Schmidt,US,,male,2011,physics,4,Australian National University,Weston Creek,Australia,Feb,53,44
+Adam G.,Riess,US,,male,2011,physics,4,Johns Hopkins University,Baltimore MD,USA,Dec,51,42
+Dan,Shechtman,IL,,male,2011,chemistry,1,Technion - Israel Institute of Technology,Haifa,Israel,Jan,79,70
+Tomas,Tranströmer,SE,SE,male,2011,literature,1,,,,Apr,84,80
+Ellen,Johnson Sirleaf,LR,,female,2011,peace,3,,,,Oct,82,73
+Leymah,Gbowee,LR,,female,2011,peace,3,,,,Feb,48,39
+Tawakkol,Karman,YE,,female,2011,peace,3,,,,Feb,41,32
+Thomas J.,Sargent,US,,male,2011,economics,2,New York University,New York NY,USA,Jul,77,68
+Christopher A.,Sims,US,,male,2011,economics,2,Princeton University,Princeton NJ,USA,Oct,78,69
+Sir John B.,Gurdon,GB,,male,2012,medicine,2,Gurdon Institute,Cambridge,United Kingdom,Oct,87,79
+Shinya,Yamanaka,JP,,male,2012,medicine,2,Kyoto University,Kyoto,Japan,Sep,58,50
+Serge,Haroche,MA,,male,2012,physics,2,Collège de France,Paris,France,Sep,76,68
+David J.,Wineland,US,,male,2012,physics,2,National Institute of Standards and Technology,Boulder CO,USA,Feb,76,68
+Robert J.,Lefkowitz,US,,male,2012,chemistry,2,Howard Hughes Medical Institute,,,Apr,77,69
+Brian,Kobilka,US,,male,2012,chemistry,2,Stanford University School of Medicine,Stanford CA,USA,May,65,57
+Mo,Yan,CN,,male,2012,literature,1,,,,Feb,65,57
+Alvin E.,Roth,US,,male,2012,economics,2,Harvard University,Cambridge MA,USA,Dec,69,61
+Lloyd S.,Shapley,US,US,male,2012,economics,2,University of California,Los Angeles CA,USA,Jun,93,89
+James E.,Rothman,US,,male,2013,medicine,3,Yale University,New Haven CT,USA,Nov,70,63
+Randy W.,Schekman,US,,male,2013,medicine,3,University of California,Berkeley CA,USA,Dec,72,65
+Thomas C.,Südhof,DE,,male,2013,medicine,3,Stanford University,Stanford CA,USA,Dec,65,58
+François,Englert,BE,,male,2013,physics,2,Université Libre de Bruxelles,Brussels,Belgium,Nov,88,81
+Peter,Higgs,GB,,male,2013,physics,2,University of Edinburgh,Edinburgh,United Kingdom,May,91,84
+Martin,Karplus,AT,,male,2013,chemistry,3,Université de Strasbourg,Strasbourg,France,Mar,90,83
+Michael,Levitt,ZA,,male,2013,chemistry,3,Stanford University School of Medicine,Stanford CA,USA,May,73,66
+Arieh,Warshel,IL,,male,2013,chemistry,3,University of Southern California,Los Angeles CA,USA,Nov,80,73
+Alice,Munro,CA,,female,2013,literature,1,,,,Jul,89,82
+Eugene F.,Fama,US,,male,2013,economics,3,University of Chicago,Chicago IL,USA,Feb,81,74
+Lars Peter,Hansen,US,,male,2013,economics,3,University of Chicago,Chicago IL,USA,Oct,68,61
+Robert J.,Shiller,US,,male,2013,economics,3,Yale University,New Haven CT,USA,Mar,74,67
+John,O'Keefe,US,,male,2014,medicine,2,University College,London,United Kingdom,Nov,81,75
+May-Britt,Moser,NO,,female,2014,medicine,4,Norwegian University of Science and Technology (NTNU),Trondheim,Norway,Jan,57,51
+Edvard I.,Moser,NO,,male,2014,medicine,4,Norwegian University of Science and Technology (NTNU),Trondheim,Norway,Apr,58,52
+Isamu,Akasaki,JP,,male,2014,physics,3,Meijo University,Nagoya,Japan,Jan,91,85
+Hiroshi,Amano,JP,,male,2014,physics,3,Nagoya University,Nagoya,Japan,Sep,60,54
+Shuji,Nakamura,JP,,male,2014,physics,3,University of California,Santa Barbara CA,USA,May,66,60
+Eric,Betzig,US,,male,2014,chemistry,3,Janelia Research Campus Howard Hughes Medical Institute,Ashburn VA,USA,Jan,60,54
+Stefan W.,Hell,RO,,male,2014,chemistry,3,Max Planck Institute for Biophysical Chemistry,Göttingen,Germany,Dec,58,52
+William E.,Moerner,US,,male,2014,chemistry,3,Stanford University,Stanford CA,USA,Jun,67,61
+Patrick,Modiano,FR,,male,2014,literature,1,,,,Jul,75,69
+Kailash,Satyarthi,IN,,male,2014,peace,2,,,,Jan,66,60
+Malala,Yousafzai,PK,,female,2014,peace,2,,,,Jul,23,17
+Jean,Tirole,FR,,male,2014,economics,1,Toulouse School of Economics (TSE),Toulouse,France,Aug,67,61
+William C.,Campbell,IE,,male,2015,medicine,4,Drew University,Madison NJ,USA,Jun,90,85
+Satoshi,&#332;mura,JP,,male,2015,medicine,4,Kitasato University,Tokyo,Japan,Jul,85,80
+Youyou,Tu,CN,,female,2015,medicine,2,China Academy of Traditional Chinese Medicine,Beijing,China,Dec,90,85
+Takaaki,Kajita,JP,,male,2015,physics,2,University of Tokyo,Kashiwa,Japan,Mar,61,56
+Arthur B.,McDonald,CA,,male,2015,physics,2,Queen's University,Kingston,Canada,Aug,77,72
+Tomas,Lindahl,SE,,male,2015,chemistry,3,Francis Crick Institute,Hertfordshire,United Kingdom,Jan,82,77
+Paul,Modrich,US,,male,2015,chemistry,3,Howard Hughes Medical Institute,Durham NC,USA,Jun,74,69
+Aziz,Sancar,TR,,male,2015,chemistry,3,University of North Carolina,Chapel Hill NC,USA,Sep,74,69
+Svetlana,Alexievich,UA,,female,2015,literature,1,,,,May,72,67
+Angus,Deaton,GB,,male,2015,economics,1,Princeton University,Princeton NJ,USA,Oct,75,70
+Yoshinori,Ohsumi,JP,,male,2016,medicine,1,Tokyo Institute of Technology,Tokyo,Japan,Feb,75,71
+David J.,Thouless,GB,GB,male,2016,physics,2,University of Washington,Seattle WA,USA,Sep,85,82
+F. Duncan M.,Haldane,GB,,male,2016,physics,4,Princeton University,Princeton NJ,USA,Sep,69,65
+J. Michael,Kosterlitz,GB,,male,2016,physics,4,Brown University,Providence RI,USA,Jun,77,73
+Jean-Pierre,Sauvage,FR,,male,2016,chemistry,3,University of Strasbourg,Strasbourg,France,Oct,76,72
+Sir J. Fraser,Stoddart,GB,,male,2016,chemistry,3,Northwestern University,Evanston IL,USA,May,78,74
+Bernard L.,Feringa,NL,,male,2016,chemistry,3,University of Groningen,Groningen,the Netherlands,May,69,65
+Juan Manuel,Santos,CO,,male,2016,peace,1,,,,Aug,69,65
+Oliver,Hart,GB,,male,2016,economics,2,Harvard University,Cambridge MA,USA,Oct,72,68
+Bengt,Holmström,FI,,male,2016,economics,2,Massachusetts Institute of Technology (MIT),Cambridge MA,USA,Apr,71,67
+Bob,Dylan,US,,male,2016,literature,1,,,,May,79,75
+Jeffrey C.,Hall,US,,male,2017,medicine,3,University of Maine,Maine ME,USA,May,75,72
+Michael,Rosbash,US,,male,2017,medicine,3,Brandeis University,Waltham MA,USA,Mar,76,73
+Michael W.,Young,US,,male,2017,medicine,3,Rockefeller University,New York NY,USA,Mar,71,68
+Rainer,Weiss,DE,,male,2017,physics,2,LIGO/VIRGO Collaboration,,,Sep,88,85
+Barry C.,Barish,US,,male,2017,physics,4,LIGO/VIRGO Collaboration,,,Jan,84,81
+Kip S.,Thorne,US,,male,2017,physics,4,LIGO/VIRGO Collaboration,,,Jun,80,77
+Jacques,Dubochet,CH,,male,2017,chemistry,3,University of Lausanne,Lausanne,Switzerland,Jun,78,75
+Joachim,Frank,DE,,male,2017,chemistry,3,Columbia University,New York NY,USA,Sep,80,77
+Richard,Henderson,GB,,male,2017,chemistry,3,MRC Laboratory of Molecular Biology,Cambridge,United Kingdom,Jul,75,72
+Kazuo,Ishiguro,JP,,male,2017,literature,1,,,,Nov,66,63
+Richard H.,Thaler,US,,male,2017,economics,1,University of Chicago,Chicago IL,USA,Sep,75,72
+James P.,Allison,US,,male,2018,medicine,2,Parker Institute for Cancer Immunotherapy,San Francisco CA,USA,Aug,72,70
+Tasuku,Honjo,JP,,male,2018,medicine,2,Kyoto University,Kyoto,Japan,Jan,78,76
+Arthur,Ashkin,US,,male,2018,physics,2,Bell Laboratories,Holmdel NJ,USA,Sep,98,96
+Gérard,Mourou,FR,,male,2018,physics,4,École Polytechnique,Palaiseau,France,Jun,76,74
+Donna,Strickland,CA,,female,2018,physics,4,University of Waterloo,Waterloo,Canada,May,61,59
+Frances H.,Arnold,US,,female,2018,chemistry,2,California Institute of Technology (Caltech),Pasadena CA,USA,Jul,64,62
+George P.,Smith,US,,male,2018,chemistry,4,University of Missouri,Columbia,USA,Mar,79,77
+Sir Gregory P.,Winter,GB,,male,2018,chemistry,4,MRC Laboratory of Molecular Biology,Cambridge,United Kingdom,Apr,69,67
+Denis,Mukwege,CD,,male,2018,peace,2,,,,Mar,65,63
+Nadia,Murad,IQ,,female,2018,peace,2,,,,Jan,27,25
+William D.,Nordhaus,US,,male,2018,economics,2,Yale University,New Haven CT,USA,May,79,77
+Paul M.,Romer,US,,male,2018,economics,2,NYU Stern School of Business,New York NY,USA,Nov,65,63
+William,Kaelin,US,,male,2019,medicine,3,Harvard Medical School,Boston MA,USA,Nov,63,62
+Peter,Ratcliffe,GB,,male,2019,medicine,3,University of Oxford,Oxford,United Kingdom,May,66,65
+Gregg,Semenza,US,,male,2019,medicine,3,Johns Hopkins University,Baltimore MD,USA,Jul,64,63
+James,Peebles,CA,,male,2019,physics,2,Princeton University,Princeton NJ,USA,Apr,85,84
+Michel,Mayor,CH,,male,2019,physics,4,University of Geneva,Geneva,Switzerland,Jan,78,77
+Didier,Queloz,CH,,male,2019,physics,4,University of Geneva,Geneva,Switzerland,Feb,54,53
+John,Goodenough,DE,,male,2019,chemistry,3,University of Texas,Austin TX,USA,Jul,98,97
+M. Stanley,Whittingham,GB,,male,2019,chemistry,3,Binghamton University State University of New York,New York NY,USA,Dec,79,78
+Akira,Yoshino,JP,,male,2019,chemistry,3,Asahi Kasei Corporation,Tokyo,Japan,Jan,72,71
+Olga,Tokarczuk,PL,,female,2018,literature,1,,,,Jan,58,56
+Peter,Handke,AT,,male,2019,literature,1,,,,Dec,78,77
+Abiy,Ahmed Ali,ET,,male,2019,peace,1,,,,Aug,44,43
+Abhijit,Banerjee,IN,,male,2019,economics,3,Massachusetts Institute of Technology (MIT),Cambridge MA,USA,Feb,59,58
+Esther,Duflo,FR,,female,2019,economics,3,Massachusetts Institute of Technology (MIT),Cambridge MA,USA,Oct,48,47
+Michael,Kremer,US,,male,2019,economics,3,Harvard University,Cambridge MA,USA,Nov,56,55

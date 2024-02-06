@@ -1,0 +1,32 @@
+### Dataset - https://www.kaggle.com/vidyapb/indian-school-education-statistics
+## Dataset Description
+- Gross Enrollment Ratio  and Drop Out Ratio
+   - 'State_UT', 
+   - 'Year', 
+   - 'Primary_Boys', 
+   - 'Primary_Girls', 
+   - 'Primary_Total',
+   - 'Upper_Primary_Boys', 
+   - 'Upper_Primary_Girls', 
+   - 'Upper_Primary_Total',
+   - 'Secondary_Boys', 
+   - 'Secondary_Girls', 
+   - 'Secondary_Total',
+   - 'Higher_Secondary_Boys', 
+   - 'Higher_Secondary_Girls',
+   - 'Higher_Secondary_Total'
+   
+- Computer, Electricity, Water, Boys Toilet, Girls Toilet
+   - 'State_UT', 
+   - 'year', 
+   - 'Primary_Only', 
+   - 'Primary_with_U_Primary',
+   - 'Primary_with_U_Primary_Sec_HrSec', 
+   - 'U_Primary_Only',
+   - 'U_Primary_With_Sec_HrSec',
+   - 'Primary_with_U_Primary_Sec',
+   - 'U_Primary_With_Sec', 
+   - 'Sec_Only', 
+   - 'Sec_with_HrSec.', 
+   - 'HrSec_Only',
+   - 'All Schools'

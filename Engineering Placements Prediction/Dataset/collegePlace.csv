@@ -1,0 +1,2967 @@
+Age,Gender,Stream,Internships,CGPA,Hostel,HistoryOfBacklogs,PlacedOrNot
+22,Male,Electronics And Communication,1,8,1,1,1
+21,Female,Computer Science,0,7,1,1,1
+22,Female,Information Technology,1,6,0,0,1
+21,Male,Information Technology,0,8,0,1,1
+22,Male,Mechanical,0,8,1,0,1
+22,Male,Electronics And Communication,0,6,0,0,0
+21,Male,Computer Science,0,7,0,1,0
+21,Male,Information Technology,1,7,0,0,0
+21,Male,Computer Science,2,6,0,0,1
+21,Female,Computer Science,1,6,1,0,0
+22,Male,Computer Science,1,7,0,0,0
+22,Female,Electrical,1,8,0,1,1
+21,Female,Computer Science,2,6,1,1,0
+21,Male,Computer Science,1,8,0,1,1
+21,Female,Electronics And Communication,2,8,0,0,1
+22,Male,Mechanical,0,8,1,0,1
+22,Female,Computer Science,1,7,1,0,0
+21,Male,Civil,0,6,0,0,0
+21,Male,Computer Science,1,7,0,0,0
+22,Male,Computer Science,1,7,0,0,0
+22,Male,Civil,0,8,0,0,1
+21,Male,Computer Science,1,6,0,0,0
+22,Male,Civil,0,7,0,0,0
+22,Male,Electronics And Communication,1,7,0,1,0
+22,Male,Electronics And Communication,0,7,0,0,0
+21,Male,Electrical,0,8,1,0,1
+22,Male,Electrical,1,8,0,0,1
+22,Male,Information Technology,1,8,0,0,1
+22,Male,Information Technology,1,8,0,0,1
+21,Male,Information Technology,0,6,0,0,1
+22,Male,Mechanical,1,8,1,0,1
+21,Male,Electrical,1,7,0,0,1
+21,Female,Civil,1,7,0,0,0
+21,Male,Electrical,0,7,0,0,0
+21,Male,Computer Science,1,6,0,0,1
+21,Male,Information Technology,1,6,0,0,0
+22,Male,Civil,0,7,0,0,1
+22,Male,Computer Science,1,8,0,0,1
+22,Male,Information Technology,1,6,0,0,0
+22,Male,Electronics And Communication,0,8,0,1,1
+22,Male,Electrical,1,6,0,1,0
+22,Male,Civil,0,8,1,0,1
+21,Male,Electrical,1,7,1,1,1
+21,Male,Electrical,1,7,0,0,1
+22,Female,Information Technology,2,8,0,0,1
+21,Female,Electronics And Communication,3,6,0,0,1
+22,Male,Computer Science,1,8,0,0,1
+21,Male,Electronics And Communication,1,7,0,1,1
+21,Male,Information Technology,2,7,0,0,1
+21,Female,Electronics And Communication,0,7,0,0,0
+22,Male,Electronics And Communication,0,8,0,0,1
+21,Male,Electrical,1,8,0,0,1
+21,Female,Computer Science,1,8,1,0,1
+21,Male,Electrical,3,6,1,1,0
+21,Female,Electronics And Communication,3,6,0,0,1
+21,Male,Computer Science,1,7,0,0,1
+21,Male,Electronics And Communication,0,8,0,0,1
+21,Male,Civil,0,8,0,0,1
+21,Male,Electronics And Communication,0,8,0,0,1
+21,Female,Electrical,1,8,0,0,1
+21,Male,Computer Science,2,9,0,1,1
+22,Male,Computer Science,0,8,0,0,1
+21,Male,Information Technology,0,8,0,0,1
+21,Male,Information Technology,0,9,0,0,1
+21,Male,Information Technology,1,8,1,0,1
+22,Male,Mechanical,0,9,0,0,1
+22,Male,Computer Science,1,9,0,0,1
+21,Male,Information Technology,0,8,0,0,1
+22,Male,Computer Science,2,9,0,0,1
+21,Male,Mechanical,0,8,1,1,1
+22,Male,Electrical,1,8,0,0,1
+22,Male,Information Technology,0,9,0,0,1
+22,Male,Computer Science,3,9,0,0,1
+21,Male,Information Technology,0,8,0,0,1
+22,Male,Information Technology,1,9,0,0,1
+21,Male,Civil,0,8,0,0,1
+21,Male,Mechanical,0,9,1,0,1
+22,Male,Mechanical,0,8,1,1,1
+22,Male,Information Technology,0,8,0,0,1
+21,Male,Computer Science,1,8,0,0,1
+21,Male,Civil,0,9,0,0,1
+21,Male,Computer Science,1,9,0,0,1
+22,Male,Mechanical,0,8,1,0,1
+21,Male,Information Technology,0,8,0,0,1
+21,Male,Mechanical,0,8,1,0,1
+21,Male,Electronics And Communication,2,7,0,0,1
+21,Male,Computer Science,0,8,0,0,1
+21,Male,Computer Science,0,6,0,0,0
+22,Female,Civil,1,6,1,0,0
+22,Male,Mechanical,1,7,0,0,0
+21,Male,Civil,1,8,0,1,1
+22,Male,Information Technology,1,6,0,0,1
+21,Male,Electrical,1,6,0,0,1
+22,Female,Information Technology,2,7,0,0,0
+22,Male,Electronics And Communication,0,6,0,0,0
+22,Male,Computer Science,1,8,0,0,1
+21,Male,Computer Science,2,7,0,0,0
+22,Male,Information Technology,0,8,0,0,1
+22,Female,Information Technology,0,7,0,0,0
+21,Male,Mechanical,0,7,0,0,0
+23,Male,Computer Science,0,7,0,0,1
+23,Male,Civil,0,6,0,0,1
+23,Male,Mechanical,1,5,0,0,0
+24,Male,Information Technology,2,6,0,0,1
+23,Male,Electrical,0,5,1,0,0
+23,Male,Information Technology,1,6,0,0,0
+24,Female,Information Technology,0,6,0,0,1
+24,Male,Information Technology,1,7,0,0,1
+24,Male,Civil,1,7,0,1,1
+23,Male,Information Technology,1,7,0,0,1
+23,Male,Information Technology,1,6,0,0,1
+24,Male,Electronics And Communication,1,6,0,1,1
+24,Male,Electrical,0,7,0,0,0
+23,Male,Information Technology,1,6,0,0,0
+24,Male,Computer Science,0,6,0,0,1
+23,Male,Electrical,0,6,0,0,0
+23,Male,Information Technology,1,7,1,0,1
+23,Male,Information Technology,1,7,1,0,1
+24,Male,Information Technology,3,5,0,1,1
+23,Male,Mechanical,0,6,1,0,1
+23,Female,Information Technology,2,6,0,0,1
+23,Male,Electronics And Communication,1,7,0,0,0
+23,Male,Information Technology,1,5,0,0,1
+23,Male,Information Technology,1,7,0,0,1
+23,Male,Mechanical,2,7,1,0,1
+24,Male,Information Technology,1,5,0,0,0
+24,Male,Information Technology,1,7,0,0,0
+24,Male,Computer Science,2,7,0,0,1
+24,Male,Electronics And Communication,0,5,0,0,0
+24,Male,Information Technology,1,7,0,0,1
+23,Male,Mechanical,0,6,1,1,1
+23,Male,Computer Science,0,6,0,0,0
+23,Female,Mechanical,1,7,1,0,0
+24,Male,Computer Science,1,6,0,0,1
+23,Male,Mechanical,1,6,1,1,1
+24,Male,Computer Science,0,6,0,0,1
+24,Male,Mechanical,0,6,0,0,1
+24,Male,Information Technology,0,5,0,0,1
+23,Male,Electrical,0,5,0,0,0
+24,Male,Electrical,0,5,1,0,0
+23,Male,Computer Science,1,5,0,0,1
+23,Male,Electronics And Communication,0,7,0,0,1
+24,Male,Information Technology,3,7,0,0,1
+24,Male,Computer Science,2,5,0,0,1
+24,Male,Computer Science,2,5,0,0,1
+23,Male,Civil,0,7,1,0,1
+24,Male,Information Technology,1,6,0,0,1
+23,Male,Mechanical,0,5,1,1,0
+23,Male,Electrical,0,6,0,0,0
+24,Male,Computer Science,1,7,0,0,1
+23,Male,Electrical,0,5,0,0,0
+24,Female,Information Technology,0,5,0,0,0
+23,Male,Computer Science,1,5,0,0,1
+23,Female,Electronics And Communication,2,6,0,0,0
+24,Male,Civil,0,7,0,0,1
+24,Male,Electronics And Communication,2,6,0,0,1
+23,Male,Information Technology,0,5,0,0,0
+24,Male,Computer Science,2,6,0,0,1
+23,Male,Computer Science,1,6,0,0,0
+24,Male,Computer Science,0,7,0,1,1
+22,Male,Electronics And Communication,0,7,0,0,1
+22,Male,Mechanical,0,5,1,0,0
+22,Male,Computer Science,1,5,0,0,0
+21,Male,Computer Science,1,6,0,0,1
+21,Male,Civil,3,6,1,0,1
+21,Male,Computer Science,0,6,0,1,1
+21,Male,Electrical,0,5,0,0,0
+21,Female,Information Technology,1,6,0,0,0
+22,Male,Computer Science,1,5,0,0,0
+22,Male,Computer Science,1,5,0,0,0
+21,Male,Civil,1,6,0,0,1
+21,Female,Information Technology,2,5,0,0,0
+21,Male,Information Technology,1,6,0,0,1
+22,Male,Civil,0,6,0,0,0
+22,Male,Civil,0,7,0,1,0
+21,Male,Information Technology,0,7,0,0,1
+21,Male,Electronics And Communication,0,7,0,0,1
+22,Female,Information Technology,1,7,1,0,0
+22,Male,Electrical,1,6,0,0,1
+21,Female,Mechanical,1,5,1,0,0
+22,Female,Information Technology,1,6,1,0,0
+22,Male,Computer Science,2,6,0,0,1
+21,Male,Electronics And Communication,1,6,0,1,0
+22,Male,Civil,0,5,0,0,0
+21,Male,Electrical,2,5,0,1,0
+22,Male,Civil,1,7,0,0,0
+21,Female,Computer Science,1,7,1,0,0
+21,Male,Computer Science,1,6,0,0,0
+22,Female,Electronics And Communication,1,5,1,0,0
+21,Female,Information Technology,0,6,0,0,0
+22,Male,Computer Science,0,5,0,0,0
+22,Male,Computer Science,0,5,0,0,0
+21,Male,Mechanical,0,7,1,0,0
+21,Male,Computer Science,0,5,0,0,0
+21,Male,Information Technology,0,5,0,1,0
+22,Female,Computer Science,1,5,1,0,0
+21,Male,Electronics And Communication,2,6,1,1,0
+21,Male,Information Technology,1,5,1,1,0
+22,Female,Computer Science,2,7,1,0,0
+21,Male,Computer Science,0,8,0,0,1
+21,Male,Computer Science,2,7,0,0,1
+22,Male,Computer Science,1,6,0,0,0
+21,Female,Information Technology,2,6,1,0,1
+21,Male,Electronics And Communication,1,7,0,0,0
+21,Female,Computer Science,1,7,1,0,0
+21,Male,Mechanical,0,8,1,0,1
+22,Male,Mechanical,0,8,1,0,1
+22,Male,Information Technology,1,6,0,0,0
+21,Female,Electrical,0,7,0,0,0
+21,Male,Mechanical,0,8,0,0,1
+21,Male,Computer Science,2,8,0,0,1
+21,Male,Information Technology,1,7,0,0,0
+22,Male,Information Technology,0,6,0,1,0
+22,Male,Information Technology,1,8,0,0,1
+21,Male,Electrical,1,7,0,0,1
+21,Female,Civil,1,6,0,0,0
+21,Male,Computer Science,3,6,0,0,1
+21,Male,Civil,1,7,1,0,0
+22,Male,Electrical,1,7,0,0,0
+21,Male,Electronics And Communication,2,6,1,1,0
+22,Male,Electrical,1,8,0,1,1
+22,Male,Computer Science,2,8,0,0,1
+21,Male,Mechanical,1,6,1,1,0
+22,Male,Computer Science,0,7,0,0,0
+22,Male,Civil,0,6,0,0,0
+21,Male,Civil,0,6,1,0,0
+21,Female,Computer Science,1,7,1,0,0
+21,Male,Computer Science,2,7,0,0,1
+21,Female,Mechanical,1,6,1,0,0
+22,Male,Mechanical,0,6,1,0,0
+22,Male,Electronics And Communication,1,8,0,0,1
+22,Male,Computer Science,1,8,0,0,1
+21,Female,Information Technology,0,8,0,0,1
+22,Male,Information Technology,1,7,0,0,0
+21,Male,Information Technology,0,8,0,1,1
+22,Male,Computer Science,1,8,0,0,1
+22,Male,Computer Science,1,7,0,0,0
+21,Female,Information Technology,2,7,0,0,1
+21,Female,Mechanical,1,8,1,0,1
+21,Female,Computer Science,1,6,1,0,0
+22,Female,Information Technology,1,7,0,0,0
+22,Female,Computer Science,0,6,1,0,0
+21,Male,Information Technology,2,8,1,0,1
+22,Male,Civil,0,7,1,1,0
+21,Male,Electrical,1,6,0,0,0
+21,Male,Electronics And Communication,2,6,0,0,1
+21,Male,Mechanical,1,7,1,0,0
+22,Male,Civil,0,7,0,0,0
+22,Female,Electrical,1,6,0,0,0
+22,Male,Computer Science,0,8,0,0,1
+21,Male,Computer Science,3,8,0,0,1
+21,Female,Information Technology,0,8,0,1,1
+22,Male,Electronics And Communication,0,6,0,0,0
+22,Male,Civil,1,7,0,0,0
+22,Male,Information Technology,1,8,1,1,1
+22,Female,Computer Science,1,8,1,1,1
+22,Male,Mechanical,1,8,1,0,1
+21,Male,Electrical,2,6,0,0,1
+22,Male,Electronics And Communication,1,6,0,0,0
+22,Male,Information Technology,0,8,0,0,1
+22,Female,Computer Science,1,7,1,0,0
+21,Male,Information Technology,1,8,0,0,1
+21,Male,Electrical,1,7,0,0,1
+22,Male,Mechanical,0,8,1,1,1
+21,Male,Civil,0,6,0,0,0
+21,Male,Information Technology,1,6,0,0,0
+21,Female,Information Technology,1,8,0,0,1
+22,Male,Electronics And Communication,1,8,1,1,1
+21,Male,Civil,1,7,0,0,0
+22,Male,Information Technology,2,6,0,0,1
+21,Male,Electrical,0,6,1,0,0
+22,Male,Information Technology,1,7,1,1,0
+21,Male,Electronics And Communication,0,6,0,0,0
+22,Male,Computer Science,0,8,0,1,1
+21,Male,Electronics And Communication,1,7,0,0,0
+22,Male,Mechanical,0,6,1,0,0
+21,Male,Civil,0,7,0,0,0
+21,Female,Civil,1,7,1,0,0
+21,Male,Computer Science,1,7,0,0,0
+21,Male,Information Technology,0,6,0,1,1
+21,Female,Electronics And Communication,2,7,0,0,1
+22,Female,Mechanical,1,8,1,0,1
+21,Male,Mechanical,0,6,1,1,1
+21,Male,Civil,0,7,1,0,1
+22,Male,Electronics And Communication,0,8,0,0,1
+21,Male,Electronics And Communication,1,6,1,1,1
+21,Male,Mechanical,2,6,1,0,0
+22,Male,Computer Science,0,8,0,0,1
+21,Male,Civil,0,7,0,0,0
+22,Male,Information Technology,0,7,0,0,0
+22,Male,Computer Science,0,7,0,0,0
+22,Male,Civil,1,6,1,0,0
+22,Female,Computer Science,2,6,1,1,0
+22,Male,Electronics And Communication,0,7,0,0,1
+21,Male,Civil,0,8,0,0,1
+21,Male,Civil,0,8,0,0,1
+22,Male,Computer Science,2,6,0,0,1
+22,Male,Computer Science,2,7,0,0,1
+22,Male,Electronics And Communication,1,7,1,1,1
+21,Male,Information Technology,2,7,0,0,1
+22,Male,Civil,0,6,0,0,0
+22,Male,Civil,1,6,0,0,1
+21,Male,Electronics And Communication,0,7,0,0,0
+21,Male,Information Technology,0,7,0,0,1
+22,Male,Electronics And Communication,1,8,0,0,1
+22,Male,Computer Science,0,6,0,1,0
+22,Male,Electrical,2,8,0,1,1
+22,Male,Information Technology,0,6,0,1,1
+22,Female,Computer Science,1,6,1,0,1
+21,Male,Electrical,0,8,0,0,1
+21,Male,Computer Science,1,7,0,0,1
+22,Male,Information Technology,2,7,0,1,1
+22,Female,Computer Science,1,8,1,0,1
+22,Male,Civil,0,6,0,0,1
+22,Male,Mechanical,0,6,1,0,1
+22,Male,Civil,0,7,0,0,0
+22,Female,Information Technology,0,6,0,0,1
+22,Male,Electrical,1,8,0,0,1
+21,Female,Computer Science,0,6,1,0,0
+21,Male,Computer Science,1,6,0,0,1
+21,Male,Computer Science,0,8,0,0,1
+21,Male,Mechanical,0,7,0,1,1
+21,Male,Computer Science,2,8,0,0,1
+22,Male,Civil,0,8,1,0,1
+21,Male,Mechanical,1,6,1,0,0
+22,Male,Computer Science,0,8,0,0,1
+21,Male,Computer Science,1,8,0,0,1
+21,Male,Electronics And Communication,0,6,0,0,0
+22,Male,Electronics And Communication,1,6,1,1,0
+22,Male,Information Technology,0,8,0,0,1
+21,Male,Computer Science,1,6,0,0,0
+22,Female,Electrical,0,6,0,0,1
+22,Male,Electronics And Communication,0,7,0,0,0
+21,Male,Information Technology,0,8,0,0,1
+22,Male,Mechanical,0,8,1,1,1
+22,Male,Mechanical,0,7,1,1,0
+21,Male,Electronics And Communication,0,8,0,0,1
+21,Male,Information Technology,1,6,0,0,0
+22,Female,Computer Science,2,7,1,0,1
+22,Male,Electronics And Communication,0,7,0,0,0
+21,Male,Electronics And Communication,1,7,0,1,1
+22,Male,Information Technology,0,8,0,0,1
+21,Male,Information Technology,0,8,0,0,1
+22,Female,Electrical,1,8,0,1,1
+22,Male,Information Technology,1,6,0,0,1
+22,Male,Mechanical,0,8,1,1,1
+21,Male,Mechanical,0,6,1,0,1
+21,Male,Electronics And Communication,1,8,0,0,1
+21,Male,Civil,0,7,0,0,0
+22,Female,Computer Science,1,8,1,0,1
+22,Female,Information Technology,1,7,0,0,1
+21,Male,Mechanical,1,6,1,0,0
+21,Male,Mechanical,0,7,1,0,1
+21,Male,Electronics And Communication,0,8,0,0,1
+22,Male,Computer Science,0,6,0,0,1
+22,Male,Electrical,0,6,0,1,0
+21,Male,Information Technology,2,8,0,0,1
+22,Male,Electrical,0,8,0,0,1
+21,Male,Electronics And Communication,1,7,0,0,0
+22,Male,Mechanical,0,7,1,0,1
+22,Male,Electronics And Communication,0,7,0,0,0
+21,Male,Computer Science,1,8,0,0,1
+22,Male,Electronics And Communication,0,8,0,0,1
+21,Male,Computer Science,0,8,0,1,1
+21,Male,Information Technology,1,7,0,1,0
+22,Male,Electronics And Communication,0,7,0,0,0
+22,Male,Computer Science,1,6,0,0,0
+21,Male,Computer Science,0,8,0,1,1
+21,Female,Electrical,0,6,0,0,0
+21,Male,Information Technology,0,6,0,0,0
+22,Male,Computer Science,2,8,0,0,1
+21,Female,Computer Science,1,7,1,0,0
+22,Male,Information Technology,0,6,0,0,0
+22,Male,Information Technology,0,6,0,0,0
+22,Male,Civil,1,6,1,0,0
+22,Male,Mechanical,0,7,0,0,0
+21,Male,Mechanical,0,8,1,0,1
+21,Female,Information Technology,0,6,0,0,0
+21,Male,Mechanical,1,6,1,1,0
+22,Male,Computer Science,0,7,0,1,0
+21,Male,Computer Science,0,7,0,0,0
+22,Male,Information Technology,0,8,0,0,1
+21,Male,Computer Science,0,6,0,0,0
+21,Male,Information Technology,1,6,1,0,0
+22,Female,Electronics And Communication,1,6,0,1,0
+21,Male,Information Technology,0,6,0,0,0
+21,Male,Computer Science,1,8,0,0,1
+22,Male,Mechanical,1,6,1,0,0
+22,Female,Electronics And Communication,0,7,0,0,0
+22,Female,Information Technology,0,7,0,1,0
+22,Male,Civil,0,6,0,0,0
+22,Male,Mechanical,0,8,1,0,1
+21,Male,Electronics And Communication,0,8,0,0,1
+22,Male,Computer Science,1,6,0,0,0
+21,Male,Mechanical,0,6,1,0,0
+21,Male,Information Technology,1,8,0,0,1
+21,Male,Electronics And Communication,1,8,1,1,1
+21,Male,Electronics And Communication,2,8,0,0,1
+21,Female,Electronics And Communication,2,7,0,0,1
+21,Male,Information Technology,0,6,0,1,0
+22,Male,Electrical,0,6,0,0,0
+22,Male,Mechanical,1,6,0,0,0
+21,Male,Electronics And Communication,1,6,0,1,0
+21,Female,Information Technology,1,5,1,0,0
+21,Female,Computer Science,0,6,1,1,0
+22,Male,Information Technology,1,5,0,0,0
+21,Male,Mechanical,1,5,1,1,0
+21,Male,Information Technology,2,6,1,0,1
+21,Male,Computer Science,2,5,0,1,0
+22,Male,Electrical,0,5,0,0,0
+21,Male,Information Technology,0,5,0,1,0
+22,Male,Electronics And Communication,2,7,0,1,0
+21,Male,Electrical,0,7,0,1,0
+21,Male,Electronics And Communication,1,6,1,1,0
+22,Male,Computer Science,1,6,0,0,0
+22,Male,Mechanical,0,6,1,0,0
+22,Male,Computer Science,2,6,0,0,1
+21,Male,Electrical,0,6,0,0,0
+22,Male,Civil,0,6,1,0,0
+22,Male,Information Technology,0,7,0,0,0
+21,Male,Computer Science,0,6,0,1,0
+22,Male,Electrical,2,6,0,1,0
+22,Male,Computer Science,1,6,0,0,0
+21,Male,Computer Science,1,7,0,0,0
+22,Male,Mechanical,0,8,1,0,1
+21,Male,Electrical,3,7,0,0,1
+22,Male,Mechanical,0,8,1,1,1
+21,Male,Electrical,0,6,0,0,0
+21,Female,Computer Science,0,8,1,0,1
+21,Male,Computer Science,0,7,0,0,0
+21,Female,Electrical,1,6,0,0,0
+22,Female,Civil,1,8,0,0,1
+21,Male,Civil,0,8,0,0,1
+21,Male,Information Technology,1,6,0,0,0
+21,Male,Computer Science,1,6,0,0,0
+21,Male,Mechanical,0,6,1,1,0
+21,Male,Civil,0,7,0,0,0
+21,Female,Information Technology,1,8,1,0,1
+22,Male,Civil,0,8,0,0,1
+22,Male,Computer Science,0,7,0,1,0
+21,Male,Electrical,0,6,0,0,0
+21,Male,Electrical,1,6,0,1,0
+22,Male,Electronics And Communication,1,8,0,1,1
+21,Male,Computer Science,0,7,0,1,0
+21,Male,Computer Science,0,7,0,1,0
+21,Male,Civil,1,8,0,1,1
+22,Male,Information Technology,0,8,0,0,1
+21,Male,Electronics And Communication,0,6,0,0,0
+28,Male,Civil,0,8,1,0,1
+21,Male,Computer Science,2,7,0,0,1
+22,Male,Electronics And Communication,2,6,0,0,1
+21,Male,Information Technology,1,8,1,0,1
+22,Male,Mechanical,0,6,1,0,1
+21,Male,Mechanical,0,8,1,0,1
+21,Male,Information Technology,1,6,0,0,0
+22,Female,Mechanical,1,7,1,0,0
+22,Male,Electronics And Communication,0,8,0,0,1
+21,Male,Electrical,0,6,0,0,0
+21,Male,Mechanical,0,6,1,0,1
+22,Male,Mechanical,0,7,1,0,0
+22,Male,Electronics And Communication,1,6,1,1,0
+22,Male,Computer Science,0,7,0,1,1
+21,Male,Computer Science,0,7,0,0,1
+22,Male,Computer Science,0,8,0,1,1
+22,Male,Information Technology,1,6,1,0,0
+21,Male,Electronics And Communication,0,6,0,0,0
+22,Male,Computer Science,0,6,0,0,1
+21,Male,Civil,0,6,0,0,1
+22,Female,Information Technology,1,8,0,0,1
+21,Male,Information Technology,1,8,0,0,1
+21,Male,Mechanical,0,8,1,0,1
+22,Male,Civil,0,6,0,0,0
+22,Male,Electrical,0,7,0,1,0
+21,Male,Information Technology,1,6,0,1,1
+21,Male,Mechanical,1,6,1,0,0
+22,Male,Mechanical,0,6,1,1,1
+22,Female,Information Technology,0,7,0,0,1
+22,Male,Information Technology,2,7,0,0,0
+21,Male,Computer Science,3,8,0,0,1
+22,Male,Computer Science,0,6,0,0,1
+21,Male,Computer Science,0,8,0,1,1
+21,Female,Information Technology,1,8,0,1,1
+21,Female,Computer Science,0,8,1,1,1
+22,Male,Information Technology,1,6,0,0,1
+21,Male,Electronics And Communication,0,8,0,1,1
+22,Female,Mechanical,1,7,1,0,0
+21,Male,Information Technology,1,8,1,0,1
+22,Male,Electrical,0,6,0,0,0
+22,Male,Mechanical,0,7,1,0,0
+22,Male,Civil,0,6,1,0,0
+22,Male,Information Technology,0,6,0,1,1
+22,Male,Electronics And Communication,1,7,0,0,0
+21,Male,Information Technology,1,8,0,0,1
+22,Male,Electrical,1,7,0,0,0
+22,Male,Mechanical,0,6,1,0,1
+21,Male,Civil,2,6,1,0,1
+22,Male,Electronics And Communication,0,6,0,0,1
+21,Male,Computer Science,0,7,0,0,1
+22,Male,Mechanical,0,7,1,1,0
+22,Male,Mechanical,2,7,1,0,1
+22,Male,Mechanical,0,7,1,0,1
+21,Male,Computer Science,0,7,0,0,0
+22,Male,Computer Science,1,7,0,0,1
+21,Male,Electrical,0,6,0,0,1
+22,Male,Civil,0,6,0,0,0
+21,Male,Information Technology,3,8,1,0,1
+22,Female,Electronics And Communication,3,8,1,1,1
+21,Male,Information Technology,0,7,0,1,1
+21,Male,Computer Science,1,8,0,0,1
+21,Male,Information Technology,0,7,0,0,0
+21,Male,Mechanical,2,6,1,0,1
+22,Male,Mechanical,0,8,1,0,1
+21,Female,Computer Science,1,8,1,0,1
+22,Male,Electrical,0,8,0,1,1
+21,Male,Civil,1,8,0,0,1
+22,Female,Computer Science,1,7,1,0,0
+21,Male,Electrical,0,7,0,0,0
+21,Female,Information Technology,0,7,0,0,0
+21,Female,Computer Science,1,8,1,0,1
+21,Male,Computer Science,1,8,0,0,1
+21,Male,Electronics And Communication,1,6,0,0,0
+22,Male,Mechanical,0,8,1,0,1
+22,Male,Electronics And Communication,1,8,0,0,1
+21,Male,Computer Science,1,6,0,0,0
+21,Male,Civil,0,7,0,0,0
+22,Male,Electronics And Communication,1,7,0,1,0
+22,Male,Electrical,1,7,0,0,0
+22,Male,Electrical,0,8,0,0,1
+21,Male,Information Technology,1,8,0,0,1
+22,Male,Mechanical,2,7,1,0,0
+21,Male,Civil,0,6,1,1,0
+22,Male,Mechanical,1,6,1,0,0
+22,Male,Electronics And Communication,1,7,0,0,0
+22,Male,Mechanical,1,7,1,0,0
+22,Female,Mechanical,1,8,0,0,1
+21,Male,Computer Science,0,7,0,1,0
+21,Male,Electronics And Communication,0,8,0,0,1
+21,Male,Mechanical,1,7,0,0,0
+22,Male,Information Technology,0,7,0,0,0
+21,Male,Computer Science,2,7,0,0,1
+22,Male,Civil,1,8,0,0,1
+22,Male,Electronics And Communication,0,8,0,0,1
+22,Male,Mechanical,0,7,1,0,0
+22,Male,Information Technology,1,7,0,0,0
+22,Male,Computer Science,1,6,0,0,0
+21,Male,Computer Science,1,6,0,0,0
+22,Female,Civil,1,6,0,0,0
+21,Female,Civil,1,8,0,0,1
+22,Female,Computer Science,1,7,1,0,0
+21,Male,Mechanical,1,8,1,0,1
+30,Male,Computer Science,1,8,0,0,1
+22,Male,Information Technology,0,8,0,1,1
+21,Male,Information Technology,1,7,0,1,0
+22,Female,Electronics And Communication,0,7,0,0,0
+22,Male,Information Technology,1,8,1,0,1
+22,Male,Civil,1,7,0,0,0
+22,Male,Electrical,1,6,1,1,0
+21,Female,Civil,1,7,0,1,0
+21,Male,Computer Science,0,6,0,0,0
+22,Male,Electrical,1,7,0,0,0
+21,Male,Information Technology,0,8,0,1,1
+21,Male,Computer Science,1,7,0,0,0
+22,Male,Electrical,1,7,0,1,0
+22,Male,Electrical,0,8,0,0,1
+22,Male,Electrical,1,7,0,0,0
+21,Male,Computer Science,1,7,0,0,0
+21,Male,Computer Science,2,7,0,0,1
+21,Male,Computer Science,0,7,0,0,0
+22,Male,Electrical,0,7,0,1,0
+22,Male,Computer Science,2,6,0,0,1
+22,Male,Electronics And Communication,0,8,0,0,1
+21,Male,Electrical,0,7,0,0,0
+22,Male,Information Technology,1,6,0,0,0
+21,Male,Computer Science,0,7,0,0,0
+22,Female,Information Technology,0,8,0,0,1
+22,Male,Electronics And Communication,1,7,0,0,0
+21,Male,Information Technology,0,6,0,0,0
+21,Male,Civil,0,7,1,0,0
+22,Male,Electrical,1,8,0,0,1
+22,Male,Computer Science,0,6,0,0,0
+21,Male,Information Technology,0,7,0,0,0
+21,Male,Civil,1,8,0,0,1
+21,Male,Computer Science,1,7,0,0,0
+22,Male,Civil,0,7,1,0,0
+21,Male,Computer Science,2,7,0,1,0
+22,Female,Electronics And Communication,0,8,0,0,1
+21,Male,Computer Science,1,7,0,0,0
+22,Male,Computer Science,1,6,0,0,0
+21,Male,Computer Science,0,7,0,1,0
+21,Male,Electronics And Communication,1,7,0,0,1
+21,Male,Information Technology,1,8,0,1,1
+21,Male,Electronics And Communication,0,7,0,0,1
+22,Male,Information Technology,2,6,0,0,1
+22,Male,Computer Science,1,6,0,0,0
+21,Male,Electronics And Communication,0,7,0,0,1
+22,Male,Computer Science,1,6,0,0,1
+21,Male,Electronics And Communication,0,8,0,0,1
+22,Female,Information Technology,0,8,0,0,1
+22,Male,Information Technology,1,7,0,0,0
+21,Male,Information Technology,2,6,1,0,1
+21,Male,Computer Science,2,8,0,0,1
+22,Female,Information Technology,2,7,1,0,1
+21,Male,Computer Science,2,7,0,0,1
+21,Male,Information Technology,2,8,0,0,1
+21,Male,Computer Science,2,7,0,0,1
+22,Female,Information Technology,1,7,1,0,1
+22,Male,Computer Science,2,7,0,0,1
+21,Male,Electrical,1,8,0,0,1
+21,Male,Information Technology,2,7,0,1,0
+22,Male,Computer Science,1,8,0,1,1
+21,Male,Computer Science,1,7,0,0,0
+21,Male,Civil,2,6,0,0,0
+22,Male,Electrical,1,6,0,0,0
+21,Male,Information Technology,1,8,0,1,1
+21,Male,Electronics And Communication,1,7,0,0,0
+21,Male,Electrical,1,7,0,1,1
+21,Male,Electrical,2,8,0,0,1
+22,Male,Electronics And Communication,1,8,0,0,1
+22,Male,Mechanical,1,8,1,0,1
+21,Male,Civil,2,8,1,1,1
+22,Female,Computer Science,1,6,1,0,1
+22,Male,Electrical,2,6,0,0,1
+22,Male,Mechanical,2,7,1,0,0
+22,Female,Electronics And Communication,1,7,0,0,0
+22,Female,Electronics And Communication,2,8,0,0,1
+22,Male,Electronics And Communication,1,8,0,0,1
+21,Male,Mechanical,1,6,1,0,0
+22,Male,Mechanical,2,6,1,0,1
+22,Male,Civil,1,6,0,0,0
+21,Male,Mechanical,1,8,1,0,1
+21,Female,Information Technology,2,6,0,0,1
+21,Male,Electronics And Communication,2,8,0,0,1
+21,Male,Information Technology,2,8,0,1,1
+22,Male,Computer Science,2,7,0,0,0
+22,Male,Information Technology,1,8,0,0,1
+22,Male,Electrical,2,8,0,0,1
+22,Male,Electronics And Communication,2,8,0,0,1
+21,Male,Computer Science,2,6,0,0,1
+22,Male,Computer Science,1,7,0,0,1
+21,Female,Mechanical,1,7,1,0,0
+21,Male,Computer Science,2,6,0,0,1
+22,Female,Computer Science,1,6,1,0,1
+21,Male,Mechanical,1,6,1,1,0
+22,Male,Electronics And Communication,1,7,0,1,0
+21,Female,Computer Science,1,8,1,0,1
+22,Male,Electrical,1,7,0,0,0
+21,Male,Information Technology,2,6,1,0,1
+21,Female,Information Technology,1,7,0,1,1
+22,Female,Information Technology,1,6,0,0,1
+21,Male,Mechanical,2,6,1,0,1
+22,Male,Mechanical,1,6,1,0,0
+21,Male,Electronics And Communication,1,7,0,0,1
+22,Male,Information Technology,0,6,0,0,1
+22,Male,Civil,1,8,0,0,1
+21,Male,Electrical,0,7,0,0,0
+22,Male,Electronics And Communication,1,7,0,0,0
+22,Female,Information Technology,1,8,0,0,1
+22,Female,Electrical,1,6,0,1,0
+21,Male,Mechanical,0,7,1,0,0
+22,Male,Electronics And Communication,0,7,0,0,0
+22,Male,Information Technology,1,7,1,0,0
+22,Male,Computer Science,0,7,0,1,0
+21,Male,Electronics And Communication,1,8,1,1,1
+22,Male,Computer Science,0,6,0,0,0
+22,Male,Information Technology,0,7,0,0,0
+21,Male,Electronics And Communication,1,6,0,0,0
+22,Male,Mechanical,1,7,1,1,0
+22,Male,Computer Science,2,7,0,0,0
+22,Female,Electrical,1,7,1,1,0
+21,Male,Civil,1,6,0,0,0
+22,Male,Civil,0,6,0,0,0
+22,Male,Electrical,0,7,0,0,0
+21,Male,Computer Science,1,7,0,0,0
+22,Female,Information Technology,0,6,0,0,0
+21,Male,Electrical,0,8,0,0,1
+21,Male,Mechanical,0,7,1,0,0
+21,Male,Computer Science,1,6,0,0,0
+22,Male,Computer Science,0,7,0,0,0
+22,Female,Civil,1,8,0,0,1
+22,Female,Information Technology,1,7,0,0,0
+21,Female,Information Technology,2,8,0,1,1
+21,Male,Computer Science,1,8,0,0,1
+22,Male,Information Technology,0,8,0,0,1
+21,Female,Electronics And Communication,0,6,0,0,0
+22,Male,Civil,2,6,1,0,1
+21,Male,Electronics And Communication,2,8,0,0,1
+21,Male,Mechanical,0,7,1,0,0
+21,Male,Electrical,0,7,0,0,0
+22,Male,Mechanical,0,8,1,0,1
+21,Male,Civil,0,6,0,0,0
+22,Male,Information Technology,0,8,0,0,1
+21,Male,Computer Science,1,7,0,0,0
+22,Male,Computer Science,1,8,0,0,1
+21,Male,Information Technology,2,8,0,0,1
+22,Male,Information Technology,1,7,0,0,0
+22,Female,Civil,1,6,0,0,0
+21,Male,Computer Science,0,8,0,0,1
+21,Male,Computer Science,0,8,0,1,1
+21,Male,Mechanical,2,6,1,0,1
+21,Male,Electrical,1,8,0,0,1
+25,Male,Computer Science,0,7,0,0,0
+26,Male,Electronics And Communication,2,6,0,0,1
+24,Female,Electrical,1,8,0,1,1
+25,Male,Computer Science,2,6,0,0,1
+24,Female,Electronics And Communication,0,6,0,0,1
+25,Male,Computer Science,1,8,0,0,1
+23,Male,Electronics And Communication,0,9,0,0,1
+24,Male,Electrical,1,7,0,0,1
+25,Male,Civil,0,9,1,0,1
+25,Male,Computer Science,1,8,0,0,1
+26,Female,Information Technology,1,6,0,0,1
+26,Male,Information Technology,1,6,1,0,1
+25,Male,Electrical,0,8,0,0,1
+26,Male,Information Technology,0,8,0,0,1
+24,Male,Information Technology,0,8,0,0,1
+25,Male,Computer Science,1,8,0,0,1
+23,Male,Computer Science,1,6,0,0,1
+23,Male,Civil,0,7,0,0,0
+24,Male,Electronics And Communication,1,9,0,0,1
+25,Male,Computer Science,0,8,0,0,1
+24,Male,Computer Science,0,7,0,1,1
+24,Male,Mechanical,2,8,1,0,1
+23,Male,Mechanical,1,8,1,0,1
+26,Male,Information Technology,1,8,0,0,1
+23,Female,Civil,1,7,0,1,0
+26,Male,Computer Science,1,9,0,0,1
+26,Male,Electrical,2,8,1,0,1
+26,Male,Electrical,0,9,0,1,1
+26,Male,Civil,0,6,0,0,1
+24,Male,Mechanical,0,9,0,1,1
+24,Male,Computer Science,1,7,0,0,1
+23,Male,Electrical,0,8,0,0,1
+26,Female,Mechanical,1,7,1,0,0
+23,Male,Information Technology,1,7,0,0,0
+24,Male,Mechanical,0,8,0,0,1
+26,Male,Civil,0,9,0,0,1
+25,Male,Electrical,0,7,0,0,0
+23,Male,Mechanical,0,9,1,1,1
+24,Female,Computer Science,1,8,1,0,1
+23,Male,Information Technology,1,8,0,0,1
+23,Male,Mechanical,0,7,1,0,0
+26,Male,Computer Science,3,7,0,0,1
+24,Male,Information Technology,1,6,0,0,1
+26,Male,Electrical,1,8,0,0,1
+23,Male,Computer Science,1,6,0,0,1
+23,Male,Civil,1,7,0,0,0
+26,Male,Information Technology,1,7,0,0,1
+26,Male,Civil,0,7,0,0,0
+24,Male,Computer Science,1,7,0,0,1
+23,Male,Information Technology,0,8,0,0,1
+26,Female,Information Technology,1,6,0,1,1
+23,Male,Electronics And Communication,1,6,1,1,0
+24,Male,Civil,0,7,0,0,0
+24,Male,Computer Science,1,6,0,0,1
+25,Male,Information Technology,1,6,0,0,1
+25,Male,Computer Science,0,8,0,0,1
+26,Male,Civil,0,8,1,0,1
+24,Male,Mechanical,0,6,1,0,1
+26,Female,Electrical,1,8,0,0,1
+25,Male,Information Technology,1,8,0,0,1
+22,Male,Computer Science,0,6,0,0,1
+21,Male,Information Technology,0,6,0,0,1
+22,Male,Electrical,1,6,0,0,0
+22,Male,Information Technology,1,6,0,0,1
+22,Female,Computer Science,1,6,1,0,1
+22,Male,Electronics And Communication,1,8,0,0,1
+21,Female,Computer Science,1,6,1,0,1
+22,Male,Computer Science,1,6,0,0,0
+21,Female,Information Technology,1,6,0,0,1
+21,Male,Electrical,0,8,0,0,1
+22,Male,Mechanical,0,7,1,0,0
+22,Female,Computer Science,2,8,1,0,1
+22,Male,Computer Science,1,8,0,0,1
+22,Male,Computer Science,1,8,0,0,1
+21,Male,Information Technology,0,7,0,0,1
+21,Female,Electronics And Communication,0,6,0,0,0
+21,Male,Electrical,1,6,0,0,0
+22,Male,Computer Science,1,6,0,0,1
+22,Male,Electrical,0,8,0,0,1
+21,Male,Electrical,1,7,0,1,1
+21,Female,Mechanical,1,7,0,0,0
+22,Male,Electrical,0,7,1,0,0
+21,Female,Information Technology,2,8,0,0,1
+22,Male,Mechanical,0,8,1,0,1
+21,Male,Computer Science,1,8,0,0,1
+22,Male,Civil,0,6,1,1,0
+21,Male,Information Technology,0,6,0,0,0
+21,Female,Electronics And Communication,1,8,1,1,1
+22,Female,Information Technology,1,8,0,0,1
+22,Male,Mechanical,1,8,1,0,1
+22,Male,Civil,0,8,1,0,1
+22,Male,Civil,0,6,0,0,0
+22,Male,Computer Science,1,8,0,0,1
+22,Male,Electronics And Communication,1,8,0,0,1
+22,Male,Computer Science,2,8,0,1,1
+22,Female,Electrical,0,8,0,0,1
+22,Male,Information Technology,1,7,1,0,1
+22,Female,Computer Science,0,8,1,0,1
+22,Male,Electrical,0,7,0,0,0
+21,Male,Electronics And Communication,0,8,0,1,1
+22,Female,Information Technology,0,7,0,0,1
+21,Male,Computer Science,1,7,0,0,1
+22,Male,Civil,1,6,0,0,0
+21,Female,Information Technology,0,6,0,0,1
+22,Male,Computer Science,1,8,0,0,1
+21,Male,Mechanical,0,8,1,0,1
+22,Male,Civil,0,6,0,0,0
+22,Male,Computer Science,1,6,0,0,1
+22,Male,Computer Science,1,7,0,0,1
+21,Male,Civil,0,6,0,0,0
+22,Male,Computer Science,1,8,0,0,1
+21,Male,Civil,1,8,0,0,1
+21,Male,Electronics And Communication,1,6,1,1,0
+22,Female,Mechanical,1,8,0,0,1
+22,Male,Information Technology,0,8,0,0,1
+21,Male,Civil,0,6,0,0,0
+22,Male,Electronics And Communication,1,6,0,0,0
+21,Male,Mechanical,0,8,1,0,1
+21,Female,Electrical,0,7,0,0,0
+22,Male,Computer Science,0,6,0,0,1
+22,Female,Information Technology,1,7,1,0,1
+21,Male,Electronics And Communication,1,8,1,0,1
+21,Male,Computer Science,2,8,0,0,1
+22,Male,Civil,0,7,0,1,0
+21,Male,Electronics And Communication,0,7,0,0,0
+21,Male,Civil,0,8,1,0,1
+21,Male,Mechanical,0,7,1,0,0
+21,Female,Information Technology,0,7,0,0,1
+21,Male,Electronics And Communication,2,6,0,0,1
+21,Female,Information Technology,0,8,0,0,1
+21,Male,Electronics And Communication,0,7,0,0,1
+21,Male,Information Technology,1,8,0,0,1
+22,Male,Electronics And Communication,3,7,0,0,0
+21,Male,Mechanical,0,6,1,0,0
+21,Male,Mechanical,0,6,1,0,0
+21,Female,Mechanical,1,8,1,0,1
+22,Male,Electrical,0,8,1,0,1
+21,Male,Information Technology,0,6,0,0,1
+22,Female,Information Technology,0,6,0,0,1
+22,Male,Computer Science,1,6,0,0,0
+21,Male,Information Technology,0,6,0,0,1
+22,Male,Computer Science,1,7,0,0,1
+22,Male,Mechanical,1,8,1,0,1
+22,Male,Electrical,0,7,1,0,0
+22,Male,Electronics And Communication,1,6,1,1,0
+21,Male,Computer Science,0,7,0,0,1
+22,Male,Electrical,1,6,0,0,0
+21,Male,Electronics And Communication,0,6,0,0,0
+22,Male,Information Technology,0,8,0,1,1
+22,Male,Electronics And Communication,2,8,0,0,1
+22,Male,Mechanical,1,7,1,0,0
+22,Female,Information Technology,0,6,0,0,0
+21,Male,Electrical,0,7,0,0,1
+22,Male,Electronics And Communication,0,7,0,0,0
+22,Male,Computer Science,1,7,0,0,1
+21,Male,Computer Science,1,8,0,0,1
+21,Male,Computer Science,2,7,0,0,1
+22,Male,Information Technology,2,6,0,0,1
+21,Male,Information Technology,1,6,0,0,1
+22,Male,Civil,0,8,0,1,1
+22,Male,Mechanical,1,7,1,0,0
+21,Male,Computer Science,1,8,0,0,1
+21,Male,Mechanical,0,8,1,0,1
+21,Male,Electrical,2,7,1,1,1
+21,Female,Computer Science,0,6,1,0,1
+22,Male,Mechanical,1,6,0,0,0
+22,Male,Civil,0,6,1,0,0
+21,Male,Electronics And Communication,2,7,0,0,1
+22,Female,Information Technology,0,8,0,0,1
+22,Male,Electronics And Communication,0,6,0,0,0
+22,Female,Information Technology,1,6,0,0,1
+22,Male,Mechanical,1,7,1,0,0
+22,Male,Mechanical,1,6,1,0,0
+22,Male,Information Technology,0,8,0,0,1
+22,Male,Information Technology,0,8,0,0,1
+21,Male,Electrical,1,6,1,1,0
+22,Male,Computer Science,1,7,0,0,1
+21,Male,Computer Science,0,8,0,1,1
+21,Male,Information Technology,2,6,0,0,1
+21,Male,Electronics And Communication,1,8,1,1,1
+22,Male,Information Technology,0,8,0,0,1
+22,Female,Information Technology,0,8,0,0,1
+22,Male,Computer Science,0,6,0,1,1
+22,Male,Information Technology,1,8,0,0,1
+21,Male,Computer Science,0,6,0,1,0
+21,Male,Electrical,0,6,0,0,0
+22,Male,Information Technology,1,8,0,1,1
+22,Male,Mechanical,0,6,1,0,0
+21,Male,Information Technology,1,8,0,0,1
+22,Male,Electrical,1,7,0,0,0
+22,Male,Electronics And Communication,0,8,0,0,1
+21,Male,Information Technology,0,8,0,0,1
+21,Female,Computer Science,1,7,1,0,1
+22,Male,Information Technology,0,6,0,0,1
+22,Male,Information Technology,0,7,0,0,1
+22,Male,Civil,0,6,1,1,0
+22,Male,Information Technology,1,7,0,0,0
+21,Male,Electrical,1,8,0,0,1
+21,Female,Information Technology,2,7,0,0,1
+22,Male,Information Technology,3,8,0,0,1
+22,Male,Mechanical,0,7,1,1,0
+21,Female,Information Technology,1,6,1,0,0
+22,Male,Mechanical,1,7,1,1,0
+21,Male,Information Technology,1,6,0,0,0
+21,Male,Mechanical,0,8,1,0,1
+22,Male,Electrical,0,8,0,1,1
+21,Male,Information Technology,1,8,0,0,1
+21,Male,Computer Science,0,6,0,0,0
+22,Male,Information Technology,0,7,0,0,0
+21,Male,Mechanical,0,8,1,0,1
+21,Male,Information Technology,0,7,0,0,0
+21,Male,Electrical,0,6,0,0,0
+21,Male,Electronics And Communication,1,7,1,1,0
+21,Male,Civil,2,7,0,0,0
+22,Female,Civil,1,8,0,0,1
+22,Male,Information Technology,0,6,0,0,1
+22,Female,Information Technology,1,6,0,0,1
+22,Male,Civil,0,7,1,0,0
+21,Male,Computer Science,0,8,0,1,1
+22,Male,Information Technology,2,6,0,0,1
+21,Male,Civil,0,6,0,0,0
+21,Male,Civil,0,8,0,0,1
+21,Male,Computer Science,0,7,0,0,1
+21,Male,Civil,1,7,0,0,0
+21,Male,Civil,1,6,0,0,0
+21,Male,Information Technology,2,8,0,1,1
+21,Female,Mechanical,1,6,1,0,0
+22,Male,Information Technology,2,8,0,0,1
+21,Female,Civil,1,8,0,1,1
+22,Male,Information Technology,0,6,0,0,1
+22,Male,Electronics And Communication,0,7,0,0,0
+21,Male,Computer Science,1,8,0,0,1
+22,Male,Information Technology,2,7,1,0,1
+22,Male,Computer Science,1,7,0,0,1
+22,Male,Information Technology,1,7,0,1,1
+22,Male,Computer Science,1,7,0,0,1
+22,Male,Mechanical,1,7,1,1,0
+22,Female,Computer Science,1,7,1,0,0
+22,Male,Mechanical,0,7,1,0,0
+22,Male,Civil,0,8,0,0,1
+22,Male,Information Technology,2,7,0,1,1
+22,Male,Mechanical,0,7,1,0,0
+22,Male,Computer Science,0,6,0,0,1
+22,Male,Electronics And Communication,0,8,0,0,1
+22,Male,Computer Science,1,8,0,0,1
+22,Male,Computer Science,1,6,0,0,1
+22,Male,Computer Science,2,7,0,0,1
+21,Male,Computer Science,1,8,0,0,1
+21,Male,Information Technology,0,7,0,1,1
+22,Male,Computer Science,0,7,0,0,1
+22,Female,Information Technology,0,8,0,0,1
+22,Male,Information Technology,0,7,0,0,1
+22,Male,Computer Science,0,8,0,0,1
+21,Male,Civil,1,8,0,0,1
+21,Male,Mechanical,0,7,1,0,0
+21,Male,Information Technology,1,6,0,0,1
+21,Male,Information Technology,1,8,0,0,1
+21,Male,Mechanical,0,7,1,0,0
+22,Male,Computer Science,1,7,0,0,1
+21,Male,Computer Science,1,7,0,0,1
+22,Male,Mechanical,1,8,1,0,1
+22,Male,Information Technology,1,8,1,0,1
+21,Male,Information Technology,0,6,0,1,1
+21,Male,Information Technology,0,7,0,1,1
+22,Male,Information Technology,2,8,0,0,1
+22,Male,Electrical,0,8,1,1,1
+22,Male,Mechanical,0,7,1,0,0
+22,Female,Electronics And Communication,1,6,0,0,0
+21,Male,Mechanical,0,8,1,0,1
+21,Male,Electrical,0,7,0,0,0
+22,Male,Electronics And Communication,1,6,0,0,0
+21,Male,Civil,0,8,0,0,1
+21,Male,Civil,0,8,1,0,1
+22,Male,Computer Science,1,7,0,0,1
+21,Male,Mechanical,1,6,1,0,0
+21,Male,Information Technology,0,6,0,1,1
+22,Female,Computer Science,0,8,1,0,1
+21,Female,Computer Science,0,7,1,0,0
+22,Male,Civil,0,8,0,0,1
+22,Male,Computer Science,1,8,0,1,1
+22,Male,Civil,0,6,0,1,0
+22,Male,Mechanical,0,7,1,0,0
+21,Male,Electronics And Communication,1,7,0,1,1
+22,Male,Information Technology,0,8,0,0,1
+22,Male,Computer Science,0,6,0,0,1
+22,Male,Information Technology,1,8,0,0,1
+21,Male,Electronics And Communication,1,7,0,0,0
+22,Female,Computer Science,1,8,1,0,1
+22,Female,Computer Science,2,7,1,0,1
+22,Male,Electrical,0,6,0,0,0
+22,Male,Mechanical,0,6,1,0,0
+22,Male,Computer Science,2,7,0,0,1
+22,Male,Mechanical,0,7,1,0,0
+22,Male,Computer Science,1,7,0,0,1
+21,Male,Information Technology,1,6,1,1,1
+21,Male,Information Technology,1,6,0,1,1
+22,Female,Information Technology,1,7,0,0,1
+21,Male,Information Technology,2,8,0,1,1
+21,Male,Civil,0,6,0,0,0
+21,Male,Information Technology,0,6,0,0,1
+22,Male,Information Technology,2,8,0,0,1
+22,Male,Information Technology,1,8,0,0,1
+21,Female,Computer Science,1,8,1,1,1
+22,Male,Computer Science,1,7,0,0,1
+22,Male,Electrical,2,6,0,0,1
+21,Male,Civil,1,7,0,0,0
+21,Male,Information Technology,2,7,0,1,1
+22,Male,Information Technology,2,7,0,1,1
+21,Male,Electronics And Communication,1,6,1,1,0
+21,Male,Mechanical,1,8,1,1,1
+22,Male,Information Technology,1,8,1,0,1
+22,Male,Information Technology,2,6,0,1,1
+21,Male,Computer Science,1,6,0,1,0
+22,Male,Information Technology,2,7,0,0,1
+22,Male,Information Technology,1,8,0,0,1
+21,Male,Information Technology,2,7,0,1,1
+21,Male,Electrical,2,8,0,0,1
+22,Male,Civil,2,8,1,1,1
+22,Male,Information Technology,2,6,0,0,1
+22,Male,Information Technology,2,6,0,0,1
+21,Female,Civil,2,7,0,0,0
+22,Male,Electrical,1,7,0,1,0
+22,Male,Civil,2,7,0,0,0
+21,Male,Information Technology,2,8,0,0,1
+21,Male,Civil,1,6,0,0,0
+22,Female,Computer Science,2,6,1,0,1
+21,Female,Electronics And Communication,1,7,0,0,1
+22,Female,Information Technology,1,7,0,1,1
+21,Male,Mechanical,2,6,1,0,1
+22,Male,Mechanical,2,6,1,0,1
+21,Male,Information Technology,2,7,0,0,1
+22,Male,Computer Science,2,7,0,0,1
+21,Male,Electrical,1,6,0,0,0
+21,Female,Computer Science,1,6,0,0,1
+22,Male,Civil,2,6,1,0,1
+22,Male,Computer Science,1,7,0,0,1
+21,Male,Information Technology,1,8,0,0,1
+21,Male,Computer Science,2,7,0,0,1
+22,Female,Mechanical,1,6,1,0,0
+22,Female,Information Technology,1,8,0,0,1
+22,Male,Mechanical,1,6,1,0,0
+21,Male,Computer Science,1,8,0,1,1
+21,Male,Computer Science,2,8,0,1,1
+22,Male,Information Technology,2,8,0,0,1
+22,Male,Mechanical,1,7,1,0,0
+22,Male,Computer Science,2,7,0,0,0
+21,Male,Computer Science,2,8,0,0,1
+22,Male,Mechanical,1,7,1,0,0
+21,Male,Computer Science,2,7,0,0,1
+22,Male,Civil,1,6,0,0,0
+22,Male,Civil,2,8,0,1,1
+21,Male,Electrical,2,7,0,0,1
+21,Female,Computer Science,1,6,1,1,0
+22,Male,Computer Science,1,6,0,1,0
+22,Male,Electrical,2,7,0,0,0
+22,Female,Electronics And Communication,1,7,1,1,0
+22,Male,Civil,1,7,0,0,0
+21,Male,Electronics And Communication,2,6,0,0,1
+21,Female,Electrical,2,8,0,0,1
+22,Male,Computer Science,2,8,0,0,1
+22,Female,Electronics And Communication,2,6,0,0,1
+22,Male,Computer Science,1,7,0,0,0
+21,Female,Electronics And Communication,1,8,1,1,1
+22,Male,Electronics And Communication,1,7,0,0,0
+21,Male,Mechanical,2,8,1,1,1
+21,Male,Electronics And Communication,1,8,0,0,1
+22,Female,Electrical,2,7,0,0,0
+21,Male,Civil,2,7,0,0,0
+22,Male,Information Technology,1,7,0,0,0
+22,Female,Electrical,2,6,0,0,1
+22,Male,Electronics And Communication,2,6,0,0,1
+22,Male,Computer Science,1,6,0,0,0
+21,Male,Computer Science,1,8,0,0,1
+22,Male,Electronics And Communication,2,6,0,0,1
+21,Male,Information Technology,1,7,0,0,0
+21,Male,Information Technology,2,7,0,1,0
+21,Female,Computer Science,2,7,1,1,0
+21,Male,Computer Science,2,8,0,0,1
+22,Male,Information Technology,1,7,0,0,0
+21,Male,Civil,2,7,0,0,0
+21,Female,Computer Science,2,8,1,0,1
+22,Male,Mechanical,1,6,1,0,0
+22,Male,Mechanical,1,7,1,0,0
+22,Male,Information Technology,1,6,0,0,0
+21,Male,Electrical,1,6,0,0,0
+21,Male,Mechanical,1,6,1,0,0
+22,Male,Electrical,1,6,0,0,0
+22,Male,Mechanical,2,8,1,0,1
+22,Male,Information Technology,1,7,0,0,0
+22,Male,Civil,1,6,0,0,0
+21,Male,Information Technology,1,7,0,1,0
+21,Female,Computer Science,2,8,1,0,1
+22,Male,Electronics And Communication,2,7,0,0,0
+22,Male,Electronics And Communication,2,7,0,1,0
+22,Male,Mechanical,1,8,1,0,1
+22,Male,Computer Science,1,6,0,0,0
+22,Male,Electronics And Communication,1,7,0,1,0
+22,Male,Electronics And Communication,1,8,0,1,1
+21,Female,Electrical,1,8,0,1,1
+22,Female,Computer Science,1,7,1,0,0
+22,Female,Information Technology,1,9,1,0,1
+21,Male,Mechanical,2,8,1,0,1
+21,Male,Electronics And Communication,2,7,1,1,1
+22,Male,Civil,2,7,1,0,0
+21,Male,Information Technology,2,9,0,0,1
+21,Male,Civil,2,7,0,1,0
+22,Male,Information Technology,1,9,0,0,1
+22,Male,Computer Science,1,7,0,1,0
+21,Female,Computer Science,2,7,1,0,1
+21,Male,Information Technology,1,9,0,0,1
+21,Male,Computer Science,1,8,0,0,1
+22,Male,Mechanical,1,9,1,0,1
+21,Male,Computer Science,2,9,0,0,1
+21,Female,Electronics And Communication,2,9,0,0,1
+21,Male,Electronics And Communication,1,8,0,0,1
+22,Male,Computer Science,1,9,0,0,1
+21,Male,Electrical,1,8,0,1,1
+21,Male,Electronics And Communication,2,8,0,0,1
+22,Male,Information Technology,2,8,0,0,1
+21,Male,Mechanical,2,9,1,0,1
+21,Male,Electrical,2,7,1,1,1
+21,Male,Mechanical,1,9,1,1,1
+22,Female,Electrical,2,8,0,0,1
+21,Male,Civil,2,9,0,0,1
+22,Male,Mechanical,1,9,1,0,1
+21,Female,Information Technology,2,9,0,0,1
+22,Female,Electronics And Communication,1,8,1,1,1
+22,Male,Electronics And Communication,1,8,0,0,1
+22,Male,Electronics And Communication,2,9,0,0,1
+21,Male,Information Technology,1,8,0,0,1
+22,Female,Civil,1,8,0,0,1
+21,Female,Civil,1,7,1,0,0
+21,Female,Electrical,1,9,0,0,1
+22,Male,Computer Science,1,9,0,0,1
+22,Female,Information Technology,2,8,0,0,1
+22,Male,Civil,2,9,0,1,1
+21,Male,Mechanical,1,7,1,0,0
+22,Male,Information Technology,2,7,0,0,0
+22,Male,Civil,2,8,0,0,1
+22,Male,Computer Science,2,7,0,1,0
+21,Male,Information Technology,1,9,1,0,1
+22,Male,Computer Science,1,8,0,0,1
+22,Male,Civil,1,7,0,0,0
+21,Female,Computer Science,2,8,1,0,1
+21,Male,Civil,2,7,1,0,1
+22,Male,Electronics And Communication,2,8,0,0,1
+22,Male,Mechanical,1,7,1,0,0
+21,Male,Electrical,1,7,1,0,1
+22,Male,Electrical,2,8,0,0,1
+22,Male,Electrical,1,8,0,1,1
+21,Female,Computer Science,1,8,1,0,1
+21,Male,Mechanical,1,7,1,0,0
+21,Male,Information Technology,1,9,1,0,1
+22,Male,Electrical,0,9,0,0,1
+21,Female,Information Technology,0,9,0,0,1
+21,Male,Electronics And Communication,0,8,0,0,1
+21,Female,Computer Science,1,9,1,0,1
+22,Male,Information Technology,1,7,0,0,0
+21,Male,Mechanical,1,8,1,1,1
+21,Male,Mechanical,0,9,1,1,1
+22,Male,Information Technology,0,7,0,0,0
+21,Male,Information Technology,0,8,0,0,1
+22,Male,Civil,0,8,0,0,1
+21,Male,Mechanical,0,8,1,0,1
+22,Female,Computer Science,0,9,1,1,1
+22,Female,Information Technology,1,8,1,0,1
+21,Male,Mechanical,0,7,1,0,0
+21,Male,Electrical,0,7,0,0,0
+22,Male,Mechanical,0,9,1,0,1
+22,Male,Information Technology,1,7,0,0,0
+22,Male,Mechanical,2,9,1,0,1
+21,Male,Electrical,0,8,1,0,1
+21,Male,Information Technology,1,8,0,0,1
+22,Male,Information Technology,1,9,0,0,1
+22,Female,Computer Science,0,9,1,0,1
+21,Male,Civil,1,9,0,0,1
+22,Female,Information Technology,2,8,0,0,1
+21,Male,Information Technology,1,9,0,0,1
+22,Male,Civil,0,9,0,1,1
+21,Male,Electrical,0,8,0,0,1
+22,Male,Computer Science,1,9,0,0,1
+22,Male,Electrical,0,8,0,0,1
+21,Male,Electronics And Communication,1,8,0,0,1
+21,Male,Electrical,0,8,0,0,1
+21,Male,Civil,0,9,0,1,1
+21,Male,Computer Science,1,9,0,0,1
+21,Male,Civil,0,9,0,0,1
+21,Female,Information Technology,1,8,0,0,1
+21,Male,Civil,1,7,0,0,0
+21,Male,Computer Science,1,9,0,0,1
+22,Male,Electronics And Communication,0,9,0,0,1
+22,Male,Electronics And Communication,1,7,1,1,0
+21,Female,Electrical,1,8,0,0,1
+21,Male,Information Technology,1,8,1,0,1
+22,Male,Information Technology,1,8,0,0,1
+22,Female,Electrical,1,7,0,1,0
+21,Male,Computer Science,1,7,0,0,0
+22,Male,Computer Science,1,9,0,0,1
+21,Male,Computer Science,2,9,0,0,1
+22,Female,Computer Science,0,9,1,1,1
+21,Male,Information Technology,0,7,0,0,1
+22,Male,Mechanical,0,8,1,0,1
+22,Male,Computer Science,2,8,0,0,1
+21,Male,Electronics And Communication,0,8,0,0,1
+21,Male,Mechanical,1,9,1,0,1
+22,Female,Information Technology,1,9,0,0,1
+21,Male,Mechanical,0,9,1,0,1
+21,Male,Civil,0,9,0,0,1
+21,Male,Civil,0,7,0,0,0
+21,Male,Information Technology,0,9,0,0,1
+21,Male,Information Technology,0,9,0,0,1
+21,Male,Mechanical,1,7,1,0,0
+21,Male,Electronics And Communication,1,8,1,1,1
+21,Male,Mechanical,1,9,1,0,1
+22,Male,Computer Science,1,8,1,0,1
+22,Male,Computer Science,1,8,0,1,1
+22,Male,Information Technology,1,9,0,0,1
+22,Male,Electronics And Communication,0,7,0,0,0
+21,Female,Electronics And Communication,1,7,0,0,1
+21,Male,Electronics And Communication,1,8,1,1,1
+22,Male,Mechanical,0,9,1,0,1
+22,Male,Computer Science,1,9,0,0,1
+22,Male,Mechanical,0,7,1,0,0
+21,Male,Information Technology,0,7,0,0,1
+22,Male,Mechanical,1,9,1,0,1
+22,Male,Electrical,0,9,0,0,1
+21,Male,Computer Science,2,9,0,1,1
+22,Male,Computer Science,3,9,0,0,1
+22,Male,Mechanical,0,9,1,1,1
+21,Male,Information Technology,2,9,0,0,1
+21,Male,Mechanical,1,7,1,0,0
+21,Male,Electrical,1,7,0,0,1
+22,Male,Information Technology,0,9,0,0,1
+22,Female,Mechanical,1,7,1,0,0
+22,Male,Civil,0,7,0,0,0
+21,Female,Electronics And Communication,1,8,0,0,1
+22,Female,Information Technology,0,9,0,0,1
+22,Male,Mechanical,0,9,1,0,1
+22,Male,Mechanical,0,8,1,0,1
+21,Male,Computer Science,0,9,0,0,1
+21,Male,Information Technology,1,7,1,0,0
+21,Male,Electrical,2,8,0,1,1
+21,Male,Computer Science,1,9,0,0,1
+22,Male,Electrical,1,9,0,0,1
+22,Male,Information Technology,0,7,0,0,1
+22,Female,Information Technology,1,9,1,0,1
+21,Male,Mechanical,1,8,1,0,1
+22,Female,Computer Science,0,8,1,0,1
+21,Male,Civil,0,7,0,0,0
+21,Male,Computer Science,0,7,0,1,0
+22,Male,Information Technology,0,7,0,1,0
+21,Male,Computer Science,0,9,0,0,1
+21,Male,Mechanical,0,9,1,1,1
+22,Male,Mechanical,2,9,0,0,1
+21,Male,Civil,2,8,0,0,1
+21,Male,Electrical,0,8,0,0,1
+21,Female,Electrical,1,8,1,1,1
+22,Male,Electronics And Communication,1,7,0,0,0
+22,Female,Electronics And Communication,1,8,1,1,1
+21,Male,Computer Science,1,8,0,0,1
+22,Male,Computer Science,0,7,0,1,0
+22,Male,Computer Science,0,9,0,0,1
+21,Male,Electrical,0,8,0,0,1
+21,Female,Electrical,1,8,0,0,1
+21,Male,Electronics And Communication,1,7,0,0,0
+22,Female,Mechanical,1,7,1,0,0
+22,Female,Computer Science,1,7,1,0,0
+21,Female,Mechanical,1,8,1,0,1
+21,Male,Electronics And Communication,0,8,0,0,1
+21,Female,Electronics And Communication,1,9,0,0,1
+21,Male,Electronics And Communication,0,9,0,0,1
+22,Male,Computer Science,1,8,0,0,1
+22,Male,Information Technology,0,7,0,0,0
+21,Male,Mechanical,0,9,1,0,1
+22,Male,Mechanical,0,8,1,0,1
+21,Male,Information Technology,0,8,0,0,1
+22,Male,Mechanical,0,7,1,0,0
+22,Male,Information Technology,1,8,0,0,1
+22,Male,Information Technology,0,8,0,0,1
+21,Female,Information Technology,0,8,0,0,1
+21,Male,Mechanical,0,7,0,0,0
+21,Male,Electronics And Communication,0,8,0,0,1
+22,Male,Computer Science,0,9,0,0,1
+22,Male,Civil,1,7,0,0,0
+22,Male,Mechanical,2,7,1,0,0
+21,Male,Computer Science,1,9,0,0,1
+21,Male,Information Technology,0,9,0,0,1
+22,Male,Civil,0,7,0,1,0
+21,Male,Information Technology,1,8,0,0,1
+21,Male,Electronics And Communication,0,8,0,0,1
+21,Male,Electrical,0,9,0,0,1
+21,Male,Electronics And Communication,0,8,0,0,1
+22,Male,Information Technology,1,9,1,0,1
+22,Male,Mechanical,0,9,1,0,1
+22,Male,Computer Science,0,7,0,0,0
+21,Male,Information Technology,1,8,1,1,1
+21,Male,Information Technology,0,7,0,0,0
+21,Male,Electrical,0,7,0,0,0
+22,Male,Computer Science,1,8,0,0,1
+21,Male,Electronics And Communication,0,9,0,0,1
+25,Male,Information Technology,0,7,0,0,1
+26,Male,Electrical,0,7,1,0,0
+24,Male,Information Technology,1,6,0,1,1
+25,Male,Electronics And Communication,0,6,0,0,1
+26,Female,Computer Science,0,7,1,0,0
+26,Male,Computer Science,1,7,0,0,1
+26,Male,Computer Science,1,6,0,0,1
+26,Male,Information Technology,2,7,0,0,1
+24,Female,Computer Science,1,7,0,0,0
+26,Female,Civil,1,6,0,1,1
+26,Male,Computer Science,0,6,0,1,1
+26,Male,Computer Science,1,7,0,0,0
+26,Male,Information Technology,1,7,0,0,0
+26,Male,Mechanical,0,7,0,1,0
+26,Male,Electrical,0,6,0,0,1
+25,Male,Information Technology,1,7,0,0,0
+26,Male,Mechanical,0,6,1,0,1
+24,Male,Electronics And Communication,1,7,0,1,0
+26,Male,Electronics And Communication,0,6,0,0,1
+26,Male,Computer Science,0,6,0,0,1
+24,Female,Computer Science,0,6,1,1,1
+24,Male,Computer Science,0,6,0,1,1
+24,Male,Electrical,1,7,0,0,1
+25,Male,Mechanical,0,7,1,0,0
+25,Male,Computer Science,0,6,0,0,1
+25,Male,Computer Science,0,7,0,0,0
+26,Male,Mechanical,1,6,0,0,1
+26,Male,Computer Science,1,7,0,0,0
+26,Male,Computer Science,0,6,0,1,1
+26,Male,Electronics And Communication,1,7,1,1,0
+25,Female,Computer Science,0,7,1,0,0
+25,Male,Computer Science,2,6,0,0,1
+25,Male,Mechanical,0,7,1,0,0
+26,Male,Civil,0,7,0,0,0
+25,Female,Computer Science,1,7,1,0,1
+26,Male,Information Technology,1,6,0,0,1
+26,Female,Computer Science,0,7,1,0,1
+26,Female,Information Technology,0,7,0,0,1
+26,Male,Computer Science,1,6,0,0,1
+26,Female,Information Technology,0,7,0,0,0
+24,Male,Information Technology,1,7,0,0,0
+24,Male,Civil,0,6,0,0,1
+25,Male,Electronics And Communication,1,6,0,0,1
+26,Male,Mechanical,0,7,1,0,0
+26,Male,Mechanical,1,6,1,1,1
+25,Male,Computer Science,1,7,0,0,1
+26,Male,Computer Science,1,7,0,0,1
+25,Male,Computer Science,2,7,0,1,1
+25,Male,Computer Science,2,7,0,1,1
+24,Male,Computer Science,0,6,0,0,1
+26,Male,Electrical,0,6,0,0,1
+24,Male,Information Technology,0,7,0,0,1
+26,Male,Computer Science,1,7,0,0,1
+26,Male,Mechanical,1,7,1,1,0
+24,Male,Computer Science,1,7,0,0,1
+26,Female,Information Technology,0,6,0,0,1
+25,Female,Computer Science,0,6,1,1,1
+25,Male,Mechanical,1,6,1,0,1
+26,Male,Computer Science,1,6,0,0,1
+25,Female,Electronics And Communication,0,6,0,0,1
+22,Male,Civil,1,6,0,0,0
+21,Female,Electrical,0,6,0,0,0
+22,Male,Computer Science,1,7,0,0,0
+21,Male,Mechanical,0,6,1,0,0
+21,Female,Information Technology,0,7,0,0,0
+22,Male,Computer Science,1,7,0,0,0
+21,Female,Information Technology,1,7,0,1,0
+22,Male,Electrical,0,6,0,0,0
+21,Male,Information Technology,0,7,0,0,0
+22,Male,Information Technology,0,7,0,0,0
+21,Male,Information Technology,0,7,0,1,0
+21,Female,Information Technology,1,7,0,0,0
+22,Male,Electronics And Communication,1,7,0,0,0
+22,Male,Electronics And Communication,1,6,0,1,0
+21,Male,Electrical,1,7,0,0,1
+22,Male,Information Technology,1,6,1,0,0
+21,Male,Computer Science,1,6,0,0,0
+21,Male,Information Technology,1,6,1,0,0
+21,Male,Information Technology,0,7,0,1,0
+22,Male,Information Technology,0,6,0,0,0
+21,Male,Electronics And Communication,0,7,0,0,1
+22,Female,Electrical,1,6,1,1,0
+21,Male,Computer Science,1,7,0,0,0
+21,Female,Information Technology,0,7,0,0,0
+21,Male,Electronics And Communication,1,6,0,1,0
+22,Female,Information Technology,3,7,1,1,0
+21,Female,Computer Science,1,6,1,0,0
+21,Male,Mechanical,0,7,1,0,0
+21,Male,Computer Science,1,8,0,0,1
+22,Female,Information Technology,0,8,0,0,1
+22,Female,Information Technology,1,8,0,0,1
+21,Male,Electronics And Communication,1,7,0,1,0
+21,Male,Information Technology,1,6,0,0,0
+21,Female,Information Technology,1,8,0,0,1
+22,Male,Mechanical,0,8,1,0,1
+22,Male,Mechanical,0,7,1,1,0
+22,Male,Information Technology,2,8,0,0,1
+22,Female,Computer Science,0,6,1,1,0
+21,Male,Information Technology,2,6,0,0,1
+22,Male,Electrical,0,8,0,1,1
+22,Male,Civil,1,7,0,0,0
+22,Female,Civil,1,6,0,1,0
+22,Male,Information Technology,3,8,0,0,1
+21,Male,Electronics And Communication,1,7,0,0,0
+22,Male,Mechanical,0,6,1,0,0
+22,Male,Civil,0,8,1,1,1
+22,Male,Civil,0,7,0,1,0
+21,Female,Computer Science,0,8,1,1,1
+22,Male,Information Technology,1,6,0,0,0
+22,Male,Mechanical,0,6,1,0,0
+21,Male,Computer Science,2,6,0,0,1
+22,Male,Information Technology,0,8,0,1,1
+22,Male,Civil,0,6,0,0,0
+22,Female,Mechanical,1,8,1,0,1
+21,Male,Civil,2,7,1,1,0
+21,Male,Mechanical,0,7,1,0,0
+21,Male,Information Technology,0,6,0,1,0
+21,Male,Mechanical,0,6,1,1,0
+22,Male,Information Technology,0,7,0,1,0
+22,Male,Electronics And Communication,1,8,0,0,1
+21,Male,Information Technology,2,8,0,0,1
+22,Male,Electronics And Communication,1,7,0,0,0
+22,Male,Computer Science,1,8,0,0,1
+22,Male,Computer Science,1,7,0,0,0
+21,Male,Electronics And Communication,0,8,0,1,1
+22,Male,Mechanical,0,8,1,0,1
+21,Male,Computer Science,0,7,0,1,0
+22,Male,Electronics And Communication,0,7,0,0,0
+22,Female,Electronics And Communication,3,6,0,0,1
+21,Male,Electrical,0,8,0,0,1
+21,Female,Electronics And Communication,2,7,0,0,1
+21,Male,Electrical,0,7,0,0,0
+21,Male,Electrical,0,6,0,0,0
+22,Male,Computer Science,2,7,0,0,0
+22,Male,Information Technology,1,8,1,0,1
+21,Male,Electronics And Communication,0,7,0,0,0
+22,Male,Computer Science,0,6,0,0,0
+21,Male,Civil,2,8,0,0,1
+21,Male,Information Technology,1,6,0,0,0
+21,Female,Information Technology,0,6,0,0,0
+21,Male,Information Technology,0,7,0,1,0
+22,Male,Information Technology,1,6,0,0,0
+22,Female,Computer Science,1,6,1,0,0
+21,Male,Electrical,1,7,0,0,1
+28,Female,Computer Science,3,8,1,0,1
+21,Male,Computer Science,0,7,0,1,0
+22,Male,Information Technology,0,7,0,1,0
+21,Female,Computer Science,0,6,1,0,0
+22,Female,Electronics And Communication,0,8,0,0,1
+22,Male,Computer Science,1,6,0,0,0
+21,Male,Electrical,0,8,0,0,1
+21,Male,Information Technology,2,8,0,0,1
+22,Male,Computer Science,0,8,0,1,1
+22,Female,Electrical,1,8,0,0,1
+22,Female,Computer Science,0,6,1,0,0
+21,Male,Computer Science,1,6,0,0,0
+22,Male,Electronics And Communication,0,6,0,0,0
+21,Male,Electronics And Communication,1,6,0,0,0
+21,Male,Computer Science,0,7,0,0,0
+22,Male,Mechanical,0,6,1,0,0
+22,Male,Computer Science,1,8,0,0,1
+21,Male,Civil,0,8,1,0,1
+22,Male,Computer Science,1,8,0,0,1
+22,Male,Information Technology,0,7,0,0,0
+22,Male,Mechanical,1,7,1,1,0
+21,Male,Information Technology,1,6,0,0,0
+22,Male,Information Technology,2,8,0,0,1
+21,Male,Information Technology,1,8,0,0,1
+21,Male,Electrical,0,6,0,0,0
+22,Male,Information Technology,1,7,0,0,0
+21,Male,Information Technology,0,7,0,0,0
+21,Male,Electrical,0,8,0,0,1
+21,Male,Mechanical,0,7,1,0,0
+21,Male,Electronics And Communication,0,6,0,0,0
+22,Female,Information Technology,0,7,0,0,0
+22,Male,Mechanical,1,8,1,0,1
+22,Male,Computer Science,3,6,0,0,1
+21,Male,Electronics And Communication,1,6,0,0,0
+22,Male,Electronics And Communication,0,7,0,0,0
+21,Male,Computer Science,2,7,0,0,1
+22,Male,Electrical,0,6,0,0,0
+21,Male,Computer Science,0,6,0,0,0
+22,Male,Electronics And Communication,1,6,0,0,0
+22,Male,Information Technology,1,8,0,0,1
+22,Female,Civil,1,8,0,1,1
+22,Male,Computer Science,3,6,0,1,0
+21,Male,Information Technology,0,6,0,0,0
+22,Male,Civil,0,8,0,0,1
+22,Male,Electronics And Communication,1,6,0,0,0
+22,Female,Civil,1,6,0,0,0
+21,Male,Information Technology,0,8,0,0,1
+21,Male,Computer Science,1,7,0,0,0
+22,Male,Information Technology,1,8,1,0,1
+21,Male,Computer Science,0,7,0,0,0
+21,Male,Electrical,0,8,0,0,1
+21,Male,Information Technology,0,7,0,0,0
+21,Male,Electrical,2,8,0,1,1
+22,Female,Computer Science,1,6,1,0,0
+21,Female,Computer Science,1,7,1,0,0
+22,Male,Information Technology,1,8,0,0,1
+24,Male,Computer Science,1,8,0,0,1
+24,Male,Computer Science,1,6,1,1,1
+22,Male,Information Technology,1,6,0,0,1
+24,Male,Computer Science,1,7,0,0,1
+24,Male,Computer Science,1,7,0,0,1
+24,Male,Computer Science,1,7,0,0,1
+24,Female,Information Technology,1,6,0,0,1
+24,Male,Computer Science,0,8,0,0,1
+20,Female,Electrical,1,7,0,1,0
+21,Male,Computer Science,1,7,0,0,1
+23,Male,Electronics And Communication,0,7,0,0,0
+22,Female,Computer Science,1,8,1,0,1
+23,Male,Computer Science,1,7,0,0,1
+23,Male,Electrical,2,7,0,0,0
+22,Female,Computer Science,2,7,1,1,1
+24,Male,Computer Science,1,6,0,0,1
+22,Male,Information Technology,2,7,0,0,0
+24,Male,Computer Science,0,6,0,0,1
+22,Male,Information Technology,0,6,0,0,0
+23,Male,Mechanical,0,7,0,0,0
+22,Male,Electrical,1,7,0,0,0
+23,Male,Electronics And Communication,1,6,0,1,1
+23,Male,Electrical,0,8,0,1,1
+20,Male,Electrical,1,8,0,0,1
+24,Male,Mechanical,0,7,1,0,0
+24,Male,Computer Science,2,6,0,0,1
+20,Male,Computer Science,1,6,0,0,0
+24,Male,Mechanical,0,6,1,0,1
+22,Female,Electrical,1,7,0,0,0
+20,Male,Civil,1,6,0,0,0
+23,Male,Electronics And Communication,1,6,0,1,1
+23,Male,Mechanical,0,6,1,0,0
+22,Male,Computer Science,1,6,0,0,0
+22,Male,Mechanical,1,7,1,0,0
+23,Male,Computer Science,0,7,0,0,0
+22,Male,Computer Science,1,8,0,0,1
+20,Male,Computer Science,0,8,0,1,1
+20,Female,Computer Science,1,7,1,0,1
+21,Male,Electrical,0,7,0,0,1
+23,Male,Computer Science,1,7,0,0,0
+21,Female,Information Technology,1,8,0,0,1
+21,Male,Mechanical,0,6,1,0,0
+20,Male,Civil,0,8,0,0,1
+23,Female,Computer Science,0,7,1,1,0
+21,Male,Electronics And Communication,0,8,0,1,1
+24,Male,Electronics And Communication,1,7,0,0,0
+21,Male,Electronics And Communication,1,6,0,0,0
+21,Male,Electrical,0,8,0,0,1
+22,Male,Computer Science,0,6,0,1,0
+20,Male,Computer Science,2,7,0,0,0
+21,Male,Computer Science,0,7,0,0,1
+20,Male,Information Technology,0,6,0,0,0
+23,Male,Information Technology,0,8,0,0,1
+22,Male,Computer Science,0,7,0,0,0
+21,Male,Information Technology,0,8,0,0,1
+21,Male,Mechanical,0,6,1,0,1
+24,Male,Information Technology,0,8,0,0,1
+23,Male,Electronics And Communication,1,6,0,0,0
+22,Male,Computer Science,0,7,0,0,1
+20,Male,Mechanical,0,6,1,1,0
+24,Male,Mechanical,0,7,1,0,1
+21,Male,Information Technology,0,8,0,1,1
+23,Male,Computer Science,2,7,0,1,1
+23,Male,Mechanical,1,7,1,0,1
+23,Male,Civil,0,8,0,0,1
+22,Male,Electronics And Communication,1,7,0,0,0
+24,Male,Mechanical,1,8,1,0,1
+21,Female,Computer Science,0,8,1,1,1
+22,Male,Computer Science,0,6,0,1,0
+22,Male,Electronics And Communication,0,6,0,0,1
+23,Male,Electrical,0,6,0,0,0
+20,Male,Computer Science,1,7,0,0,1
+22,Male,Computer Science,1,8,0,0,1
+20,Male,Electronics And Communication,0,8,0,0,1
+23,Male,Computer Science,1,7,0,0,0
+21,Male,Information Technology,1,7,0,0,1
+24,Male,Civil,0,8,0,0,1
+21,Male,Information Technology,0,8,0,0,1
+21,Male,Electrical,2,6,1,1,1
+20,Female,Information Technology,0,6,0,0,0
+23,Male,Computer Science,1,6,0,0,0
+20,Male,Civil,2,5,0,0,0
+21,Male,Mechanical,1,5,1,0,0
+23,Female,Information Technology,1,6,1,0,0
+24,Female,Electronics And Communication,0,5,0,0,0
+22,Male,Civil,1,6,0,0,0
+24,Male,Computer Science,1,5,0,0,0
+23,Female,Computer Science,0,5,1,1,0
+23,Male,Information Technology,0,5,0,1,0
+23,Male,Information Technology,0,5,0,0,0
+22,Male,Civil,2,6,0,0,0
+24,Male,Information Technology,0,6,0,0,1
+22,Male,Civil,0,6,0,0,1
+24,Male,Computer Science,1,6,0,0,1
+20,Male,Computer Science,1,5,0,0,0
+20,Male,Computer Science,2,5,0,0,0
+24,Male,Mechanical,0,5,0,1,0
+24,Male,Civil,0,5,0,0,0
+21,Male,Information Technology,0,5,0,0,0
+23,Male,Electrical,1,6,0,1,0
+21,Female,Computer Science,0,7,1,0,1
+23,Female,Computer Science,1,7,1,0,1
+20,Male,Civil,1,6,1,0,1
+24,Female,Information Technology,1,7,0,0,0
+24,Female,Mechanical,1,7,0,0,1
+20,Male,Civil,0,7,1,1,0
+23,Male,Electronics And Communication,0,6,0,1,0
+24,Male,Mechanical,0,8,1,0,1
+20,Male,Mechanical,0,8,1,1,1
+23,Male,Information Technology,0,7,0,1,0
+22,Female,Information Technology,0,8,0,0,1
+24,Male,Electronics And Communication,0,7,0,0,0
+23,Male,Information Technology,0,7,0,0,0
+21,Male,Information Technology,0,7,0,0,1
+23,Male,Computer Science,1,8,0,0,1
+21,Female,Electronics And Communication,1,7,0,0,0
+24,Male,Information Technology,1,7,0,0,1
+24,Female,Electronics And Communication,0,8,0,0,1
+22,Male,Information Technology,2,7,1,0,0
+21,Female,Electronics And Communication,0,7,0,0,0
+23,Male,Electronics And Communication,2,8,0,0,1
+22,Male,Information Technology,0,7,0,0,1
+24,Male,Civil,0,8,1,0,1
+20,Male,Mechanical,1,8,0,0,1
+22,Male,Computer Science,1,8,0,0,1
+21,Male,Civil,0,8,0,0,1
+20,Male,Information Technology,1,7,0,0,1
+21,Male,Civil,0,8,1,0,1
+22,Male,Computer Science,1,8,0,1,1
+24,Male,Computer Science,1,7,0,0,0
+21,Male,Civil,0,7,0,0,1
+23,Male,Information Technology,1,8,0,0,1
+21,Male,Electrical,0,6,0,0,1
+20,Male,Mechanical,1,7,1,1,0
+24,Male,Information Technology,1,8,0,0,1
+20,Female,Computer Science,2,7,1,1,0
+23,Female,Electronics And Communication,0,6,0,0,0
+22,Male,Civil,0,6,0,0,0
+22,Male,Computer Science,3,8,0,0,1
+23,Male,Mechanical,1,8,1,0,1
+23,Male,Information Technology,0,7,0,1,1
+23,Male,Electrical,0,8,0,0,1
+20,Male,Civil,0,8,0,0,1
+24,Male,Mechanical,0,6,1,1,1
+20,Female,Electronics And Communication,0,8,0,0,1
+22,Male,Electronics And Communication,1,8,0,0,1
+20,Male,Civil,2,6,0,0,1
+23,Male,Electrical,0,7,0,0,1
+21,Male,Civil,0,7,0,0,0
+24,Male,Mechanical,0,6,1,0,1
+21,Male,Mechanical,0,8,1,1,1
+22,Male,Information Technology,1,7,0,0,1
+24,Male,Information Technology,0,6,0,0,1
+20,Male,Electrical,0,7,0,0,0
+24,Male,Mechanical,1,8,1,1,1
+22,Male,Mechanical,0,8,1,0,1
+23,Male,Information Technology,2,7,0,0,1
+21,Female,Information Technology,0,6,0,0,0
+22,Male,Electronics And Communication,1,8,0,0,1
+21,Male,Computer Science,0,6,0,1,1
+23,Female,Computer Science,1,7,1,0,0
+21,Male,Mechanical,0,7,1,0,0
+21,Male,Electronics And Communication,0,7,0,1,0
+20,Male,Information Technology,1,8,0,0,1
+21,Male,Information Technology,1,8,0,0,1
+22,Male,Computer Science,0,6,0,1,0
+24,Male,Computer Science,1,8,0,0,1
+20,Male,Electronics And Communication,0,7,0,0,0
+21,Male,Information Technology,1,6,1,0,0
+21,Male,Computer Science,0,6,0,1,0
+21,Male,Electronics And Communication,0,8,0,1,1
+21,Female,Computer Science,1,8,1,1,1
+21,Female,Electronics And Communication,0,8,0,0,1
+23,Female,Electronics And Communication,0,8,0,0,1
+21,Male,Civil,0,6,1,1,0
+24,Female,Electronics And Communication,0,8,0,0,1
+23,Female,Mechanical,1,6,1,0,0
+23,Male,Electrical,0,8,0,0,1
+23,Male,Computer Science,1,8,0,0,1
+22,Male,Information Technology,1,8,0,1,1
+21,Male,Mechanical,0,6,1,0,0
+24,Male,Information Technology,0,6,0,0,1
+24,Male,Electronics And Communication,1,6,1,1,1
+22,Male,Electronics And Communication,1,8,1,1,1
+20,Male,Mechanical,0,6,1,0,0
+20,Male,Computer Science,0,8,0,0,1
+21,Male,Electrical,0,6,0,0,0
+22,Male,Information Technology,0,6,0,0,0
+24,Female,Electronics And Communication,0,6,0,0,1
+21,Male,Information Technology,0,7,0,0,0
+24,Female,Computer Science,1,7,1,0,1
+22,Male,Information Technology,0,6,0,0,0
+24,Male,Information Technology,2,8,0,0,1
+22,Male,Information Technology,1,6,0,0,0
+21,Male,Civil,0,7,1,1,0
+20,Male,Mechanical,0,7,1,0,0
+22,Male,Computer Science,0,6,0,0,0
+21,Male,Computer Science,0,6,0,0,0
+22,Male,Electronics And Communication,0,7,0,0,0
+23,Male,Electronics And Communication,0,6,0,0,0
+23,Female,Information Technology,1,5,0,0,0
+22,Female,Computer Science,1,5,1,0,0
+20,Female,Computer Science,0,5,1,1,0
+20,Male,Mechanical,0,5,1,0,0
+24,Female,Computer Science,2,5,1,0,0
+24,Male,Electronics And Communication,0,6,0,0,1
+22,Male,Information Technology,1,6,0,0,0
+23,Female,Electronics And Communication,0,5,0,0,0
+22,Male,Mechanical,1,6,1,0,0
+21,Female,Mechanical,1,5,1,0,0
+22,Male,Mechanical,1,5,0,0,0
+24,Male,Information Technology,1,6,0,1,1
+23,Male,Mechanical,0,5,1,1,0
+23,Female,Civil,1,5,0,0,0
+22,Male,Electrical,0,5,0,0,0
+20,Male,Computer Science,1,5,0,0,0
+23,Male,Computer Science,1,5,0,0,0
+23,Male,Civil,0,5,0,0,0
+21,Female,Information Technology,0,6,0,0,0
+24,Male,Civil,0,6,0,0,1
+23,Male,Computer Science,0,6,0,0,1
+24,Male,Information Technology,1,6,0,0,1
+22,Male,Information Technology,1,5,0,0,0
+22,Male,Electrical,1,6,1,1,0
+21,Male,Information Technology,0,5,0,0,0
+21,Male,Electronics And Communication,0,6,0,0,0
+20,Male,Computer Science,0,5,0,0,0
+22,Male,Information Technology,0,6,0,0,0
+23,Female,Mechanical,1,5,1,0,0
+22,Male,Computer Science,2,6,0,0,1
+23,Male,Civil,1,6,0,1,0
+22,Male,Electrical,2,6,1,0,1
+21,Male,Mechanical,0,5,1,1,0
+21,Male,Electrical,0,6,0,0,0
+20,Male,Mechanical,1,5,1,0,0
+24,Male,Information Technology,0,6,0,0,1
+23,Male,Mechanical,0,5,1,0,0
+21,Male,Civil,0,5,0,1,0
+21,Male,Computer Science,1,6,0,1,0
+20,Male,Information Technology,0,6,0,0,0
+21,Male,Computer Science,2,5,0,0,0
+23,Male,Computer Science,3,6,0,0,1
+21,Male,Electronics And Communication,1,5,0,0,0
+22,Male,Electrical,1,6,0,1,0
+20,Male,Civil,0,6,0,1,0
+24,Male,Information Technology,0,6,0,0,1
+24,Male,Electronics And Communication,1,6,0,1,1
+22,Male,Mechanical,0,6,1,0,0
+22,Male,Information Technology,0,6,0,0,0
+23,Male,Civil,1,6,0,1,0
+22,Male,Computer Science,0,6,0,0,0
+24,Male,Mechanical,0,6,1,0,1
+20,Male,Mechanical,0,6,1,1,0
+24,Male,Civil,1,6,0,0,1
+21,Male,Mechanical,1,5,1,0,0
+23,Male,Computer Science,0,5,0,1,0
+23,Female,Computer Science,1,5,1,0,0
+23,Male,Computer Science,1,6,0,0,0
+21,Male,Computer Science,1,6,0,0,0
+22,Male,Civil,0,5,1,0,0
+21,Male,Electronics And Communication,0,6,0,0,0
+22,Male,Electrical,1,6,1,1,0
+22,Male,Information Technology,0,5,0,0,0
+23,Male,Civil,1,6,0,0,0
+23,Male,Civil,0,6,0,1,0
+21,Male,Electrical,0,6,0,1,0
+21,Male,Computer Science,0,6,0,1,0
+23,Female,Computer Science,1,8,1,0,1
+20,Male,Computer Science,3,7,0,1,0
+21,Male,Electronics And Communication,2,7,0,0,1
+21,Female,Computer Science,0,7,1,0,0
+23,Male,Computer Science,1,7,0,0,0
+20,Male,Computer Science,1,6,0,0,0
+21,Male,Information Technology,1,6,0,0,0
+20,Male,Information Technology,0,8,0,0,1
+22,Female,Information Technology,1,6,0,0,0
+21,Female,Information Technology,1,6,0,0,0
+24,Male,Information Technology,0,7,0,0,0
+20,Male,Computer Science,1,8,0,0,1
+23,Male,Electrical,1,8,0,0,1
+22,Female,Electronics And Communication,1,7,1,0,0
+20,Male,Information Technology,1,6,0,0,0
+20,Male,Civil,0,7,0,0,0
+24,Male,Computer Science,2,6,0,0,1
+22,Male,Civil,0,8,1,0,1
+20,Female,Information Technology,1,6,0,0,0
+21,Male,Civil,0,8,1,0,1
+22,Male,Mechanical,0,8,0,0,1
+22,Male,Information Technology,1,8,1,0,1
+22,Female,Electronics And Communication,0,8,0,0,1
+24,Male,Civil,1,7,1,0,0
+22,Male,Information Technology,1,6,0,0,0
+23,Male,Information Technology,0,7,0,0,0
+23,Male,Electronics And Communication,1,6,0,1,0
+22,Female,Information Technology,1,6,0,0,0
+23,Male,Mechanical,1,6,1,0,0
+24,Male,Information Technology,0,6,0,0,1
+24,Male,Information Technology,0,8,0,0,1
+22,Male,Computer Science,0,6,0,1,0
+24,Male,Computer Science,1,6,0,0,1
+21,Female,Computer Science,0,7,1,0,0
+24,Male,Computer Science,0,7,0,0,1
+21,Male,Mechanical,0,8,0,0,1
+24,Male,Civil,0,6,1,0,1
+24,Male,Information Technology,1,6,0,0,1
+21,Male,Electrical,1,6,0,0,0
+24,Male,Electronics And Communication,1,8,0,1,1
+20,Male,Computer Science,0,6,0,0,0
+20,Female,Mechanical,1,6,1,0,0
+24,Male,Computer Science,0,6,0,0,1
+21,Male,Computer Science,2,8,0,0,1
+22,Male,Computer Science,1,8,0,0,1
+23,Male,Electronics And Communication,0,7,0,0,0
+21,Female,Information Technology,0,8,0,0,1
+23,Male,Computer Science,1,6,0,0,0
+23,Male,Civil,0,8,0,0,1
+22,Male,Electronics And Communication,0,7,0,0,0
+24,Male,Electronics And Communication,1,7,1,1,0
+22,Male,Information Technology,0,6,0,0,0
+24,Male,Civil,0,7,1,1,0
+21,Male,Mechanical,0,8,1,1,1
+22,Female,Electronics And Communication,1,6,1,1,0
+22,Male,Civil,0,7,0,0,0
+22,Male,Information Technology,1,6,1,0,0
+24,Female,Electronics And Communication,1,7,1,1,1
+24,Male,Computer Science,0,6,0,1,1
+23,Female,Mechanical,1,7,1,0,0
+22,Male,Electronics And Communication,1,8,0,0,1
+20,Female,Mechanical,1,8,1,0,1
+21,Male,Civil,0,7,0,0,0
+20,Male,Mechanical,1,7,1,0,0
+22,Male,Computer Science,0,7,0,0,0
+21,Male,Computer Science,2,6,0,0,1
+23,Male,Computer Science,1,8,0,0,1
+20,Male,Electronics And Communication,1,8,1,1,1
+22,Female,Computer Science,1,6,1,0,0
+20,Male,Mechanical,0,8,1,0,1
+21,Male,Electronics And Communication,0,7,0,0,0
+22,Male,Electronics And Communication,0,8,0,0,1
+21,Male,Mechanical,0,7,1,0,0
+23,Male,Electronics And Communication,0,6,0,0,0
+21,Male,Electrical,0,7,0,0,0
+21,Male,Information Technology,1,6,1,0,0
+20,Male,Mechanical,0,6,1,1,0
+21,Male,Computer Science,1,6,0,0,0
+24,Male,Mechanical,0,8,1,1,1
+21,Male,Electrical,0,6,0,0,0
+22,Male,Civil,0,7,0,0,0
+24,Female,Information Technology,1,7,0,0,0
+22,Male,Computer Science,1,6,0,0,0
+21,Male,Information Technology,2,8,0,0,1
+23,Male,Computer Science,2,8,0,0,1
+24,Male,Information Technology,2,8,0,0,1
+22,Male,Mechanical,0,8,1,0,1
+21,Male,Computer Science,1,8,0,0,1
+21,Female,Computer Science,0,7,1,1,0
+23,Male,Computer Science,0,6,0,0,0
+20,Male,Information Technology,0,7,0,1,0
+23,Male,Computer Science,0,6,0,0,0
+23,Male,Electrical,1,7,0,0,1
+21,Female,Information Technology,1,6,0,0,0
+21,Male,Information Technology,2,7,0,0,1
+22,Male,Mechanical,1,7,1,1,0
+24,Male,Mechanical,1,7,1,0,0
+21,Male,Information Technology,1,7,1,0,0
+21,Male,Civil,0,7,1,0,0
+21,Female,Electronics And Communication,1,7,1,0,0
+20,Male,Computer Science,0,7,0,0,0
+24,Male,Computer Science,1,7,0,0,0
+20,Male,Information Technology,0,6,0,0,0
+20,Female,Electrical,1,7,0,1,1
+20,Male,Information Technology,0,7,0,0,0
+24,Male,Electrical,1,7,0,0,1
+22,Male,Electronics And Communication,1,8,0,1,1
+23,Female,Information Technology,0,7,0,0,0
+20,Male,Electronics And Communication,2,7,0,0,1
+22,Male,Computer Science,0,6,0,0,0
+21,Male,Electronics And Communication,0,8,0,0,1
+21,Male,Computer Science,0,6,0,0,0
+22,Male,Information Technology,0,8,0,1,1
+22,Male,Computer Science,0,6,0,0,0
+22,Male,Mechanical,0,6,1,0,0
+22,Male,Information Technology,2,6,0,0,1
+21,Male,Information Technology,1,7,0,0,0
+22,Female,Electrical,0,8,0,0,1
+23,Female,Electrical,0,6,0,0,0
+24,Male,Electronics And Communication,0,6,0,0,1
+24,Male,Civil,1,6,0,0,1
+21,Female,Electrical,1,8,0,1,1
+22,Female,Mechanical,1,6,1,0,0
+20,Male,Information Technology,2,8,0,0,1
+23,Male,Information Technology,0,8,0,0,1
+21,Female,Computer Science,1,6,1,0,0
+21,Male,Computer Science,0,6,0,0,0
+21,Male,Information Technology,1,8,0,0,1
+23,Male,Mechanical,1,8,1,0,1
+22,Male,Electronics And Communication,0,7,0,0,0
+23,Male,Information Technology,0,7,0,0,0
+23,Male,Information Technology,2,6,0,0,1
+20,Male,Mechanical,0,8,1,0,1
+20,Male,Information Technology,0,8,0,0,1
+22,Male,Computer Science,2,8,0,1,1
+22,Male,Information Technology,1,7,0,0,1
+21,Male,Information Technology,0,7,0,0,1
+20,Male,Computer Science,1,8,0,0,1
+20,Male,Electrical,2,7,1,0,1
+21,Male,Information Technology,0,7,0,0,0
+19,Female,Information Technology,1,8,0,1,1
+19,Male,Electrical,1,8,0,0,1
+21,Male,Computer Science,1,7,0,0,1
+19,Male,Computer Science,0,7,0,0,1
+20,Female,Computer Science,0,8,1,0,1
+19,Male,Electrical,0,8,0,0,1
+21,Female,Civil,1,8,0,1,1
+21,Female,Computer Science,1,8,1,0,1
+22,Male,Information Technology,0,7,0,0,0
+20,Male,Electronics And Communication,0,8,0,0,1
+22,Male,Electronics And Communication,1,7,0,0,0
+21,Male,Computer Science,0,8,0,0,1
+22,Male,Computer Science,0,7,0,0,0
+21,Male,Computer Science,1,8,0,0,1
+20,Male,Information Technology,1,8,0,0,1
+22,Female,Mechanical,1,8,1,0,1
+22,Female,Computer Science,0,8,1,0,1
+21,Male,Electrical,0,8,0,0,1
+22,Male,Mechanical,0,8,1,0,1
+22,Female,Computer Science,1,7,1,0,1
+19,Male,Computer Science,1,7,0,1,1
+22,Male,Computer Science,0,8,0,1,1
+22,Male,Computer Science,3,7,0,0,0
+21,Male,Information Technology,0,7,0,0,0
+22,Male,Information Technology,0,7,0,0,0
+21,Male,Civil,1,7,0,0,0
+20,Female,Information Technology,1,8,1,0,1
+19,Male,Information Technology,0,8,0,0,1
+21,Male,Electronics And Communication,1,8,0,1,1
+21,Male,Information Technology,2,7,0,1,0
+19,Male,Computer Science,1,8,0,0,1
+22,Female,Computer Science,1,8,1,1,1
+21,Male,Computer Science,1,8,0,0,1
+19,Male,Electrical,1,8,0,1,1
+19,Female,Electronics And Communication,1,7,0,0,1
+21,Male,Electrical,0,8,0,0,1
+20,Male,Computer Science,0,7,0,1,0
+20,Male,Computer Science,1,7,0,0,0
+22,Male,Mechanical,3,7,1,1,0
+22,Male,Electronics And Communication,0,7,0,0,0
+20,Female,Information Technology,1,7,1,0,1
+20,Male,Information Technology,0,7,0,1,1
+22,Female,Computer Science,3,8,1,0,1
+22,Male,Electronics And Communication,2,8,0,0,1
+19,Female,Civil,1,8,0,0,1
+22,Male,Electronics And Communication,1,8,1,1,1
+22,Male,Information Technology,0,8,0,1,1
+20,Male,Mechanical,1,8,1,0,1
+20,Male,Information Technology,1,8,1,1,1
+20,Male,Mechanical,1,7,1,1,0
+22,Female,Computer Science,1,7,1,0,0
+20,Male,Computer Science,1,8,0,0,1
+19,Male,Civil,1,7,0,0,0
+21,Male,Civil,0,7,0,0,0
+19,Male,Computer Science,2,7,0,0,1
+22,Male,Electrical,0,7,0,0,0
+19,Male,Electronics And Communication,0,8,0,0,1
+19,Male,Civil,0,7,1,0,0
+21,Male,Information Technology,0,8,0,0,1
+19,Male,Civil,0,8,0,1,1
+22,Male,Computer Science,1,8,0,0,1
+20,Male,Computer Science,1,7,0,0,0
+22,Male,Computer Science,0,7,0,0,0
+21,Male,Information Technology,1,8,1,0,1
+20,Male,Information Technology,1,8,1,0,1
+19,Male,Mechanical,1,8,1,0,1
+20,Male,Civil,1,8,0,0,1
+21,Male,Computer Science,0,7,0,0,0
+22,Male,Information Technology,0,8,0,0,1
+20,Female,Computer Science,1,8,1,0,1
+19,Male,Information Technology,1,7,0,0,0
+21,Male,Computer Science,1,8,0,0,1
+20,Male,Electronics And Communication,0,8,0,0,1
+21,Male,Computer Science,1,8,0,0,1
+20,Male,Mechanical,0,8,1,1,1
+21,Male,Electrical,0,7,0,0,0
+20,Male,Computer Science,2,8,0,0,1
+21,Male,Computer Science,1,7,0,1,0
+22,Male,Computer Science,0,8,0,0,1
+19,Male,Electronics And Communication,0,8,0,0,1
+19,Male,Civil,0,7,0,0,0
+21,Male,Information Technology,0,7,0,0,0
+21,Male,Mechanical,1,8,1,0,1
+19,Male,Computer Science,0,8,0,0,1
+22,Male,Computer Science,2,7,0,0,0
+20,Male,Computer Science,1,7,0,0,0
+22,Male,Information Technology,1,7,1,0,0
+21,Male,Mechanical,0,8,1,0,1
+19,Male,Electronics And Communication,0,8,0,0,1
+20,Male,Information Technology,1,7,0,0,0
+22,Male,Information Technology,1,8,0,0,1
+20,Male,Computer Science,0,8,0,0,1
+19,Male,Computer Science,1,7,0,0,0
+21,Male,Electronics And Communication,0,7,0,0,1
+19,Male,Electronics And Communication,0,8,0,0,1
+21,Male,Electrical,1,8,0,0,1
+19,Male,Computer Science,0,8,0,0,1
+19,Male,Computer Science,1,8,0,0,1
+22,Male,Computer Science,0,7,0,0,0
+21,Female,Electronics And Communication,0,8,0,0,1
+19,Male,Computer Science,2,8,0,0,1
+19,Male,Electronics And Communication,0,7,0,0,1
+19,Male,Electrical,0,6,0,0,0
+20,Male,Mechanical,0,8,1,0,1
+21,Male,Electrical,1,7,1,1,1
+20,Male,Computer Science,0,8,0,1,1
+22,Male,Computer Science,0,6,0,0,0
+19,Male,Computer Science,0,7,0,0,0
+20,Male,Electrical,0,8,0,1,1
+22,Female,Electrical,0,6,0,0,0
+22,Male,Information Technology,1,6,0,0,0
+21,Male,Electronics And Communication,0,6,0,1,0
+20,Male,Computer Science,0,7,0,1,0
+20,Male,Information Technology,1,7,0,0,0
+21,Male,Information Technology,0,8,0,0,1
+21,Male,Computer Science,1,8,0,0,1
+19,Male,Civil,1,7,0,1,0
+19,Male,Computer Science,0,8,0,0,1
+19,Male,Electrical,1,6,0,0,0
+22,Male,Electronics And Communication,0,7,0,0,0
+22,Male,Electronics And Communication,0,6,0,0,0
+22,Male,Electronics And Communication,1,8,0,1,1
+22,Male,Computer Science,1,7,0,0,0
+19,Male,Mechanical,2,8,1,0,1
+20,Male,Computer Science,0,6,0,1,0
+22,Female,Mechanical,1,6,1,0,0
+21,Male,Information Technology,0,6,0,1,0
+22,Male,Electronics And Communication,3,6,0,0,1
+20,Male,Computer Science,0,7,0,0,0
+20,Male,Information Technology,0,6,0,0,0
+20,Male,Information Technology,1,8,0,0,1
+21,Male,Civil,0,7,0,0,0
+20,Male,Computer Science,2,7,0,0,1
+20,Male,Electrical,1,6,0,0,0
+19,Male,Electrical,2,6,0,1,0
+19,Male,Civil,2,6,1,0,1
+22,Male,Computer Science,1,8,0,0,1
+22,Female,Electrical,0,7,1,1,0
+19,Male,Computer Science,0,6,0,0,0
+22,Male,Mechanical,2,7,1,0,0
+20,Male,Computer Science,1,6,0,0,0
+21,Male,Electrical,1,7,0,0,1
+20,Male,Mechanical,0,8,1,0,1
+22,Male,Computer Science,1,7,0,0,0
+19,Male,Information Technology,1,8,0,0,1
+22,Male,Information Technology,0,6,0,0,0
+19,Male,Electronics And Communication,2,8,0,0,1
+19,Male,Mechanical,0,6,1,1,0
+21,Male,Information Technology,0,8,0,0,1
+21,Male,Information Technology,1,6,0,0,0
+21,Male,Electronics And Communication,2,8,1,1,1
+19,Male,Information Technology,1,7,1,0,0
+21,Male,Computer Science,0,8,0,0,1
+20,Male,Electrical,0,8,0,0,1
+20,Male,Information Technology,0,6,0,0,0
+20,Male,Electronics And Communication,2,6,0,0,1
+21,Male,Electrical,1,8,0,0,1
+22,Male,Electrical,0,7,0,0,0
+21,Male,Information Technology,2,7,0,1,0
+21,Male,Information Technology,2,6,0,0,1
+20,Male,Mechanical,0,6,1,0,0
+21,Male,Electrical,0,7,0,0,0
+22,Male,Information Technology,2,6,0,0,1
+21,Female,Computer Science,0,8,1,0,1
+21,Male,Electronics And Communication,0,8,0,0,1
+19,Male,Computer Science,2,7,0,1,0
+20,Female,Electrical,0,8,1,1,1
+19,Male,Electrical,0,8,0,0,1
+19,Male,Information Technology,3,7,0,0,1
+21,Female,Computer Science,0,6,1,1,0
+21,Male,Computer Science,2,6,0,0,1
+22,Male,Computer Science,2,8,0,0,1
+20,Male,Electrical,1,7,0,0,1
+19,Male,Mechanical,0,6,1,0,0
+20,Male,Electrical,0,6,1,1,0
+19,Male,Civil,0,8,1,0,1
+19,Male,Computer Science,1,6,0,0,0
+21,Male,Computer Science,0,8,0,1,1
+22,Male,Civil,1,7,0,0,0
+22,Male,Information Technology,0,6,0,1,0
+21,Male,Civil,1,6,0,0,0
+21,Female,Computer Science,2,7,1,0,1
+20,Male,Electronics And Communication,1,7,0,0,1
+19,Male,Electronics And Communication,0,6,0,0,0
+20,Male,Mechanical,0,8,1,1,1
+20,Female,Information Technology,1,8,0,0,1
+21,Male,Computer Science,0,6,0,0,0
+20,Male,Information Technology,1,7,0,0,0
+22,Male,Computer Science,2,7,0,0,0
+21,Male,Electronics And Communication,1,8,1,1,1
+19,Male,Computer Science,1,7,0,0,0
+20,Male,Information Technology,2,7,0,0,1
+19,Male,Information Technology,1,8,0,0,1
+21,Male,Information Technology,1,9,0,1,1
+19,Male,Information Technology,0,6,0,1,0
+19,Male,Computer Science,1,9,0,0,1
+19,Male,Civil,0,7,0,0,0
+20,Female,Computer Science,1,6,1,1,1
+20,Male,Information Technology,0,6,0,0,0
+19,Male,Electronics And Communication,0,8,0,0,1
+19,Male,Electronics And Communication,0,7,0,0,0
+21,Male,Computer Science,0,5,0,1,0
+21,Male,Electrical,0,7,0,0,0
+19,Male,Mechanical,0,9,1,1,1
+19,Male,Electronics And Communication,2,8,1,1,1
+19,Male,Electronics And Communication,0,9,0,0,1
+20,Male,Computer Science,3,6,0,0,1
+22,Male,Information Technology,1,6,0,0,1
+22,Male,Computer Science,1,9,0,0,1
+21,Male,Computer Science,1,7,0,1,1
+21,Female,Information Technology,1,5,0,0,0
+22,Male,Electrical,0,5,1,0,0
+19,Male,Mechanical,1,5,1,0,0
+22,Male,Mechanical,0,5,1,0,0
+21,Male,Electronics And Communication,0,9,0,0,1
+19,Male,Computer Science,0,8,0,0,1
+21,Male,Electrical,1,5,0,0,0
+20,Male,Electrical,0,5,0,0,0
+21,Female,Civil,1,8,0,0,1
+20,Male,Computer Science,0,8,0,1,1
+22,Male,Information Technology,2,5,0,0,0
+20,Male,Mechanical,0,6,1,0,0
+19,Male,Computer Science,0,9,0,1,1
+22,Male,Civil,1,7,0,0,0
+22,Male,Electronics And Communication,0,5,0,0,0
+19,Male,Information Technology,0,9,0,1,1
+19,Male,Mechanical,0,6,0,0,1
+22,Male,Information Technology,1,9,0,1,1
+21,Male,Electronics And Communication,1,7,0,1,1
+19,Male,Electrical,0,5,0,0,0
+21,Male,Computer Science,1,8,0,0,1
+22,Male,Computer Science,1,6,0,0,1
+19,Male,Electronics And Communication,1,8,0,1,1
+22,Male,Electronics And Communication,1,9,1,1,1
+22,Male,Computer Science,0,6,0,0,1
+22,Female,Computer Science,0,9,1,0,1
+19,Male,Information Technology,1,6,0,0,1
+20,Male,Mechanical,1,9,1,0,1
+21,Male,Computer Science,0,9,0,0,1
+19,Male,Information Technology,2,8,0,0,1
+21,Male,Electrical,1,9,0,0,1
+20,Male,Civil,0,8,1,0,1
+19,Male,Computer Science,1,7,0,0,1
+20,Male,Information Technology,0,8,0,0,1
+20,Male,Computer Science,0,5,0,0,0
+19,Female,Electrical,3,9,0,1,1
+20,Male,Information Technology,1,7,0,0,1
+22,Male,Civil,0,9,1,0,1
+20,Male,Mechanical,0,7,1,1,1
+21,Male,Information Technology,0,7,0,0,0
+20,Male,Computer Science,1,8,0,0,1
+21,Male,Information Technology,1,8,1,0,1
+21,Male,Civil,0,6,0,0,0
+19,Male,Mechanical,0,7,1,0,0
+22,Male,Electrical,0,8,0,0,1
+22,Male,Computer Science,1,9,0,0,1
+20,Female,Civil,1,9,1,0,1
+21,Male,Mechanical,0,6,1,0,1
+20,Male,Computer Science,2,7,0,1,1
+21,Male,Computer Science,0,5,0,0,0
+21,Female,Electronics And Communication,0,7,0,0,0
+21,Male,Information Technology,0,6,0,0,0
+22,Male,Information Technology,1,5,1,0,0
+19,Male,Information Technology,1,9,1,0,1
+19,Male,Mechanical,3,7,1,0,1
+21,Male,Electrical,0,5,1,0,0
+20,Female,Computer Science,0,9,1,1,1
+21,Male,Computer Science,1,6,0,0,1
+22,Male,Information Technology,1,5,0,0,0
+21,Male,Electronics And Communication,0,7,0,0,0
+21,Male,Information Technology,3,9,1,0,1
+22,Male,Mechanical,0,5,0,0,0
+21,Male,Computer Science,2,7,0,0,0
+20,Male,Information Technology,3,9,1,0,1
+22,Male,Mechanical,0,8,1,0,1
+19,Male,Electronics And Communication,1,6,0,1,1
+20,Male,Mechanical,1,9,1,0,1
+20,Male,Civil,2,9,1,0,1
+21,Male,Mechanical,1,8,1,0,1
+22,Male,Electronics And Communication,1,7,1,1,1
+22,Female,Computer Science,1,6,1,0,0
+20,Male,Computer Science,0,6,0,0,0
+19,Female,Information Technology,1,8,0,0,1
+19,Male,Information Technology,1,7,0,0,0
+21,Male,Computer Science,1,6,0,0,0
+21,Female,Electrical,0,7,1,1,0
+20,Male,Computer Science,1,8,0,0,1
+21,Male,Civil,1,6,0,0,0
+20,Male,Electronics And Communication,1,6,0,0,0
+19,Male,Information Technology,2,6,0,0,1
+21,Male,Mechanical,1,6,1,1,0
+19,Male,Electrical,0,7,0,0,0
+19,Male,Information Technology,0,8,0,0,1
+21,Male,Civil,0,7,1,0,0
+21,Female,Information Technology,1,7,0,0,1
+19,Male,Mechanical,0,7,1,0,0
+21,Male,Information Technology,2,7,0,0,1
+20,Male,Electrical,0,6,0,0,0
+19,Male,Computer Science,1,6,0,0,1
+20,Female,Computer Science,0,7,1,1,1
+19,Female,Computer Science,1,7,1,0,1
+19,Male,Electrical,0,6,0,1,0
+19,Male,Electronics And Communication,0,7,0,0,1
+19,Male,Electrical,0,7,0,0,0
+20,Male,Computer Science,0,6,0,1,1
+21,Female,Computer Science,1,8,1,0,1
+19,Male,Mechanical,0,6,1,0,0
+19,Male,Computer Science,2,8,0,0,1
+20,Male,Computer Science,0,7,0,0,0
+20,Male,Electrical,1,6,0,0,1
+22,Female,Computer Science,3,6,1,0,1
+21,Male,Electrical,0,7,0,0,0
+20,Male,Computer Science,0,8,0,1,1
+19,Male,Information Technology,2,8,0,0,1
+22,Male,Electronics And Communication,1,6,0,0,0
+22,Male,Information Technology,0,7,0,0,1
+20,Male,Mechanical,0,6,1,1,0
+20,Male,Mechanical,0,7,1,0,0
+21,Male,Computer Science,0,8,0,0,1
+22,Male,Civil,0,8,0,0,1
+22,Male,Computer Science,1,8,0,0,1
+19,Male,Civil,1,6,0,0,0
+22,Male,Electrical,0,8,0,0,1
+21,Male,Electronics And Communication,0,6,0,0,0
+20,Male,Electrical,0,6,0,0,0
+20,Male,Electronics And Communication,1,8,0,0,1
+22,Male,Computer Science,1,6,0,0,1
+19,Male,Computer Science,0,8,0,0,1
+19,Male,Mechanical,0,8,1,1,1
+20,Male,Information Technology,1,6,0,1,0
+19,Female,Information Technology,1,6,0,0,0
+21,Male,Electrical,0,6,0,0,0
+21,Female,Mechanical,1,6,0,0,0
+22,Male,Mechanical,0,8,0,0,1
+21,Male,Computer Science,1,8,0,0,1
+19,Female,Electronics And Communication,1,8,0,1,1
+19,Male,Electronics And Communication,0,7,0,0,1
+21,Male,Electronics And Communication,0,8,0,0,1
+21,Male,Civil,1,6,0,0,0
+19,Male,Mechanical,1,8,1,1,1
+20,Male,Electronics And Communication,1,7,0,0,1
+19,Male,Mechanical,0,7,1,0,0
+19,Male,Civil,0,8,1,1,1
+19,Male,Mechanical,0,7,0,0,0
+19,Male,Information Technology,0,6,0,0,0
+19,Male,Electrical,2,7,0,0,1
+20,Female,Computer Science,0,7,1,0,0
+22,Female,Civil,1,6,0,0,0
+19,Male,Civil,1,6,0,0,1
+20,Male,Computer Science,1,7,0,0,1
+22,Male,Information Technology,1,6,0,0,1
+19,Male,Computer Science,0,7,0,1,1
+19,Female,Electrical,0,7,0,0,0
+22,Male,Computer Science,1,7,0,0,0
+21,Male,Civil,0,8,0,0,1
+20,Male,Civil,1,8,0,0,1
+21,Male,Electronics And Communication,2,8,0,0,1
+20,Female,Computer Science,0,6,1,1,0
+21,Male,Electrical,1,7,0,0,1
+22,Male,Computer Science,1,7,0,0,0
+22,Female,Information Technology,3,6,1,1,0
+20,Male,Computer Science,2,7,0,0,1
+20,Male,Computer Science,2,6,0,0,1
+19,Male,Mechanical,1,6,1,1,0
+22,Male,Information Technology,1,8,1,0,1
+22,Male,Mechanical,0,8,0,0,1
+22,Female,Electronics And Communication,1,7,1,0,0
+20,Male,Electrical,0,8,0,1,1
+21,Male,Information Technology,1,8,1,0,1
+21,Male,Computer Science,0,6,0,0,0
+21,Male,Information Technology,0,6,0,0,0
+21,Male,Information Technology,0,8,0,0,1
+20,Female,Civil,1,6,0,1,0
+19,Male,Information Technology,0,7,0,0,0
+20,Female,Information Technology,0,6,0,0,0
+22,Male,Mechanical,1,8,1,0,1
+22,Female,Electrical,0,7,0,0,0
+21,Male,Information Technology,1,7,0,0,0
+19,Female,Electrical,1,7,0,0,1
+19,Female,Electronics And Communication,0,6,0,0,0
+19,Male,Information Technology,1,7,0,0,0
+20,Female,Computer Science,1,8,1,0,1
+20,Male,Information Technology,1,7,0,0,0
+22,Female,Electronics And Communication,1,7,0,0,0
+20,Male,Civil,0,7,0,0,0
+20,Male,Electronics And Communication,1,6,0,0,0
+21,Female,Information Technology,0,6,0,0,0
+21,Male,Information Technology,0,7,0,0,0
+20,Female,Electronics And Communication,0,7,0,0,1
+19,Male,Electrical,2,7,0,1,1
+21,Male,Information Technology,0,8,0,0,1
+21,Male,Computer Science,1,6,0,0,0
+20,Male,Civil,0,8,0,0,1
+22,Male,Civil,1,7,0,0,0
+20,Male,Information Technology,0,6,0,0,0
+19,Male,Electrical,0,6,0,0,0
+22,Male,Civil,0,7,0,0,0
+21,Male,Civil,0,7,0,0,0
+22,Male,Information Technology,0,7,0,0,0
+19,Male,Electrical,0,8,0,0,1
+21,Male,Information Technology,1,8,0,0,1
+21,Male,Electronics And Communication,1,7,0,1,1
+22,Female,Computer Science,2,8,1,0,1
+22,Male,Computer Science,0,8,0,0,1
+19,Male,Electrical,1,7,0,1,1
+20,Male,Computer Science,1,7,0,0,0
+20,Male,Electronics And Communication,1,6,0,0,0
+19,Male,Civil,1,8,0,0,1
+22,Male,Computer Science,0,6,0,0,0
+20,Male,Electronics And Communication,0,6,0,0,0
+22,Male,Mechanical,0,6,1,0,0
+21,Male,Information Technology,0,7,0,0,0
+21,Female,Electronics And Communication,0,7,0,0,0
+20,Male,Electronics And Communication,0,8,0,1,1
+20,Female,Electronics And Communication,2,8,0,0,1
+22,Female,Computer Science,1,7,1,0,0
+22,Female,Mechanical,1,6,1,0,0
+19,Male,Electronics And Communication,0,7,0,0,0
+22,Female,Electronics And Communication,0,8,0,0,1
+19,Male,Electrical,1,6,0,0,0
+20,Male,Computer Science,2,7,0,0,1
+19,Female,Computer Science,1,7,1,0,0
+21,Male,Mechanical,0,8,1,0,1
+22,Male,Computer Science,1,6,0,0,0
+19,Male,Mechanical,1,6,1,0,0
+20,Male,Electrical,0,6,0,0,0
+29,Female,Mechanical,1,8,1,0,1
+20,Male,Information Technology,1,6,0,0,0
+20,Male,Information Technology,0,6,0,0,0
+20,Male,Information Technology,1,6,0,0,0
+20,Male,Electronics And Communication,0,6,0,0,0
+22,Male,Civil,1,8,0,0,1
+19,Male,Computer Science,0,6,0,0,0
+20,Male,Electronics And Communication,1,6,0,0,0
+19,Male,Information Technology,0,7,0,0,0
+20,Male,Electrical,0,6,0,0,0
+19,Female,Computer Science,0,8,1,0,1
+20,Male,Information Technology,0,8,0,1,1
+19,Male,Information Technology,2,7,0,0,1
+22,Female,Civil,1,6,0,0,0
+22,Male,Civil,1,6,0,0,0
+19,Male,Electrical,0,8,0,0,1
+21,Male,Electrical,0,8,0,0,1
+22,Female,Information Technology,0,6,0,0,0
+20,Male,Electronics And Communication,1,7,0,0,0
+21,Male,Computer Science,2,7,0,0,1
+19,Male,Information Technology,2,8,0,0,1
+22,Female,Information Technology,1,7,0,0,0
+21,Male,Electronics And Communication,0,7,0,0,1
+19,Male,Information Technology,1,8,0,0,1
+21,Male,Computer Science,1,6,0,0,0
+21,Male,Electronics And Communication,1,8,0,1,1
+21,Male,Computer Science,0,7,0,1,0
+20,Male,Civil,0,7,1,0,0
+21,Female,Information Technology,0,8,0,0,1
+20,Male,Computer Science,0,6,0,0,0
+19,Female,Electrical,1,7,0,0,1
+22,Male,Civil,0,8,1,0,1
+19,Male,Computer Science,0,7,0,1,0
+20,Male,Computer Science,0,8,0,0,1
+20,Female,Mechanical,1,7,0,0,0
+22,Female,Computer Science,1,8,1,0,1
+22,Male,Information Technology,0,6,0,0,0
+19,Male,Computer Science,1,8,0,0,1
+20,Female,Electrical,3,6,0,1,0
+20,Male,Civil,0,8,1,0,1
+19,Male,Mechanical,1,7,1,0,0
+22,Male,Computer Science,1,6,0,0,0
+19,Male,Mechanical,1,8,1,0,1
+21,Male,Electrical,1,6,0,0,0
+21,Male,Mechanical,0,8,1,0,1
+20,Male,Computer Science,0,6,0,0,0
+20,Male,Mechanical,1,6,1,0,0
+20,Male,Computer Science,1,8,0,0,1
+20,Male,Mechanical,2,6,1,0,1
+20,Male,Computer Science,0,7,0,1,0
+20,Male,Computer Science,0,6,0,0,0
+20,Male,Computer Science,0,6,0,0,0
+21,Male,Computer Science,1,8,0,0,1
+20,Male,Electronics And Communication,1,6,1,1,0
+20,Female,Civil,1,7,0,0,0
+19,Male,Electronics And Communication,1,7,0,0,1
+19,Female,Electronics And Communication,0,8,0,0,1
+19,Male,Electronics And Communication,1,7,0,1,0
+21,Female,Information Technology,0,6,0,0,0
+22,Male,Electrical,1,7,1,1,0
+22,Male,Mechanical,1,6,1,0,0
+21,Male,Mechanical,0,6,1,1,0
+20,Male,Information Technology,0,7,0,1,0
+22,Male,Mechanical,1,7,1,0,0
+22,Male,Civil,0,8,1,0,1
+22,Female,Electronics And Communication,0,6,0,0,0
+19,Male,Mechanical,0,7,1,0,0
+22,Male,Electronics And Communication,1,6,0,0,0
+19,Male,Civil,0,6,0,0,0
+22,Male,Information Technology,2,8,0,0,1
+20,Male,Computer Science,1,8,0,0,1
+20,Male,Electronics And Communication,0,6,0,0,0
+19,Male,Civil,1,7,0,0,0
+22,Male,Information Technology,0,8,0,1,1
+21,Male,Electrical,1,8,0,0,1
+21,Male,Civil,0,7,0,1,0
+22,Male,Mechanical,0,6,1,1,0
+20,Male,Information Technology,0,8,0,0,1
+19,Female,Mechanical,1,6,1,0,0
+22,Female,Computer Science,2,7,1,0,0
+22,Male,Mechanical,0,6,1,0,0
+20,Male,Civil,0,6,0,0,0
+20,Male,Computer Science,1,7,0,0,0
+21,Male,Computer Science,2,6,0,0,1
+20,Male,Computer Science,0,7,0,0,0
+19,Male,Computer Science,1,8,0,0,1
+21,Male,Electrical,1,6,0,0,0
+22,Male,Mechanical,0,6,1,0,0
+21,Male,Electrical,0,7,1,0,0
+22,Male,Electronics And Communication,0,8,0,0,1
+21,Male,Electrical,0,7,0,0,0
+22,Male,Electronics And Communication,1,6,0,0,0
+20,Male,Mechanical,1,8,1,0,1
+21,Male,Computer Science,1,6,0,0,0
+20,Male,Civil,1,8,0,0,1
+22,Male,Civil,0,6,0,0,0
+21,Male,Computer Science,0,8,0,1,1
+21,Male,Civil,0,6,1,0,0
+19,Male,Computer Science,1,6,0,0,0
+22,Male,Civil,0,6,1,0,0
+19,Male,Civil,1,8,0,0,1
+21,Male,Computer Science,1,6,0,0,0
+20,Male,Computer Science,1,7,0,0,0
+19,Male,Electrical,0,8,0,1,1
+20,Male,Information Technology,1,8,0,0,1
+20,Male,Computer Science,1,6,0,0,0
+22,Male,Mechanical,0,8,0,0,1
+19,Male,Electronics And Communication,1,8,0,0,1
+19,Male,Civil,0,6,0,0,0
+19,Male,Civil,0,8,1,1,1
+20,Male,Mechanical,0,8,1,0,1
+19,Male,Electronics And Communication,0,8,0,0,1
+22,Male,Information Technology,0,6,0,0,0
+28,Male,Computer Science,0,6,0,0,1
+22,Male,Computer Science,1,7,0,0,0
+22,Male,Information Technology,0,6,0,0,0
+19,Male,Electronics And Communication,1,6,1,0,0
+19,Male,Computer Science,1,7,0,0,0
+21,Male,Computer Science,0,7,0,0,0
+22,Male,Mechanical,1,6,0,0,0
+20,Male,Electronics And Communication,1,7,0,0,0
+19,Male,Mechanical,0,8,1,0,1
+22,Male,Civil,0,7,0,0,0
+21,Male,Electrical,0,8,0,0,1
+20,Male,Mechanical,0,7,1,1,0
+19,Male,Mechanical,1,8,1,0,1
+21,Male,Information Technology,1,6,0,0,0
+19,Male,Mechanical,1,8,0,1,1
+19,Male,Computer Science,0,7,0,1,0
+22,Male,Civil,1,6,1,0,0
+19,Female,Computer Science,1,6,1,0,0
+22,Male,Information Technology,1,8,0,0,1
+19,Male,Electrical,2,8,0,1,1
+21,Female,Mechanical,1,6,1,1,0
+21,Male,Electrical,0,7,0,0,0
+20,Male,Electrical,0,8,0,1,1
+20,Male,Mechanical,1,8,1,0,1
+19,Male,Computer Science,2,6,0,0,1
+21,Male,Information Technology,0,6,0,1,0
+22,Male,Information Technology,1,7,0,0,0
+22,Male,Civil,1,8,0,0,1
+21,Male,Computer Science,1,7,0,0,0
+21,Male,Information Technology,0,7,0,0,0
+22,Female,Electronics And Communication,2,7,0,0,0
+21,Male,Electrical,1,7,0,1,1
+22,Male,Information Technology,0,6,0,1,0
+19,Male,Civil,0,6,1,0,0
+21,Male,Electronics And Communication,1,6,1,1,0
+19,Female,Computer Science,1,7,1,0,0
+21,Male,Computer Science,0,6,0,1,0
+20,Male,Information Technology,0,7,0,0,0
+20,Male,Electrical,0,7,1,0,0
+19,Male,Electronics And Communication,1,8,0,1,1
+19,Male,Computer Science,1,6,0,0,0
+21,Male,Civil,0,8,1,0,1
+22,Male,Electrical,3,7,0,0,0
+21,Male,Electronics And Communication,0,8,0,1,1
+22,Male,Computer Science,2,7,0,0,0
+22,Male,Electronics And Communication,1,6,0,0,0
+21,Male,Information Technology,0,6,0,0,0
+21,Male,Information Technology,0,6,0,0,0
+20,Male,Information Technology,0,6,0,0,0
+19,Male,Computer Science,0,6,0,1,0
+21,Female,Electronics And Communication,0,7,0,0,0
+22,Male,Information Technology,0,7,0,1,0
+21,Male,Computer Science,0,7,0,1,0
+22,Male,Computer Science,2,6,0,0,1
+20,Male,Information Technology,0,7,0,1,0
+21,Male,Mechanical,0,8,1,0,1
+21,Female,Electrical,1,7,0,0,1
+20,Male,Electrical,2,7,0,0,1
+21,Male,Civil,0,8,1,0,1
+21,Male,Mechanical,0,8,1,0,1
+21,Male,Electrical,0,7,0,0,0
+20,Male,Information Technology,0,8,0,1,1
+21,Male,Computer Science,0,7,0,0,0
+20,Female,Computer Science,2,6,1,0,1
+21,Male,Computer Science,1,6,0,0,0
+21,Female,Electrical,0,8,0,0,1
+21,Male,Computer Science,0,7,0,0,0
+21,Male,Civil,0,7,0,0,0
+20,Male,Civil,2,7,0,0,0
+20,Female,Information Technology,0,6,0,0,0
+21,Male,Electronics And Communication,1,6,1,1,0
+20,Male,Information Technology,0,8,0,0,1
+20,Male,Computer Science,1,8,0,0,1
+21,Male,Civil,0,8,0,1,1
+20,Male,Computer Science,2,6,0,0,1
+21,Female,Mechanical,1,8,1,0,1
+20,Male,Civil,0,8,0,1,1
+20,Male,Computer Science,1,7,0,0,0
+21,Male,Mechanical,0,6,1,0,0
+20,Male,Mechanical,0,7,1,0,0
+20,Male,Electronics And Communication,1,6,0,1,0
+20,Female,Computer Science,0,6,1,1,0
+20,Male,Mechanical,0,6,1,1,0
+20,Male,Computer Science,1,8,0,0,1
+20,Male,Civil,1,6,0,0,0
+20,Male,Computer Science,0,8,0,0,1
+20,Male,Electronics And Communication,1,6,0,0,0
+21,Female,Information Technology,0,7,0,0,0
+20,Male,Electrical,1,7,0,0,1
+21,Male,Mechanical,3,6,1,0,1
+20,Male,Computer Science,0,7,0,0,0
+21,Female,Electronics And Communication,1,8,0,0,1
+21,Male,Electronics And Communication,1,7,0,1,1
+21,Male,Mechanical,0,7,0,0,0
+21,Female,Electronics And Communication,1,8,0,0,1
+20,Male,Civil,1,8,0,0,1
+21,Male,Electronics And Communication,0,7,0,0,1
+20,Male,Civil,0,6,1,1,0
+21,Male,Information Technology,2,6,0,0,1
+20,Male,Information Technology,0,7,0,0,0
+20,Male,Electronics And Communication,0,6,0,0,0
+20,Male,Information Technology,0,6,0,0,0
+20,Male,Mechanical,1,6,1,0,0
+21,Male,Electronics And Communication,0,7,0,0,0
+20,Male,Mechanical,3,8,1,0,1
+20,Male,Mechanical,0,7,1,0,0
+21,Male,Civil,1,6,0,0,0
+20,Male,Information Technology,1,8,0,0,1
+21,Male,Computer Science,1,6,0,0,0
+21,Male,Computer Science,1,7,1,0,0
+21,Male,Computer Science,1,8,0,0,1
+20,Male,Mechanical,1,8,1,0,1
+20,Male,Information Technology,0,8,0,1,1
+20,Male,Computer Science,0,6,0,1,0
+21,Male,Mechanical,1,8,1,0,1
+20,Male,Civil,0,8,0,0,1
+20,Female,Electronics And Communication,0,6,0,0,0
+21,Male,Electrical,0,8,0,0,1
+21,Male,Mechanical,0,6,1,0,0
+21,Female,Computer Science,1,6,1,0,0
+20,Male,Information Technology,0,6,0,0,0
+21,Male,Civil,1,8,0,0,1
+20,Male,Mechanical,1,8,1,0,1
+21,Female,Electrical,1,8,0,0,1
+21,Male,Civil,0,7,0,0,0
+21,Male,Mechanical,0,7,1,0,0
+21,Male,Electronics And Communication,0,7,0,0,1
+20,Male,Computer Science,1,8,0,0,1
+21,Female,Information Technology,1,8,1,0,1
+20,Female,Information Technology,1,8,1,0,1
+20,Male,Mechanical,0,7,1,0,0
+20,Male,Information Technology,2,6,0,0,1
+21,Male,Computer Science,1,7,0,0,0
+21,Female,Mechanical,1,6,1,0,0
+21,Male,Computer Science,2,6,0,0,1
+20,Male,Information Technology,1,7,0,0,0
+20,Male,Civil,0,6,1,0,0
+21,Male,Mechanical,0,7,1,1,0
+21,Male,Computer Science,2,7,0,1,0
+20,Male,Information Technology,0,7,0,1,0
+20,Male,Civil,0,7,1,0,0
+21,Male,Electronics And Communication,0,7,0,0,1
+21,Female,Information Technology,1,8,1,0,1
+21,Male,Mechanical,0,6,1,0,0
+21,Female,Computer Science,1,8,1,0,1
+20,Female,Information Technology,0,7,0,0,0
+21,Male,Mechanical,1,7,1,0,0
+21,Male,Civil,0,8,0,0,1
+21,Male,Information Technology,0,7,0,0,0
+20,Male,Information Technology,1,7,0,1,0
+21,Male,Mechanical,0,6,0,1,0
+21,Male,Electrical,2,6,0,1,0
+21,Male,Electrical,0,7,0,0,0
+20,Male,Computer Science,1,7,1,0,0
+20,Female,Computer Science,0,7,1,0,0
+20,Male,Computer Science,1,8,0,0,1
+20,Male,Civil,0,7,0,1,0
+20,Male,Civil,2,9,0,0,1
+21,Female,Computer Science,1,9,1,0,1
+20,Male,Electrical,0,9,1,0,1
+20,Male,Civil,2,9,0,0,1
+20,Male,Information Technology,0,8,0,0,1
+21,Male,Computer Science,1,8,0,0,1
+21,Male,Information Technology,1,8,0,0,1
+20,Male,Electronics And Communication,0,7,0,0,1
+20,Male,Computer Science,1,9,0,0,1
+20,Male,Electrical,3,7,0,0,1
+21,Male,Civil,1,8,0,0,1
+21,Male,Mechanical,0,7,1,1,0
+21,Male,Electronics And Communication,2,7,1,1,1
+21,Female,Computer Science,1,7,1,0,0
+21,Male,Computer Science,2,8,0,0,1
+21,Male,Computer Science,0,8,0,0,1
+21,Male,Civil,0,7,0,0,0
+21,Male,Computer Science,0,8,0,0,1
+21,Male,Information Technology,1,9,1,0,1
+21,Male,Information Technology,0,7,0,0,0
+20,Female,Computer Science,0,7,1,0,0
+21,Male,Information Technology,1,7,0,0,0
+21,Male,Computer Science,1,8,0,0,1
+20,Male,Electrical,0,9,0,1,1
+21,Male,Electrical,1,9,0,0,1
+20,Male,Computer Science,1,9,0,0,1
+21,Male,Mechanical,1,9,1,0,1
+21,Female,Computer Science,1,8,1,0,1
+21,Male,Electronics And Communication,1,9,0,1,1
+20,Female,Mechanical,1,8,1,0,1
+21,Male,Computer Science,1,8,0,0,1
+20,Female,Information Technology,0,8,0,0,1
+20,Male,Civil,1,9,0,0,1
+21,Female,Electronics And Communication,0,9,0,0,1
+21,Female,Information Technology,0,8,0,0,1
+21,Male,Mechanical,0,7,1,0,0
+21,Male,Electrical,0,9,0,0,1
+20,Male,Electrical,1,8,0,0,1
+21,Female,Computer Science,2,9,1,1,1
+20,Female,Information Technology,0,7,0,0,0
+21,Male,Mechanical,1,9,1,1,1
+21,Male,Civil,0,9,1,0,1
+20,Male,Electronics And Communication,1,7,0,1,1
+20,Male,Computer Science,1,7,0,0,0
+21,Male,Information Technology,0,7,0,0,0
+20,Male,Mechanical,0,9,1,0,1
+21,Male,Electronics And Communication,0,9,0,1,1
+21,Male,Electronics And Communication,0,8,0,0,1
+20,Male,Civil,0,9,1,1,1
+20,Male,Electrical,1,8,0,1,1
+20,Male,Information Technology,0,8,0,0,1
+21,Female,Electronics And Communication,3,9,0,0,1
+20,Male,Information Technology,1,7,0,0,0
+20,Male,Computer Science,1,7,0,0,0
+21,Male,Electrical,1,9,0,0,1
+20,Male,Electronics And Communication,3,8,1,1,1
+20,Female,Electronics And Communication,0,8,0,0,1
+20,Male,Electrical,0,9,0,1,1
+21,Male,Civil,3,9,0,0,1
+20,Male,Computer Science,1,8,0,0,1
+20,Male,Mechanical,0,9,1,1,1
+20,Male,Computer Science,1,8,0,0,1
+20,Male,Electronics And Communication,1,9,1,1,1
+21,Male,Information Technology,2,9,0,0,1
+20,Male,Electrical,1,7,0,1,1
+21,Male,Electrical,0,9,0,0,1
+21,Male,Mechanical,0,8,1,0,1
+20,Male,Civil,0,9,0,0,1
+21,Female,Computer Science,0,7,1,0,0
+20,Female,Electrical,1,7,0,0,1
+20,Male,Information Technology,1,8,1,0,1
+21,Female,Electronics And Communication,0,7,0,0,1
+21,Male,Electrical,0,8,0,0,1
+21,Male,Information Technology,0,8,0,0,1
+20,Male,Electrical,0,9,0,1,1
+21,Male,Electronics And Communication,1,7,0,0,1
+20,Male,Electronics And Communication,2,7,0,0,1
+21,Male,Computer Science,2,8,0,0,1
+20,Male,Civil,0,9,0,0,1
+20,Male,Computer Science,1,8,0,0,1
+21,Male,Electrical,0,9,0,0,1
+21,Male,Electronics And Communication,0,7,0,0,1
+20,Male,Information Technology,0,8,0,0,1
+21,Female,Computer Science,0,8,1,0,1
+20,Male,Electronics And Communication,2,7,0,0,1
+21,Male,Information Technology,1,8,1,0,1
+21,Male,Computer Science,1,7,0,0,0
+20,Male,Civil,1,7,1,0,0
+21,Female,Electronics And Communication,2,8,0,0,1
+21,Male,Information Technology,1,8,0,1,1
+20,Male,Computer Science,2,7,0,0,1
+20,Male,Information Technology,0,9,0,0,1
+20,Male,Information Technology,2,8,0,0,1
+20,Male,Electronics And Communication,1,7,0,0,0
+20,Male,Information Technology,1,9,0,0,1
+20,Male,Electronics And Communication,1,7,0,0,1
+21,Female,Computer Science,1,9,1,0,1
+20,Male,Electronics And Communication,0,9,0,0,1
+20,Male,Computer Science,0,8,0,1,1
+21,Male,Electrical,0,8,0,0,1
+20,Male,Electrical,1,7,0,0,1
+20,Male,Computer Science,0,9,0,1,1
+21,Male,Mechanical,1,7,1,0,0
+20,Male,Mechanical,0,7,1,1,0
+21,Male,Information Technology,1,8,0,0,1
+20,Male,Electrical,0,8,1,0,1
+21,Male,Mechanical,1,8,0,0,1
+20,Male,Information Technology,0,7,0,0,0
+20,Male,Information Technology,0,9,0,0,1
+20,Female,Computer Science,3,8,1,0,1
+21,Male,Mechanical,0,9,1,0,1
+21,Male,Mechanical,0,7,1,1,0
+20,Female,Electrical,1,7,0,1,1
+21,Male,Computer Science,0,8,0,0,1
+21,Female,Information Technology,1,9,0,0,1
+21,Female,Information Technology,0,7,0,0,0
+20,Male,Civil,0,9,0,1,1
+21,Male,Electronics And Communication,1,9,0,0,1
+20,Male,Electronics And Communication,1,8,1,1,1
+20,Male,Computer Science,1,7,0,0,0
+20,Male,Electronics And Communication,1,8,0,1,1
+21,Male,Information Technology,0,8,0,0,1
+21,Male,Computer Science,0,7,0,0,0
+20,Male,Mechanical,0,7,1,0,0
+21,Male,Computer Science,2,7,0,1,0
+20,Male,Information Technology,0,9,0,0,1
+20,Female,Computer Science,0,8,1,0,1
+20,Male,Electronics And Communication,0,7,0,0,1
+20,Male,Civil,1,9,0,0,1
+20,Male,Information Technology,1,7,0,1,0
+21,Male,Computer Science,1,9,0,0,1
+20,Male,Information Technology,0,7,0,0,0
+20,Male,Information Technology,1,7,1,0,0
+20,Female,Computer Science,2,8,1,0,1
+20,Male,Electrical,1,7,1,1,1
+20,Male,Electronics And Communication,0,8,0,0,1
+20,Female,Information Technology,2,8,0,0,1
+20,Male,Computer Science,0,8,0,0,1
+20,Male,Mechanical,0,8,1,0,1
+20,Male,Mechanical,0,8,1,0,1
+20,Male,Computer Science,0,6,0,0,0
+21,Male,Computer Science,1,6,0,0,0
+20,Male,Computer Science,1,6,0,0,0
+21,Male,Mechanical,0,6,1,0,0
+20,Male,Computer Science,1,6,0,0,0
+20,Male,Information Technology,0,8,0,1,1
+21,Male,Electronics And Communication,1,6,1,1,0
+20,Male,Electronics And Communication,0,7,0,0,0
+21,Female,Information Technology,2,8,0,0,1
+21,Male,Electrical,0,6,0,1,0
+21,Female,Computer Science,2,8,0,0,1
+20,Female,Information Technology,1,7,0,1,0
+20,Male,Electronics And Communication,1,7,1,1,0
+20,Female,Electronics And Communication,0,8,0,0,1
+20,Male,Information Technology,1,7,0,0,0
+21,Male,Civil,0,8,0,0,1
+21,Male,Electrical,0,7,0,0,0
+20,Male,Electrical,1,7,0,1,1
+20,Male,Computer Science,1,7,0,0,0
+20,Male,Electrical,0,8,0,0,1
+21,Female,Computer Science,1,8,1,0,1
+21,Male,Electrical,0,8,0,0,1
+21,Male,Mechanical,1,7,0,0,0
+21,Male,Electrical,0,8,0,0,1
+20,Female,Electrical,0,8,0,0,1
+20,Male,Information Technology,0,6,0,0,0
+20,Male,Information Technology,0,6,0,0,0
+20,Male,Electronics And Communication,2,8,0,0,1
+20,Male,Mechanical,0,6,1,1,0
+21,Male,Information Technology,0,8,0,0,1
+21,Male,Electrical,1,8,0,0,1
+20,Male,Computer Science,0,6,0,0,0
+20,Female,Information Technology,1,7,0,0,0
+21,Male,Electronics And Communication,0,8,0,0,1
+21,Female,Electronics And Communication,1,8,0,0,1
+20,Female,Computer Science,0,6,1,0,0
+21,Male,Computer Science,0,7,0,0,0
+20,Male,Computer Science,0,7,0,1,0
+20,Male,Electronics And Communication,0,6,0,0,0
+20,Female,Electrical,0,6,0,0,0
+20,Male,Computer Science,0,7,0,0,0
+20,Male,Civil,1,6,0,0,0
+21,Female,Computer Science,1,8,1,0,1
+21,Male,Electrical,1,6,0,0,0
+20,Male,Computer Science,1,6,0,0,0
+21,Male,Electrical,1,8,0,1,1
+20,Male,Electronics And Communication,0,6,0,0,0
+20,Male,Mechanical,1,6,0,1,0
+21,Female,Computer Science,2,6,1,0,1
+20,Male,Electronics And Communication,1,6,0,1,0
+20,Female,Electronics And Communication,0,7,0,0,1
+20,Male,Information Technology,1,8,0,1,1
+20,Male,Mechanical,0,8,1,0,1
+20,Female,Information Technology,0,8,0,0,1
+20,Male,Civil,1,8,0,0,1
+20,Male,Electrical,0,8,0,0,1
+20,Male,Civil,1,8,0,0,1
+23,Male,Electronics And Communication,0,8,0,0,1
+22,Male,Mechanical,0,7,1,0,0
+22,Male,Electronics And Communication,0,6,0,1,0
+22,Female,Information Technology,1,6,1,0,0
+21,Male,Computer Science,1,7,0,0,0
+21,Male,Computer Science,1,8,0,0,1
+23,Male,Computer Science,0,6,0,0,0
+23,Male,Mechanical,1,6,1,0,0
+23,Male,Computer Science,1,8,0,0,1
+21,Male,Computer Science,1,7,0,0,0
+23,Male,Mechanical,0,7,1,0,0
+21,Male,Computer Science,2,6,0,0,1
+23,Male,Electrical,0,7,0,1,0
+23,Male,Computer Science,1,7,0,0,0
+23,Male,Electrical,0,6,1,0,0
+21,Male,Information Technology,1,8,1,1,1
+23,Male,Civil,0,7,0,0,0
+23,Male,Information Technology,1,6,0,1,0
+21,Male,Computer Science,1,7,0,0,0
+22,Male,Mechanical,0,6,1,0,0
+21,Male,Computer Science,1,7,0,0,0
+21,Male,Mechanical,0,7,1,1,0
+21,Male,Civil,1,8,0,0,1
+22,Male,Civil,1,7,0,1,0
+21,Male,Civil,0,6,0,0,0
+22,Female,Information Technology,0,7,0,1,0
+21,Male,Mechanical,1,8,1,0,1
+23,Male,Mechanical,0,6,1,0,0
+23,Male,Electronics And Communication,1,6,1,1,0
+22,Male,Electronics And Communication,2,8,0,0,1
+22,Male,Electronics And Communication,3,8,0,1,1
+23,Male,Electronics And Communication,1,7,0,0,1
+22,Male,Information Technology,1,8,0,0,1
+23,Female,Computer Science,1,6,1,0,0
+21,Male,Information Technology,0,6,0,1,0
+23,Male,Electronics And Communication,0,6,0,1,0
+23,Male,Information Technology,1,6,0,0,0
+23,Male,Information Technology,0,7,0,1,0
+23,Male,Electronics And Communication,1,7,0,1,1
+23,Male,Mechanical,0,6,1,0,0
+21,Male,Information Technology,0,6,0,1,0
+21,Male,Computer Science,1,7,0,0,0
+22,Male,Information Technology,0,7,0,0,0
+23,Male,Information Technology,0,8,0,0,1
+22,Male,Mechanical,1,6,1,1,0
+21,Male,Mechanical,0,7,1,0,0
+22,Male,Mechanical,0,7,1,0,0
+21,Male,Mechanical,0,8,1,0,1
+21,Male,Computer Science,1,7,0,0,0
+23,Male,Electronics And Communication,1,8,1,1,1
+21,Male,Information Technology,0,7,0,1,0
+22,Male,Mechanical,0,7,1,0,0
+22,Male,Mechanical,1,8,1,1,1
+21,Male,Electrical,0,7,0,0,0
+23,Female,Mechanical,1,7,0,0,0
+21,Female,Information Technology,0,7,0,0,0
+21,Male,Electrical,0,7,1,0,0
+23,Male,Civil,1,8,0,0,1
+23,Male,Computer Science,1,8,0,0,1
+22,Male,Information Technology,1,6,0,1,0
+22,Male,Computer Science,1,7,0,0,0
+21,Female,Information Technology,1,8,1,0,1
+23,Male,Information Technology,3,8,1,0,1
+22,Male,Computer Science,0,8,0,0,1
+22,Male,Mechanical,0,6,1,0,0
+22,Male,Information Technology,0,6,0,0,0
+22,Male,Civil,0,8,1,0,1
+22,Male,Information Technology,1,8,0,0,1
+23,Male,Electronics And Communication,0,6,0,0,0
+23,Male,Civil,2,8,0,0,1
+21,Male,Electronics And Communication,0,8,0,0,1
+23,Male,Information Technology,1,7,0,0,0
+22,Male,Electronics And Communication,2,6,0,0,1
+23,Female,Electronics And Communication,0,7,0,0,1
+21,Male,Electrical,0,7,0,0,0
+21,Male,Electronics And Communication,0,8,0,0,1
+23,Male,Mechanical,0,8,1,1,1
+23,Female,Computer Science,1,8,1,0,1
+21,Male,Information Technology,1,7,0,0,0
+22,Male,Information Technology,2,6,0,0,1
+23,Male,Electronics And Communication,2,8,0,0,1
+23,Male,Computer Science,0,6,0,0,1
+23,Male,Computer Science,2,6,0,0,1
+21,Male,Computer Science,1,7,0,0,0
+21,Male,Computer Science,1,8,0,0,1
+21,Male,Electronics And Communication,2,7,0,0,1
+21,Male,Electronics And Communication,0,8,0,1,1
+21,Female,Information Technology,0,6,0,0,0
+23,Male,Information Technology,0,7,0,0,0
+22,Male,Computer Science,1,8,0,0,1
+21,Male,Information Technology,0,8,0,0,1
+21,Male,Mechanical,0,7,1,0,0
+23,Male,Information Technology,0,6,0,1,0
+23,Male,Civil,0,8,1,1,1
+22,Male,Mechanical,1,8,1,0,1
+23,Male,Information Technology,1,6,0,0,0
+23,Male,Information Technology,1,7,0,0,0
+22,Male,Mechanical,0,8,1,0,1
+21,Male,Civil,0,6,0,0,0
+21,Male,Computer Science,1,6,0,0,0
+22,Male,Computer Science,0,7,0,1,0
+21,Male,Electronics And Communication,0,7,0,0,1
+23,Female,Computer Science,0,7,1,1,0
+23,Male,Electronics And Communication,0,8,0,0,1
+22,Male,Electrical,2,8,0,1,1
+23,Male,Information Technology,1,8,1,0,1
+21,Male,Electronics And Communication,0,8,0,0,1
+22,Male,Electronics And Communication,2,7,0,0,0
+21,Male,Electronics And Communication,0,7,0,0,1
+23,Male,Information Technology,1,8,0,0,1
+21,Male,Information Technology,1,7,1,0,0
+23,Male,Information Technology,1,6,1,0,0
+21,Male,Mechanical,3,6,1,0,1
+23,Male,Information Technology,1,8,0,0,1
+22,Male,Electrical,0,6,0,0,0
+23,Male,Mechanical,0,7,1,0,0
+21,Male,Information Technology,0,8,0,0,1
+21,Male,Electrical,0,8,0,0,1
+21,Female,Computer Science,1,8,1,0,1
+21,Male,Civil,0,8,0,0,1
+22,Male,Electronics And Communication,0,8,0,0,1
+23,Male,Information Technology,0,6,0,0,0
+23,Male,Computer Science,0,8,0,0,1
+22,Male,Electrical,1,6,0,1,0
+21,Male,Mechanical,1,7,1,0,0
+23,Male,Computer Science,0,7,0,0,0
+21,Male,Information Technology,0,8,0,0,1
+22,Female,Computer Science,1,8,1,0,1
+22,Female,Computer Science,0,6,1,0,0
+23,Female,Computer Science,0,6,1,0,0
+21,Male,Computer Science,2,8,0,0,1
+21,Male,Mechanical,0,6,1,0,0
+21,Male,Computer Science,1,7,0,0,0
+23,Male,Computer Science,1,8,0,0,1
+23,Male,Electrical,1,8,0,0,1
+21,Male,Electronics And Communication,0,8,0,0,1
+23,Male,Information Technology,0,6,0,0,0
+23,Male,Mechanical,0,6,0,0,0
+21,Male,Computer Science,0,7,0,1,0
+21,Male,Mechanical,0,8,1,0,1
+22,Male,Electronics And Communication,0,7,0,0,0
+21,Male,Electrical,0,7,0,0,0
+23,Male,Mechanical,0,6,1,0,0
+23,Male,Electronics And Communication,0,8,0,0,1
+23,Male,Information Technology,1,7,0,1,0
+21,Male,Computer Science,1,7,0,0,0
+23,Male,Information Technology,1,7,1,1,0
+22,Male,Computer Science,2,8,0,1,1
+21,Male,Electrical,0,7,0,0,0
+22,Male,Civil,0,8,0,0,1
+23,Female,Computer Science,1,8,1,0,1
+21,Male,Computer Science,3,8,0,0,1
+23,Male,Mechanical,0,8,1,0,1
+22,Male,Electronics And Communication,0,7,0,0,0
+23,Female,Computer Science,1,8,0,1,1
+22,Male,Information Technology,0,7,0,0,0
+22,Male,Computer Science,0,8,0,0,1
+22,Male,Electrical,1,6,0,1,0
+23,Male,Computer Science,0,6,0,1,0
+23,Male,Information Technology,0,7,0,0,0
+23,Male,Mechanical,1,7,1,0,0
+23,Male,Information Technology,0,7,0,0,0
+23,Male,Mechanical,1,7,1,0,0
+22,Male,Information Technology,1,7,0,0,0
+22,Male,Computer Science,1,7,0,0,0
+23,Male,Civil,0,8,0,0,1

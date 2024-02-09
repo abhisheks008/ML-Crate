@@ -60,7 +60,7 @@ https://www.kaggle.com/datasets/adiamaan/f1-visa-experiences
 
 We analyse the data, preprocess and visualize the features. We then investigated two predictive models. The data was split into two parts, a train set and a test set.
 
-We started with Logistic Regression, Random Forest Classifier and SVM and SVM had the higgest accuracy followed by Random Forest Classifier.
+We started with Logistic Regression, Random Forest Classifier and SVM and SVM had the highest accuracy followed by Random Forest Classifier.
 
   
 

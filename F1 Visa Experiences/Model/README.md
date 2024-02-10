@@ -1,70 +1,60 @@
-
-  
-
 **F1 Visa Experiences**
-
-  
 
 **GOAL**
 
-  
 Finding out if the review is positive, negative or neutral.
-  
 
 **DATASET**
 
-  
-
 https://www.kaggle.com/datasets/adiamaan/f1-visa-experiences
 
-  
+**DESCRIPTION**
 
-  
+This dataset contains Visa interview experiences from about 6391 users, who are students applying to live temporarily in the US while studying at a school. The data comes from a telegram channel and all the visa experiences mainly are from India. 
 
-**WORK DONE**
+**WHAT I HAD DONE**
 
-* Analyzed the data and found insights and plotted graphs accordingly etc.
-* Preprocessed the data to make it fit for training for ML models.
-* Next trained model with algorithms with default parameters:
-	* Logistic Regression
-	* Linear SVM
-	* Random Forest
+* Analyzed data, extracted insights, and generated relevant visualizations.
+* Preprocessed data to prepare it for machine learning model training.
+* Trained default-parameter models:
+		* Logistic Regression
+		* Linear SVM
+		* Random Forest
 
 * In this, Support Vector Machine(SVM) performed the best with 97.27% accuracy. (Refer : `visa_experience.ipynb`)
   
-
 **MODELS USED**
 
-1. Logistic Regression : Logistic regression is easier to implement, interpret, and very efficient to train. It is **very fast at classifying unknown records**.
-2. Linear SVM : SVM performs well on classification problems when size of dataset is not too large.
-3. Random Forest : It **provides higher accuracy through cross validation**. Random forest classifier will handle the missing values and maintain the accuracy of a large proportion of data. If there are more trees, it won't allow over-fitting trees in the model.
+* Logistic Regression
+* Linear SVM
+* Random Forest
 
 **LIBRARIES NEEDED**
 
-* Numpy
-* Pandas
-* Matplotlib
-* scikit-learn
-* nltk
-  
-  
+* Pandas        V2.0.3
+* Numpy         V1.24.3
+* Matplotlib    V3.7.2
+* Scikit-learn  V1.3.2
+* nltk          V3.8.1
 
-**PLOTS**
+**VISUALIZATION**
 
-![Model Accuracies](../Images/final_accuracy.png "Model Accuracies")
+![Sentiment Score](../Images/sentiment_score.png "Sentiment Score")
 
+**ACCURACIES**
+
+	* Logistic Regression - 94.46
+	* Linear SVM		  - 94.92
+	* Random Forest		  - 97.27
 
 **CONCLUSION**
-
-  
 
 We analyse the data, preprocess and visualize the features. We then investigated two predictive models. The data was split into two parts, a train set and a test set.
 
 We started with Logistic Regression, Random Forest Classifier and SVM and SVM had the highest accuracy followed by Random Forest Classifier.
 
-  
 
-**CONTRIBUTION BY**
+**YOUR NAME**
 
 *Churnika S Mundas*
 

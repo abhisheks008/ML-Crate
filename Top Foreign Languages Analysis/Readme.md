@@ -6,7 +6,7 @@ To build a machine learning model for predicting the usd_price per lesson for a 
 
 **DATASET**
 
-[https://www.kaggle.com/datasets/margaritakholostova/support-ii-dataset-with-critically-ill-patients](https://www.kaggle.com/datasets/timmofeyy/top-foreign-languages-preply-tutors)
+[https://www.kaggle.com/datasets/timmofeyy/top-foreign-languages-preply-tutors]
 
 **DESCRIPTION**
 
@@ -41,8 +41,7 @@ The data includes the main languages and the most popular among students. The da
 
 ### Visualization and EDA of different attributes:
 
-<img alt="correlation" src="./Images/
-correlation between amount of lessons and price per lesson.png">
+<img alt="correlation" src="./Images/correlation between amount of lessons and price per lesson.png">
 
 <img alt="graph" src="./Images/count of tutors.png">
 

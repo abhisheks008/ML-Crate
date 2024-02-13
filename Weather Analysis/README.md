@@ -1,4 +1,4 @@
-<h1>Top Foreign Language Analysis</h1>
+<h1>Weather Analysis</h1>
 
 **GOAL**
 
@@ -14,29 +14,32 @@ To analyze the dataset of Weather Analysis and build and train the model on the 
 
 The datasets have a csv file with 3902 entries, 22 columns.
 
-- **columns_description**: Each CSV File contains the description of all the features.
+**Columns Description**:
 
-  name: The name of the tutor.
+- Date
+- Average temperature (°F)
+- Average humidity (%)
+- Average dewpoint (°F)
 
-  badge: Any badge or certification associated with the tutor.
+- Average barometer (in)
 
-  rating: The overall rating of the tutor.
+- Average windspeed (mph)
 
-  reviews_number: The number of reviews the tutor has received.
-
-  usd_price: The price charged by the tutor for their services.
-
-  language: The languages spoken by the tutor.
-
-  active_students: The number of active students the tutor is currently teaching.
-
-  lessons_number: The total number of lessons conducted by the tutor.
-
-  speak: The languages spoken by the tutor.
-
-  description: A brief description or snippet provided by the tutor.
-
-  link: The link or URL to the tutor's profile.
+- Average gustspeed (mph)
+- Average direction (°deg)
+- Rainfall for month (in)
+- Rainfall for year (in)
+- Maximum rain per minute
+- Maximum temperature (°F)
+- Minimum temperature (°F)
+- Maximum humidity (%)
+- Minimum humidity (%)
+- Maximum pressure
+- Minimum pressure
+- Maximum windspeed (mph)
+- Maximum gust speed (mph)
+- Maximum heat index (°F)
+- Month
 
 
 ### Visualization and EDA of different attributes:
@@ -54,12 +57,13 @@ The datasets have a csv file with 3902 entries, 22 columns.
 
 | Model                     | MSE_train | R2_train | MSE_test  | R2_test   |
 |---------------------------|-----------|----------|-----------|-----------|
-| Random Forest Regression  | 7.03      | 0.93     | 57.90     | 0.51      |
-| Linear Regression         | 17.09     | 0.84     | 60.72     | 0.49      |
-| Ridge Regression          | 85.65     | 0.22     | 96.16     | 0.20      |
-| Elastic Net Regression    | 105.0     | 0.04     | 114.7     | 0.047     |
-| Decision Tree Regression  | 0.00      | 1.00     | 61.30     | 0.49      |
-| Deep NN                   | 34.29     | 0.04     | 114.7     | 0.0471    |
+|Random Forest Regression	  | 0.0126    |	0.965291 | 0.082938	 | 0.773470  |
+|XGBoost Regression	        | 0.0056    |	0.984504 | 0.089369	 | 0.755905  |
+|Decision Tree	            | 0.58e-34  | 1.000000 | 0.144070	 | 0.606500  |
+|Riddge Regression	        | 3.58e-34	| 1.000000 | 0.144070  | 0.606500  |
+|Linear Regression	        | 0.274    	| 0.243614 | 0.281541  | 0.231021  |
+|Elastic Net Regression	    | 2.94e-01	| 0.190594 | 0.302724	 | 0.173166  |
+|Neural Network Regression	| 0.358     | 0.076272 | 0.405645	 |-0.107945  |
 
 
 **WHAT I HAD DONE**
@@ -68,7 +72,6 @@ The datasets have a csv file with 3902 entries, 22 columns.
 * It has 3902 entries(Rows), 22 columns.
 * Checked for missing values and cleaned the data accordingly.
 * Analyzed the data, found insights and visualized them accordingly.
-* Plotting heatmap using correlation and checking the relation between different features.
 * Found detailed insights of different columns with target variable using plotting libraries.
 * Train the datasets by different models and saves their accuracies into a dataframe.
 

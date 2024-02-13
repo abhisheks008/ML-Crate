@@ -20,11 +20,8 @@ The datasets have a csv file with 3902 entries, 22 columns.
 - Average temperature (°F)
 - Average humidity (%)
 - Average dewpoint (°F)
-
 - Average barometer (in)
-
 - Average windspeed (mph)
-
 - Average gustspeed (mph)
 - Average direction (°deg)
 - Rainfall for month (in)
@@ -44,13 +41,23 @@ The datasets have a csv file with 3902 entries, 22 columns.
 
 ### Visualization and EDA of different attributes:
 
-<img alt="correlation" src="./Images/correlation between amount of lessons and price per lesson.png">
+<img alt="Distribution" src="./Images/distribution plot 1.png">
 
-<img alt="graph" src="./Images/count of tutors.png">
+<img alt="Distribution" src="./Images/distribution plot 2.png">
 
-<img alt="graph" src="./Images/distribution plot.png">
+<img alt="Regression" src="./Images/avg barometer vs rainfall per mnth.png">
 
+<img alt="Regression" src="./Images/avg dewpoint vs rainfall per mnth.png">
 
+<img alt="Regression" src="./Images/avg humidity vs rainfall per mnth.png">
+
+<img alt="Regression" src="./Images/avg temp vs rainfall per mnth.png">
+
+<img alt="Regression" src="./Images/avg windspeed vs rainfall per mnth.png">
+
+<img alt="Regression" src="./Images/max temp vs rainfall per mnth.png">
+
+<img alt="Regression" src="./Images/month vs rainfall per month.png">
 
 
 **MODELS USED**

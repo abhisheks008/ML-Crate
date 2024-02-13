@@ -2,17 +2,17 @@
 
 **GOAL**
 
-To build a machine learning model for predicting the usd_price per lesson for a given language and other feature.
+To build a machine learning model for predicting the Average Rainfall per month for a given atmospheric conditions like temperature, humidity , dewpoint, pressure, windspeed, etc.
 
 **DATASET**
 
-[https://www.kaggle.com/datasets/timmofeyy/top-foreign-languages-preply-tutors]
+[https://www.kaggle.com/datasets/mastmustu/weather-analysis]
 
 **DESCRIPTION**
 
-To analyze the dataset of Top Foreign Language and build and train the model on the basis of different features and variables.
+To analyze the dataset of Weather Analysis and build and train the model on the basis of different features and variables.
 
-The data includes the main languages and the most popular among students. The datasets have 8 csv files for 8 different top foreign languages.
+The datasets have a csv file with 3902 entries, 22 columns.
 
 - **columns_description**: Each CSV File contains the description of all the features.
 

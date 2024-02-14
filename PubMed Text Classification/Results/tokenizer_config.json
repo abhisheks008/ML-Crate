@@ -1,0 +1,27 @@
+{
+  "additional_special_tokens": [
+    "<eop>",
+    "<eod>"
+  ],
+  "bos_token": "<s>",
+  "cls_token": "<cls>",
+  "do_lower_case": false,
+  "eos_token": "</s>",
+  "keep_accents": false,
+  "mask_token": {
+    "__type": "AddedToken",
+    "content": "<mask>",
+    "lstrip": true,
+    "normalized": true,
+    "rstrip": false,
+    "single_word": false
+  },
+  "name_or_path": "xlnet-base-cased",
+  "pad_token": "<pad>",
+  "remove_space": true,
+  "sep_token": "<sep>",
+  "sp_model_kwargs": {},
+  "special_tokens_map_file": null,
+  "tokenizer_class": "XLNetTokenizer",
+  "unk_token": "<unk>"
+}

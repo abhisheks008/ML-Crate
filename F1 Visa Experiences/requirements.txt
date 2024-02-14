@@ -1,0 +1,7 @@
+The required libraries for this project work are:
+
+Pandas        V2.0.3
+Numpy         V1.24.3
+Matplotlib    V3.7.2
+Scikit-learn  V1.3.2
+nltk        V3.8.1

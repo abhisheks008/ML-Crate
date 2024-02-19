@@ -29,6 +29,24 @@ Customer reviews tells us about the reviews given by the customers for a food in
 
 <img alt="wordcloud" src="./Images/negative_wordcloud.png">
 
+**NLP TECHNIQUES USED**
+
+1. **Text Cleaning:**
+
+    - **Punctuation Removal:** I have removed punctuation from the text using a list comprehension to keep only non-punctuation characters.
+    - **Stopword Removal:** I have removed common English stopwords using the NLTK library. Stopwords are words that are frequently used but often carry little meaning (e.g., "the," "and," "is").
+    - **Stopword Customization:** I have a set of custom stopwords ({'not', 'nor', 'no', "don't", "was'nt", "aren't", "didn't"}) that I want to exclude from removal. This is important to preserve negation words like "not" which can change the sentiment of a sentence.
+
+2. **Vectorization:**
+
+    - Using CountVectorizer I have represented each review as a bag of its words, ignoring grammar and word order but keeping track of word frequency i.e, Tokenization. And then I have converted this tokenized review into array of Numerical vector which is nothing but Vectorization.
+    - TF-IDF Vectorization (vectorizer.transform): You use the vectorizer.transform method, which suggests the use of TF-IDF vectorization. TF-IDF represents the importance of a term in a document relative to its importance in a collection of documents. It converts the text into a numerical vector.
+
+3. **WORDCLOUD:**
+
+     - Generating a word cloud is a data visualization technique commonly used in NLP to represent the most frequent words in a text corpus. I have generated word cloud for both positive reviews and negative reviews separately as shown in image above.
+
+
 **MODELS USED**
 
 | Model                     | accuracy_train(%) | precision_train(%) | accuracy_test(%)  | precision_test(%)   |
@@ -46,7 +64,7 @@ Customer reviews tells us about the reviews given by the customers for a food in
 * It has 1000 entries(Rows), 2 columns.
 * Checked for missing values and cleaned the data accordingly.
 * Analyzed the data, found insights and visualized them accordingly.
-* Found detailed insights of different columns with target variable using plotting libraries.
+* Tokenized and Vectorized the Review Column, and then used this array of vectorized review to train my model.
 * Train the datasets by different models and saves their accuracies into a dataframe.
 
 

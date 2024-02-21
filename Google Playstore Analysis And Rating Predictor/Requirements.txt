@@ -1,0 +1,7 @@
+Numpy == 1.25.2
+Matplotlib == 3.7.1
+Pandas == 1.5.3
+Seaborn == 0.13.1
+Plotly == 5.15.0
+Wordcloud == 1.9.3
+Sklearn == 1.2.2

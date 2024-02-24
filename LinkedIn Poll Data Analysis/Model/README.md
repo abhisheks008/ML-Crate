@@ -49,20 +49,32 @@ The dataset compiles quiz data gathered from LinkedIn Polls, providing insights 
 **VISUALIZATION**
 
 <!-- INCLUSION OF IMAGES OF THE VISUALIZATION IS MUST (RESULT OF EDA). -->
-![All Features](../Images/all_features.png "All Features")
+![All Features](../Images/heat_map.png "All Features")
 
 
 ![Total Responses](../Images/tot_responses.png "Total Responses")
 
 **ACCURACIES**
 
-Add all the algorithms used with their accuracies and results
+<!-- Add all the algorithms used with their accuracies and results -->
+
+* Linear Regression - Mean Squared Error (MSE): 0.0000, R-squared (R2) Score: 0.8196
+* Decision Tree     - Mean Squared Error (MSE): 0.0000, R-squared (R2) Score: 0.4230
+* Random Forest     - Mean Squared Error (MSE): 0.0000, R-squared (R2) Score: 0.6487
+* SVM               - Mean Squared Error (MSE): 0.0001, R-squared (R2) Score: -2.3062
 
 
 **CONCLUSION**
 
-What's the conclusion derived from this project and also showcase the accuracy results if it's applicable. Be briefer
+<!-- What's the conclusion derived from this project and also showcase the accuracy results if it's applicable. Be briefer -->
+We analyze, preprocess, and visualize the features. Then, we calculate the quiz popularity based on views and answers received. Finally, we explore quiz popularity using various ML models along with other parameters.
+
+Linear Regression model is the best fit - Mean Squared Error (MSE): 0.0000, R-squared (R2) Score: 0.8196.
 
 **YOUR NAME**
 
-Add your name at the end of the file, along with social media handles if applicable.
+<!-- Add your name at the end of the file, along with social media handles if applicable. -->
+*Churnika S Mundas*
+
+  
+[![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/churnika-mundas-64767b246/) [![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)](https://github.com/stackaway) 

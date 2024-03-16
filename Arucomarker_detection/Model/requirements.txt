@@ -1,0 +1,6 @@
+Required libraries:
+
+> cv2 (Computer Vision Library) 
+> os (Operation System Library)
+> numpy (Array Manipulation Library)
+> cv2.aruco (Aruco Markar Detection Library)

@@ -1,6 +1,2 @@
-Required libraries:
-
-> cv2 (Computer Vision Library) 
-> os (Operation System Library)
-> numpy (Array Manipulation Library)
-> cv2.aruco (Aruco Markar Detection Library)
+opencv-python==4.5.3.56
+numpy==1.21.5

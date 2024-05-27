@@ -20,14 +20,36 @@
 ![](https://github.com/abhisheks008/ML-Crate/blob/main/Assets/get%20started.png)
 
 **************************************************
-## 🔴:yellow_circle: Welcome contributors!
+## 🔴 Welcome contributors!
 ML Crate stands as the ultimate hub for a multitude of exciting ML projects, serving as the go-to resource haven for passionate and dedicated ML enthusiasts!
 
 ## Structure of the Projects 📝
 This repository consists of various machine learning projects, and all of the projects must follow a certain template. I wish the contributors will take care of this while contributing in this repository. <br><br>
-**Dataset** - This folder stores the dataset used in this project. If the Dataset is not being able to uploaded in this folder due to the large size, then put a README.md file inside the Dataset folder and put the link of the collected dataset in it. That'll work!<br><br>
-**Images** - This folder is used to store the images generated during the data analysis, data visualization, data segmentation of the project.<br><br>
-**Model** - This folder would have your project file (that is .ipynb file) be it analysis or prediction. Other than project file, it should also have a **'README.md'** using this [template](https://github.com/abhisheks008/ML-Crate/blob/main/.github/readme_template.md) and **'requirements.txt'** file which would be enclosed with all needed add-ons and libraries that are included in the project.
+- **Dataset** - This folder stores the dataset used in this project. If the Dataset is not being able to uploaded in this folder due to the large size, then put a README.md file inside the Dataset folder and put the link of the collected dataset in it. That'll work!<br><br>
+- **Images** - This folder is used to store the images generated during the data analysis, data visualization, data segmentation of the project.<br><br>
+- **Model** - This folder would have your project file (that is .ipynb file) be it analysis or prediction. Other than project file, it should also have a **'README.md'** using this [template](https://github.com/abhisheks008/ML-Crate/blob/main/.github/readme_template.md) and **'requirements.txt'** file which would be enclosed with all needed add-ons and libraries that are included in the project.
+- **Web App** - This folder consists of the web application built using the best model of the project folder. Majorly deployed in Flask or Streamlit.
+
+```
+Project Folder
+|- Dataset
+   |- dataset.csv (dataset used for the particula project)
+   |- README.md (brief about the dataset)
+|- Images
+   |- img1.png
+   |- img2.png
+   |- img3.png
+|- Model
+   |- project_folder.ipynb
+   |- README.md
+|- Web App
+   |- templates
+   |- static
+   |- app.py
+   |- demo.mp4
+   |- README.md
+|- requirements.txt
+```
 
 ## 🧮 Workflow
 - Fork the repository
@@ -53,9 +75,6 @@ This repository consists of various machine learning projects, and all of the pr
 <a href="https://www.psoc.in/"><img src="https://d8it4huxumps7.cloudfront.net/uploads/images/150x150/62daac5dc1e55_psoc-3.png?d=110x110" width=60px height=60px /><br /><sub><b>PSOC 2022</b></sub></a><br />
  </td>
  <td align="center">
-<a href="http://hrsoc.herokuapp.com/"><img src="https://media.licdn.com/dms/image/C4E0BAQHN1aAA06huNg/company-logo_200_200/0/1632670085350?e=1709164800&v=beta&t=VZgYogeAWIFrODWpMDUBCGO7B5vJF2Q5QrHwYwiY8WY" width=60px height=60px /><br /><sub><b>HackClubRAIT SoC</b></sub></a>
- </td>
- <td align="center">
 <a href="https://kwoc.kossiitkgp.org/"><img src="https://github.com/World-of-ML/ML-Crate/blob/main/Assets/1602335093424.jpg" width=60px height=60px /><br /><sub><b>KWOC 2022</b></sub></a>
  </td>
  <td align="center">
@@ -69,6 +88,10 @@ This repository consists of various machine learning projects, and all of the pr
  </td>
  <td align="center">
 <a href="https://iwoc.codes/#"><img src="https://github.com/abhisheks008/ML-Crate/blob/main/Assets/Iwoc_S2.png" width=60px height=60px /><br /><sub><b>IWOC 2.0</b></sub></a>
+ </td>
+ </td>
+ <td align="center">
+<a href="https://ssoc.devfolio.co/"><img src="https://ssoc.devfolio.co/_next/image?url=https%3A%2F%2Fassets.devfolio.co%2Fhackathons%2Fc1573e1780a9481e97869fcd6fbb07fa%2Fassets%2Ffavicon%2F270.png&w=1440&q=75" width=60px height=60px /><br /><sub><b>SSOC 24</b></sub></a>
  </td>
 
 </tr>
@@ -180,18 +203,6 @@ _On behalf of the entire Organizing Team of JWOC 2K22, I highly appreciate Abhis
 
 
 *************************************************************
-## Leaderboard 📊
-
-<table>
-  <tr>
-    <td align="center"><a href="https://github.com/abhisheks008/ML-Crate/blob/main/.github/swoc_leaderboard.md"><img src="https://cdn-icons-png.flaticon.com/512/1986/1986941.png" width="100px;" alt=""/><br /><sub><b>SWOC Leaderboard 2.0</b></sub></a></td>
-    <td align="center"><a href="https://github.com/abhisheks008/ML-Crate/blob/main/.github/jwoc_leaderboard.md"><img src="https://cdn-icons-png.flaticon.com/512/1986/1986941.png" width="100px;" alt=""/><br /><sub><b>JWOC Leaderboard 2022</b></sub></a></td>
-    <td align="center"><a href="https://github.com/abhisheks008/ML-Crate/blob/main/.github/hrsoc_leaderboard.md"><img src="https://cdn-icons-png.flaticon.com/512/1986/1986941.png" width="100px;" alt=""/><br /><sub><b>HRSoC Leaderboard 2022</b></sub></a></td>
-  </tr>
-  
-</table>
-
-****************************************************************
 <h2>✨Top Contributors</h2>   
 
 Thanks goes to these Wonderful People. Contributions of any kind are welcome!🚀 
@@ -215,7 +226,7 @@ Thanks goes to these Wonderful People. Contributions of any kind are welcome!�
 
 <table>
   <tr>
-<td align="center"><a href="https://github.com/abhisheks008"><img src="https://media.licdn.com/dms/image/D4D03AQGQTlxaMZxd0g/profile-displayphoto-shrink_400_400/0/1692163090822?e=1706745600&v=beta&t=BsruwBk9YQelT6xQ_zmtsMwL0Nh2vXk3HGSp7rRvN78" width="80px;" alt=""/><br /><sub><b>Abhishek Sharma</b></sub></a></td>
+<td align="center"><a href="https://github.com/abhisheks008"><img src="https://avatars.githubusercontent.com/u/68724349?v=4" width="80px;" alt=""/><br /><sub><b>Abhishek Sharma</b></sub></a></td>
   </tr>
 </table>
 

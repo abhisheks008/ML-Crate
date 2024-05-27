@@ -1,5 +1,5 @@
 ---
-name: ML-Crate Issue Template
+name: ML-Crate Web App Creation Issue Template
 about: This is the issue template that is going to be used while creating any issues
   in this repo.
 title: ''

@@ -11,6 +11,7 @@ assignees: ''
 ### ML-Crate Repository (Proposing new issue)
 :red_circle: **Project Title** : [README Enhacement]: 
 </br></br>:red_circle: **Aim** : The aim is to enhance the README file of the existing project and make it eye-catcting using the latest [README Template](https://github.com/abhisheks008/ML-Crate/blob/main/.github/readme_template.md).
+</br></br>:red_circle: **README to be enhanced** : 
 </br></br>:red_circle: **Dataset** : N/A
 </br></br>:red_circle: **Approach** : Enhance the README file and make them eye-pleasing.
 

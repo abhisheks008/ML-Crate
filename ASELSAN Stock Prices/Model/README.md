@@ -1,47 +1,60 @@
+### ASELSAN Stock Price Prediction Project
 
-# ASELSAN Stock Prices
+![ASELSAN Stock Prices](https://user-images.githubusercontent.com/97960335/180611277-c6c6044c-fc3e-4bad-ab88-d1aad0bded45.jpg)
 
-![download](https://user-images.githubusercontent.com/97960335/180611277-c6c6044c-fc3e-4bad-ab88-d1aad0bded45.jpg)
+## Project Overview
 
-## Goal
+The aim of this project is to develop a machine learning model capable of predicting the stock prices of ASELSAN, a leading defense technology company in Turkey.
 
-The goal of this project is to create a ML model which will predict the stock prices.
 ## Dataset
-I have Downloaded this dataset from kaggle website. Here is the link: https://www.kaggle.com/datasets/zlemglsmklkaya/aselsan-stock-prices-20172022
 
-## What Have I Done?
+The dataset used in this project was sourced from Kaggle. You can access it [here](https://www.kaggle.com/datasets/zlemglsmklkaya/aselsan-stock-prices-20172022).
 
-- Imported all the required libraries and dataset for this project.
-- Exploratory Data Analysis and Visualizing different aspects of the dataset.
-- Finding number of observations and outliers in the dataset.
-- Plotting different attributes of the dataset.
-- Creating the Model and Prediction of Price
-## Library used:
+## Project Progress
 
-1. numpy.
-2. pandas.
-3. matplotlib.
-4. seaborn.
-5. sklearn
-## Visualization and EDA of different attributes:
+Here's a breakdown of what has been accomplished so far:
 
-![download](https://user-images.githubusercontent.com/97960335/180611222-bcbf5e61-cc74-4ba7-9b90-89f2cfd2919f.png)
-![download](https://user-images.githubusercontent.com/97960335/180611224-e1b325ff-605f-46dc-b5d5-c145a673c13c.png)
-![download](https://user-images.githubusercontent.com/97960335/180611225-f63eae85-7e3c-421a-8f40-241884ed2bf1.png)
-![download](https://user-images.githubusercontent.com/97960335/180611229-fefa8ec1-54bd-46fc-9e4b-746793dbf8fd.png)
-![download](https://user-images.githubusercontent.com/97960335/180611233-6f68df38-beb3-48bd-8c13-80e61d60ea09.png)
-![download](https://user-images.githubusercontent.com/97960335/180611235-a9ddbea7-2717-4032-bcfe-a2e8677ee461.png)
-![download](https://user-images.githubusercontent.com/97960335/180611257-0ac8cc5c-6947-4dba-8547-0fc5342a281a.png)
-![download](https://user-images.githubusercontent.com/97960335/180611261-e80e1bf5-7805-44d3-aa8e-83686bbc454d.png)
+1. **Data Preprocessing and Exploration**: 
+   - Imported necessary libraries and the dataset.
+   - Conducted exploratory data analysis (EDA) to understand the dataset.
+   - Identified outliers and examined the distribution of various attributes.
 
-## Conclusion:
+2. **Visualization**:
+   - Visualized different aspects of the dataset using plots and charts.
+   - Explored the variation of ASELSAN's opening price over time.
+   - Utilized heatmap to understand correlations between features.
 
-- The variation of Opening Price of "ASELSAN" with Date is plotted.
-- Heatmap of "ASELSAN" is shown.
-- The decrease in opening price in 2018 to 2020 and the increase from 2020 to 2022 is plotted.
-- ASELSAN stock price prediction is done using ML Model.
+3. **Model Development**:
+   - Developed a machine learning model for predicting ASELSAN stock prices.
+   - Evaluated the performance of the model using appropriate metrics.
+
+## Libraries Used
+
+1. numpy: For numerical computing.
+2. pandas: For data manipulation and analysis.
+3. matplotlib: For creating visualizations.
+4. seaborn: For enhancing the aesthetics of plots.
+5. sklearn: For machine learning tasks.
+
+## Visualizations and EDA Highlights
+
+![Visualization 1](https://user-images.githubusercontent.com/97960335/180611222-bcbf5e61-cc74-4ba7-9b90-89f2cfd2919f.png)
+![Visualization 2](https://user-images.githubusercontent.com/97960335/180611224-e1b325ff-605f-46dc-b5d5-c145a673c13c.png)
+![Visualization 3](https://user-images.githubusercontent.com/97960335/180611225-f63eae85-7e3c-421a-8f40-241884ed2bf1.png)
+![Visualization 4](https://user-images.githubusercontent.com/97960335/180611229-fefa8ec1-54bd-46fc-9e4b-746793dbf8fd.png)
+![Visualization 5](https://user-images.githubusercontent.com/97960335/180611233-6f68df38-beb3-48bd-8c13-80e61d60ea09.png)
+![Visualization 6](https://user-images.githubusercontent.com/97960335/180611235-a9ddbea7-2717-4032-bcfe-a2e8677ee461.png)
+![Visualization 7](https://user-images.githubusercontent.com/97960335/180611257-0ac8cc5c-6947-4dba-8547-0fc5342a281a.png)
+![Visualization 8](https://user-images.githubusercontent.com/97960335/180611261-e80e1bf5-7805-44d3-aa8e-83686bbc454d.png)
+
+## Conclusion
+
+- Explored the trend of ASELSAN's opening price over time.
+- Identified patterns and correlations within the dataset.
+- Developed a machine learning model for stock price prediction.
 
 ## Authors
 
-- Created by [@Nirvik07](https://github.com/Nirvik07), HRSoc 2022
+- Created by [Nirvik07](https://github.com/Nirvik07) as part of HRSoc 2022.
 
+Feel free to ask if you need more information or if there are any further enhancements you'd like to make!

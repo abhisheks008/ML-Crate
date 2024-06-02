@@ -27,7 +27,7 @@ ML Crate stands as the ultimate hub for a multitude of exciting ML projects, ser
 This repository consists of various machine learning projects, and all of the projects must follow a certain template. I wish the contributors will take care of this while contributing in this repository. <br><br>
 - **Dataset** - This folder stores the dataset used in this project. If the Dataset is not being able to uploaded in this folder due to the large size, then put a README.md file inside the Dataset folder and put the link of the collected dataset in it. That'll work!<br><br>
 - **Images** - This folder is used to store the images generated during the data analysis, data visualization, data segmentation of the project.<br><br>
-- **Model** - This folder would have your project file (that is .ipynb file) be it analysis or prediction. Other than project file, it should also have a **'README.md'** using this [template](https://github.com/abhisheks008/ML-Crate/blob/main/.github/readme_template.md) and **'requirements.txt'** file which would be enclosed with all needed add-ons and libraries that are included in the project.
+- **Model** - This folder would have your project file (that is .ipynb file) be it analysis or prediction. Other than project file, it should also have a **'README.md'** using this [template](https://github.com/abhisheks008/ML-Crate/blob/main/.github/readme_template.md) and **'requirements.txt'** file which would be enclosed with all needed add-ons and libraries that are included in the project.<br><br>
 - **Web App** - This folder consists of the web application built using the best model of the project folder. Majorly deployed in Flask or Streamlit.
 
 ```

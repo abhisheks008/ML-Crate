@@ -31,10 +31,10 @@ This dataset can be used to train machine learning models to predict customer ch
 ## Visualizations 
 Here are some visualizations generated from the dataset:
 
-![Visualization 1](images/visualization1.png)
+![Visualization 1](images/newplot.png)
 *Description of Visualization 1*
 
-![Visualization 2](images/visualization2.png)
+![Visualization 2](images/piechart.png)
 *Description of Visualization 2*
 
 ## Model

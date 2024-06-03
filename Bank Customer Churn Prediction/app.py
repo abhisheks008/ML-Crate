@@ -10,7 +10,7 @@ st.title('Bank customer churn prediction app')
 # Load the model
 def load_model():
     try:
-        model = joblib.load('model.pkl')
+        model = joblib.load('Model/model.pkl')
         return model
     except Exception as e:
         st.write(f"Error loading the model: {e}")
@@ -27,7 +27,7 @@ else:
 minmax_scaler = MinMaxScaler()
 Standard_Scaler=StandardScaler()
 # Load training data
-training_data = pd.read_csv('Customer.csv') 
+training_data = pd.read_csv('Dataset/Customer.csv') 
 
 # Fit the scaler on training data
 minmax_scaler.fit(training_data[['Tenure', 'NumOfProducts']])

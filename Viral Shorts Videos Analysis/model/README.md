@@ -22,23 +22,19 @@
 - Scikit learn
 
 ### Visual plots :
-- Most common Words used in viral short videos.
+
 ![](../images/most_common_words.png)
 
-- Word cloud of all the used words.
 ![](../images/word_cloud.png)
 
-- Correlation between numerical columns using pair plot and heatmap.
 ![](../images/pair_plot.png)
+
 ![](../images/heat_map.png)
 
-- Frequency of likes.
 ![](../images/fequency_of_likes.png)
 
-- Distribution of video duration
 ![](../images/distribution%20of%20video%20duration.png)
 
-- Time Series of views
 ![](../images/time_series_of_views.png)
 
 ### Model :

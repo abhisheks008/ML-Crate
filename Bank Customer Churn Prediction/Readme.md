@@ -2,9 +2,10 @@
 
 ## Overview
 This repository contains code for a machine learning model that predicts customer churn for a bank. Customer churn refers to the phenomenon where customers stop doing business with a company. In the context of a bank, it means customers closing their accounts or ceasing to use banking services.
+The model is built using [Python](https://www.python.org/) and popular machine learning libraries such as [scikit-learn](https://scikit-learn.org/). It incorporates classification algorithms including Logistic Regression, Random Forest, Decision Tree, Gradient Boosting, and AdaBoost. The model is then integrated with Streamlit for interactive visualization and deployment. Leveraging historical customer data, it predicts the likelihood of a customer churning in the future.
 
-The model is built using [Python](https://www.python.org/) and popular machine learning libraries such as [scikit-learn](https://scikit-learn.org/) and classification algorithms like Logistic regression , Random forest , Decision tree , Gradient boosting and ADAboost . It leverages historical customer data to predict the likelihood of a customer churning in the future.
-
+## App-Interface 
+![interface](images/interface.png)
 ## Dataset
 
 The model is trained on a dataset [Customer.csv](Dataset/Customer.csv) containing historical information about bank customers. The dataset includes various features such as customer demographics, transaction history, account balances, etc. Each entry in the dataset is labeled with whether the customer churned or not.
@@ -44,17 +45,6 @@ Here are some visualizations generated from the dataset:
 ![Exited vs Gender](images/Exited-gender.png)
 *Description: This plot illustrates the correlation between customer churn and gender.*
 
-### AUC Curve for Logistic Regression Algorithm
-![AUC Curve for Logistic Regression Algorithm](images/output-lr.png)
-*   Description: This graph represents the Area Under the Curve (AUC) for the Logistic Regression algorithm.*
-
-### AUC Curve for Decision Tree Algorithm
-![AUC Curve for Decision Tree Algorithm](images/output-dt.png)
-*   Description: This chart displays the Area Under the Curve (AUC) for the Decision Tree algorithm.*
-
-### AUC Curve for Gradient Boosting Algorithm
-![AUC Curve for Gradient Boosting Algorithm](images/output-gb.png)
-*   Description: This graph demonstrates the Area Under the Curve (AUC) for the Gradient Boosting algorithm.*
 ## Data Preprocessing
 
 Before training the machine learning models, the dataset undergoes preprocessing to prepare it for analysis. Here's an overview of the preprocessing steps applied:
@@ -108,17 +98,30 @@ These algorithms are chosen for their complementary strengths in handling differ
 
 
 ## Usage
+
 To use the model, follow these steps:
+
 1. Clone this repository to your local machine.
 2. Install the required dependencies listed in the `requirements.txt` file.
-3. Run the provided Jupyter notebook or Python script to train the model on your dataset.
-4. Once trained, you can use the model to make predictions on new data by providing the relevant features as input.
+3. Run the app.py file in the terminal - for running app.py, open the command prompt and navigate to this directory, then run the command: python -m streamlit run app.py
+4. Once the app is opened in your web browser, you can adjust various parameters to view the results.
+
 
 ## Evaluation
-The model's performance can be evaluated using various metrics such as accuracy, precision, recall, and F1-score. Additionally, you can visualize the model's performance using techniques such as confusion matrices and ROC curves.
+The model's performance is evaluated by Accuracy score and then Auc curves are plotted to check for the overfitting.In gradient boosting algorithm the train accuracy is nearly 0.91 and test acucracy is near 0.90 so it is the best model we can consider for further use as the data is not overfitting here.
 
+### AUC Curve for Logistic Regression Algorithm
+![AUC Curve for Logistic Regression Algorithm](images/output-lr.png)
+*   Description: This graph represents the Area Under the Curve (AUC) for the Logistic Regression algorithm.*
+
+### AUC Curve for Decision Tree Algorithm
+![AUC Curve for Decision Tree Algorithm](images/output-dt.png)
+*   Description: This chart displays the Area Under the Curve (AUC) for the Decision Tree algorithm.*
+
+### AUC Curve for Gradient Boosting Algorithm
+![AUC Curve for Gradient Boosting Algorithm](images/output-gb.png)
+*   Description: This graph demonstrates the Area Under the Curve (AUC) for the Gradient Boosting algorithm.*
 ## Contributors
-- [Your Name](https://github.com/yourusername) - Role/Contribution
+- [Nikita](https://github.com/NIKITA320495) - Contributor
 
-## License
-This project is licensed under the [MIT License](LICENSE).
+

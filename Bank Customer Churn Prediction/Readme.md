@@ -7,7 +7,7 @@ The model is built using [Python](https://www.python.org/) and popular machine l
 
 ## Dataset
 
-The model is trained on a dataset containing historical information about bank customers. The dataset includes various features such as customer demographics, transaction history, account balances, etc. Each entry in the dataset is labeled with whether the customer churned or not.
+The model is trained on a dataset [Customer.csv](Dataset/Customer.csv) containing historical information about bank customers. The dataset includes various features such as customer demographics, transaction history, account balances, etc. Each entry in the dataset is labeled with whether the customer churned or not.
 
 ### Features
 
@@ -29,16 +29,83 @@ The model is trained on a dataset containing historical information about bank c
 This dataset can be used to train machine learning models to predict customer churn based on the provided features. The goal is to build a model that can accurately identify customers who are likely to churn, allowing the bank to take proactive measures to retain them.
 
 ## Visualizations 
+
 Here are some visualizations generated from the dataset:
 
-![Visualization 1](images/newplot.png)
-*Description of Visualization 1*
+### Churn Rate Pie Chart
+![Churn Rate Pie Chart](images/piechart.png)
+*Description: This pie chart shows the distribution of churn rates among customers.*
 
-![Visualization 2](images/piechart.png)
-*Description of Visualization 2*
+### Exited Customers vs Geography
+![Exited Customers vs Geography](images/exited-geography.png)
+*Description: This visualization depicts the relationship between customer churn and geographical location.*
+
+### Exited vs Gender
+![Exited vs Gender](images/Exited-gender.png)
+*Description: This plot illustrates the correlation between customer churn and gender.*
+
+### AUC Curve for Logistic Regression Algorithm
+![AUC Curve for Logistic Regression Algorithm](images/output-lr.png)
+*   Description: This graph represents the Area Under the Curve (AUC) for the Logistic Regression algorithm.*
+
+### AUC Curve for Decision Tree Algorithm
+![AUC Curve for Decision Tree Algorithm](images/output-dt.png)
+*   Description: This chart displays the Area Under the Curve (AUC) for the Decision Tree algorithm.*
+
+### AUC Curve for Gradient Boosting Algorithm
+![AUC Curve for Gradient Boosting Algorithm](images/output-gb.png)
+*   Description: This graph demonstrates the Area Under the Curve (AUC) for the Gradient Boosting algorithm.*
+## Data Preprocessing
+
+Before training the machine learning models, the dataset undergoes preprocessing to prepare it for analysis. Here's an overview of the preprocessing steps applied:
+
+### Label Encoding and One-Hot Encoding
+
+Categorical variables like 'Gender' are encoded using Label Encoding, converting them into numerical values. Additionally, to handle categorical variables with more than two categories, One-Hot Encoding is employed. This technique creates binary columns for each category, improving the model's ability to interpret categorical data.
+
+### Feature Scaling
+
+Feature scaling is crucial for machine learning algorithms, especially those based on distance calculations or gradient descent optimization. Two common scaling techniques are applied:
+
+#### Min-Max Scaling
+
+Min-Max scaling rescales features to a range between 0 and 1, preserving the distribution's shape while bringing all features to the same scale. This scaling is applied to features like 'Tenure' and 'NumOfProducts'.
+
+#### Standard Scaling (Z-score Normalization)
+
+Standard scaling transforms features to have a mean of 0 and a standard deviation of 1. It's particularly useful when features have different units or scales. Features such as 'CreditScore', 'Age', and 'Balance' are standardized using this technique.
+
+### Final Preprocessed Dataset
+
+After preprocessing, the dataset is ready for model training. Categorical variables are encoded, and numerical features are scaled to ensure all features contribute equally to model training. The preprocessed dataset is now suitable for feeding into machine learning algorithms for churn prediction.
+
 
 ## Model
-The model is a binary classification model that predicts whether a customer will churn or not. It is trained using supervised learning techniques on the provided dataset. The performance of the model is evaluated using appropriate metrics such as accuracy, precision, recall, and F1-score.
+
+The model employs several algorithms commonly used in binary classification tasks. Here's a brief overview of the algorithms utilized and their rationale:
+
+### Logistic Regression
+
+Logistic Regression is a simple yet powerful algorithm for binary classification. It's chosen for its interpretability, ease of implementation, and ability to provide probabilities for predictions. Despite its simplicity, Logistic Regression can capture linear relationships between features and the target variable.
+
+### Random Forest
+
+Random Forest is an ensemble learning technique that constructs multiple decision trees during training and outputs the mode of the classes (classification) or the mean prediction (regression) of the individual trees. It's known for its robustness to overfitting, handling of high-dimensional datasets, and feature importance estimation.
+
+### Decision Tree
+
+Decision Tree is a non-parametric supervised learning method used for classification and regression. It works by recursively partitioning the input space into regions based on feature values, with the goal of maximizing the homogeneity of the target variable within each region. Decision Trees are easy to interpret and visualize, making them valuable for understanding feature importance.
+
+### Gradient Boosting
+
+Gradient Boosting is an ensemble learning technique that builds models sequentially, with each new model correcting errors made by the previous ones. It combines weak learners (usually decision trees) to create a strong learner. Gradient Boosting is effective in capturing complex relationships in the data and has been successful in various machine learning competitions.
+
+### AdaBoost
+
+AdaBoost (Adaptive Boosting) is another ensemble learning method that combines multiple weak learners to form a strong classifier. It assigns higher weights to misclassified data points in each iteration, allowing subsequent weak learners to focus on the difficult examples. AdaBoost is particularly useful when dealing with imbalanced datasets and noisy data.
+
+These algorithms are chosen for their complementary strengths in handling different aspects of the dataset and their proven effectiveness in classification tasks. By employing a diverse set of algorithms, we aim to build a robust model capable of accurately predicting customer churn and providing valuable insights for retention strategies.
+
 
 ## Usage
 To use the model, follow these steps:

@@ -37,8 +37,7 @@
 
 ![](../images/time_series_of_views.png)
 
-### Model :
-**I inspected 7 models, which are:**
+### Model used:
 * Linear Regression
 * Decision Tree Regressor
 * Random Forest Regressor
@@ -49,6 +48,7 @@
 
 ### Evaluation Result :
 - Test Data Results
+
 | Model                             |Root Mean Square error|    R2 Score      |
 |-----------------------------------|----------------------|------------------|
 | Linear Regression                 | 1,749,841.770        |     0.510        |
@@ -60,6 +60,7 @@
 | k-Nearest Neighbors Regressor     | 1,582,670.343        |     0.600        |
 
 - Train Data Results
+
 | Model                             |Root Mean Square error|    R2 Score       |
 |-----------------------------------|----------------------|-------------------|
 | Linear Regression                 |    979,192.253       |      0.758        |

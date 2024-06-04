@@ -1,7 +1,0 @@
-The essential library required for this project are as:
-Numpy == 1.21.6
-pandas == 1.3.5
-matplotlib == 3.2.2
-seaborn == 0.11.2
-TensorFlow == 2.9.2
-Keras == 2.9.0

@@ -1,1 +1,0 @@
-The Dataset is used here is taken from the Kaggle database website. I have shared the dataset here in the Dataset folder, or you can download the file from the link given here, [Search Interests in Google](https://www.kaggle.com/datasets/mustafaadelibrahim/comparing-search-interest-with-google-trends)

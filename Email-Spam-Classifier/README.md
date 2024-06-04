@@ -46,4 +46,5 @@ Usage
 Instructions for running the model will depend on the specific implementation. It might involve providing an email or its content as input and receiving a classification result (spam or not spam).
 
 ## Deployment
-For real-world use, consider deploying the model to integrate with an email client or server architecture for real-time spam filtering.
+
+For real-world use, used the streamlit for deploying the model to integrate with an email client or server architecture for real-time spam filtering.

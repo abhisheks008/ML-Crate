@@ -2,6 +2,7 @@
 The Email Spam Classifier is a machine learning model designed to classify emails as either spam or non-spam (ham). It is trained on a dataset containing email messages along with their corresponding labels indicating whether they are spam or not. 
 
 
+![interface](https://github.com/codewithpiyushh/ML-Crate/assets/154052068/5260f688-fae9-4bfc-8263-20e06c50e56c)
 
 ## Overview
 
@@ -35,18 +36,18 @@ Prepare data for analysis: handle missing values, encode categorical data, scale
 
 - *Naive bayes*:
   - Best Parameters: {'min_samples_split': 5, 'max_depth': 20}
-  - Accuracy: 0.917
-  - Precision: 0.866
+  - Accuracy: 0.977
+  - Precision: 0.977
 
 - *Decision Tree Classifier*:
   - Best Parameters: {'max_depth': 7}
-  - Accuracy: 0.917
-  - Precision: 0.866
+  - Accuracy: 0.937
+  - Precision: 0.933
 
 - *Support Vector Machine*:
   - Best Parameters: {'gamma': 0.1, 'kernel': 'linear'}  
-  - Accuracy: 0.917
-  - Precision: 0.866
+  - Accuracy: 0.978
+  - Precision: 0.978
 
 ### Accuracy Score
 

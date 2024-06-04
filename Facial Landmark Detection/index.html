@@ -1,0 +1,34 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Facial Landmark Detection</title>
+</head>
+<body>
+    <h1>Facial Landmark Detection</h1>
+    <input type="file" id="uploadImage" accept="image/*">
+    <button onclick="uploadImage()">Upload</button>
+    <br><br>
+    <img id="resultImage" style="max-width: 100%; height: auto;">
+
+    <script>
+        function uploadImage() {
+            const fileInput = document.getElementById('uploadImage');
+            const file = fileInput.files[0];
+            const formData = new FormData();
+            formData.append('image', file);
+
+            fetch('/upload', {
+                method: 'POST',
+                body: formData
+            })
+            .then(response => response.json())
+            .then(data => {
+                const resultImage = document.getElementById('resultImage');
+                resultImage.src = 'data:image/jpeg;base64,' + btoa(data.image);
+            });
+        }
+    </script>
+</body>
+</html>

@@ -7,7 +7,7 @@ The Email Spam Classifier is a machine learning model designed to classify email
 ## Overview
 
 Email spam remains a persistent issue in modern communication, with spam emails often inundating inboxes and posing security risks to users. The Email Spam Classifier aims to mitigate this problem by automatically identifying and filtering out spam emails, thereby enhancing the efficiency of email management and reducing the risk of falling victim to phishing attacks or malicious content.
-## Preprocessing
+
 
 ## Data Preprocessing
 

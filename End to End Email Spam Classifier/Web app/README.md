@@ -12,3 +12,5 @@ https://github.com/codewithpiyushh/ML-Crate/assets/154052068/856c2d97-585a-438b-
 
 ### Signature ✒️
 Piyush 
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/piyushhh-singhh/)

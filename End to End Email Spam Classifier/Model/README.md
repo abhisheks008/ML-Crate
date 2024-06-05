@@ -75,4 +75,4 @@ In conclusion, email spam classification significantly improves user experience 
 ### ✒️ **Your Signature**
 
 Piyush 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/ linkedin.com/in/piyushhh-singhh)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/piyushhh-singhh/)

@@ -52,7 +52,9 @@ Feature values are standardized using StandardScaler to have a mean of 0 and a s
 Train the Model:
 An XGBoost classifier is created and trained on the scaled training data.
 
-
+### Visualization
+![Alt Text](/ML-Crate/Vehicle Live Risk Prediction/Images/distrinution.png)
+![Alt Text](/Users/shivanshmahajan/Desktop/ML-Crate/Vehicle Live Risk Prediction/Images/countplot.png)
 
 ## Evaluation
 After training the model, its performance is evaluated on the test set:

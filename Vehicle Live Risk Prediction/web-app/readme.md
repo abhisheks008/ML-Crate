@@ -5,8 +5,8 @@
 ### Overview
 The Vehicle Risk Prediction application is designed to predict the risk associated with driving a vehicle based on various factors such as weather conditions, road hazards, visibility, traffic density, and driver-related factors like fatigue level, speeding, and medical conditions. The application utilizes a machine learning model trained on historical data to provide risk predictions.
 
-![Alt Text](./Images/about.png)
-![Alt Text](./Images/mainmodel.png)
+![Alt Text](/Users/shivanshmahajan/Desktop/ML-Crate/Vehicle Live Risk Prediction/Images/mainmodel.png)
+![Alt Text](/Users/shivanshmahajan/Desktop/ML-Crate/Vehicle Live Risk Prediction/Images/about.png)
 
 ### Goal 🎯
 'The aim is to create a web app for the Vehicle Live Risk Prediction project. Use the best existing model in the project folder. Follow the Web App README template for the same.'

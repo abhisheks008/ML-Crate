@@ -77,7 +77,7 @@ if st.button("Predict"):
             vector_input = tfidf.transform([transformed_sms])
             result = predict_spam(vector_input, model, tfidf)  # Pass entire vector_input
             
-            if result == "Not Spam":
+            if result == 0:
                 st.header("Not Spam")
             else:
                 st.header("Spam")

@@ -8,7 +8,7 @@ The Vehicle Risk Prediction application is designed to predict the risk associat
 ![Alt Text](./Images/about.png)
 ![Alt Text](./Images/mainmodel.png)
 
-### Setup Virtual Environment### Goal 🎯
+### Goal 🎯
 'The aim is to create a web app for the Vehicle Live Risk Prediction project. Use the best existing model in the project folder. Follow the Web App README template for the same.'
 
 

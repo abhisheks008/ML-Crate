@@ -1,73 +1,77 @@
-# Machine Learning Model for Email Spam Classifier 
-The Email Spam Classifier is a machine learning model designed to classify emails as either spam or non-spam (ham). It is trained on a dataset containing email messages along with their corresponding labels indicating whether they are spam or not. 
+## ** End to End Email Spam Classifier**
 
+### 🎯 **Goal**
 
+The goal of email spam classification is to enhance user experience by organizing and prioritizing emails, detecting and filtering out spam, improving security, and ensuring that legitimate messages receive attention. It streamlines communication, reduces annoyance, and protects users from malicious content. 📧🔍
 
-## Overview
+### 🧵 **Dataset**
 
-Email spam remains a persistent issue in modern communication, with spam emails often inundating inboxes and posing security risks to users. The Email Spam Classifier aims to mitigate this problem by automatically identifying and filtering out spam emails, thereby enhancing the efficiency of email management and reducing the risk of falling victim to phishing attacks or malicious content.
-## Preprocessing
+the Dataset used int the project is taken from kaggle spam Dataset
+[https://www.kaggle.com/datasets/uciml/sms-spam-collection-dataset]
 
-## Data Preprocessing
+### 🧮 **What I had done!**
 
-Prepare data for analysis: handle missing values, encode categorical data, scale features, perform feature engineering, split into train-test sets, and normalize data. Ensure data is in a suitable format for machine learning algorithms.
+ In email spam classification project, I evaluated various models and found that Support Vector Machines (SVM) achieved the highest accuracy. SVMs are powerful classifiers that excel in separating data into distinct classes by finding an optimal hyperplane. Their success lies in their ability to handle both linear and non-linear data through kernel functions. By maximizing the margin between classes, SVMs effectively minimize misclassifications. Consequently, your results highlight SVMs as a robust choice for spam detection, contributing to better email filtering and enhanced user experience. 📧🔍🚀
 
-## Libraries Used
+### 🧾 **Description**
+
+Email spam classification refers to the process of automatically categorizing incoming emails as either spam (unsolicited, irrelevant, or potentially harmful) or legitimate (also known as “ham”). The goal is to enhance user experience by organizing and prioritizing emails, reducing annoyance, and protecting users from malicious content. Various machine learning models, including Support Vector Machines (SVMs), are commonly used for accurate spam detection. 📧🔍🚀
+
+### 🚀 **Models Implemented**
+
+I have used various models like Linear Regression , K-Neighbors Classifier , Naive bayes ,Decision Tree Classifier and Support Vector Machine for training and in all of them the maximum accuracy of the models turns out to be the Support Vector Machine
+
+### 📚 **Libraries Needed**
 
 - scikit-learn: Machine learning library for model training and evaluation.
 - pandas: Data manipulation library for preprocessing and data handling.
 - numpy: Numerical computing library for mathematical operations.
 - matplotlib, seaborn, plotly: Visualization libraries for data exploration and analysis.
 
+### 📊 **Exploratory Data Analysis Results**
 
-## Model Details
-### Hyperparameter Tuning Results
+![graphs](https://github.com/codewithpiyushh/ML-Crate/assets/154052068/08ba4a85-6ed3-409b-bc43-52362d2ffd17)
+
+
+### 📈 **Performance of the Models based on the Accuracy Scores**
 
 - *Logistic Regression*:
-  - Best Parameters: {'solver': 'liblinear', 'penalty': 'l1', 'C': 10}
-  - Best Score: 0.757
-  - Train Accuracy: 0.757
-  - Test Accuracy: 0.754
+  - Best Parameters: {'C': 10, 'penalty': 'l2'}
+  - Accuracy: 0.973
+  - Precision: 0.973
 
-- *Random Forest*:
-  - Best Parameters: {'n_estimators': 200, 'min_samples_split': 2, 'max_depth': None}
-  - Best Score: 0.892
-  - Train Accuracy: 0.999
-  - Test Accuracy: 0.906
+- *K-Neighbors Classifier*:
+  - Best Parameters: {'n_neighbors': 3}
+  - Accuracy: 0.999
+  - Precision: 0.906
 
-- *Decision Tree*:
+- *Naive bayes*:
   - Best Parameters: {'min_samples_split': 5, 'max_depth': 20}
-  - Best Score: 0.853
-  - Train Accuracy: 0.949
-  - Test Accuracy: 0.866
+  - Accuracy: 0.977
+  - Precision: 0.977
 
-- *Gradient Boosting*:
-  - Best Parameters: {'n_estimators': 200, 'max_depth': 5, 'learning_rate': 0.2}
-  - Best Score: 0.908
-  - Train Accuracy: 0.918
-  - Test Accuracy: 0.908
+- *Decision Tree Classifier*:
+  - Best Parameters: {'max_depth': 7}
+  - Accuracy: 0.937
+  - Precision: 0.933
 
-- *AdaBoost*:
-  - Best Parameters: {'n_estimators': 200, 'learning_rate': 1}
-  - Best Score: 0.879
-  - Train Accuracy: 0.880
-  - Test Accuracy: 0.879
-## Model Evaluation
+- *Support Vector Machine*:
+  - Best Parameters: {'gamma': 0.1, 'kernel': 'linear'}  
+  - Accuracy: 0.978
+  - Precision: 0.978
 
-### Accuracy Score
+![model-accuracy](https://github.com/codewithpiyushh/ML-Crate/assets/154052068/a283987a-523d-4ee2-8484-1ff31a41eb83)
 
-The accuracy score is a metric used to measure the overall performance of a classification model. It represents the proportion of correctly predicted instances out of the total instances. In the context of this bank customer churn prediction model, the accuracy score indicates the percentage of correctly predicted churned and non-churned customers.
+![wordcloud-1](https://github.com/codewithpiyushh/ML-Crate/assets/154052068/2b6fbade-72ea-442a-afe7-000b93975e92)
 
-### Area Under the ROC Curve (AUC-ROC)
+![wordcloud-2](https://github.com/codewithpiyushh/ML-Crate/assets/154052068/0972dc14-6d1c-4d42-a0ef-d3ae9dde064f)
 
-The AUC-ROC (Area Under the Receiver Operating Characteristic Curve) is a metric used to evaluate the performance of binary classification models. It represents the area under the curve plotted by the True Positive Rate (Sensitivity) against the False Positive Rate (1 - Specificity) for different threshold values. A higher AUC-ROC value indicates better discrimination capability of the model in distinguishing between positive and negative classes.
 
-### Determining the Best Model
+### 📢 **Conclusion**
 
-To determine the best model among the trained classifiers, we consider both the accuracy score and the AUC-ROC value. 
+In conclusion, email spam classification significantly improves user experience by organizing emails, detecting and filtering out spam, enhancing security, and ensuring legitimate messages receive attention. It streamlines communication, reduces annoyance, and protects users from malicious content. 📧🔍
 
-1. *Accuracy Score*: We look for the model with the highest accuracy score on the test dataset. A higher accuracy score indicates that the model predicts the correct class labels more accurately.
+### ✒️ **Your Signature**
 
-2. *AUC-ROC*: We also consider the AUC-ROC value. A higher AUC-ROC value indicates better overall performance in terms of both sensitivity and specificity. It helps to assess how well the model is able to distinguish between positive and negative instances.
-
-By comparing the accuracy scores and AUC-ROC values of different models, we can determine which model performs best for the task of predicting bank customer churn. Typically, we choose the model with the highest accuracy score and AUC-ROC value as the best-performing model for deployment.
+Piyush 
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/ linkedin.com/in/piyushhh-singhh)

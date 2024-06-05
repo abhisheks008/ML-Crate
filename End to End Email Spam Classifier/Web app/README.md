@@ -4,7 +4,7 @@
 The goal of email spam classification is to enhance user experience by organizing and prioritizing emails, detecting and filtering out spam, improving security, and ensuring that legitimate messages receive attention. It streamlines communication, reduces annoyance, and protects users from malicious content. 📧🔍
 
 ### Model(s) used for the Web App 🧮
-The model that i used here is support vector machine with accuracy of 97% 
+The model that i used here is support vector machine with accuracy of 97% and for deploying the model i have used the Streamlit library
 
 ### Video Demonstration 🎥
 

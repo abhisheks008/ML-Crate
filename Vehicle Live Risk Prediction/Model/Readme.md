@@ -17,7 +17,8 @@ The Live Vehicle Risk Detection project utilizes machine learning to predict the
 
 ## Dataset
 
-The dataset used for training the model contains various features related to vehicle and environmental conditions. The risk score is a numerical value, and the model is trained to classify the risk as high (1) if the risk score is above 50, otherwise low (0).
+https://www.kaggle.com/datasets/punyamodi/vehicle-live-risk-prediction
+
 
 
 ## Usage
@@ -78,3 +79,17 @@ After training and evaluating the model, the following components are saved to a
 7) Ridge
 8) MLP
 9) XGBoost
+
+### Models and Accuracies
+
+| Model                         | Accuracy   | MSE SCORE          |
+| ----------------------------- |:----------:| ------------------:|
+| Decision Tree                 | 0.9996     |                    |
+| Random Forest                 | 1.0        |                    |
+| ANN                           | 1.0        |                    |
+| Logistic Regression           | 1.0        |                    |
+| Lasso                         | N.A        | 0.03247239784420999|
+| Gradient Boost                | 1.0        |                    |
+| Ridge                         | N.A        | 0.007214250517408194|
+| MLP                           | 0.9997     |                    |
+| XGBoost                       | 1.0        |                    |

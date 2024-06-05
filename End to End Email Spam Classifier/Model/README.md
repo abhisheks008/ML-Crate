@@ -27,6 +27,7 @@ I have used various models like Linear Regression , K-Neighbors Classifier , Nai
 - pandas: Data manipulation library for preprocessing and data handling.
 - numpy: Numerical computing library for mathematical operations.
 - matplotlib, seaborn, plotly: Visualization libraries for data exploration and analysis.
+- streamlit: for deploying the model 
 
 ### 📊 **Exploratory Data Analysis Results**
 

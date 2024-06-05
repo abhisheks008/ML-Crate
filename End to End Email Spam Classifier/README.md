@@ -86,3 +86,9 @@ Training and Evaluation: Train the models using the provided data and evaluate t
 Interpret Results: Analyze the model's performance using the visualizations and metrics provided in the notebook.
 
 Feel free to reach out if you encounter any issues or need further assistance with running the notebook.
+
+## Connect with me 
+Piyush
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/piyushhh-singhh/)
+
+

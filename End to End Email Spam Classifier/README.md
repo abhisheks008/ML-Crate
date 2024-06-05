@@ -38,7 +38,7 @@ the Dataset used int the project is taken from kaggle spam Dataset
 
 
 ### Project Directory Structure
-
+```
 End to End Email Spam Classifier
 |- Dataset
   |- spam.csv
@@ -60,7 +60,7 @@ End to End Email Spam Classifier
   |- openapp.py
   |- README.md
 |- requirements.txt
-
+```
 ## 🙌 Acknowledgments
 
 The authors would like to acknowledge the contributions of the research community in the field of Email Spam Classifier using machine learning. The open-source datasets and repositories have been instrumental in the development of this project

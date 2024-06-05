@@ -1,7 +1,0 @@
-pandas
-numpy 
-matplotlib
-sklearn
-nltk
-pickle
-streamlit

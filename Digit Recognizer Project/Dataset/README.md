@@ -1,1 +1,0 @@
-The dataset which is used here, is collected from Kaggle website. Here is the link to the dataset : https://www.kaggle.com/c/digit-recognizer/data

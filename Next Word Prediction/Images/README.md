@@ -1,1 +1,0 @@
-These are the visualizations showcasing the results from the training and testing of different models for the project Next Word Prediction.

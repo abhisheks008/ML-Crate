@@ -25,3 +25,5 @@
 - YEAR
 - MONTH
 - DAY
+
+### Columns Droped are : NA

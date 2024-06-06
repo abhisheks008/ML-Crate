@@ -1,4 +1,3 @@
-
 # VIRAL VIDEO SHORTS ANALYSIS
 
 ### Aim : The aim of this project is to analyze the viral videos based on the given dataset.

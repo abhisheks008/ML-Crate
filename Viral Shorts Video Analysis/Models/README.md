@@ -22,19 +22,19 @@
 
 ### Visual plots :
 
-![](../images/most_common_words.png)
+![](../Images/1\)most_common_words.png)
 
-![](../images/word_cloud.png)
+![](../Images/2\)word_cloud.png)
 
-![](../images/pair_plot.png)
+![](../Images/3\)pair_plot.png)
 
-![](../images/heat_map.png)
+![](../Images/4\)heat_map.png)
 
-![](../images/fequency_of_likes.png)
+![](../Images/5\)fequency_of_likes.png)
 
-![](../images/distribution%20of%20video%20duration.png)
+![](../Images/6\)distribution%20of%20video%20duration.png)
 
-![](../images/time_series_of_views.png)
+![](../Images/7\)time_series_of_views.png)
 
 ### Model used:
 * Linear Regression

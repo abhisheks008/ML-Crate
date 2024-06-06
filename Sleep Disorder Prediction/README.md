@@ -138,8 +138,7 @@ Sleep Disorder Predictor
 
 ### 🎥 Demo
 
-
-
+https://github.com/Sgvkamalakar/SnoozeMonitor/assets/103712713/447cc6f8-c122-4826-a9f3-7d30af0f6fd4
 
 ### ⚙️ **Usage**
 

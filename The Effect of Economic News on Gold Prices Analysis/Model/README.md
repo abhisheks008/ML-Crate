@@ -41,7 +41,7 @@ Model Building: We implemented the following algorithms for their distinct advan
 ### 📊 **Exploratory Data Analysis Results**
 <table>
     <tr>
-        <td><img src=""></td>
+        <td><img src="The Effect of Economic News on Gold Prices Analysis/Images/Weekly-Gold.png"></td>
         <td><img src=""></td>
     </tr>
     <tr>

@@ -1,0 +1,1877 @@
+Day,Date,Hour,Country,Event,Actual,Previous,Consensus,Forecast
+Tuesday,01/01/19,20:45,CN,Caixin Manufacturing PMI DEC,49.7,50.2,50.1,50.1
+Friday,01/04/19,8:30,US,Non Farm Payrolls DEC,312K,176K,177K,165K
+Sunday,01/06/19,,CN,US-China Trade Talks,,,,
+Monday,01/07/19,10:00,CA,Ivey PMI s.a DEC,59.7,57.2,56.8,56.7
+Monday,01/07/19,,CN,US-China Trade Talks,,,,
+Tuesday,01/08/19,0:00,JP,Consumer Confidence DEC,42.7,42.9,,42
+Tuesday,01/08/19,5:00,EA,Business Confidence DEC,0.82,1.04,0.99,1.1
+Tuesday,01/08/19,8:30,CA,Balance of Trade NOV,-2.06B,-0.85B,-1.95B,
+Wednesday,01/09/19,20:30,CN,Inflation Rate YoY DEC,0.019,2.20%,0.021,0.022
+Friday,01/11/19,4:30,GB,Balance of Trade NOV,-2.904B,-3.037B,, -2.2B
+Friday,01/11/19,8:30,US,Core Inflation Rate YoY DEC,0.022,2.20%,0.022,0.022
+Friday,01/11/19,8:30,US,Inflation Rate YoY DEC,0.019,2.20%,0.019,0.022
+Wednesday,01/16/19,4:30,GB,Inflation Rate YoY DEC,0.021,2.30%,0.021,0.022
+Thursday,01/17/19,18:30,JP,Inflation Rate YoY DEC,0.003,0.80%,0.003,0.006
+Friday,01/18/19,8:30,CA,Inflation Rate YoY DEC,0.02,1.70%,0.017,0.017
+Tuesday,01/22/19,4:30,GB,Claimant Count Change DEC,20.8K,24.8K,20K,10K
+Tuesday,01/22/19,18:50,JP,Balance of Trade DEC,-55B,-738B,-29.5B,-25B
+Wednesday,01/30/19,0:00,JP,Consumer Confidence JAN,41.9,42.7,42.5,42.4
+Wednesday,01/30/19,5:00,EA,Business Confidence JAN,0.69,0.86,0.75,0.75
+Wednesday,01/30/19,19:01,GB,Gfk Consumer Confidence JAN,-14,-14,-15,-16
+Wednesday,01/30/19,20:00,CN,NBS Manufacturing PMI JAN,49.5,49.4,49.3,49.8
+Thursday,01/31/19,20:45,CN,Caixin Manufacturing PMI JAN,48.3,49.7,49.5,50
+Friday,02/01/19,8:30,US,Non Farm Payrolls JAN,304K,222K,165K,170K
+Wednesday,02/06/19,8:30,US,Balance of Trade NOV,-49.3B,-55.7B,-54B,-53B
+Wednesday,02/06/19,10:00,CA,Ivey PMI s.a JAN,54.7,59.7,56,58
+Monday,02/11/19,4:30,GB,Balance of Trade DEC,-3.229B,-3.615B,, -1.9B
+Wednesday,02/13/19,4:30,GB,Inflation Rate YoY JAN,0.018,2.10%,0.019,0.02
+Wednesday,02/13/19,8:30,US,Core Inflation Rate YoY JAN,0.022,2.20%,0.021,0.02
+Wednesday,02/13/19,8:30,US,Inflation Rate YoY JAN,0.016,1.90%,0.015,0.019
+Thursday,02/14/19,8:30,US,Retail Sales MoM DEC,-0.012,0.10%,0.002,0.003
+Thursday,02/14/19,20:30,CN,Inflation Rate YoY JAN,0.017,1.90%,0.019,0.019
+Tuesday,02/19/19,4:30,GB,Claimant Count Change JAN,14.2K,20.2K,2.7K,5.1K
+Tuesday,02/19/19,18:50,JP,Balance of Trade JAN,-1415B,-57B,-1011B,-1000B
+Thursday,02/21/19,8:30,US,Durable Goods Orders MoM DEC,0.012,1%,0.015,0.025
+Thursday,02/21/19,18:30,JP,Inflation Rate YoY JAN,0.002,0.30%,0.002,0.005
+Wednesday,02/27/19,5:00,EA,Business Confidence FEB,0.69,0.69,0.6,0.61
+Wednesday,02/27/19,8:30,CA,Inflation Rate YoY JAN,0.014,2%,0.015,0.018
+Wednesday,02/27/19,19:01,GB,Gfk Consumer Confidence FEB,-13,-14,-15,-17
+Wednesday,02/27/19,20:00,CN,NBS Manufacturing PMI FEB,49.2,49.5,49.5,49.8
+Thursday,02/28/19,20:45,CN,Caixin Manufacturing PMI FEB,49.9,48.3,48.5,49
+Friday,03/01/19,0:00,JP,Consumer Confidence FEB,41.5,41.9,41.6,41.3
+Friday,03/01/19,8:30,US,Personal Income MoM DEC,0.01,0.30%,0.004,0.004
+Friday,03/01/19,8:30,US,Personal Income MoM JAN,-0.001,1%,0.003,0.003
+Friday,03/01/19,8:30,US,Personal Spending MoM DEC,-0.005,0.60%,-0.002,-0.002
+Monday,03/04/19,,CN,National People’s Congress,,,,
+Wednesday,03/06/19,8:30,CA,Balance of Trade DEC,-4.59B,-1.98B,-2.8B,-1.7B
+Wednesday,03/06/19,8:30,US,Balance of Trade DEC,-59.8B,-50.3B,-57.9B,-56B
+Wednesday,03/06/19,10:00,CA,Ivey PMI s.a FEB,50.6,54.7,55.1,53
+Friday,03/08/19,8:30,US,Non Farm Payrolls FEB,20K,311K,180K,190K
+Friday,03/08/19,20:30,CN,Inflation Rate YoY FEB,0.015,1.70%,0.015,0.016
+Monday,03/11/19,7:30,US,Retail Sales MoM JAN,0.002,-1.60%,0,0.003
+Tuesday,03/12/19,4:30,GB,Balance of Trade JAN,-3.825B,-3.448B,-3.5B,-2.6B
+Tuesday,03/12/19,7:30,US,Core Inflation Rate YoY FEB,0.021,2.20%,0.022,0.022
+Tuesday,03/12/19,7:30,US,Inflation Rate YoY FEB,0.015,1.60%,0.016,0.016
+Wednesday,03/13/19,7:30,US,Durable Goods Orders MoM JAN,0.004,1.30%,-0.005,-0.009
+Sunday,03/17/19,18:50,JP,Balance of Trade FEB,339B,-1416B,310.2B,-200B
+Tuesday,03/19/19,4:20,GB,Claimant Count Change FEB,27K,15.7K,2.7K,9.1K
+Wednesday,03/20/19,4:30,GB,Inflation Rate YoY FEB,0.019,1.80%,0.018,0.018
+Thursday,03/21/19,18:30,JP,Inflation Rate YoY FEB,0.002,0.20%,0.003,0.001
+Friday,03/22/19,7:30,CA,Inflation Rate YoY FEB,0.015,1.40%,0.014,0.015
+Wednesday,03/27/19,7:30,CA,Balance of Trade JAN,-4.25B,-4.82B,-3.5B,-3.9B
+Wednesday,03/27/19,7:30,US,Balance of Trade JAN,-51.1B,-59.9B,-57B,-59B
+Wednesday,03/27/19,,CN,US-China Trade Talks,,,,
+Thursday,03/28/19,5:00,EA,Business Confidence MAR,0.53,0.69,0.66,0.6
+Thursday,03/28/19,19:01,GB,Gfk Consumer Confidence MAR,-13,-13,-14,-13
+Thursday,03/28/19,,CN,US-China Trade Talks,,,,
+Friday,03/29/19,7:30,US,Personal Income MoM FEB,0.002,-0.10%,0.003,0.002
+Friday,03/29/19,7:30,US,Personal Spending MoM JAN,0.001,-0.60%,0.003,0.004
+Saturday,03/30/19,20:00,CN,NBS Manufacturing PMI MAR,50.5,49.2,49.5,49.6
+Sunday,03/31/19,18:50,JP,Tankan Large Manufacturers Index Q1,12,19,13,18
+Sunday,03/31/19,20:45,CN,Caixin Manufacturing PMI MAR,50.8,49.9,50.1,49.8
+Monday,04/01/19,7:30,US,Retail Sales MoM FEB,-0.002,0.70%,0.003,0.002
+Tuesday,04/02/19,7:30,US,Durable Goods Orders MoM FEB,-0.016,0.10%,-0.018,-0.007
+Thursday,04/04/19,9:00,CA,Ivey PMI s.a MAR,54.3,50.6,51.1,50.4
+Friday,04/05/19,7:30,US,Non Farm Payrolls MAR,196K,33K,180K,178K
+Monday,04/08/19,0:00,JP,Consumer Confidence MAR,40.5,41.5,42.3,42
+Wednesday,04/10/19,3:30,GB,Balance of Trade FEB,-4.860B,-5.345B,,-1.2B
+Wednesday,04/10/19,7:30,US,Core Inflation Rate YoY MAR,0.02,2.10%,0.021,0.022
+Wednesday,04/10/19,7:30,US,Inflation Rate YoY MAR,0.019,1.50%,0.018,0.017
+Wednesday,04/10/19,20:30,CN,Inflation Rate YoY MAR,0.023,1.50%,0.023,0.02
+Tuesday,04/16/19,3:30,GB,Claimant Count Change MAR,28.3K,26.7K,20K,5K
+Tuesday,04/16/19,18:50,JP,Balance of Trade MAR,529B,335B,372.2B,250B
+Wednesday,04/17/19,3:30,GB,Inflation Rate YoY MAR,0.019,1.90%,0.02,0.019
+Wednesday,04/17/19,7:30,CA,Balance of Trade FEB,-2.9B,-3.09B,-3.5B,-3.9B
+Wednesday,04/17/19,7:30,CA,Inflation Rate YoY MAR,0.019,1.50%,0.019,0.017
+Wednesday,04/17/19,7:30,US,Balance of Trade FEB,-49.4B,-51.1B,-53.5B,-52.8B
+Thursday,04/18/19,7:30,US,Retail Sales MoM MAR,0.016,-0.20%,0.009,0.006
+Thursday,04/18/19,18:30,JP,Inflation Rate YoY MAR,0.005,0.20%,0.005,0.003
+Thursday,04/25/19,7:30,US,Durable Goods Orders MoM MAR,0.027,-1.10%,0.008,0.005
+Monday,04/29/19,4:00,EA,Business Confidence APR,0.42,0.54,0.49,0.51
+Monday,04/29/19,7:30,US,Personal Income MoM MAR,0.001,0.20%,0.004,0.003
+Monday,04/29/19,7:30,US,Personal Spending MoM MAR,0.009,0.10%,0.007,0.005
+Monday,04/29/19,7:30,US,Personal Spending MoM FEB,0.001,0.30%,0.002,0.003
+Monday,04/29/19,18:01,GB,Gfk Consumer Confidence APR,-13,-13,-12,-12
+Monday,04/29/19,20:00,CN,NBS Manufacturing PMI APR,50.1,50.5,50.5,50.8
+Monday,04/29/19,20:45,CN,Caixin Manufacturing PMI APR,50.2,50.8,51,51
+Monday,04/29/19,,CN,US-China Trade Talks,,,,
+Monday,04/29/19,7:30,US,Non Farm Payrolls APR,263K,189K,185K,178K
+Tuesday,05/07/19,9:00,CA,Ivey PMI s.a APR,55.9,54.3,53,53.5
+Wednesday,05/08/19,20:30,CN,Inflation Rate YoY APR,0.025,2.30%,0.025,0.021
+Thursday,05/09/19,0:00,JP,Consumer Confidence APR,40.4,40.5,40.3,41
+Thursday,05/09/19,7:30,CA,Balance of Trade MAR,-3.21B,-3.42B,-2.45B, -2.3B
+Thursday,05/09/19,7:30,US,Balance of Trade MAR,-50B,-49.3B,-50.2B, -50.1B
+Thursday,05/09/19,3:30,GB,Balance of Trade MAR,-5.408B,-6.219B,,-2.7B
+Thursday,05/09/19,7:30,US,Core Inflation Rate YoY APR,0.021,2%,0.021,0.02
+Thursday,05/09/19,7:30,US,Inflation Rate YoY APR,0.02,1.90%,0.021,0.019
+Tuesday,05/14/19,3:30,GB,Claimant Count Change APR,24.7K,22.6K,24.2K,25K
+Wednesday,05/15/19,7:30,CA,Inflation Rate YoY APR,0.02,1.90%,0.02,0.02
+Wednesday,05/15/19,7:30,US,Retail Sales MoM APR,-0.002,1.70%,0.002,0.003
+Tuesday,05/21/19,18:50,JP,Balance of Trade APR,60.4B,527.8B,203.2B,272B
+Wednesday,05/22/19,3:30,GB,Inflation Rate YoY APR,0.021,1.90%,0.022,0.018
+Thursday,05/23/19,18:30,JP,Inflation Rate YoY APR,0.009,0.50%,0.009,0.003
+Thursday,05/23/19,7:30,US,Durable Goods Orders MoM APR,-0.021,1.70%,-0.02,-0.017
+Tuesday,05/28/19,4:00,EA,Business Confidence 05,0.3,0.42,0.4,0.36
+Thursday,05/30/19,18:01,GB,Gfk Consumer Confidence 05,-10,-13,-12,-12
+Thursday,05/30/19,20:00,CN,NBS Manufacturing PMI 05,49.4,50.1,49.9,50.2
+Thursday,05/30/19,0:00,JP,Consumer Confidence 05,39.4,40.4,40.6,40.5
+Thursday,05/30/19,7:30,US,Personal Income MoM APR,0.005,0.10%,0.003,0.002
+Thursday,05/30/19,7:30,US,Personal Spending MoM APR,0.003,1.10%,0.002,0.001
+Sunday,06/02/19,20:45,CN,Caixin Manufacturing PMI 05,50.2,50.2,50,50.4
+Thursday,06/06/19,7:30,CA,Balance of Trade APR,-0.97B,-2.34B,-2.8B,-3B
+Thursday,06/06/19,7:30,US,Balance of Trade APR,-50.8B,-51.9B,-50.7B,-51.2B
+Thursday,06/06/19,9:00,CA,Ivey PMI s.a 05,55.9,55.9,56.7,54.7
+Friday,06/07/19,7:30,US,Non Farm Payrolls 05,75K,224K,185K,190K
+Monday,06/10/19,3:30,GB,Balance of Trade APR,-2.740B,-6.151B,,-3.2B
+Tuesday,06/11/19,3:30,GB,Claimant Count Change 05,23.2K,19.1K,22.9K,21K
+Tuesday,06/11/19,20:30,CN,Inflation Rate YoY 05,0.027,2.50%,0.027,0.025
+Wednesday,06/12/19,7:30,US,Core Inflation Rate YoY 05,0.02,2.10%,0.021,0.021
+Wednesday,06/12/19,7:30,US,Inflation Rate YoY 05,0.018,2%,0.019,0.019
+Friday,06/14/19,7:30,US,Retail Sales MoM 05,0.005,0.30%,0.006,0.006
+Tuesday,06/18/19,18:50,JP,Balance of Trade 05,-967.1B,56.8B,-979.2B,-851B
+Wednesday,06/19/19,3:30,GB,Inflation Rate YoY 05,0.02,2.10%,0.02,0.021
+Wednesday,06/19/19,7:30,CA,Inflation Rate YoY 05,0.024,2%,0.021,0.021
+Thursday,06/20/19,18:30,JP,Inflation Rate YoY 05,0.007,0.90%,0.007,0.01
+Wednesday,06/26/19,7:30,US,Durable Goods Orders MoM 05,-0.013,-2.80%,-0.001,0.002
+Thursday,06/27/19,4:00,EA,Business Confidence JUN,0.17,0.3,0.23,0.25
+Thursday,06/27/19,18:01,GB,Gfk Consumer Confidence JUN,-13,-10,-11,-9
+Friday,06/28/19,7:30,US,Personal Income MoM 05,0.005,0.50%,0.003,0.003
+Friday,06/28/19,7:30,US,Personal Spending MoM 05,0.004,0.60%,0.004,0.002
+Saturday,06/29/19,20:00,CN,NBS Manufacturing PMI JUN,49.4,49.4,49.5,49.8
+Sunday,06/30/19,18:50,JP,Tankan Large Manufacturers Index Q2,7,12,9,8
+Sunday,06/30/19,20:45,CN,Caixin Manufacturing PMI JUN,49.4,50.2,50,49.6
+Monday,07/01/19,0:00,JP,Consumer Confidence JUN,38.7,39.4,39.2,40.8
+Wednesday,07/03/19,7:30,CA,Balance of Trade 05,0.76B,-1.08B,-1.5B,-1.3B
+Wednesday,07/03/19,7:30,US,Balance of Trade 05,-55.5B,-51.2B,-54B,-54.3B
+Friday,07/05/19,7:30,US,Non Farm Payrolls JUN,224K,72K,160K,171K
+Friday,07/05/19,9:00,CA,Ivey PMI s.a JUN,52.4,55.9,55,54
+Tuesday,07/09/19,20:30,CN,Inflation Rate YoY JUN,0.027,2.70%,0.027,0.026
+Wednesday,07/10/19,3:30,GB,Balance of Trade 05,-2.324B,-3.716B,,-2.6B
+Thursday,07/11/19,7:30,US,Core Inflation Rate YoY JUN,0.021,2%,0.02,0.02
+Thursday,07/11/19,7:30,US,Inflation Rate YoY JUN,0.016,1.80%,0.016,0.017
+Tuesday,07/16/19,3:30,GB,Claimant Count Change JUN,38K,24.5K,22.8K,15K
+Tuesday,07/16/19,7:30,US,Retail Sales MoM JUN,0.004,0.40%,0.001,0.004
+Wednesday,07/17/19,3:30,GB,Inflation Rate YoY JUN,0.02,2%,0.02,0.021
+Wednesday,07/17/19,7:30,CA,Inflation Rate YoY JUN,0.02,2.40%,0.02,0.022
+Wednesday,07/17/19,18:50,JP,Balance of Trade JUN,589.5B,-968.3B,420B,510B
+Thursday,07/18/19,18:30,JP,Inflation Rate YoY JUN,0.007,0.70%,0.007,0.008
+Thursday,07/25/19,7:30,US,Durable Goods Orders MoM JUN,0.02,-2.30%,0.007,0.007
+Monday,07/29/19,,CN,US-China Trade Talks,,,,
+Tuesday,07/30/19,4:00,EA,Business Confidence JUL,-0.12,0.17,0.08,0.08
+Tuesday,07/30/19,7:30,US,Personal Income MoM JUN,0.004,0.40%,0.004,0.003
+Tuesday,07/30/19,7:30,US,Personal Spending MoM JUN,0.003,0.50%,0.003,0.003
+Tuesday,07/30/19,18:01,GB,Gfk Consumer Confidence JUL,-11,-13,-13,-14
+Tuesday,07/30/19,20:00,CN,NBS Manufacturing PMI JUL,49.7,49.4,49.6,49.3
+Tuesday,07/30/19,,CN,US-China Trade Talks,,,,
+Wednesday,07/31/19,0:00,JP,Consumer Confidence JUL,37.8,38.7,38.5,41
+Wednesday,07/31/19,20:45,CN,Caixin Manufacturing PMI JUL,49.9,49.4,49.6,49.2
+Friday,08/02/19,7:30,CA,Balance of Trade JUN,0.14B,0.56B,-0.3B,0.3B
+Friday,08/02/19,7:30,US,Balance of Trade JUN,-55.2B,-55.3B,-54.6B,-54.7B
+Friday,08/02/19,7:30,US,Non Farm Payrolls JUL,164K,193K,164K,160K
+Wednesday,08/07/19,9:00,CA,Ivey PMI s.a JUL,54.2,52.4,53,51.8
+Thursday,08/08/19,20:30,CN,Inflation Rate YoY JUL,0.028,2.70%,0.027,0.027
+Friday,08/09/19,3:30,GB,Balance of Trade JUN,1.779B,-2.002B,,-2.9B
+Tuesday,08/13/19,3:30,GB,Claimant Count Change JUL,28K,31.4K,32K,12K
+Tuesday,08/13/19,7:30,US,Core Inflation Rate YoY JUL,0.022,2.10%,0.021,0.021
+Tuesday,08/13/19,7:30,US,Inflation Rate YoY JUL,0.018,1.60%,0.017,0.017
+Wednesday,08/14/19,3:30,GB,Inflation Rate YoY JUL,0.021,2%,0.019,0.02
+Thursday,08/15/19,7:30,US,Retail Sales MoM JUL,0.007,0.30%,0.003,0.003
+Sunday,08/18/19,18:50,JP,Balance of Trade JUL,-249.6B,589.6B,-200B,-320B
+Wednesday,08/21/19,7:30,CA,Inflation Rate YoY JUL,0.02,2%,0.017,0.018
+Thursday,08/22/19,18:30,JP,Inflation Rate YoY JUL,0.005,0.70%,0.005,0.008
+Monday,08/26/19,7:30,US,Durable Goods Orders MoM JUL,0.021,1.80%,0.012,0.008
+Thursday,08/29/19,0:00,JP,Consumer Confidence AUG,37.1,37.8,,37.6
+Thursday,08/29/19,4:00,EA,Business Confidence AUG,0.11,-0.11,0.08,-0.2
+Thursday,08/29/19,18:01,GB,Gfk Consumer Confidence AUG,-14,-11,-12,-12
+Friday,08/30/19,7:30,US,Personal Income MoM JUL,0.001,0.50%,0.003,0.003
+Friday,08/30/19,7:30,US,Personal Spending MoM JUL,0.006,0.30%,0.005,0.004
+Friday,08/30/19,20:00,CN,NBS Manufacturing PMI AUG,49.5,49.7,49.7,49.5
+Sunday,09/01/19,20:45,CN,Caixin Manufacturing PMI AUG,50.4,49.9,49.8,49.8
+Wednesday,09/04/19,7:30,CA,Balance of Trade JUL,-1.12B,-0.06B,-0.4B,-0.1B
+Wednesday,09/04/19,7:30,US,Balance of Trade JUL,-54B,-55.5B,-53.5B,-53.4B
+Friday,09/06/19,7:30,US,Non Farm Payrolls AUG,130K,159K,158K,151K
+Friday,09/06/19,9:00,CA,Ivey PMI s.a AUG,60.6,54.2,53,53.9
+Monday,09/09/19,3:30,GB,Balance of Trade JUL,-0.219B,-0.132B,,-2.3B
+Monday,09/09/19,20:30,CN,Inflation Rate YoY AUG,0.028,2.80%,0.026,0.026
+Tuesday,09/10/19,3:30,GB,Claimant Count Change AUG,28.2K,19.8K,30K,16K
+Thursday,09/12/19,7:30,US,Core Inflation Rate YoY AUG,0.024,2.20%,0.023,0.022
+Thursday,09/12/19,7:30,US,Inflation Rate YoY AUG,0.017,1.80%,0.018,0.019
+Friday,09/13/19,7:30,US,Retail Sales MoM AUG,0.004,0.80%,0.002,0.004
+Tuesday,09/17/19,18:50,JP,Balance of Trade AUG,-136.3B,-250.7B,-355.9B,-430B
+Wednesday,09/18/19,3:30,GB,Inflation Rate YoY AUG,0.017,2.10%,0.019,0.019
+Wednesday,09/18/19,7:30,CA,Inflation Rate YoY AUG,0.019,2%,0.02,0.019
+Thursday,09/19/19,18:30,JP,Inflation Rate YoY AUG,0.003,0.50%,0.006,0.008
+Thursday,09/19/19,20:30,CN,Loan Prime Rate 1Y,0.042,4.25%,,0.0415
+Thursday,09/26/19,18:01,GB,Gfk Consumer Confidence SEP,-12,-14,-14,-14
+Friday,09/27/19,4:00,EA,Business Confidence SEP,-0.22,0.12,0.11,0.19
+Friday,09/27/19,7:30,US,Durable Goods Orders MoM AUG,0.002,2%,-0.01,-0.012
+Friday,09/27/19,7:30,US,Personal Income MoM AUG,0.004,0.10%,0.004,0.003
+Friday,09/27/19,7:30,US,Personal Spending MoM AUG,0.001,0.50%,0.003,0.004
+Sunday,09/29/19,20:00,CN,NBS Manufacturing PMI SEP,49.8,49.5,49.5,49.9
+Sunday,09/29/19,20:45,CN,Caixin Manufacturing PMI SEP,51.4,50.4,50.2,50
+Monday,09/30/19,18:50,JP,Tankan Large Manufacturers Index Q3,5,7,2,1
+Wednesday,10/02/19,0:00,JP,Consumer Confidence SEP,35.6,37.1,,37.3
+Friday,10/04/19,7:30,CA,Balance of Trade AUG,-0.96B,-1.38B,-1B,-0.8B
+Friday,10/04/19,7:30,US,Balance of Trade AUG,-54.9B,-54B,-54.5B,-54.3B
+Friday,10/04/19,7:30,US,Non Farm Payrolls SEP,136K,168K,145K,165K
+Friday,10/04/19,9:00,CA,Ivey PMI s.a SEP,48.7,60.6,54.3,58
+Thursday,10/10/19,3:30,GB,Balance of Trade AUG,-1.546B,-1.681B,,-3.8B
+Thursday,10/10/19,7:30,US,Core Inflation Rate YoY SEP,0.024,2.40%,0.024,0.024
+Thursday,10/10/19,7:30,US,Inflation Rate YoY SEP,0.017,1.70%,0.018,0.019
+Monday,10/14/19,20:30,CN,Inflation Rate YoY SEP,0.03,2.80%,0.029,0.029
+Tuesday,10/15/19,3:30,GB,Claimant Count Change SEP,21.1K,16.3K,26.5K,24K
+Wednesday,10/16/19,3:30,GB,Inflation Rate YoY SEP,0.017,1.70%,0.018,0.019
+Wednesday,10/16/19,7:30,CA,Inflation Rate YoY SEP,0.019,1.90%,0.021,0.02
+Wednesday,10/16/19,7:30,US,Retail Sales MoM SEP,-0.003,0.60%,0.003,0.003
+Thursday,10/17/19,18:30,JP,Inflation Rate YoY SEP,0.002,0.30%,0.004,0.004
+Sunday,10/20/19,18:50,JP,Balance of Trade SEP,-123B,-143.5B,54B,151B
+Sunday,10/20/19,20:30,CN,Loan Prime Rate 1Y,0.042,4.20%,,0.0405
+Thursday,10/24/19,7:30,US,Durable Goods Orders MoM SEP,-0.011,0.30%,-0.008,-0.006
+Wednesday,10/30/19,5:00,EA,Business Confidence OCT,-0.19,-0.23,-0.24,0.14
+Wednesday,10/30/19,19:01,GB,Gfk Consumer Confidence OCT,-14,-12,-13,-16
+Wednesday,10/30/19,20:00,CN,NBS Manufacturing PMI OCT,49.3,49.8,49.8,49.6
+Thursday,10/31/19,0:00,JP,Consumer Confidence OCT,36.2,35.6,35.5,34.9
+Thursday,10/31/19,7:30,US,Personal Income MoM SEP,0.003,0.50%,0.003,0.003
+Thursday,10/31/19,7:30,US,Personal Spending MoM SEP,0.002,0.20%,0.002,0.002
+Thursday,10/31/19,20:45,CN,Caixin Manufacturing PMI OCT,51.7,51.4,51,50.9
+Friday,11/01/19,7:30,US,Non Farm Payrolls OCT,128K,180K,89K,100K
+Tuesday,11/05/19,8:30,CA,Balance of Trade SEP,-0.98B,-1.24B,-0.7B, -0.3B
+Tuesday,11/05/19,8:30,US,Balance of Trade SEP,-52.5B,-55B,-52.5B,-52.0B
+Wednesday,11/06/19,10:00,CA,Ivey PMI s.a OCT,48.2,48.7,0.8,53
+Friday,11/08/19,20:30,CN,Inflation Rate YoY OCT,0.038,3%,0.033,0.03
+Monday,11/11/19,4:30,GB,Balance of Trade SEP,-3.36B,-1.76B,,-2.2B
+Tuesday,11/12/19,4:30,GB,Claimant Count Change OCT,33K,13.5K,21.3K,27K
+Wednesday,11/13/19,4:30,GB,Inflation Rate YoY OCT,0.015,1.70%,0.016,0.016
+Wednesday,11/13/19,8:30,US,Core Inflation Rate YoY OCT,0.023,2.40%,0.024,0.024
+Wednesday,11/13/19,8:30,US,Inflation Rate YoY OCT,0.018,1.70%,0.017,0.016
+Friday,11/15/19,8:30,US,Retail Sales MoM OCT,0.003,-0.30%,0.002,0.003
+Tuesday,11/19/19,18:50,JP,Balance of Trade OCT,17.3B,-124.8B,301B,219B
+Tuesday,11/19/19,20:30,CN,Loan Prime Rate 1Y,0.0415,4.20%,0.042,0.041
+Wednesday,11/20/19,8:30,CA,Inflation Rate YoY OCT,0.019,1.90%,0.019,0.02
+Thursday,11/21/19,18:30,JP,Inflation Rate YoY OCT,0.002,0.20%,0.003,0.004
+Wednesday,11/27/19,8:30,US,Durable Goods Orders MoM OCT,0.006,-1.40%,-0.008,-0.006
+Wednesday,11/27/19,10:00,US,Personal Income MoM OCT,0,0.30%,0.003,0.002
+Wednesday,11/27/19,10:00,US,Personal Spending MoM OCT,0.003,0.20%,0.003,0.002
+Thursday,11/28/19,5:00,EA,Business Confidence NOV,-0.23,-0.2,-0.14,-0.16
+Thursday,11/28/19,19:01,GB,GfK Consumer Confidence NOV,-14,-14,-14,-13
+Friday,11/29/19,0:00,JP,Consumer Confidence NOV,38.7,36.2,35.4,36
+Friday,11/29/19,20:00,CN,NBS Manufacturing PMI NOV,50.2,49.3,49.5,49.8
+Sunday,12/01/19,20:45,CN,Caixin Manufacturing PMI NOV,51.8,51.7,51.4,51.1
+Thursday,12/05/19,8:30,CA,Balance of Trade OCT,-1.08B,-1.23B,-1.37B,-1.4B
+Thursday,12/05/19,8:30,US,Balance of Trade OCT,-47.2B,-51.1B,-48.7B, -48.1B
+Thursday,12/05/19,10:00,CA,Ivey PMI s.a NOV,60,48.2,53.8,48.6
+Friday,12/06/19,8:30,US,Non Farm Payrolls NOV,266K,156K,180K,175K
+Monday,12/09/19,20:30,CN,Inflation Rate YoY NOV,0.045,3.80%,0.042,0.043
+Tuesday,12/10/19,4:30,GB,Balance of Trade OCT,-5.19B,-1.92B,,-3.0B
+Wednesday,12/11/19,8:30,US,Core Inflation Rate YoY NOV,0.023,2.30%,0.023,0.023
+Wednesday,12/11/19,8:30,US,Inflation Rate YoY NOV,0.021,1.80%,0.02,0.019
+Thursday,12/12/19,18:50,JP,Tankan Large Manufacturers Index Q4,0,5,2,2
+Friday,12/13/19,8:30,US,Retail Sales MoM NOV,0.002,0.40%,0.005,0.003
+Tuesday,12/17/19,4:30,GB,Claimant Count Change NOV,28.8K,26.4K,24.5K,29K
+Tuesday,12/17/19,18:50,JP,Balance of Trade NOV,-82.1B,15.7B,-369B,-620B
+Wednesday,12/18/19,4:30,GB,Inflation Rate YoY NOV,0.015,1.50%,0.014,0.014
+Wednesday,12/18/19,8:30,CA,Inflation Rate YoY NOV,0.022,1.90%,0.022,0.021
+Thursday,12/19/19,18:30,JP,Inflation Rate YoY NOV,0.005,0.20%,0.002,0.003
+Thursday,12/19/19,19:01,GB,GfK Consumer Confidence DEC,-11,-14,-14,-12
+Thursday,12/19/19,20:30,CN,Loan Prime Rate 1Y,0.0415,4.15%,,0.0405
+Friday,12/20/19,10:00,US,Personal Income MoM NOV,0.005,0.10%,0.003,0.002
+Friday,12/20/19,10:00,US,Personal Spending MoM NOV,0.004,0.30%,0.004,0.003
+Monday,12/23/19,8:30,US,Durable Goods Orders MoM NOV,-0.02,0.20%,0.015,0.011
+Monday,12/30/19,20:00,CN,NBS Manufacturing PMI DEC,50.2,50.2,50.1,50.3
+Wednesday,01/01/20,20:45,CN,Caixin Manufacturing PMI DEC,51.5,51.8,51.8,52.2
+Friday,01/03/20,14:00,US,FOMC Minutes,,,,
+Tuesday,01/07/20,8:30,CA,Balance of Trade NOV,-1.09B,-1.61B,-1.15B, -0.9B
+Tuesday,01/07/20,8:30,US,Balance of Trade NOV,-43.1B,-46.9B,-43.8B, -43B
+Tuesday,01/07/20,10:00,CA,Ivey PMI s.a DEC,51.9,60,53.8,56
+Wednesday,01/08/20,0:00,JP,Consumer Confidence DEC,39.1,38.7,38,39
+Wednesday,01/08/20,5:00,EA,Business Confidence DEC,-0.25,-0.21,-0.16,-0.1
+Wednesday,01/08/20,20:30,CN,Inflation Rate YoY DEC,0.045,4.50%,0.047,0.047
+Friday,01/10/20,8:30,US,Non Farm Payrolls DEC,145K,256K,164K,165K
+Monday,01/13/20,4:30,GB,Balance of Trade NOV,4.03B,-1.34B,,-3.2B
+Tuesday,01/14/20,8:30,US,Core Inflation Rate YoY DEC,0.023,2.30%,0.023,0.022
+Tuesday,01/14/20,8:30,US,Inflation Rate YoY DEC,0.023,2.10%,0.023,0.023
+Wednesday,01/15/20,4:30,GB,Inflation Rate YoY DEC,0.013,1.50%,0.015,0.015
+Wednesday,01/15/20,,US,US-China Phase 1 Trade Deal Signature,,,,
+Thursday,01/16/20,8:30,US,Retail Sales MoM DEC,0.003,0.30%,0.003,0.003
+Sunday,01/19/20,20:30,CN,Loan Prime Rate 1Y,0.0415,4.15%,,0.0405
+Tuesday,01/21/20,4:30,GB,Claimant Count Change DEC,14.9K,14.9K,22.6K,26K
+Wednesday,01/22/20,8:30,CA,Inflation Rate YoY DEC,0.022,2.20%,0.022,0.022
+Wednesday,01/22/20,18:50,JP,Balance of Trade DEC,-152.5B,-85.2B,-150B,-124B
+Thursday,01/23/20,18:30,JP,Inflation Rate YoY DEC,0.008,0.50%,0.004,0.005
+Tuesday,01/28/20,8:30,US,Durable Goods Orders MoM DEC,0.024,-3.10%,0.004,0.006
+Wednesday,01/29/20,0:00,JP,Consumer Confidence JAN,39.1,39.1,40.8,40.5
+Wednesday,01/29/20,,US,USMCA Trade Deal Signature,,,,
+Thursday,01/30/20,5:00,EA,Business Confidence JAN,-0.23,-0.32,-0.19,-0.18
+Thursday,01/30/20,19:01,GB,Gfk Consumer Confidence JAN,-9,-11,-9,-10
+Thursday,01/30/20,20:00,CN,NBS Manufacturing PMI JAN,50,50.2,50,50
+Friday,01/31/20,8:30,US,Personal Income MoM DEC,0.002,0.40%,0.003,0.004
+Friday,01/31/20,8:30,US,Personal Spending MoM DEC,0.003,0.40%,0.003,0.005
+Friday,01/31/20,18:00,GB,Brexit Deadline,,,,
+Sunday,02/02/20,20:45,CN,Caixin Manufacturing PMI JAN,51.1,51.5,51.3,50.5
+Monday,02/03/20,8:10,RU,Full Year GDP Growth 2019,0.013,2.50%,,
+Wednesday,02/05/20,8:30,CA,Balance of Trade DEC,-0.4B,-1.2B,-0.61B, -0.8B
+Wednesday,02/05/20,8:30,US,Balance of Trade DEC,-48.9B,-43.7B,-48.2B,-49B
+Friday,02/07/20,8:30,US,Non Farm Payrolls JAN,225K,147K,160K,148K
+Friday,02/07/20,10:00,CA,Ivey PMI s.a JAN,57.3,51.9,53.3,52.3
+Sunday,02/09/20,20:30,CN,Inflation Rate YoY JAN,0.054,4.50%,0.049,0.051
+Tuesday,02/11/20,4:30,GB,Balance of Trade DEC,7.715B,1.821B,,-2.6B
+Thursday,02/13/20,8:30,US,Core Inflation Rate YoY JAN,0.023,2.30%,0.022,0.023
+Thursday,02/13/20,8:30,US,Inflation Rate YoY JAN,0.025,2.30%,0.024,0.024
+Friday,02/14/20,8:30,US,Retail Sales MoM JAN,0.003,0.20%,0.003,0.003
+Tuesday,02/18/20,4:30,GB,Claimant Count Change JAN,5.5K,2.6K,22.6K,15K
+Tuesday,02/18/20,18:50,JP,Balance of Trade JAN,-1312.6B,-154.6B,-1694.9B,-1723B
+Wednesday,02/19/20,4:30,GB,Inflation Rate YoY JAN,0.018,1.30%,0.016,0.014
+Wednesday,02/19/20,8:30,CA,Inflation Rate YoY JAN,0.024,2.20%,0.023,0.023
+Wednesday,02/19/20,20:30,CN,Loan Prime Rate 1Y,0.0405,4.15%,,0.0395
+Thursday,02/20/20,18:30,JP,Inflation Rate YoY JAN,0.007,0.80%,0.007,0.007
+Sunday,02/23/20,,CN,NPC Committee Meeting,,,,
+Wednesday,02/26/20,18:00,US,President Trump Speech ,,,,
+Thursday,02/27/20,5:00,EA,Business Confidence FEB,-0.04,-0.19,-0.28,-0.27
+Thursday,02/27/20,8:30,US,Durable Goods Orders MoM JAN,-0.002,2.90%,-0.015,-0.02
+Thursday,02/27/20,19:01,GB,Gfk Consumer Confidence FEB,-7,-9,-8,-8
+Friday,02/28/20,8:30,US,Personal Income MoM JAN,0.006,0.10%,0.003,0.003
+Friday,02/28/20,8:30,US,Personal Spending MoM JAN,0.002,0.40%,0.003,0.002
+Friday,02/28/20,20:00,CN,NBS Manufacturing PMI FEB,35.7,50,46,45
+Sunday,03/01/20,20:45,CN,Caixin Manufacturing PMI FEB,40.3,51.1,45.7,46
+Tuesday,03/03/20,0:00,JP,Consumer Confidence FEB,38.4,39.1,40.6,37.7
+Tuesday,03/03/20,11:00,US,Fed Press Conference,,,,
+Friday,03/06/20,8:30,CA,Balance of Trade JAN,-1.47B,-0.73B,-0.83B, -0.7B
+Friday,03/06/20,8:30,US,Balance of Trade JAN,-45.3B,-48.6B,-46.1B, -45.8B
+Friday,03/06/20,8:30,US,Non Farm Payrolls FEB,273K,273K,175K,165K
+Friday,03/06/20,10:00,CA,Ivey PMI s.a FEB,54.1,57.3,53.6,56
+Monday,03/09/20,20:30,CN,Inflation Rate YoY FEB,0.052,5.40%,0.052,0.051
+Wednesday,03/11/20,4:00,GB,BoE Press Conference,,,,
+Wednesday,03/11/20,4:30,GB,Balance of Trade JAN,4.2B,6.3B,,-3.7B
+Wednesday,03/11/20,7:30,GB,Spring Budget 2020,,,,
+Wednesday,03/11/20,7:30,US,Core Inflation Rate YoY FEB,0.024,2.30%,0.023,0.023
+Wednesday,03/11/20,7:30,US,Inflation Rate YoY FEB,0.023,2.50%,0.022,0.023
+Wednesday,03/11/20,20:00,US,President Trump Statement on Coronavirus,,,,
+Friday,03/13/20,14:00,US,President Trump Statement on Coronavirus,,,,
+Sunday,03/15/20,17:30,US,Fed Press Conference,,,,
+Tuesday,03/17/20,4:30,GB,Claimant Count Change FEB,17.3K,-0.2K,21.4K,24K
+Tuesday,03/17/20,7:30,US,Retail Sales MoM FEB,-0.005,0.60%,0.002,0.001
+Tuesday,03/17/20,18:50,JP,Balance of Trade FEB,1109.8B,-1313.2B,917.2B,915B
+Wednesday,03/18/20,7:30,CA,Inflation Rate YoY FEB,0.022,2.40%,0.021,0.022
+Wednesday,03/18/20,8:00,CA,Prime Minister Trudeau Speech ,,,,
+Wednesday,03/18/20,18:30,JP,Inflation Rate YoY FEB,0.004,0.70%,0.008,0.005
+Thursday,03/19/20,20:30,CN,Loan Prime Rate 1Y,0.0405,4.05%,,0.0395
+Tuesday,03/24/20,11:00,CA,Parliamentary Debate & Vote on Coronavirus Aid Package,,,,
+Wednesday,03/25/20,2:00,GB,Inflation Rate YoY FEB,0.017,1.80%,0.017,0.015
+Wednesday,03/25/20,7:30,US,Durable Goods Orders MoM FEB,0.012,0.10%,-0.008,-0.007
+Friday,03/27/20,7:30,US,Personal Income MoM FEB,0.006,0.60%,0.004,0.003
+Friday,03/27/20,7:30,US,Personal Spending MoM FEB,0.002,0.20%,0.002,0.003
+Monday,03/30/20,4:00,EA,Business Confidence MAR,-0.28,-0.06,-0.05,-0.6
+Monday,03/30/20,18:01,GB,Gfk Consumer Confidence MAR,-9,-7,-15,-16
+Monday,03/30/20,20:00,CN,NBS Manufacturing PMI MAR,52,35.7,45,44.2
+Tuesday,03/31/20,18:50,JP,Tankan Large Manufacturers Index Q1,-8,0,-10,-12
+Tuesday,03/31/20,20:45,CN,Caixin Manufacturing PMI MAR,50.1,40.3,45.5,45.7
+Thursday,04/02/20,7:30,CA,Balance of Trade FEB,-0.98B,-1.66B,-1.87B, -2B
+Thursday,04/02/20,7:30,US,Balance of Trade FEB,-39.9B,-45.5B,-40B, -39B
+Friday,04/03/20,7:30,US,Non Farm Payrolls MAR,-701K,275K,-100K,-150K
+Sunday,04/05/20,18:01,GB,Gfk Consumer Confidence MAR,-34,-9,,-30
+Monday,04/06/20,0:20,JP,Consumer Confidence MAR,30.9,38.4,,36.8
+Tuesday,04/07/20,9:00,CA,Ivey PMI s.a MAR,26,54.1,41,43
+Tuesday,04/07/20,,EA,Eurogroup Meeting,,,,
+Thursday,04/09/20,1:00,GB,Balance of Trade FEB,-2.8B,2.4B,,2.2B
+Thursday,04/09/20,20:30,CN,Inflation Rate YoY MAR,0.043,5.20%,0.048,0.05
+Thursday,04/09/20,,EA,Eurogroup Meeting,,,,
+Friday,04/10/20,7:30,US,Core Inflation Rate YoY MAR,0.021,2.40%,0.023,0.023
+Friday,04/10/20,7:30,US,Inflation Rate YoY MAR,0.015,2.30%,0.016,0.015
+Wednesday,04/15/20,7:30,US,Retail Sales MoM MAR,-0.087,-0.40%,-0.08,-0.065
+Sunday,04/19/20,18:50,JP,Balance of Trade MAR,4.9B,1108.8B,420B, 400B
+Sunday,04/19/20,20:30,CN,Loan Prime Rate 1Y,0.0385,4.05%,0.0385,0.0385
+Tuesday,04/21/20,1:00,GB,Claimant Count Change MAR,12.2K,5.9K,175K,272K
+Wednesday,04/22/20,1:00,GB,Inflation Rate YoY MAR,0.015,1.70%,0.015,0.013
+Wednesday,04/22/20,7:30,CA,Inflation Rate YoY MAR,0.009,2.20%,0.012,0.015
+Thursday,04/23/20,18:01,GB,Gfk Consumer Confidence APR,-34,-34,-40,-46
+Thursday,04/23/20,18:30,JP,Inflation Rate YoY MAR,0.004,0.40%,,0.002
+Friday,04/24/20,7:30,US,Durable Goods Orders MoM MAR,-0.144,1.10%,-0.119,-0.12
+Wednesday,04/29/20,4:25,EA,Business Confidence APR,-1.81,-0.28,,-1.24
+Wednesday,04/29/20,20:00,CN,NBS Manufacturing PMI APR,50.8,52,51,47.6
+Wednesday,04/29/20,21:45,CN,Caixin Manufacturing PMI APR,49.4,50.1,50.3,47.8
+Thursday,04/30/20,0:00,JP,Consumer Confidence APR,21.6,30.9,,22.3
+Thursday,04/30/20,7:30,US,Personal Income MoM MAR,-0.02,0.60%,-0.015,-0.01
+Thursday,04/30/20,7:30,US,Personal Spending MoM MAR,-0.075,0.20%,-0.05,-0.063
+Tuesday,05/05/20,7:30,CA,Balance of Trade MAR,-1.41B,-0.89B,-2B, -1.5B
+Tuesday,05/05/20,7:30,US,Balance of Trade MAR,-44.4B,-39.8B,-44B,-44.2B
+Thursday,05/07/20,9:00,CA,Ivey PMI s.a APR,22.8,26,25,20
+Thursday,05/07/20,7:30,US,Non Farm Payrolls APR,-20500K,-870K,-22000K,-21780K
+Thursday,05/07/20,20:30,CN,Inflation Rate YoY APR,0.033,4.30%,0.037,0.036
+Tuesday,05/12/20,7:30,US,Core Inflation Rate YoY APR,0.014,2.10%,0.017,0.016
+Tuesday,05/12/20,7:30,US,Inflation Rate YoY APR,0.003,1.50%,0.004,0.005
+Wednesday,05/13/20,1:00,GB,Balance of Trade MAR,-6.7B,-1.5B,,-1.7B
+Wednesday,05/13/20,7:30,US,Retail Sales MoM APR,-0.164,-8.30%,-0.12,-0.118
+Tuesday,05/19/20,1:00,GB,Claimant Count Change APR,856.5K,12.1K,676.5K,650K
+Tuesday,05/19/20,20:30,CN,Loan Prime Rate 1Y,0.0385,3.85%,0.0385,0.0385
+Wednesday,05/20/20,1:00,GB,Inflation Rate YoY APR,0.008,1.50%,0.009,0.008
+Wednesday,05/20/20,7:30,CA,Inflation Rate YoY APR,-0.002,0.90%,-0.001,-0.001
+Wednesday,05/20/20,18:50,JP,Balance of Trade APR,-930B,5.4B,-560B,-480B
+Thursday,05/21/20,18:01,GB,Gfk Consumer Confidence 05,-34,-33,,-42
+Thursday,05/21/20,18:30,JP,Inflation Rate YoY APR,0.001,0.40%,,0.002
+Thursday,05/21/20,,CN,National People’s Congress,,,,
+Thursday,05/28/20,4:00,EA,Business Confidence 05,-2.43,-1.99,,-3
+Thursday,05/28/20,7:30,US,Durable Goods Orders MoM APR,-0.172,-16.60%,-0.19,-0.19
+Thursday,05/28/20,0:00,JP,Consumer Confidence 05,24,21.6,,25.1
+Thursday,05/28/20,7:30,US,Personal Income MoM APR,0.105,-2.20%,-0.065,-0.066
+Thursday,05/28/20,7:30,US,Personal Spending MoM APR,-0.136,-6.90%,-0.126,-0.114
+Saturday,05/30/20,20:00,CN,NBS Manufacturing PMI 05,50.6,50.8,51,50.5
+Saturday,05/30/20,20:45,CN,Caixin Manufacturing PMI 05,50.7,49.4,49.6,49.5
+Thursday,06/04/20,7:30,CA,Balance of Trade APR,-3.25B,-1.53B,-2.36B, 0.5B
+Thursday,06/04/20,7:30,US,Balance of Trade APR,-49.4B,-42.3B,-49B, -54.3B
+Thursday,06/04/20,18:01,GB,Gfk Consumer Confidence Final 05,-36,-33,-34,-34
+Friday,06/05/20,7:30,US,Non Farm Payrolls 05,2509K,-20687K,-8000K,-8870K
+Friday,06/05/20,9:00,CA,Ivey PMI s.a 05,39.1,22.8,,25
+Tuesday,06/09/20,20:30,CN,Inflation Rate YoY 05,0.024,3.30%,0.027,0.027
+Wednesday,06/10/20,7:30,US,Core Inflation Rate YoY 05,0.012,1.40%,0.013,0.012
+Wednesday,06/10/20,7:30,US,Inflation Rate YoY 05,0.001,0.30%,0.002,0.002
+Friday,06/12/20,1:00,GB,Balance of Trade APR,0.31B,-3.96B,,-6.2B
+Tuesday,06/16/20,1:00,GB,Claimant Count Change 05,528.9K,1032.7K,400K,330K
+Tuesday,06/16/20,7:30,US,Retail Sales MoM 05,0.177,-14.70%,0.08,0.075
+Tuesday,06/16/20,18:50,JP,Balance of Trade 05,-833.4B,-931.9B,-970.8B,-880B
+Wednesday,06/17/20,1:00,GB,Inflation Rate YoY 05,0.005,0.80%,0.005,0.005
+Wednesday,06/17/20,7:30,CA,Inflation Rate YoY 05,-0.004,-0.20%,0,0
+Thursday,06/18/20,18:30,JP,Inflation Rate YoY 05,0.001,0.10%,0.001,0.001
+Sunday,06/21/20,20:30,CN,Loan Prime Rate 1Y,0.0385,3.85%,,0.037
+Thursday,06/25/20,7:30,US,Durable Goods Orders MoM 05,0.158,-18.10%,0.109,0.085
+Friday,06/26/20,7:30,US,Personal Income MoM 05,-0.042,10.80%,-0.06,-0.056
+Friday,06/26/20,7:30,US,Personal Spending MoM 05,0.082,-12.60%,0.09,0.095
+Monday,06/29/20,20:00,CN,NBS Manufacturing PMI JUN,50.9,50.6,50.4,50.2
+Tuesday,06/30/20,18:50,JP,Tankan Large Manufacturers Index Q2,-34,-8,-31,-34
+Tuesday,06/30/20,20:45,CN,Caixin Manufacturing PMI JUN,51.2,50.7,50.5,50.3
+Wednesday,07/01/20,0:00,JP,Consumer Confidence JUN,28.4,24,,30
+Thursday,07/02/20,7:30,CA,Balance of Trade 05,-0.68B,-4.27B,-3B, -2.8B
+Thursday,07/02/20,7:30,US,Balance of Trade 05,-54.6B,-49.8B,-53B, -53B
+Thursday,07/02/20,7:30,US,Non Farm Payrolls JUN,4800K,2699K,3000K,2900K
+Thursday,07/02/20,18:01,GB,Gfk Consumer Confidence Final JUN,-27,-30,,-32
+Tuesday,07/07/20,9:00,CA,Ivey PMI s.a JUN,58.2,39.1,,43
+Wednesday,07/08/20,6:30,GB,Supplementary Budget,,,,
+Wednesday,07/08/20,20:30,CN,Inflation Rate YoY JUN,0.025,2.40%,0.025,0.025
+Thursday,07/09/20,,EA,Eurogroup Meeting,,,,
+Tuesday,07/14/20,1:00,GB,Balance of Trade 05,4.3B,2.3B,,-0.8B
+Tuesday,07/14/20,7:30,US,Core Inflation Rate YoY JUN,0.012,1.20%,0.011,0.012
+Tuesday,07/14/20,7:30,US,Inflation Rate YoY JUN,0.006,0.10%,0.006,0.005
+Wednesday,07/15/20,1:00,GB,Inflation Rate YoY JUN,0.006,0.50%,0.004,0.006
+Thursday,07/16/20,1:00,GB,Claimant Count Change JUN,-28.1K,566.4K,250K,210K
+Thursday,07/16/20,7:30,US,Retail Sales MoM JUN,0.075,18.20%,0.05,0.045
+Sunday,07/19/20,18:50,JP,Balance of Trade JUN,-268.8B,-838.2B,-35.8B,-40B
+Sunday,07/19/20,20:30,CN,Loan Prime Rate 1Y,0.0385,3.85%,0.0385,0.0385
+Monday,07/20/20,18:30,JP,Inflation Rate YoY JUN,0.001,0.10%,,0.001
+Wednesday,07/22/20,7:30,CA,Inflation Rate YoY JUN,0.007,-0.40%,0.003,0.003
+Thursday,07/23/20,18:01,GB,Gfk Consumer Confidence JUL,-27,-30,-26,-26
+Monday,07/27/20,7:30,US,Durable Goods Orders MoM JUN,0.073,15.10%,0.07,0.05
+Thursday,07/30/20,20:00,CN,NBS Manufacturing PMI JUL,51.1,50.9,50.7,51
+Friday,07/31/20,0:00,JP,Consumer Confidence JUL,29.5,28.4,,26
+Friday,07/31/20,7:30,US,Personal Income MoM JUN,-0.011,-4.40%,-0.005,-0.003
+Friday,07/31/20,7:30,US,Personal Spending MoM JUN,0.056,8.50%,0.055,0.053
+Sunday,08/02/20,20:45,CN,Caixin Manufacturing PMI JUL,52.8,51.2,51.3,51.6
+Wednesday,08/05/20,7:30,CA,Balance of Trade JUN,-3.19B,-1.33B,-0.9B, -1B
+Wednesday,08/05/20,7:30,US,Balance of Trade JUN,-50.7B,-54.8B,-50.1B,-50.7B
+Friday,08/07/20,7:30,US,Non Farm Payrolls JUL,1763K,4800K,1600K,1620K
+Friday,08/07/20,9:00,CA,Ivey PMI s.a JUL,68.5,58.2,57.5,57.9
+Sunday,08/09/20,20:30,CN,Inflation Rate YoY JUL,0.027,2.50%,0.026,0.027
+Tuesday,08/11/20,1:00,GB,Claimant Count Change JUL,94.4K,-28.1K,10K,5K
+Wednesday,08/12/20,1:00,GB,Balance of Trade JUN,5.3B,7.7B,,2.8B
+Wednesday,08/12/20,7:30,US,Core Inflation Rate YoY JUL,0.016,1.20%,0.011,0.01
+Wednesday,08/12/20,7:30,US,Inflation Rate YoY JUL,0.01,0.60%,0.008,0.007
+Friday,08/14/20,7:30,US,Retail Sales MoM JUL,0.012,8.40%,0.019,0.02
+Tuesday,08/18/20,18:50,JP,Balance of Trade JUL,11.6B,-269.3B,-77.6B,-120B
+Wednesday,08/19/20,1:00,GB,Inflation Rate YoY JUL,0.01,0.60%,0.006,0.007
+Wednesday,08/19/20,7:30,CA,Inflation Rate YoY JUL,0.001,0.70%,0.005,0.005
+Wednesday,08/19/20,20:30,CN,Loan Prime Rate 1Y,0.0385,3.85%,,0.0385
+Thursday,08/20/20,18:01,GB,Gfk Consumer Confidence AUG,-27,-27,-25,-24
+Thursday,08/20/20,18:30,JP,Inflation Rate YoY JUL,0.003,0.10%,,0.001
+Wednesday,08/26/20,7:30,US,Durable Goods Orders MoM JUL,0.112,7.70%,0.043,0.039
+Friday,08/28/20,7:30,US,Personal Income MoM JUL,0.004,-1%,-0.002,-0.004
+Friday,08/28/20,7:30,US,Personal Spending MoM JUL,0.019,6.20%,0.015,0.012
+Sunday,08/30/20,20:00,CN,NBS Manufacturing PMI AUG,51,51.1,51.2,51.3
+Monday,08/31/20,0:00,JP,Consumer Confidence AUG,29.3,29.5,,29
+Monday,08/31/20,20:45,CN,Caixin Manufacturing PMI AUG,53.1,52.8,52.6,52.4
+Thursday,09/03/20,7:30,CA,Balance of Trade JUL,-2.45B,-1.59B,-2.5B, -2.3B
+Thursday,09/03/20,7:30,US,Balance of Trade JUL,-63.6B,-53.5B,-58B, -59B
+Friday,09/04/20,7:30,US,Non Farm Payrolls AUG,1371K,1734K,1400K,1490K
+Friday,09/04/20,9:00,CA,Ivey PMI s.a AUG,67.8,68.5,,68.7
+Tuesday,09/08/20,20:30,CN,Inflation Rate YoY AUG,0.024,2.70%,0.024,0.025
+Friday,09/11/20,1:00,GB,Balance of Trade JUL,1.1B,3.9B,,1.2B
+Friday,09/11/20,7:30,US,Core Inflation Rate YoY AUG,0.017,1.60%,0.016,0.015
+Friday,09/11/20,7:30,US,Inflation Rate YoY AUG,0.013,1%,0.012,0.011
+Friday,09/11/20,,EA,Eurogroup Meeting,,,,
+Tuesday,09/15/20,1:00,GB,Claimant Count Change AUG,73.7K,69.9K,100K,51K
+Tuesday,09/15/20,18:50,JP,Balance of Trade AUG,248.3B,10.9B,-37.5B,-50B
+Wednesday,09/16/20,1:00,GB,Inflation Rate YoY AUG,0.002,1%,0,0.001
+Wednesday,09/16/20,7:30,CA,Inflation Rate YoY AUG,0.001,0.10%,0.004,0.003
+Wednesday,09/16/20,7:30,US,Retail Sales MoM AUG,0.006,0.90%,0.01,0.01
+Thursday,09/17/20,18:30,JP,Inflation Rate YoY AUG,0.002,0.30%,,0.001
+Sunday,09/20/20,20:30,CN,Loan Prime Rate 1Y,0.0385,3.85%,0.0385,0.0385
+Thursday,09/24/20,6:30,GB,Winter Economy Plan,,,,
+Thursday,09/24/20,18:01,GB,Gfk Consumer Confidence SEP,-25,-27,-27,-26
+Friday,09/25/20,7:30,US,Durable Goods Orders MoM AUG,0.004,11.70%,0.015,0.02
+Tuesday,09/29/20,20:00,CN,NBS Manufacturing PMI SEP,51.5,51,51.2,51.4
+Tuesday,09/29/20,20:45,CN,Caixin Manufacturing PMI SEP,53,53.1,53.1,53.4
+Wednesday,09/30/20,18:50,JP,Tankan Large Manufacturers Index Q3,-27,-34,-23,-26
+Thursday,10/01/20,7:30,US,Personal Income MoM AUG,-0.027,0.50%,-0.024,-0.02
+Thursday,10/01/20,7:30,US,Personal Spending MoM AUG,0.01,1.50%,0.008,0.008
+Friday,10/02/20,0:00,JP,Consumer Confidence SEP,32.7,29.3,,32
+Friday,10/02/20,7:30,US,Non Farm Payrolls SEP,661K,1489K,850K,915K
+Monday,10/05/20,,EA,Eurogroup Video Conference,,,,
+Tuesday,10/06/20,7:30,CA,Balance of Trade AUG,-2.45B,-2.53B,-2B, -2.1B
+Tuesday,10/06/20,7:30,US,Balance of Trade AUG,-67.1B,-63.4B,-66.1B, -66.5B
+Wednesday,10/07/20,9:00,CA,Ivey PMI s.a SEP,54.3,67.8,,68
+Friday,10/09/20,1:00,GB,Balance of Trade AUG,1.4B,1.7B,,0.6B
+Tuesday,10/13/20,1:00,GB,Claimant Count Change SEP,28K,39.5K,78.8K,72K
+Tuesday,10/13/20,7:30,US,Core Inflation Rate YoY SEP,0.017,1.70%,0.018,0.017
+Tuesday,10/13/20,7:30,US,Inflation Rate YoY SEP,0.014,1.30%,0.014,0.015
+Wednesday,10/14/20,20:30,CN,Inflation Rate YoY SEP,0.017,2.40%,0.018,0.02
+Friday,10/16/20,7:30,US,Retail Sales MoM SEP,0.019,0.60%,0.007,0.005
+Sunday,10/18/20,18:50,JP,Balance of Trade SEP,675B,248.6B,989.8B, 900B
+Monday,10/19/20,20:30,CN,Loan Prime Rate 1Y,0.0385,3.85%,0.0385,0.0385
+Wednesday,10/21/20,1:00,GB,Inflation Rate YoY SEP,0.005,0.20%,0.005,0.004
+Wednesday,10/21/20,7:30,CA,Inflation Rate YoY SEP,0.005,0.10%,0.004,0.003
+Thursday,10/22/20,18:01,GB,Gfk Consumer Confidence OCT,-31,-30,-28,-26
+Thursday,10/22/20,18:30,JP,Inflation Rate YoY SEP,0,0.20%,,0.001
+Tuesday,10/27/20,7:30,US,Durable Goods Orders MoM SEP,0.019,0.40%,0.005,0.004
+Thursday,10/29/20,0:00,JP,Consumer Confidence OCT,33.6,32.7,,34.8
+Friday,10/30/20,7:30,US,Personal Income MoM SEP,0.009,-2.50%,0.004,0.004
+Friday,10/30/20,7:30,US,Personal Spending MoM SEP,0.014,1%,0.01,0.008
+Friday,10/30/20,20:00,CN,NBS Manufacturing PMI OCT,51.4,51.5,51.3,51.4
+Sunday,11/01/20,20:45,CN,Caixin Manufacturing PMI OCT,53.6,53,53,52.8
+Monday,11/02/20,,US,Presidential Election,,,,
+Tuesday,11/03/20,,EA,Eurogroup Video Conference,,,,
+Wednesday,11/04/20,8:30,CA,Balance of Trade SEP,-3.25B,-3.21B,-2.6B, -2.6B
+Wednesday,11/04/20,8:30,US,Balance of Trade SEP,-63.9B,-67B,-63.8B, -63.1B
+Friday,11/06/20,8:30,US,Non Farm Payrolls OCT,638K,672K,600K,510K
+Friday,11/06/20,10:00,CA,Ivey PMI s.a OCT,54.5,54.3,51.5,52
+Monday,11/09/20,20:30,CN,Inflation Rate YoY OCT,0.005,1.70%,0.008,0.01
+Tuesday,11/10/20,2:00,GB,Claimant Count Change OCT,-29.8K,-40.2K,50K,36K
+Thursday,11/12/20,2:00,GB,Balance of Trade SEP,0.6B,2.9B,,-1.0B
+Thursday,11/12/20,8:30,US,Core Inflation Rate YoY OCT,0.016,1.70%,0.018,0.018
+Thursday,11/12/20,8:30,US,Inflation Rate YoY OCT,0.012,1.40%,0.013,0.015
+Tuesday,11/17/20,8:30,US,Retail Sales MoM OCT,0.003,1.60%,0.005,0.004
+Tuesday,11/17/20,18:50,JP,Balance of Trade OCT,872.9B,687.8B,250B,210B
+Wednesday,11/18/20,2:00,GB,Inflation Rate YoY OCT,0.007,0.50%,0.006,0.007
+Wednesday,11/18/20,8:30,CA,Inflation Rate YoY OCT,0.007,0.50%,0.004,0.003
+Thursday,11/19/20,18:30,JP,Inflation Rate YoY OCT,-0.004,0%,-0.003,-0.002
+Thursday,11/19/20,19:01,GB,GfK Consumer Confidence NOV,-33,-31,-34,-33
+Thursday,11/19/20,20:30,CN,Loan Prime Rate 1Y,0.0385,3.85%,,0.0385
+Wednesday,11/25/20,8:30,US,Durable Goods Orders MoM OCT,0.013,2.10%,0.009,0.008
+Wednesday,11/25/20,10:00,US,Personal Income MoM OCT,-0.007,0.70%,0,0.002
+Wednesday,11/25/20,10:00,US,Personal Spending MoM OCT,0.005,1.20%,0.004,0.005
+Sunday,11/29/20,20:00,CN,NBS Manufacturing PMI NOV,52.1,51.4,51.5,51
+Monday,11/30/20,20:45,CN,Caixin Manufacturing PMI NOV,54.9,53.6,53.5,53.2
+Monday,11/30/20,,EA,Eurogroup Video Conference,,,,
+Wednesday,12/02/20,0:00,JP,Consumer Confidence NOV,33.7,33.6,,33
+Friday,12/04/20,8:30,CA,Balance of Trade OCT,-3.76B,-3.8B,-3B,-3.5B
+Friday,12/04/20,8:30,US,Balance of Trade OCT,-63.1B,-62.1B,-64.8B,-65B
+Friday,12/04/20,8:30,US,Non Farm Payrolls NOV,245K,610K,469K,500K
+Monday,12/07/20,10:00,CA,Ivey PMI s.a NOV,52.7,54.5,54.7,54
+Tuesday,12/08/20,20:30,CN,Inflation Rate YoY NOV,-0.005,0.50%,0,0.001
+Thursday,12/10/20,2:00,GB,Balance of Trade OCT,-1.7B,0.6B,,0.5B
+Thursday,12/10/20,8:30,US,Core Inflation Rate YoY NOV,0.016,1.60%,0.016,0.016
+Thursday,12/10/20,8:30,US,Inflation Rate YoY NOV,0.012,1.20%,0.011,0.012
+Sunday,12/13/20,18:50,JP,Tankan Large Manufacturers Index Q4,-10,-27,-15,-17
+Tuesday,12/15/20,2:00,GB,Claimant Count Change NOV,64.3K,-29.8K,,30K
+Tuesday,12/15/20,18:50,JP,Balance of Trade NOV,366.8B,871.7B,529.8B,510B
+Wednesday,12/16/20,2:00,GB,Inflation Rate YoY NOV,0.003,0.70%,0.006,0.008
+Wednesday,12/16/20,8:30,CA,Inflation Rate YoY NOV,0.01,0.70%,0.008,0.008
+Wednesday,12/16/20,8:30,US,Retail Sales MoM NOV,-0.011,-0.10%,-0.003,-0.003
+Wednesday,12/16/20,,EA,Eurogroup Video Conference,,,,
+Thursday,12/17/20,18:30,JP,Inflation Rate YoY NOV,-0.009,-0.40%,,-0.005
+Thursday,12/17/20,19:01,GB,GfK Consumer Confidence DEC,-26,-33,-31,-30
+Sunday,12/20/20,20:30,CN,Loan Prime Rate 1Y,0.0385,3.85%,0.0385,0.0385
+Wednesday,12/23/20,8:30,US,Durable Goods Orders MoM NOV,0.009,1.80%,0.006,0.006
+Wednesday,12/23/20,8:30,US,Personal Income MoM NOV,-0.011,-0.60%,-0.003,-0.004
+Wednesday,12/23/20,8:30,US,Personal Spending MoM NOV,-0.004,0.30%,-0.002,-0.004
+Wednesday,12/30/20,20:00,CN,NBS Manufacturing PMI DEC,51.9,52.1,52,51.5
+Sunday,01/03/21,20:45,CN,Caixin Manufacturing PMI DEC,53,54.9,54.8,54.6
+Wednesday,01/06/21,0:00,JP,Consumer Confidence DEC,31.8,33.7,,35
+Thursday,01/07/21,8:30,CA,Balance of Trade NOV,-3.34B,-3.73B,-3.5B,-3.2B
+Thursday,01/07/21,8:30,US,Balance of Trade NOV,-68.1B,-63.1B,-65.2B,-67.6B
+Thursday,01/07/21,10:00,CA,Ivey PMI s.a DEC,46.7,52.7,,53.2
+Friday,01/08/21,8:30,US,Non Farm Payrolls DEC,-140K,336K,71K,112K
+Sunday,01/10/21,20:30,CN,Inflation Rate YoY DEC,0.002,-0.50%,0.001,0
+Wednesday,01/13/21,8:30,US,Core Inflation Rate YoY DEC,0.016,1.60%,0.016,0.016
+Wednesday,01/13/21,8:30,US,Inflation Rate YoY DEC,0.014,1.20%,0.013,0.012
+Friday,01/15/21,2:00,GB,Balance of Trade NOV,-5B,-2.3B,,-1.2B
+Friday,01/15/21,8:30,US,Retail Sales MoM DEC,-0.007,-1.40%,0,-0.002
+Tuesday,01/19/21,10:00,US,Treasury Secretary Yellen Senate Confirmation Hearing,,,,
+Tuesday,01/19/21,20:30,CN,Loan Prime Rate 1Y,0.0385,3.85%,,0.0385
+Wednesday,01/20/21,2:00,GB,Inflation Rate YoY DEC,0.006,0.30%,0.005,0.006
+Wednesday,01/20/21,8:30,CA,Inflation Rate YoY DEC,0.007,1%,0.01,0.01
+Wednesday,01/20/21,18:50,JP,Balance of Trade DEC,751B,366.8B,942.8B,800B
+Thursday,01/21/21,18:30,JP,Inflation Rate YoY DEC,-0.012,-0.90%,,-0.01
+Thursday,01/21/21,19:01,GB,Gfk Consumer Confidence JAN,-28,-26,-29,-28
+Tuesday,01/26/21,2:00,GB,Claimant Count Change DEC,7K,38.1K,35K,40K
+Wednesday,01/27/21,8:30,US,Durable Goods Orders MoM DEC,0.002,1.20%,0.009,0.008
+Wednesday,01/27/21,14:30,US,Fed Press Conference,,,,
+Friday,01/29/21,0:00,JP,Consumer Confidence JAN,29.6,31.8,,31.2
+Friday,01/29/21,8:30,US,Personal Income MoM DEC,0.006,-1.30%,0.001,0.001
+Friday,01/29/21,8:30,US,Personal Spending MoM DEC,-0.002,-0.70%,-0.004,-0.006
+Saturday,01/30/21,20:00,CN,NBS Manufacturing PMI JAN,51.3,51.9,51.6,51.5
+Sunday,01/31/21,20:45,CN,Caixin Manufacturing PMI JAN,51.5,53,52.7,52.5
+Friday,02/05/21,8:30,CA,Balance of Trade DEC,-1.67B,-3.56B,-3B, -3.2B
+Friday,02/05/21,8:30,US,Balance of Trade DEC,-66.6B,-69B,-65.7B,-70B
+Friday,02/05/21,8:30,US,Non Farm Payrolls JAN,49K,-227K,50K,45K
+Friday,02/05/21,10:00,CA,Ivey PMI s.a JAN,48.4,46.7,,47
+Tuesday,02/09/21,20:30,CN,Inflation Rate YoY JAN,-0.003,0.20%,0,-0.002
+Wednesday,02/10/21,8:30,US,Core Inflation Rate YoY JAN,0.014,1.60%,0.015,0.016
+Wednesday,02/10/21,8:30,US,Inflation Rate YoY JAN,0.014,1.40%,0.015,0.014
+Friday,02/12/21,2:00,GB,Balance of Trade DEC,-6.2B,-6.6B,,-4.2B
+Tuesday,02/16/21,18:50,JP,Balance of Trade JAN,-323.9B,749.6B,-600B,-430B
+Wednesday,02/17/21,2:00,GB,Inflation Rate YoY JAN,0.007,0.60%,0.006,0.004
+Wednesday,02/17/21,8:30,CA,Inflation Rate YoY JAN,0.01,0.70%,0.009,0.008
+Wednesday,02/17/21,8:30,US,Retail Sales MoM JAN,0.053,-1%,0.011,0.009
+Wednesday,02/17/21,14:00,US,FOMC Minutes,,,,
+Thursday,02/18/21,18:30,JP,Inflation Rate YoY JAN,-0.006,-1.20%,,-0.01
+Thursday,02/18/21,19:01,GB,Gfk Consumer Confidence FEB,-23,-28,-27,-26
+Friday,02/19/21,20:30,CN,Loan Prime Rate 1Y,0.0385,3.85%,,0.0385
+Tuesday,02/23/21,2:00,GB,Claimant Count Change JAN,-20K,-20.4K,,25K
+Thursday,02/25/21,8:30,US,Durable Goods Orders MoM JAN,0.034,1.20%,0.011,0.012
+Friday,02/26/21,8:30,US,Personal Income MoM JAN,0.1,0.60%,0.095,0.085
+Friday,02/26/21,8:30,US,Personal Spending MoM JAN,0.024,-0.40%,0.025,0.019
+Sunday,02/28/21,3:00,CN,NBS Manufacturing PMI FEB,50.6,51.3,51.1,51
+Sunday,02/28/21,20:45,CN,Caixin Manufacturing PMI FEB,50.9,51.5,51.5,51.2
+Thursday,03/04/21,0:00,JP,Consumer Confidence FEB,33.8,29.6,,30.8
+Thursday,03/04/21,,CN,National People's Congress,,,,
+Thursday,03/04/21,,CN,Premier Li Keqiang Speech ,,,,
+Friday,03/05/21,8:30,CA,Balance of Trade JAN,1.41B,-1.98B,-1.4B, -1.6B
+Friday,03/05/21,8:30,US,Balance of Trade JAN,-68.2B,-67B,-67.5B,-67.5B
+Friday,03/05/21,8:30,US,Non Farm Payrolls FEB,379K,166K,182K,170K
+Friday,03/05/21,10:00,CA,Ivey PMI s.a FEB,60,48.4,,49
+Tuesday,03/09/21,20:30,CN,Inflation Rate YoY FEB,-0.002,-0.30%,-0.004,-0.003
+Wednesday,03/10/21,8:30,US,Core Inflation Rate YoY FEB,0.013,1.40%,0.014,0.014
+Wednesday,03/10/21,8:30,US,Inflation Rate YoY FEB,0.017,1.40%,0.017,0.016
+Friday,03/12/21,2:00,GB,Balance of Trade JAN,-1.6B,-6.2B,,-4.8B
+Tuesday,03/16/21,7:30,US,Retail Sales MoM FEB,-0.03,7.60%,-0.005,-0.006
+Tuesday,03/16/21,18:50,JP,Balance of Trade FEB,217.4B,-325.4B,420B,450B
+Wednesday,03/17/21,7:30,CA,Inflation Rate YoY FEB,0.011,1%,0.013,0.011
+Wednesday,03/17/21,13:30,US,Fed Press Conference,,,,
+Thursday,03/18/21,18:30,JP,Inflation Rate YoY FEB,-0.004,-0.60%,,-0.004
+Thursday,03/18/21,19:01,GB,Gfk Consumer Confidence MAR,-16,-23,-20,-20
+Tuesday,03/23/21,2:00,GB,Claimant Count Change FEB,86.6K,-20.8K,,-17K
+Wednesday,03/24/21,2:00,GB,Inflation Rate YoY FEB,0.004,0.70%,0.008,0.008
+Wednesday,03/24/21,7:30,US,Durable Goods Orders MoM FEB,-0.011,3.50%,0.008,0.011
+Friday,03/26/21,7:30,US,Personal Income MoM FEB,-0.071,10.10%,-0.073,-0.08
+Friday,03/26/21,7:30,US,Personal Spending MoM FEB,-0.01,3.40%,-0.007,-0.007
+Tuesday,03/30/21,20:00,CN,NBS Manufacturing PMI MAR,51.9,50.6,51,51.1
+Tuesday,03/30/21,,US,President Biden Speech on Recovery Package ,,,,
+Wednesday,03/31/21,18:50,JP,Tankan Large Manufacturers Index Q1,5,-10,0,-2
+Wednesday,03/31/21,20:45,CN,Caixin Manufacturing PMI MAR,50.6,50.9,51.3,51.2
+Friday,04/02/21,7:30,US,Non Farm Payrolls MAR,916K,468K,647K,680K
+Wednesday,04/07/21,7:30,CA,Balance of Trade FEB,1.04B,1.21B,1B,1.5B
+Wednesday,04/07/21,7:30,US,Balance of Trade FEB,-71.1B,-67.8B,-70.5B,-69.8B
+Wednesday,04/07/21,9:00,CA,Ivey PMI s.a MAR,72.9,60,60.5,62
+Wednesday,04/07/21,13:00,US,FOMC Minutes,,,,
+Thursday,04/08/21,0:00,JP,Consumer Confidence MAR,36.1,33.8,,36
+Thursday,04/08/21,20:30,CN,Inflation Rate YoY MAR,0.004,-0.20%,0.003,0.002
+Tuesday,04/13/21,1:00,GB,Balance of Trade FEB,-7.1B,-3.4B,,-2.2B
+Tuesday,04/13/21,7:30,US,Core Inflation Rate YoY MAR,0.016,1.30%,0.015,0.016
+Tuesday,04/13/21,7:30,US,Inflation Rate YoY MAR,0.026,1.70%,0.025,0.026
+Thursday,04/15/21,7:30,US,Retail Sales MoM MAR,0.098,-2.70%,0.059,0.045
+Sunday,04/18/21,18:50,JP,Balance of Trade MAR,663.7B,215.9B,490B, 300B
+Monday,04/19/21,20:30,CN,Loan Prime Rate 1Y,0.0385,3.85%,0.0385,0.0385
+Tuesday,04/20/21,1:00,GB,Claimant Count Change MAR,10.1K,86.6K,,150K
+Wednesday,04/21/21,1:00,GB,Inflation Rate YoY MAR,0.007,0.40%,0.008,0.008
+Wednesday,04/21/21,7:30,CA,Inflation Rate YoY MAR,0.022,1.10%,0.023,0.021
+Thursday,04/22/21,18:01,GB,Gfk Consumer Confidence APR,-15,-16,-12,-12
+Thursday,04/22/21,18:30,JP,Inflation Rate YoY MAR,-0.002,-0.40%,,-0.001
+Monday,04/26/21,7:30,US,Durable Goods Orders MoM MAR,0.005,-0.90%,0.025,0.017
+Wednesday,04/28/21,13:30,US,Fed Press Conference,,,,
+Thursday,04/29/21,20:00,CN,NBS Manufacturing PMI APR,51.1,51.9,51.7,52.1
+Thursday,04/29/21,20:45,CN,Caixin Manufacturing PMI APR,51.9,50.6,50.8,50.9
+Friday,04/30/21,0:00,JP,Consumer Confidence APR,34.7,36.1,,35.5
+Friday,04/30/21,7:30,US,Personal Income MoM MAR,0.211,-7%,0.203,0.205
+Friday,04/30/21,7:30,US,Personal Spending MoM MAR,0.042,-1%,0.041,0.046
+Tuesday,05/04/21,7:30,CA,Balance of Trade MAR,-1.14B,1.42B,0.7B,0.5B
+Tuesday,05/04/21,7:30,US,Balance of Trade MAR,-74.4B,-70.5B,-74.5B,-73.4B
+Tuesday,05/04/21,7:30,US,Non Farm Payrolls APR,266K,770K,978K,950K
+Tuesday,05/04/21,9:00,CA,Ivey PMI s.a APR,60.6,72.9,,67
+Tuesday,05/04/21,20:30,CN,Inflation Rate YoY APR,0.009,0.40%,0.01,0.011
+Wednesday,05/12/21,1:00,GB,Balance of Trade MAR,-2B,-0.9B,,-6.1B
+Wednesday,05/12/21,7:30,US,Core Inflation Rate YoY APR,0.03,1.60%,0.023,0.022
+Wednesday,05/12/21,7:30,US,Inflation Rate YoY APR,0.042,2.60%,0.036,0.038
+Wednesday,05/12/21,7:30,US,Retail Sales MoM APR,0,10.70%,0.01,0.003
+Tuesday,05/18/21,1:00,GB,Claimant Count Change APR,-15.1K,-19.4K,,25K
+Wednesday,05/19/21,1:00,GB,Inflation Rate YoY APR,0.015,0.70%,0.014,0.014
+Wednesday,05/19/21,7:30,CA,Inflation Rate YoY APR,0.034,2.20%,0.032,0.032
+Wednesday,05/19/21,13:00,US,FOMC Minutes,,,,
+Wednesday,05/19/21,18:50,JP,Balance of Trade APR,255.3B,662.2B,140B,150B
+Wednesday,05/19/21,20:30,CN,Loan Prime Rate 1Y,0.0385,3.85%,,0.0385
+Thursday,05/20/21,18:01,GB,Gfk Consumer Confidence 05,-9,-15,-12,-14
+Thursday,05/20/21,18:30,JP,Inflation Rate YoY APR,-0.004,-0.20%,,0.001
+Thursday,05/27/21,7:30,US,Durable Goods Orders MoM APR,-0.013,1.30%,0.007,0.007
+Thursday,05/27/21,7:30,US,Personal Income MoM APR,-0.131,20.90%,-0.141,-0.14
+Thursday,05/27/21,7:30,US,Personal Spending MoM APR,0.005,4.70%,0.005,0.005
+Thursday,05/27/21,20:00,CN,NBS Manufacturing PMI 05,51,51.1,51.1,51.2
+Thursday,05/27/21,0:00,JP,Consumer Confidence 05,34.1,34.7,,34
+Thursday,05/27/21,20:45,CN,Caixin Manufacturing PMI 05,52,51.9,51.9,51.7
+Friday,06/04/21,7:30,US,Non Farm Payrolls 05,559K,278K,650K,610K
+Friday,06/04/21,9:00,CA,Ivey PMI s.a 05,64.7,60.6,,65
+Tuesday,06/08/21,7:30,CA,Balance of Trade APR,0.59B,-1.35B,-0.7B,-0.9B
+Tuesday,06/08/21,7:30,US,Balance of Trade APR,-68.9B,-75B,-69B,-69B
+Tuesday,06/08/21,20:30,CN,Inflation Rate YoY 05,0.013,0.90%,0.016,0.015
+Thursday,06/10/21,7:30,US,Core Inflation Rate YoY 05,0.038,3%,0.034,0.032
+Thursday,06/10/21,7:30,US,Inflation Rate YoY 05,0.05,4.20%,0.047,0.047
+Friday,06/11/21,1:00,GB,Balance of Trade APR,-0.9B,-2B,,-3.2B
+Tuesday,06/15/21,1:00,GB,Claimant Count Change 05,-92.6K,-55.8K,,-62K
+Tuesday,06/15/21,7:30,US,Retail Sales MoM 05,-0.013,0.90%,-0.008,-0.003
+Tuesday,06/15/21,18:50,JP,Balance of Trade 05,-187.1B,253.1B,-91.2B,-78B
+Wednesday,06/16/21,1:00,GB,Inflation Rate YoY 05,0.021,1.50%,0.018,0.018
+Wednesday,06/16/21,7:30,CA,Inflation Rate YoY 05,0.036,3.40%,0.035,0.036
+Wednesday,06/16/21,13:30,US,Fed Press Conference,,,,
+Thursday,06/17/21,18:30,JP,Inflation Rate YoY 05,-0.001,-0.40%,,-0.003
+Sunday,06/20/21,20:30,CN,Loan Prime Rate 1Y,0.0385,3.85%,,0.0385
+Thursday,06/24/21,7:30,US,Durable Goods Orders MoM 05,0.023,-0.80%,0.028,0.02
+Thursday,06/24/21,18:01,GB,Gfk Consumer Confidence JUN,-9,-9,-7,-7
+Friday,06/25/21,7:30,US,Personal Income MoM 05,-0.02,-13.10%,-0.025,-0.03
+Friday,06/25/21,7:30,US,Personal Spending MoM 05,0,0.90%,0.004,0.004
+Tuesday,06/29/21,20:00,CN,NBS Manufacturing PMI JUN,50.9,51,50.8,50.9
+Wednesday,06/30/21,0:00,JP,Consumer Confidence JUN,37.4,34.1,,33
+Wednesday,06/30/21,18:50,JP,Tankan Large Manufacturers Index Q2,14,5,15,15
+Wednesday,06/30/21,20:45,CN,Caixin Manufacturing PMI JUN,51.3,52,51.8,51.9
+Friday,07/02/21,7:30,CA,Balance of Trade 05,-1.39B,0.46B,0.37B,-0.3B
+Friday,07/02/21,7:30,US,Balance of Trade 05,-71.2B,-69.1B,-71.4B,-71.6B
+Friday,07/02/21,7:30,US,Non Farm Payrolls JUN,850K,583K,700K,650K
+Wednesday,07/07/21,9:00,CA,Ivey PMI s.a JUN,71.9,64.7,,65
+Wednesday,07/07/21,13:00,US,FOMC Minutes,,,,
+Thursday,07/08/21,20:30,CN,Inflation Rate YoY JUN,0.011,1.30%,0.013,0.015
+Friday,07/09/21,6:00,GB,Balance of Trade 05,0.9B,-1.6B,,-1.4B
+Tuesday,07/13/21,7:30,US,Core Inflation Rate YoY JUN,0.045,3.80%,0.04,0.039
+Tuesday,07/13/21,7:30,US,Inflation Rate YoY JUN,0.054,5%,0.049,0.049
+Wednesday,07/14/21,1:00,GB,Inflation Rate YoY JUN,0.025,2.10%,0.022,0.023
+Thursday,07/15/21,1:00,GB,Claimant Count Change JUN,-114.8K,-92.6K,,-120K
+Friday,07/16/21,7:30,US,Retail Sales MoM JUN,0.006,-1.70%,-0.004,-0.005
+Monday,07/19/21,18:30,JP,Inflation Rate YoY JUN,0.002,-0.10%,,0
+Monday,07/19/21,20:30,CN,Loan Prime Rate 1Y,0.0385,3.85%,,0.0385
+Tuesday,07/20/21,18:50,JP,Balance of Trade JUN,383.2B,-189.4B,460B, 400B
+Thursday,07/22/21,18:01,GB,Gfk Consumer Confidence JUL,-7,-9,-8,-7
+Tuesday,07/27/21,7:30,US,Durable Goods Orders MoM JUN,0.008,3.20%,0.021,0.019
+Wednesday,07/28/21,7:30,CA,Inflation Rate YoY JUN,0.031,3.60%,0.032,0.031
+Wednesday,07/28/21,13:30,US,Fed Press Conference,,,,
+Friday,07/30/21,7:30,US,Personal Income MoM JUN,0.001,-2.20%,-0.003,-0.003
+Friday,07/30/21,7:30,US,Personal Spending MoM JUN,0.01,-0.10%,0.007,0.005
+Friday,07/30/21,20:00,CN,NBS Manufacturing PMI JUL,50.4,50.9,50.8,50.8
+Sunday,08/01/21,20:45,CN,Caixin Manufacturing PMI JUL,50.3,51.3,51,51
+Monday,08/02/21,0:00,JP,Consumer Confidence JUL,37.5,37.4,,37
+Thursday,08/05/21,7:30,CA,Balance of Trade JUN,3.23B,-1.58B,-0.68B, -0.7B
+Thursday,08/05/21,7:30,US,Balance of Trade JUN,-75.7B,-71B,-73.9B,-74.3B
+Friday,08/06/21,7:30,US,Non Farm Payrolls JUL,943K,938K,870K,900K
+Friday,08/06/21,9:00,CA,Ivey PMI s.a JUL,56.4,71.9,,70
+Sunday,08/08/21,20:30,CN,Inflation Rate YoY JUL,0.01,1.10%,0.008,0.009
+Wednesday,08/11/21,7:30,US,Core Inflation Rate YoY JUL,0.043,4.50%,0.043,0.044
+Wednesday,08/11/21,7:30,US,Inflation Rate YoY JUL,0.054,5.40%,0.053,0.054
+Thursday,08/12/21,1:00,GB,Balance of Trade JUN,-2.5B,-0.2B,,-2.2B
+Tuesday,08/17/21,1:00,GB,Claimant Count Change JUL,-7.8K,-114.8K,,-180K
+Tuesday,08/17/21,7:30,US,Retail Sales MoM JUL,-0.011,0.70%,-0.003,-0.003
+Tuesday,08/17/21,18:50,JP,Balance of Trade JUL,441B,384B,202.3B,300B
+Wednesday,08/18/21,1:00,GB,Inflation Rate YoY JUL,0.02,2.50%,0.023,0.024
+Wednesday,08/18/21,7:30,CA,Inflation Rate YoY JUL,0.037,3.10%,0.034,0.033
+Wednesday,08/18/21,13:00,US,FOMC Minutes,,,,
+Thursday,08/19/21,18:01,GB,Gfk Consumer Confidence AUG,-8,-7,-7,-6
+Thursday,08/19/21,18:30,JP,Inflation Rate YoY JUL,-0.003,-0.50%,,-0.001
+Thursday,08/19/21,20:30,CN,Loan Prime Rate 1Y,0.0385,3.85%,,0.0385
+Wednesday,08/25/21,7:30,US,Durable Goods Orders MoM JUL,-0.001,0.80%,-0.003,-0.002
+Friday,08/27/21,7:30,US,Personal Income MoM JUL,0.011,0.20%,0.002,0.002
+Friday,08/27/21,7:30,US,Personal Spending MoM JUL,0.003,1.10%,0.003,0.005
+Monday,08/30/21,20:00,CN,NBS Manufacturing PMI AUG,50.1,50.4,50.2,50.3
+Tuesday,08/31/21,0:00,JP,Consumer Confidence AUG,36.7,37.5,,37
+Tuesday,08/31/21,20:45,CN,Caixin Manufacturing PMI AUG,49.2,50.3,50.2,50.2
+Thursday,09/02/21,7:30,CA,Balance of Trade JUL,0.78B,2.56B,1.4B,2.5B
+Thursday,09/02/21,7:30,US,Balance of Trade JUL,-70B,-73.2B,-71B,-70B
+Friday,09/03/21,7:30,US,Non Farm Payrolls AUG,235K,1053K,750K,750K
+Wednesday,09/08/21,9:00,CA,Ivey PMI s.a AUG,66,56.4,,56
+Wednesday,09/08/21,20:30,CN,Inflation Rate YoY AUG,0.008,1.00%,0.01,0.01
+Friday,09/10/21,1:00,GB,Balance of Trade JUL,-3.1B,-2.5B,,-2B
+Tuesday,09/14/21,1:00,GB,Claimant Count Change AUG,-58.6K,-7.8K,,-26K
+Tuesday,09/14/21,7:30,US,Core Inflation Rate YoY AUG,0.04,4.30%,0.042,0.043
+Tuesday,09/14/21,7:30,US,Inflation Rate YoY AUG,0.053,5.40%,0.053,0.053
+Wednesday,09/15/21,1:00,GB,Inflation Rate YoY AUG,0.032,2%,0.029,0.029
+Wednesday,09/15/21,7:30,CA,Inflation Rate YoY AUG,0.041,3.70%,0.039,0.037
+Wednesday,09/15/21,18:50,JP,Balance of Trade AUG,-635.4B,439.4B,-47.7B,-60B
+Thursday,09/16/21,7:30,US,Retail Sales MoM AUG,0.007,-1.80%,-0.008,-0.007
+Tuesday,09/21/21,20:30,CN,Loan Prime Rate 1Y,0.0385,3.85%,,0.0385
+Wednesday,09/22/21,13:30,US,Fed Press Conference,,,,
+Thursday,09/23/21,18:01,GB,Gfk Consumer Confidence SEP,-13,-8,-8,-8
+Thursday,09/23/21,18:30,JP,Inflation Rate YoY AUG,-0.004,-0.30%,,-0.001
+Monday,09/27/21,7:30,US,Durable Goods Orders MoM AUG,0.018,0.50%,0.007,0.004
+Wednesday,09/29/21,20:00,CN,NBS Manufacturing PMI SEP,49.6,50.1,50.1,50.4
+Wednesday,09/29/21,20:45,CN,Caixin Manufacturing PMI SEP,50,49.2,49.5,49.9
+Thursday,09/30/21,18:50,JP,Tankan Large Manufacturers Index Q3,18,14,13,12
+Friday,10/01/21,0:00,JP,Consumer Confidence SEP,37.8,36.7,,37
+Friday,10/01/21,4:00,EA,Inflation Rate YoY Flash SEP,0.034,3%,0.033,0.031
+Friday,10/01/21,7:30,US,Personal Income MoM AUG,0.002,1.10%,0.003,0.002
+Friday,10/01/21,7:30,US,Personal Spending MoM AUG,0.008,-0.10%,0.006,0.003
+Friday,10/01/21,9:00,US,ISM Manufacturing PMI SEP,61.1,59.9,59.6,59
+Tuesday,10/05/21,7:30,CA,Balance of Trade AUG,1.94B,0.74B,0.43B,0.6B
+Tuesday,10/05/21,7:30,US,Balance of Trade AUG,-73.3B,-70.3B,-70.5B,-70.8B
+Thursday,10/07/21,9:00,CA,Ivey PMI s.a SEP,70.4,66,,64.2
+Friday,10/08/21,7:30,US,Non Farm Payrolls SEP,194K,366K,500K,475K
+Tuesday,10/12/21,1:00,GB,Claimant Count Change SEP,-51.1K,-58.6K,,-46K
+Tuesday,10/12/21,9:00,US,JOLTs Job Openings AUG,10.439M,11.098M,10.925M,10.8M
+Tuesday,10/12/21,22:00,CN,Exports YoY SEP,0.281,25.60%,0.21,0.21
+Tuesday,10/12/21,22:00,CN,Imports YoY SEP,0.176,33.10%,0.2,0.21
+Wednesday,10/13/21,1:00,GB,Balance of Trade AUG,-3.7B,-2.9B,,-2.8B
+Wednesday,10/13/21,7:30,US,Core Inflation Rate YoY SEP,0.04,4%,0.04,0.04
+Wednesday,10/13/21,7:30,US,Inflation Rate YoY SEP,0.054,5.30%,0.053,0.053
+Wednesday,10/13/21,13:00,US,FOMC Minutes,,,,
+Wednesday,10/13/21,20:30,CN,Inflation Rate YoY SEP,0.007,0.80%,0.009,0.008
+Friday,10/15/21,7:30,US,Retail Sales MoM SEP,0.007,0.90%,-0.002,-0.001
+Friday,10/15/21,9:00,US,Michigan Consumer Sentiment Prel OCT,71.4,72.8,73.1,75
+Sunday,10/17/21,21:00,CN,Industrial Production YoY SEP,0.031,5.30%,0.045,0.044
+Sunday,10/17/21,21:00,CN,Retail Sales YoY SEP,0.044,2.50%,0.033,0.023
+Tuesday,10/19/21,7:30,US,Building Permits SEP,1.589M,1.721M,1.68M,1.69M
+Tuesday,10/19/21,18:50,JP,Balance of Trade SEP,-622.8B,-637.2B,-519.2B, -500B
+Tuesday,10/19/21,20:30,CN,Loan Prime Rate 1Y,0.0385,3.85%,,0.0385
+Wednesday,10/20/21,1:00,GB,Inflation Rate YoY SEP,0.031,3.20%,0.032,0.032
+Wednesday,10/20/21,7:30,CA,Inflation Rate YoY SEP,0.044,4.10%,0.043,0.044
+Thursday,10/21/21,18:01,GB,Gfk Consumer Confidence OCT,-17,-13,-16,-14
+Thursday,10/21/21,18:30,JP,Inflation Rate YoY SEP,0.002,-0.40%,,-0.003
+Friday,10/22/21,1:00,GB,Retail Sales MoM SEP,-0.002,-0.60%,0.005,0.005
+Friday,10/22/21,3:00,EA,Markit Composite PMI Flash OCT,54.3,56.2,55.2,55.4
+Friday,10/22/21,3:30,GB,Markit/CIPS Composite PMI Flash OCT,56.8,54.9,54,54.2
+Wednesday,10/27/21,6:30,GB,Autumn Budget,,,,
+Wednesday,10/27/21,7:30,US,Durable Goods Orders MoM SEP,-0.004,1.30%,-0.011,-0.008
+Friday,10/29/21,0:00,JP,Consumer Confidence OCT,39.2,37.8,,39
+Friday,10/29/21,4:00,EA,Inflation Rate YoY Flash OCT,0.041,3.40%,0.037,0.036
+Friday,10/29/21,7:30,US,Personal Income MoM SEP,-0.01,0.20%,-0.002,0.002
+Friday,10/29/21,7:30,US,Personal Spending MoM SEP,0.006,1%,0.005,0.006
+Saturday,10/30/21,20:00,CN,NBS Manufacturing PMI OCT,49.2,49.6,49.7,50
+Sunday,10/31/21,20:45,CN,Caixin Manufacturing PMI OCT,50.6,50,50,50
+Monday,11/01/21,9:00,US,ISM Manufacturing PMI OCT,60.8,61.1,60.5,60.3
+Wednesday,11/03/21,13:30,US,Fed Press Conference,,,,
+Thursday,11/04/21,7:30,CA,Balance of Trade SEP,1.86B,1.51B,1.55B, 2.1B
+Thursday,11/04/21,7:30,US,Balance of Trade SEP,-80.9B,-72.8B,-80.5B, -75B
+Friday,11/05/21,7:30,US,Non Farm Payrolls OCT,531K,312K,450K,400K
+Friday,11/05/21,9:00,CA,Ivey PMI s.a OCT,59.3,70.4,,65
+Saturday,11/06/21,22:00,CN,Exports YoY OCT,0.271,28.10%,0.245,0.25
+Saturday,11/06/21,22:00,CN,Imports YoY OCT,0.206,17.60%,0.25,0.26
+Tuesday,11/09/21,8:30,US,PPI MoM OCT,0.006,0.50%,0.006,0.006
+Tuesday,11/09/21,20:30,CN,Inflation Rate YoY OCT,0.015,0.70%,0.014,0.012
+Wednesday,11/10/21,8:30,US,Core Inflation Rate YoY OCT,0.046,4%,0.043,0.041
+Wednesday,11/10/21,8:30,US,Inflation Rate YoY OCT,0.062,5.40%,0.058,0.057
+Thursday,11/11/21,2:00,GB,Balance of Trade SEP,-2.8B,-1.9B,,-3.4B
+Thursday,11/11/21,5:00,EA,ECB Macroeconomic Projections,,,,
+Friday,11/12/21,10:00,US,JOLTs Job Openings SEP,10.438M,10.629M,10.3M,10.1M
+Friday,11/12/21,10:00,US,Michigan Consumer Sentiment Prel NOV,66.8,71.7,72.4,71
+Sunday,11/14/21,21:00,CN,Industrial Production YoY OCT,0.035,3.10%,0.03,0.029
+Sunday,11/14/21,21:00,CN,Retail Sales YoY OCT,0.049,4.40%,0.035,0.036
+Sunday,11/14/21,,US,President Biden and President Xi Jinping Virtual Meeting,,,,
+Tuesday,11/16/21,2:00,GB,Claimant Count Change OCT,-14.9K,-51.1K,,-30K
+Tuesday,11/16/21,8:30,US,Retail Sales MoM OCT,0.017,0.80%,0.014,0.012
+Tuesday,11/16/21,18:50,JP,Balance of Trade OCT,-67.4B,-624.1B,-310B,-460B
+Wednesday,11/17/21,2:00,GB,Inflation Rate YoY OCT,0.042,3.10%,0.039,0.037
+Wednesday,11/17/21,8:30,CA,Inflation Rate YoY OCT,0.047,4.40%,0.047,0.049
+Wednesday,11/17/21,8:30,US,Building Permits OCT,1.65M,1.586M,1.638M,1.661M
+Thursday,11/18/21,18:30,JP,Inflation Rate YoY OCT,0.001,0.20%,,0.001
+Thursday,11/18/21,19:01,GB,GfK Consumer Confidence NOV,-14,-17,-18,-16
+Friday,11/19/21,2:00,GB,Retail Sales MoM OCT,0.008,0%,0.005,0.007
+Sunday,11/21/21,20:30,CN,Loan Prime Rate 1Y,0.0385,3.85%,,0.0385
+Tuesday,11/23/21,4:00,EA,Markit Composite PMI Flash NOV,55.8,54.2,53.2,53.7
+Tuesday,11/23/21,4:30,GB,Markit/CIPS Composite PMI Flash NOV,57.7,57.8,57.5,57.3
+Tuesday,11/23/21,9:45,US,Markit Manufacturing PMI Flash NOV,59.1,58.4,59,58.8
+Tuesday,11/23/21,9:45,US,Markit Services PMI Flash NOV,57,58.7,59,59
+Wednesday,11/24/21,8:30,US,Durable Goods Orders MoM OCT,-0.005,-0.40%,0.002,0.003
+Wednesday,11/24/21,10:00,US,Personal Income MoM OCT,0.005,-1%,0.002,0.001
+Wednesday,11/24/21,10:00,US,Personal Spending MoM OCT,0.013,0.60%,0.01,0.007
+Wednesday,11/24/21,14:00,US,FOMC Minutes,,,,
+Monday,11/29/21,15:05,US,Fed Chair Powell Speech ,,,,
+Monday,11/29/21,20:00,CN,NBS Manufacturing PMI NOV,50.1,49.2,49.6,49.8
+Tuesday,11/30/21,5:00,EA,Inflation Rate YoY Flash NOV,0.049,4.10%,0.045,0.045
+Tuesday,11/30/21,10:00,US,Fed Chair Powell Testimony,,,,
+Tuesday,11/30/21,20:45,CN,Caixin Manufacturing PMI NOV,49.9,50.6,50.5,50.2
+Wednesday,12/01/21,10:00,US,ISM Manufacturing PMI NOV,61.1,60.8,61,61.2
+Thursday,12/02/21,0:00,JP,Consumer Confidence NOV,39.2,39.2,,40
+Friday,12/03/21,8:30,US,Non Farm Payrolls NOV,210K,546K,550K,550K
+Friday,12/03/21,10:00,US,ISM Non-Manufacturing PMI NOV,69.1,66.7,65,65
+Monday,12/06/21,22:00,CN,Exports YoY NOV,0.22,27.10%,0.19,0.16
+Monday,12/06/21,22:00,CN,Imports YoY NOV,0.317,20.60%,0.198,0.21
+Tuesday,12/07/21,8:30,CA,Balance of Trade OCT,2.1B,1.4B,2B,3B
+Tuesday,12/07/21,8:30,US,Balance of Trade OCT,-67.1B,-81.4B,-66.8B,-66B
+Tuesday,12/07/21,10:00,CA,Ivey PMI s.a NOV,61.2,59.3,,58.7
+Wednesday,12/08/21,10:00,US,JOLTs Job Openings OCT,11M,10.602M,10.369M,10.4M
+Wednesday,12/08/21,20:30,CN,Inflation Rate YoY NOV,0.023,1.50%,0.025,0.026
+Friday,12/10/21,2:00,GB,Balance of Trade OCT,-2.027B,-2.8B,,-3.2B
+Friday,12/10/21,2:00,GB,GDP MoM OCT,0.001,0.60%,0.004,0.004
+Friday,12/10/21,2:00,GB,GDP YoY OCT,0.046,5.30%,0.049,0.051
+Friday,12/10/21,8:30,US,Core Inflation Rate YoY NOV,0.049,4.60%,0.049,0.049
+Friday,12/10/21,8:30,US,Inflation Rate YoY NOV,0.068,6.20%,0.068,0.069
+Friday,12/10/21,10:00,US,Michigan Consumer Sentiment Prel DEC,70.4,67.4,67.1,67
+Sunday,12/12/21,18:50,JP,Tankan Large Manufacturers Index Q4,18,18,19,20
+Tuesday,12/14/21,2:00,GB,Claimant Count Change NOV,-49.8K,-14.9K,,-20K
+Tuesday,12/14/21,21:00,CN,Industrial Production YoY NOV,0.038,3.50%,0.036,0.034
+Tuesday,12/14/21,21:00,CN,Retail Sales YoY NOV,0.039,4.90%,0.046,0.048
+Wednesday,12/15/21,2:00,GB,Inflation Rate YoY NOV,0.051,4.20%,0.047,0.05
+Wednesday,12/15/21,8:30,CA,Inflation Rate YoY NOV,0.047,4.70%,0.047,0.049
+Wednesday,12/15/21,8:30,US,Retail Sales MoM NOV,0.003,1.80%,0.008,0.01
+Wednesday,12/15/21,14:30,US,Fed Press Conference,,,,
+Wednesday,12/15/21,18:50,JP,Balance of Trade NOV,-954.8B,-68.5B,-675B,-700B
+Thursday,12/16/21,4:00,EA,Markit Composite PMI Flash DEC,53.4,55.4,54,54.2
+Thursday,12/16/21,4:30,GB,Markit/CIPS Composite PMI Flash DEC,53.2,57.6,56.4,56.5
+Thursday,12/16/21,7:00,GB,BoE Quantitative Easing,875B,875B,875B,875B
+Thursday,12/16/21,8:30,US,Building Permits NOV,1.712M,1.653M,1.663M,1.63M
+Thursday,12/16/21,9:45,US,Markit Manufacturing PMI Flash DEC,57.8,58.3,58.5,58.5
+Thursday,12/16/21,9:45,US,Markit Services PMI Flash DEC,57.5,58,58.5,58.2
+Thursday,12/16/21,19:01,GB,GfK Consumer Confidence DEC,-15,-14,,-16
+Friday,12/17/21,2:00,GB,Retail Sales MoM NOV,0.014,1.10%,0.008,0.01
+Sunday,12/19/21,20:30,CN,Loan Prime Rate 1Y,0.038,3.85%,,0.0385
+Thursday,12/23/21,8:30,US,Durable Goods Orders MoM NOV,0.025,0.10%,0.016,0.011
+Thursday,12/23/21,8:30,US,Personal Income MoM NOV,0.004,0.50%,0.004,0.003
+Thursday,12/23/21,8:30,US,Personal Spending MoM NOV,0.006,1.40%,0.006,0.005
+Thursday,12/23/21,18:30,JP,Inflation Rate YoY NOV,0.006,0.10%,,0.004
+Thursday,12/30/21,20:00,CN,NBS Manufacturing PMI DEC,50.3,50.1,50,50.5
+Monday,01/03/22,20:45,CN,Caixin Manufacturing PMI DEC,50.9,49.9,50,50.1
+Tuesday,01/04/22,10:00,US,ISM Manufacturing PMI DEC,58.7,61.1,60,60.2
+Tuesday,01/04/22,10:00,US,JOLTs Job Openings NOV,10.562M,11.033M,11.075M,10.8M
+Wednesday,01/05/22,0:00,JP,Consumer Confidence DEC,39.1,39.2,,39.8
+Wednesday,01/05/22,14:00,US,FOMC Minutes,,,,
+Thursday,01/06/22,8:30,CA,Balance of Trade NOV,3.13B,2.26B,2.03B,1.8B
+Thursday,01/06/22,8:30,US,Balance of Trade NOV,-80.2B,-67.2B,-77.1B,-81.8B
+Thursday,01/06/22,10:00,US,ISM Non-Manufacturing PMI DEC,62,69.1,66.9,67.5
+Friday,01/07/22,5:00,EA,Inflation Rate YoY Flash DEC,0.05,4.90%,0.047,0.051
+Friday,01/07/22,8:30,US,Non Farm Payrolls DEC,199K,249K,400K,425K
+Friday,01/07/22,10:00,CA,Ivey PMI s.a DEC,45,61.2,,61
+Tuesday,01/11/22,10:00,US,Fed Chair Powell Testimony,,,,
+Tuesday,01/11/22,20:30,CN,Inflation Rate YoY DEC,0.015,2.30%,0.018,0.02
+Wednesday,01/12/22,8:30,US,Core Inflation Rate YoY DEC,0.055,4.90%,0.054,0.054
+Wednesday,01/12/22,8:30,US,Inflation Rate YoY DEC,0.07,6.80%,0.07,0.071
+Thursday,01/13/22,22:00,CN,Exports YoY DEC,0.209,22%,0.2,0.21
+Thursday,01/13/22,22:00,CN,Imports YoY DEC,0.195,31.70%,0.263,0.27
+Friday,01/14/22,2:00,GB,Balance of Trade NOV,0.626B,0.151B,,-2.7B
+Friday,01/14/22,2:00,GB,GDP MoM NOV,0.009,0.20%,0.004,0.003
+Friday,01/14/22,8:30,US,Retail Sales MoM DEC,-0.019,0.20%,0,0.003
+Friday,01/14/22,10:00,US,Michigan Consumer Sentiment Prel JAN,68.8,70.6,70,70.4
+Sunday,01/16/22,21:00,CN,Industrial Production YoY DEC,0.043,3.80%,0.036,0.037
+Sunday,01/16/22,21:00,CN,Retail Sales YoY DEC,0.017,3.90%,0.037,0.037
+Tuesday,01/18/22,2:00,GB,Claimant Count Change DEC,-43.3K,-95.1K,,-36K
+Wednesday,01/19/22,2:00,GB,Inflation Rate YoY DEC,0.054,5.10%,0.052,0.052
+Wednesday,01/19/22,8:30,CA,Inflation Rate YoY DEC,0.048,4.70%,0.048,0.048
+Wednesday,01/19/22,8:30,US,Building Permits DEC,1.873M,1.717M,1.701M,1.72M
+Wednesday,01/19/22,18:50,JP,Balance of Trade DEC,-582.4B,-955.6B,-784.1B, -700B
+Wednesday,01/19/22,20:15,CN,Loan Prime Rate 1Y,0.037,3.80%,,0.038
+Thursday,01/20/22,18:30,JP,Inflation Rate YoY DEC,0.008,0.60%,,0.007
+Thursday,01/20/22,19:01,GB,Gfk Consumer Confidence JAN,-19,-15,-15,-18
+Friday,01/21/22,2:00,GB,Retail Sales MoM DEC,-0.037,1%,-0.006,-0.006
+Sunday,01/23/22,19:30,JP,Jibun Bank Composite PMI Flash JAN,48.8,52.5,,52.1
+Monday,01/24/22,4:00,EA,Markit Composite PMI Flash JAN,52.4,53.3,52.6,52.6
+Monday,01/24/22,4:30,GB,Markit/CIPS Composite PMI Flash JAN,53.4,53.6,55,54
+Monday,01/24/22,9:45,US,Markit Composite PMI Flash JAN,50.8,57,,56.7
+Wednesday,01/26/22,10:00,CA,BoC Monetary Policy Report,,,,
+Wednesday,01/26/22,14:30,US,Fed Press Conference,,,,
+Thursday,01/27/22,8:30,US,Durable Goods Orders MoM DEC,-0.009,3.20%,-0.005,-0.002
+Friday,01/28/22,8:30,US,Personal Income MoM DEC,0.003,0.50%,0.005,0.005
+Friday,01/28/22,8:30,US,Personal Spending MoM DEC,-0.006,0.40%,-0.006,-0.003
+Saturday,01/29/22,20:45,CN,Caixin Manufacturing PMI JAN,49.1,50.9,50.4,50.6
+Saturday,01/29/22,20:45,CN,NBS Manufacturing PMI JAN,50.1,50.3,50,50.1
+Monday,01/31/22,0:00,JP,Consumer Confidence JAN,36.7,39.1,,39.5
+Tuesday,02/01/22,10:00,US,ISM Manufacturing PMI JAN,57.6,58.8,57.5,58
+Tuesday,02/01/22,10:00,US,JOLTs Job Openings DEC,10.925M,10.775M,10.3M,10.52M
+Wednesday,02/02/22,5:00,EA,Inflation Rate YoY Flash JAN,0.051,5%,0.044,0.045
+Thursday,02/03/22,10:00,US,ISM Non-Manufacturing PMI JAN,59.9,62.3,59.5,61
+Friday,02/04/22,8:30,US,Non Farm Payrolls JAN,467K,510K,150K,30K
+Friday,02/04/22,10:00,CA,Ivey PMI s.a JAN,50.7,45,,50
+Tuesday,02/08/22,8:30,CA,Balance of Trade DEC,-0.14B,2.47B,2.5B, 1.5B
+Tuesday,02/08/22,8:30,US,Balance of Trade DEC,-80.7B,-79.3B,-83B,-83.2B
+Thursday,02/10/22,8:30,US,Core Inflation Rate YoY JAN,0.06,5.50%,0.059,0.057
+Thursday,02/10/22,8:30,US,Inflation Rate YoY JAN,0.075,7%,0.073,0.071
+Friday,02/11/22,2:00,GB,Balance of Trade DEC,-2.34B,-2.59B,, -3.1B
+Friday,02/11/22,2:00,GB,GDP MoM DEC,-0.002,0.70%,-0.006,-0.002
+Friday,02/11/22,2:00,GB,GDP YoY DEC,0.06,7.50%,0.063,0.067
+Friday,02/11/22,10:00,US,Michigan Consumer Sentiment Prel FEB,61.7,67.2,67.5,67.5
+Tuesday,02/15/22,2:00,GB,Claimant Count Change JAN,-31.9K,-43.3K,-28K,-27K
+Tuesday,02/15/22,20:30,CN,Inflation Rate YoY JAN,0.009,1.50%,0.01,0.014
+Wednesday,02/16/22,2:00,GB,Inflation Rate YoY JAN,0.055,5.40%,0.054,0.055
+Wednesday,02/16/22,8:30,CA,Inflation Rate YoY JAN,0.051,4.80%,0.048,0.05
+Wednesday,02/16/22,8:30,US,Retail Sales MoM JAN,0.038,-2.50%,0.02,0.015
+Wednesday,02/16/22,14:00,US,FOMC Minutes,,,,
+Wednesday,02/16/22,18:50,JP,Balance of Trade JAN,-2191.1B,-583.3B,-1607B,-1800B
+Thursday,02/17/22,8:30,US,Building Permits JAN,1.899M,1.885M,1.76M,1.79M
+Thursday,02/17/22,18:30,JP,Inflation Rate YoY JAN,0.005,0.80%,,0.009
+Friday,02/18/22,2:00,GB,Retail Sales MoM JAN,0.019,-4%,0.01,0.009
+Sunday,02/20/22,20:15,CN,Loan Prime Rate 1Y,0.037,3.70%,0.037,0.037
+Monday,02/21/22,4:30,GB,Markit/CIPS Manufacturing PMI Flash FEB,57.3,57.3,57.2,57.6
+Monday,02/21/22,4:30,GB,Markit/CIPS UK Services PMI Flash FEB,60.8,54.1,55.5,55
+Thursday,02/24/22,19:01,GB,Gfk Consumer Confidence FEB,-26,-19,-18,-16
+Friday,02/25/22,8:30,US,Durable Goods Orders MoM JAN,0.016,1.20%,0.008,0.004
+Friday,02/25/22,8:30,US,Personal Income MoM JAN,0,0.40%,-0.003,0.001
+Friday,02/25/22,8:30,US,Personal Spending MoM JAN,0.021,-0.80%,0.015,0.007
+Monday,02/28/22,20:30,CN,NBS Manufacturing PMI FEB,50.2,50.1,49.9,50.4
+Monday,02/28/22,20:45,CN,Caixin Manufacturing PMI FEB,50.4,49.1,49.3,49.3
+Tuesday,03/01/22,10:00,US,ISM Manufacturing PMI FEB,58.6,57.6,58,58.1
+Wednesday,03/02/22,5:00,EA,Inflation Rate YoY Flash FEB,0.058,5.10%,0.054,0.052
+Thursday,03/03/22,0:00,JP,Consumer Confidence FEB,35.3,36.7,,36
+Thursday,03/03/22,10:00,US,Fed Chair Powell Testimony,,,,
+Thursday,03/03/22,10:00,US,ISM Non-Manufacturing PMI FEB,56.5,59.9,61,61
+Friday,03/04/22,8:30,US,Non Farm Payrolls FEB,678K,481K,400K,350K
+Friday,03/04/22,10:00,CA,Ivey PMI s.a FEB,60.6,50.7,,52
+Sunday,03/06/22,22:00,CN,Balance of Trade JAN-FEB,115.95B,94.46B,99.5B,120B
+Tuesday,03/08/22,8:30,CA,Balance of Trade JAN,2.62B,-1.58B,1.6B,1.3B
+Tuesday,03/08/22,8:30,US,Balance of Trade JAN,-89.7B,-82B,-87.1B,-84B
+Tuesday,03/08/22,20:30,CN,Inflation Rate YoY FEB,0.009,0.90%,0.009,0.009
+Wednesday,03/09/22,10:00,US,JOLTs Job Openings JAN,11.263M,11.448M,10.925M,10.8M
+Thursday,03/10/22,8:30,US,Core Inflation Rate YoY FEB,0.064,6%,0.064,0.064
+Thursday,03/10/22,8:30,US,Inflation Rate YoY FEB,0.079,7.50%,0.079,0.079
+Friday,03/11/22,2:00,GB,GDP MoM JAN,0.008,-0.20%,0.002,0.003
+Friday,03/11/22,10:00,US,Michigan Consumer Sentiment Prel MAR,59.7,62.8,61.4,62
+Monday,03/14/22,21:00,CN,Industrial Production YoY JAN-FEB,0.075,4.30%,0.039,0.038
+Tuesday,03/15/22,2:00,GB,Claimant Count Change FEB,-48.1K,-67.3K,,-25K
+Tuesday,03/15/22,7:30,US,PPI MoM FEB,0.008,1.20%,0.009,0.011
+Tuesday,03/15/22,18:50,JP,Balance of Trade FEB,-668.3B,-2193.5B,-112.6B,-150B
+Wednesday,03/16/22,7:30,CA,Inflation Rate YoY FEB,0.057,5.10%,0.055,0.054
+Wednesday,03/16/22,7:30,US,Retail Sales MoM FEB,0.003,4.90%,0.004,0.007
+Wednesday,03/16/22,13:30,US,Fed Press Conference,,,,
+Thursday,03/17/22,7:30,US,Building Permits FEB,1.859M,1.895M,1.85M,1.86M
+Thursday,03/17/22,18:30,JP,Inflation Rate YoY FEB,0.009,0.50%,,0.007
+Wednesday,03/23/22,2:00,GB,Inflation Rate YoY FEB,0.062,5.50%,0.059,0.061
+Thursday,03/24/22,4:30,GB,Markit/CIPS Manufacturing PMI Flash MAR,55.5,58,56.7,57.1
+Thursday,03/24/22,4:30,GB,Markit/CIPS UK Services PMI Flash MAR,61,60.5,58,58.8
+Thursday,03/24/22,7:30,US,Durable Goods Orders MoM FEB,-0.022,1.60%,-0.005,-0.005
+Thursday,03/24/22,19:01,GB,Gfk Consumer Confidence MAR,-31,-26,-30,-35
+Friday,03/25/22,2:00,GB,Retail Sales MoM FEB,-0.003,1.90%,0.006,0.007
+Tuesday,03/29/22,9:00,US,JOLTs Job Openings FEB,11.266M,11.283M,11M,11.1M
+Wednesday,03/30/22,20:30,CN,NBS Manufacturing PMI MAR,49.5,50.2,49.9,49.1
+Thursday,03/31/22,7:30,US,Personal Income MoM FEB,0.005,0.10%,0.005,0.006
+Thursday,03/31/22,7:30,US,Personal Spending MoM FEB,0.002,2.70%,0.005,0.004
+Thursday,03/31/22,18:50,JP,Tankan Large Manufacturers Index Q1,14,18,12,13
+Thursday,03/31/22,20:45,CN,Caixin Manufacturing PMI MAR,48.1,50.4,50,49.1
+Friday,04/01/22,4:00,EA,Inflation Rate YoY Flash MAR,0.075,5.90%,0.066,0.069
+Friday,04/01/22,7:30,US,Non Farm Payrolls MAR,431K,750K,490K,460K
+Friday,04/01/22,9:00,US,ISM Manufacturing PMI MAR,57.1,58.6,59,58.5
+Tuesday,04/05/22,7:30,CA,Balance of Trade FEB,2.66B,3.12B,2.9B,2.4B
+Tuesday,04/05/22,7:30,US,Balance of Trade FEB,-89.2B,-89.2B,-88.5B,-88B
+Tuesday,04/05/22,9:00,US,ISM Non-Manufacturing PMI MAR,58.3,56.5,58.4,58.1
+Wednesday,04/06/22,9:00,CA,Ivey PMI s.a MAR,74.2,60.6,60,61
+Wednesday,04/06/22,13:00,US,FOMC Minutes,,,,
+Friday,04/08/22,0:00,JP,Consumer Confidence MAR,32.8,35.3,,34
+Sunday,04/10/22,20:30,CN,Inflation Rate YoY MAR,0.015,0.90%,0.012,0.012
+Monday,04/11/22,1:00,GB,GDP MoM FEB,0.001,0.80%,0.003,0.005
+Tuesday,04/12/22,1:00,GB,Claimant Count Change MAR,-46.9K,-58K,,-31K
+Tuesday,04/12/22,7:30,US,Core Inflation Rate YoY MAR,0.065,6.40%,0.066,0.067
+Tuesday,04/12/22,7:30,US,Inflation Rate YoY MAR,0.085,7.90%,0.084,0.083
+Tuesday,04/12/22,23:30,CN,Balance of Trade MAR,47.38B,115.95B,22.4B,25B
+Wednesday,04/13/22,1:00,GB,Inflation Rate YoY MAR,0.07,6.20%,0.067,0.07
+Wednesday,04/13/22,7:30,US,PPI MoM MAR,0.014,0.90%,0.011,0.01
+Wednesday,04/13/22,9:00,CA,BoC Monetary Policy Report,,,,
+Thursday,04/14/22,7:30,US,Retail Sales MoM MAR,0.005,0.80%,0.006,0.004
+Thursday,04/14/22,9:00,US,Michigan Consumer Sentiment Prel APR,65.7,59.4,59,58.8
+Sunday,04/17/22,21:00,CN,Industrial Production YoY MAR,0.05,7.50%,0.045,0.042
+Tuesday,04/19/22,7:30,US,Building Permits MAR,1.873M,1.865M,1.825M,1.81M
+Tuesday,04/19/22,18:50,JP,Balance of Trade MAR,-412.4B,-669.7B,-100.8B, -100B
+Wednesday,04/20/22,7:30,CA,Inflation Rate YoY MAR,0.067,5.70%,0.061,0.06
+Thursday,04/21/22,18:30,JP,Inflation Rate YoY MAR,0.012,0.90%,,0.011
+Thursday,04/21/22,21:10,GB,Gfk Consumer Confidence APR,-38,-31,-33,-33
+Friday,04/22/22,1:00,GB,Retail Sales MoM MAR,-0.014,-0.50%,-0.003,-0.001
+Friday,04/22/22,3:30,GB,S&P Global/CIPS Manufacturing PMI Flash APR,55.3,55.2,54,54.8
+Friday,04/22/22,3:30,GB,S&P Global/CIPS UK Services PMI Flash APR,58.3,62.6,60,58.9
+Tuesday,04/26/22,7:30,US,Durable Goods Orders MoM MAR,0.008,-1.70%,0.01,0.011
+Friday,04/29/22,4:00,EA,Inflation Rate YoY Flash APR,0.075,7.40%,0.075,0.074
+Friday,04/29/22,7:30,US,Personal Income MoM MAR,0.005,0.70%,0.004,0.004
+Friday,04/29/22,7:30,US,Personal Spending MoM MAR,0.011,0.60%,0.007,0.005
+Friday,04/29/22,20:30,CN,NBS Manufacturing PMI APR,47.4,49.5,48,49.1
+Friday,04/29/22,20:45,CN,Caixin Manufacturing PMI APR,46,48.1,47,47.9
+Friday,04/29/22,0:00,JP,Consumer Confidence APR,33,32.8,,31.7
+Friday,04/29/22,9:00,US,ISM Manufacturing PMI APR,55.4,57.1,57.6,57.5
+Tuesday,05/03/22,9:00,US,JOLTs Job Openings MAR,11.549M,11.344M,11M,11.27M
+Wednesday,05/04/22,7:30,CA,Balance of Trade MAR,2.49B,3.08B,3.9B,2.3B
+Wednesday,05/04/22,7:30,US,Balance of Trade MAR,-109.8B,-89.8B,-107B, -92B
+Wednesday,05/04/22,9:00,US,ISM Non-Manufacturing PMI APR,57.1,58.3,58.5,58.5
+Wednesday,05/04/22,13:30,US,Fed Press Conference,,,,
+Wednesday,05/04/22,7:30,US,Non Farm Payrolls APR,428K,428K,391K,415K
+Wednesday,05/04/22,9:00,CA,Ivey PMI s.a APR,66.3,74.2,,73.8
+Wednesday,05/04/22,23:00,CN,Balance of Trade APR,51.12B,47.38B,50.65B,53B
+Tuesday,05/10/22,20:30,CN,Inflation Rate YoY APR,0.021,1.50%,0.018,0.018
+Wednesday,05/11/22,7:30,US,Core Inflation Rate YoY APR,0.062,6.50%,0.06,0.062
+Wednesday,05/11/22,7:30,US,Inflation Rate YoY APR,0.083,8.50%,0.081,0.082
+Thursday,05/12/22,1:00,GB,GDP MoM MAR,-0.001,0%,0,0.001
+Thursday,05/12/22,7:30,US,PPI MoM APR,0.005,1.60%,0.005,0.005
+Thursday,05/12/22,9:00,US,Michigan Consumer Sentiment Prel 05,59.1,65.2,64,63.5
+Thursday,05/12/22,21:00,CN,Industrial Production YoY APR,-0.029,5%,0.004,0.004
+Thursday,05/12/22,,EA,European Commission Spring Forecasts,,,,
+Tuesday,05/17/22,1:00,GB,Claimant Count Change APR,-56.9K,-81.6K,-42.5K,-42K
+Tuesday,05/17/22,7:30,US,Retail Sales MoM APR,0.009,1.40%,0.009,0.006
+Tuesday,05/17/22,13:00,US,Fed Chair Powell Speech ,,,,
+Wednesday,05/18/22,1:00,GB,Inflation Rate YoY APR,0.09,7%,0.091,0.089
+Wednesday,05/18/22,7:30,CA,Inflation Rate YoY APR,0.068,6.70%,0.067,0.066
+Wednesday,05/18/22,7:30,US,Building Permits APR,1.819M,1.879M,1.812M,1.82M
+Wednesday,05/18/22,18:50,JP,Balance of Trade APR,-839.2B,-414.1B,-1150B,-1000B
+Thursday,05/19/22,18:01,GB,Gfk Consumer Confidence 05,-40,-38,-39,-40
+Thursday,05/19/22,18:30,JP,Inflation Rate YoY APR,0.025,1.20%,,0.015
+Thursday,05/19/22,1:00,GB,Retail Sales MoM APR,0.014,-1.20%,-0.002,-0.002
+Tuesday,05/24/22,3:30,GB,S&P Global/CIPS Manufacturing PMI Flash 05,54.6,55.8,55,55.2
+Tuesday,05/24/22,3:30,GB,S&P Global/CIPS UK Services PMI Flash 05,51.8,58.9,57,58.5
+Wednesday,05/25/22,7:30,US,Durable Goods Orders MoM APR,0.004,0.60%,0.006,0.004
+Wednesday,05/25/22,13:00,US,FOMC Minutes,,,,
+Wednesday,05/25/22,7:30,US,Personal Income MoM APR,0.004,0.50%,0.005,0.006
+Wednesday,05/25/22,7:30,US,Personal Spending MoM APR,0.009,1.40%,0.007,0.008
+Wednesday,05/25/22,20:30,CN,NBS Manufacturing PMI 05,49.6,47.4,,48.9
+Tuesday,05/31/22,0:00,JP,Consumer Confidence 05,34.1,33,,33.5
+Tuesday,05/31/22,4:00,EA,Inflation Rate YoY Flash 05,0.081,7.40%,0.077,0.076
+Tuesday,05/31/22,20:45,CN,Caixin Manufacturing PMI 05,48.1,46,48,48
+Wednesday,06/01/22,9:00,US,ISM Manufacturing PMI 05,56.1,55.4,54.5,54.8
+Wednesday,06/01/22,9:00,US,JOLTs Job Openings APR,11.4M,11.855M,11.4M,11.4M
+Friday,06/03/22,7:30,US,Non Farm Payrolls 05,390K,436K,325K,320K
+Friday,06/03/22,9:00,US,ISM Non-Manufacturing PMI 05,55.9,57.1,56.4,55
+Tuesday,06/07/22,7:30,CA,Balance of Trade APR,1.5B,2.28B,2.9B,2.8B
+Tuesday,06/07/22,7:30,US,Balance of Trade APR,-87.1B,-107.7B,-89.5B,-91B
+Tuesday,06/07/22,9:00,CA,Ivey PMI s.a 05,72,66.3,,64
+Wednesday,06/08/22,22:00,CN,Balance of Trade 05,78.76B,51.12B,58B,50B
+Thursday,06/09/22,20:30,CN,Inflation Rate YoY 05,0.021,2.10%,0.022,0.02
+Friday,06/10/22,7:30,US,Core Inflation Rate YoY 05,0.06,6.20%,0.059,0.06
+Friday,06/10/22,7:30,US,Inflation Rate YoY 05,0.086,8.30%,0.083,0.083
+Friday,06/10/22,9:00,US,Michigan Consumer Sentiment Prel JUN,50.2,58.4,58,59
+Monday,06/13/22,1:00,GB,GDP MoM APR,-0.003,-0.10%,0.001,0
+Tuesday,06/14/22,1:00,GB,Claimant Count Change 05,-19.7K,-65.5K,-49.4K,-29K
+Tuesday,06/14/22,7:30,US,PPI MoM 05,0.008,0.40%,0.008,0.007
+Tuesday,06/14/22,21:00,CN,Industrial Production YoY 05,0.007,-2.90%,-0.007,-0.008
+Tuesday,06/14/22,,EA,ECB Unscheduled Meeting to Discuss Markets,,,,
+Wednesday,06/15/22,7:30,US,Retail Sales MoM 05,-0.003,0.70%,0.002,0.003
+Wednesday,06/15/22,13:30,US,Fed Press Conference,,,,
+Wednesday,06/15/22,18:50,JP,Balance of Trade 05,-2384.7B,-842.8B,-2022.6B,-1750B
+Thursday,06/16/22,7:30,US,Building Permits 05,1.695M,1.823M,1.785M,1.79M
+Wednesday,06/22/22,1:00,GB,Inflation Rate YoY 05,0.091,9%,0.091,0.092
+Wednesday,06/22/22,7:30,CA,Inflation Rate YoY 05,0.077,6.80%,0.074,0.07
+Wednesday,06/22/22,8:30,US,Fed Chair Powell Testimony,,,,
+Thursday,06/23/22,3:30,GB,S&P Global/CIPS Manufacturing PMI Flash JUN,53.4,54.6,53.7,54.2
+Thursday,06/23/22,9:00,US,Fed Chair Powell Testimony,,,,
+Thursday,06/23/22,18:01,GB,Gfk Consumer Confidence JUN,-41,-40,-40,-42
+Thursday,06/23/22,18:30,JP,Inflation Rate YoY 05,0.025,2.50%,,0.023
+Friday,06/24/22,1:00,GB,Retail Sales MoM 05,-0.005,0.40%,-0.007,-0.003
+Sunday,06/26/22,,EA,ECB Forum on Central Banking,,,,
+Monday,06/27/22,7:30,US,Durable Goods Orders MoM 05,0.007,0.40%,0.001,-0.003
+Monday,06/27/22,,EA,ECB Forum on Central Banking,,,,
+Tuesday,06/28/22,,EA,ECB Forum on Central Banking,,,,
+Wednesday,06/29/22,0:00,JP,Consumer Confidence JUN,32.1,34.1,,33
+Wednesday,06/29/22,8:00,EA,ECB President Lagarde Speech ,,,,
+Wednesday,06/29/22,8:00,GB,BoE Gov Bailey Speech ,,,,
+Wednesday,06/29/22,8:00,US,Fed Chair Powell Speech ,,,,
+Wednesday,06/29/22,20:30,CN,NBS Manufacturing PMI JUN,50.2,49.6,50.5,48.3
+Thursday,06/30/22,7:30,US,Personal Income MoM 05,0.005,0.50%,0.005,0.003
+Thursday,06/30/22,7:30,US,Personal Spending MoM 05,0.002,0.60%,0.004,0.008
+Thursday,06/30/22,8:30,EA,ECB President Lagarde Speech ,,,,
+Thursday,06/30/22,18:50,JP,Tankan Large Manufacturers Index Q2,9,14,13,10
+Thursday,06/30/22,20:45,CN,Caixin Manufacturing PMI JUN,51.7,48.1,50.1,50.5
+Friday,07/01/22,4:00,EA,Inflation Rate YoY Flash JUN,0.086,8.10%,0.084,0.083
+Friday,07/01/22,9:00,US,ISM Manufacturing PMI JUN,53,56.1,54.9,55
+Tuesday,07/05/22,3:30,GB,S&P Global/CIPS UK Services PMI Final JUN,54.3,53.4,53.4,53.4
+Wednesday,07/06/22,9:00,US,ISM Non-Manufacturing PMI JUN,55.3,55.9,54.3,55.2
+Wednesday,07/06/22,9:00,US,JOLTs Job Openings 05,11.254M,11.681M,11M,11.3M
+Wednesday,07/06/22,13:00,US,FOMC Minutes,,,,
+Thursday,07/07/22,7:30,CA,Balance of Trade 05,5.32B,2.17B,2.4B,1.9B
+Thursday,07/07/22,7:30,US,Balance of Trade 05,-85.5B,-86.7B,-84.9B,-86B
+Thursday,07/07/22,9:00,CA,Ivey PMI s.a JUN,62.2,72,,64
+Friday,07/08/22,7:30,US,Non Farm Payrolls JUN,372K,384K,268K,300K
+Friday,07/08/22,20:30,CN,Inflation Rate YoY JUN,0.025,2.10%,0.024,0.023
+Wednesday,07/13/22,1:00,GB,GDP MoM 05,0.005,-0.20%,0,-0.001
+Wednesday,07/13/22,1:30,CN,Balance of Trade JUN,97.94B,78.76B,75.7B,76B
+Wednesday,07/13/22,7:30,US,Core Inflation Rate YoY JUN,0.059,6%,0.057,0.058
+Wednesday,07/13/22,7:30,US,Inflation Rate YoY JUN,0.091,8.60%,0.088,0.088
+Wednesday,07/13/22,9:00,CA,BoC Monetary Policy Report,,,,
+Thursday,07/14/22,7:30,US,PPI MoM JUN,0.011,0.90%,0.008,0.009
+Thursday,07/14/22,21:00,CN,Industrial Production YoY JUN,0.039,0.70%,0.041,0.031
+Friday,07/15/22,7:30,US,Retail Sales MoM JUN,0.01,-0.10%,0.008,0.005
+Friday,07/15/22,9:00,US,Michigan Consumer Sentiment Prel JUL,51.1,50,49.9,49.3
+Tuesday,07/19/22,1:00,GB,Claimant Count Change JUN,-20.1K,-34.7K,,-25K
+Tuesday,07/19/22,7:30,US,Building Permits JUN,1.685M,1.695M,1.65M,1.68M
+Wednesday,07/20/22,1:00,GB,Inflation Rate YoY JUN,0.094,9.10%,0.093,0.095
+Wednesday,07/20/22,7:30,CA,Inflation Rate YoY JUN,0.081,7.70%,0.084,0.08
+Wednesday,07/20/22,18:50,JP,Balance of Trade JUN,-1383.8B,-2385.8B,-1509.7B,-2500B
+Thursday,07/21/22,18:01,GB,Gfk Consumer Confidence JUL,-41,-41,-42,-44
+Thursday,07/21/22,18:30,JP,Inflation Rate YoY JUN,0.024,2.50%,,0.026
+Friday,07/22/22,1:00,GB,Retail Sales MoM JUN,-0.001,-0.80%,-0.003,-0.002
+Friday,07/22/22,3:30,GB,S&P Global/CIPS Manufacturing PMI Flash JUL,52.2,52.8,52,51.9
+Wednesday,07/27/22,7:30,US,Durable Goods Orders MoM JUN,0.019,0.80%,-0.005,-0.003
+Wednesday,07/27/22,13:30,US,Fed Press Conference,,,,
+Friday,07/29/22,0:00,JP,Consumer Confidence JUL,30.2,32.1,,33
+Friday,07/29/22,4:00,EA,Inflation Rate YoY Flash JUL,0.089,8.60%,0.086,0.09
+Friday,07/29/22,7:30,US,Personal Income MoM JUN,0.006,0.60%,0.005,0.005
+Friday,07/29/22,7:30,US,Personal Spending MoM JUN,0.011,0.30%,0.009,0.006
+Saturday,07/30/22,20:30,CN,NBS Manufacturing PMI JUL,49,50.2,50.4,50.9
+Sunday,07/31/22,20:45,CN,Caixin Manufacturing PMI JUL,50.4,51.7,51.5,52
+Monday,08/01/22,9:00,US,ISM Manufacturing PMI JUL,52.8,53,52,52.2
+Tuesday,08/02/22,9:00,US,JOLTs Job Openings JUN,10.698M,11.303M,11M,11M
+Wednesday,08/03/22,3:30,GB,S&P Global/CIPS UK Services PMI Final JUL,52.6,54.3,53.3,53.3
+Wednesday,08/03/22,9:00,US,ISM Non-Manufacturing PMI JUL,56.7,55.3,53.5,52.5
+Thursday,08/04/22,7:30,CA,Balance of Trade JUN,5.05B,4.77B,4.8B,6B
+Thursday,08/04/22,7:30,US,Balance of Trade JUN,-79.6B,-84.9B,-80.1B, -83B
+Friday,08/05/22,7:30,US,Non Farm Payrolls JUL,528K,398K,250K,290K
+Friday,08/05/22,9:00,CA,Ivey PMI s.a JUL,49.6,62.2,,61
+Saturday,08/06/22,22:00,CN,Balance of Trade JUL,101.26B,97.94B,90B,99B
+Tuesday,08/09/22,20:30,CN,Inflation Rate YoY JUL,0.027,2.50%,0.029,0.025
+Wednesday,08/10/22,7:30,US,Core Inflation Rate YoY JUL,0.059,5.90%,0.061,0.059
+Wednesday,08/10/22,7:30,US,Inflation Rate YoY JUL,0.085,9.10%,0.087,0.091
+Thursday,08/11/22,7:30,US,PPI MoM JUL,-0.005,1%,0.002,0.004
+Friday,08/12/22,1:00,GB,GDP MoM JUN,-0.006,0.40%,-0.013,-0.013
+Friday,08/12/22,9:00,US,Michigan Consumer Sentiment Prel AUG,55.1,51.5,52.5,51.3
+Sunday,08/14/22,21:00,CN,Industrial Production YoY JUL,0.038,3.90%,0.046,0.05
+Tuesday,08/16/22,1:00,GB,Claimant Count Change JUL,-10.5K,-26.8K,,-10K
+Tuesday,08/16/22,7:30,CA,Inflation Rate YoY JUL,0.076,8.10%,0.076,0.076
+Tuesday,08/16/22,7:30,US,Building Permits JUL,1.674M,1.696M,1.65M,1.67M
+Tuesday,08/16/22,18:50,JP,Balance of Trade JUL,-1436.8B,-1398.5B,-1405B,-1300B
+Wednesday,08/17/22,1:00,GB,Inflation Rate YoY JUL,0.101,9.40%,0.098,0.099
+Wednesday,08/17/22,7:30,US,Retail Sales MoM JUL,0,0.80%,0.001,0.002
+Wednesday,08/17/22,13:00,US,FOMC Minutes,,,,
+Thursday,08/18/22,18:01,GB,Gfk Consumer Confidence AUG,-44,-41,-42,-43
+Thursday,08/18/22,18:30,JP,Inflation Rate YoY JUL,0.026,2.40%,,0.022
+Friday,08/19/22,1:00,GB,Retail Sales MoM JUL,0.003,-0.20%,-0.002,-0.001
+Tuesday,08/23/22,3:30,GB,S&P Global/CIPS Manufacturing PMI Flash AUG,46,52.1,51.1,51.3
+Wednesday,08/24/22,7:30,US,Durable Goods Orders MoM JUL,0,2.20%,0.006,0.008
+Friday,08/26/22,7:30,US,Personal Income MoM JUL,0.002,0.70%,0.006,0.005
+Friday,08/26/22,7:30,US,Personal Spending MoM JUL,0.001,1%,0.004,0.002
+Friday,08/26/22,9:00,US,Fed Chair Powell Speech ,,,,
+Tuesday,08/30/22,9:00,US,JOLTs Job Openings JUL,11.239M,11.040M,10.45M,10.5M
+Tuesday,08/30/22,20:30,CN,NBS Manufacturing PMI AUG,49.4,49,49.2,48.5
+Wednesday,08/31/22,0:00,JP,Consumer Confidence AUG,32.5,30.2,,31
+Wednesday,08/31/22,4:00,EA,Inflation Rate YoY Flash AUG,0.091,8.90%,0.09,0.091
+Wednesday,08/31/22,20:45,CN,Caixin Manufacturing PMI AUG,49.5,50.4,50.2,50
+Thursday,09/01/22,9:00,US,ISM Manufacturing PMI AUG,52.8,52.8,52,52
+Friday,09/02/22,7:30,US,Non Farm Payrolls AUG,315K,526K,300K,310K
+Monday,09/05/22,3:30,GB,S&P Global/CIPS UK Services PMI Final AUG,50.9,52.6,52.5,52.5
+Tuesday,09/06/22,9:00,US,ISM Non-Manufacturing PMI AUG,56.9,56.7,55.1,55
+Tuesday,09/06/22,22:00,CN,Balance of Trade AUG,79.39B,101.26B,92.7B,90B
+Wednesday,09/07/22,7:30,CA,Balance of Trade JUL,4.05B,4.88B,3.8B,4.7B
+Wednesday,09/07/22,7:30,US,Balance of Trade JUL,-70.7B,-80.9B,-70.3B,-70B
+Wednesday,09/07/22,9:00,CA,Ivey PMI s.a AUG,60.9,49.6,,48.8
+Thursday,09/08/22,20:30,CN,Inflation Rate YoY AUG,0.025,2.70%,0.028,0.029
+Monday,09/12/22,1:00,GB,GDP MoM JUL,0.002,-0.60%,0.004,0.001
+Tuesday,09/13/22,1:00,GB,Claimant Count Change AUG,6.3K,-10.5K,,-4K
+Tuesday,09/13/22,7:30,US,Core Inflation Rate YoY AUG,0.063,5.90%,0.061,0.059
+Tuesday,09/13/22,7:30,US,Inflation Rate YoY AUG,0.083,8.50%,0.081,0.081
+Wednesday,09/14/22,1:00,GB,Inflation Rate YoY AUG,0.099,10.10%,0.102,0.106
+Wednesday,09/14/22,7:30,US,PPI MoM AUG,-0.001,-0.40%,-0.001,0.001
+Wednesday,09/14/22,18:50,JP,Balance of Trade AUG,-2817.3B,-1436.8B,-2398.2B,
+Thursday,09/15/22,7:30,US,Retail Sales MoM AUG,0.003,-0.40%,0,0.001
+Thursday,09/15/22,21:00,CN,Industrial Production YoY AUG,0.042,3.80%,0.038,0.039
+Friday,09/16/22,1:00,GB,Retail Sales MoM AUG,-0.016,0.40%,-0.005,-0.004
+Friday,09/16/22,9:00,US,Michigan Consumer Sentiment Prel SEP,59.5,58.2,60,58.6
+Monday,09/19/22,18:30,JP,Inflation Rate YoY AUG,0.03,2.60%,,0.026
+Tuesday,09/20/22,7:30,CA,Inflation Rate YoY AUG,0.07,7.60%,0.073,0.075
+Tuesday,09/20/22,7:30,US,Building Permits AUG,1.517M,1.685M,1.61M,1.63M
+Wednesday,09/21/22,13:30,US,Fed Press Conference,,,,
+Thursday,09/22/22,18:01,GB,Gfk Consumer Confidence SEP,-49,-44,-42,-35
+Tuesday,09/27/22,6:00,GB,BoE Pill Speech ,,,,
+Tuesday,09/27/22,7:30,US,Durable Goods Orders MoM AUG,-0.002,-0.10%,-0.004,-0.009
+Thursday,09/29/22,20:30,CN,NBS Manufacturing PMI SEP,50.1,49.4,49.6,49.8
+Thursday,09/29/22,20:45,CN,Caixin Manufacturing PMI SEP,48.1,49.5,49.5,49.8
+Friday,09/30/22,0:00,JP,Consumer Confidence SEP,30.8,32.5,,34
+Friday,09/30/22,4:00,EA,Inflation Rate YoY Flash SEP,0.1,9.10%,0.097,0.097
+Friday,09/30/22,7:30,US,Personal Income MoM AUG,0.003,0.30%,0.003,0.002
+Friday,09/30/22,7:30,US,Personal Spending MoM AUG,0.004,-0.20%,0.002,0.002
+Sunday,10/02/22,18:50,JP,Tankan Large Manufacturers Index Q3,8,9,11,10
+Monday,10/03/22,9:00,US,ISM Manufacturing PMI SEP,50.9,52.8,52.2,52.9
+Tuesday,10/04/22,9:00,US,JOLTs Job Openings AUG,10.053M,11.17M,10.775M,11.1M
+Wednesday,10/05/22,7:30,CA,Balance of Trade AUG,1.52B,2.37B,3.45B,3.9B
+Wednesday,10/05/22,7:30,US,Balance of Trade AUG,-67.4B,-70.5B,-67.7B,-68B
+Wednesday,10/05/22,9:00,US,ISM Non-Manufacturing PMI SEP,56.7,56.9,56,56.4
+Thursday,10/06/22,9:00,CA,Ivey PMI s.a SEP,59.5,60.9,,55
+Friday,10/07/22,7:30,US,Non Farm Payrolls SEP,263K,315K,250K,290K
+Tuesday,10/11/22,1:00,GB,Claimant Count Change SEP,25.5K,6.3K,,10K
+Wednesday,10/12/22,1:00,GB,GDP MoM AUG,-0.003,0.10%,0,0.001
+Wednesday,10/12/22,7:30,US,PPI MoM SEP,0.004,-0.20%,0.002,0
+Wednesday,10/12/22,13:00,US,FOMC Minutes,,,,
+Thursday,10/13/22,7:30,US,Core Inflation Rate YoY SEP,0.066,6.30%,0.065,0.064
+Thursday,10/13/22,7:30,US,Inflation Rate YoY SEP,0.082,8.30%,0.081,0.082
+Thursday,10/13/22,20:30,CN,Inflation Rate YoY SEP,0.028,2.50%,0.028,0.027
+Friday,10/14/22,7:30,US,Retail Sales MoM SEP,0,0.40%,0.002,0.002
+Friday,10/14/22,8:30,GB,PM Liz Truss Speech ,,,,
+Friday,10/14/22,9:00,US,Michigan Consumer Sentiment Prel OCT,59.8,58.6,59,58.3
+Saturday,10/15/22,,CN,20th National Congress of the Chinese Communist Party,,,,
+Sunday,10/16/22,,CN,20th National Congress of the Chinese Communist Party,,,,
+Monday,10/17/22,5:15,GB,Chancellor Jeremy Hunt Statement,,,,
+Monday,10/17/22,,CN,20th National Congress of the Chinese Communist Party,,,,
+Tuesday,10/18/22,,CN,20th National Congress of the Chinese Communist Party,,,,
+Wednesday,10/19/22,1:00,GB,Inflation Rate YoY SEP,0.101,9.90%,0.1,0.099
+Wednesday,10/19/22,7:30,CA,Inflation Rate YoY SEP,0.069,7%,0.068,0.068
+Wednesday,10/19/22,7:30,US,Building Permits SEP,1.564M,1.542M,1.53M,1.487M
+Wednesday,10/19/22,18:50,JP,Balance of Trade SEP,-2094B,-2820B,-2167.4B,-2100B
+Wednesday,10/19/22,,CN,20th National Congress of the Chinese Communist Party,,,,
+Thursday,10/20/22,18:01,GB,Gfk Consumer Confidence OCT,-47,-49,-52,-53
+Thursday,10/20/22,18:30,JP,Inflation Rate YoY SEP,0.03,3%,,0.032
+Thursday,10/20/22,,CN,20th National Congress of the Chinese Communist Party,,,,
+Friday,10/21/22,1:00,GB,Retail Sales MoM SEP,-0.014,-1.70%,-0.005,-0.003
+Friday,10/21/22,,CN,20th National Congress of the Chinese Communist Party,,,,
+Sunday,10/23/22,20:45,CN,Industrial Production YoY SEP,0.063,4.20%,0.045,0.044
+Sunday,10/23/22,21:00,CN,Balance of Trade SEP,84.74B,79.39B,81B,80B
+Wednesday,10/26/22,9:00,CA,BoC Monetary Policy Report,,,,
+Thursday,10/27/22,7:30,US,Durable Goods Orders MoM SEP,0.004,0.20%,0.006,0.002
+Friday,10/28/22,7:30,US,Personal Income MoM SEP,0.004,0.40%,0.003,0.002
+Friday,10/28/22,7:30,US,Personal Spending MoM SEP,0.006,0.60%,0.004,0.003
+Sunday,10/30/22,20:30,CN,NBS Manufacturing PMI OCT,49.2,50.1,50,50
+Monday,10/31/22,0:00,JP,Consumer Confidence OCT,29.9,30.8,,30
+Monday,10/31/22,5:00,EA,Inflation Rate YoY Flash OCT,0.107,9.90%,0.102,0.104
+Monday,10/31/22,20:45,CN,Caixin Manufacturing PMI OCT,49.2,48.1,49,48.4
+Tuesday,11/01/22,9:00,US,ISM Manufacturing PMI OCT,50.2,50.9,50,50.1
+Tuesday,11/01/22,9:00,US,JOLTs Job Openings SEP,10.717M,10.28M,10M,10.2M
+Wednesday,11/02/22,13:30,US,Fed Press Conference,,,,
+Thursday,11/03/22,7:30,CA,Balance of Trade SEP,1.14B,0.55B,1.34B, 3.6B
+Thursday,11/03/22,7:30,US,Balance of Trade SEP,-73.3B,-65.7B,-72.2B,-72B
+Thursday,11/03/22,9:00,US,ISM Non-Manufacturing PMI OCT,54.4,56.7,55.5,54.5
+Friday,11/04/22,7:30,US,Non Farm Payrolls OCT,261K,315K,200K,240K
+Friday,11/04/22,9:00,CA,Ivey PMI s.a OCT,50.1,59.5,,57
+Sunday,11/06/22,22:00,CN,Balance of Trade OCT,85.15B,84.74B,95.95B,91B
+Tuesday,11/08/22,20:30,CN,Inflation Rate YoY OCT,0.021,2.80%,0.024,0.026
+Thursday,11/10/22,8:30,US,Core Inflation Rate YoY OCT,0.063,6.60%,0.065,0.067
+Thursday,11/10/22,8:30,US,Inflation Rate YoY OCT,0.077,8.20%,0.08,0.081
+Friday,11/11/22,2:00,GB,GDP MoM SEP,-0.006,-0.10%,-0.004,-0.005
+Friday,11/11/22,10:00,US,Michigan Consumer Sentiment Prel NOV,54.7,59.9,59.5,59.3
+Monday,11/14/22,21:00,CN,Industrial Production YoY OCT,0.05,6.30%,0.052,0.056
+Tuesday,11/15/22,2:00,GB,Claimant Count Change OCT,3.3K,3.9K,,27K
+Tuesday,11/15/22,8:30,US,PPI MoM OCT,0.002,0.20%,0.004,0.003
+Wednesday,11/16/22,2:00,GB,Inflation Rate YoY OCT,0.111,10.10%,0.107,0.11
+Wednesday,11/16/22,8:30,CA,Inflation Rate YoY OCT,0.069,6.90%,0.069,0.07
+Wednesday,11/16/22,8:30,US,Retail Sales MoM OCT,0.013,0%,0.01,0.009
+Wednesday,11/16/22,18:50,JP,Balance of Trade OCT,-2162.3B,-2094.3B,-1610B,-1400B
+Thursday,11/17/22,7:00,GB,UK Autumn Statement,,,,
+Thursday,11/17/22,8:30,US,Building Permits Prel OCT,1.526M,1.564M,,1.465M
+Thursday,11/17/22,18:30,JP,Inflation Rate YoY OCT,0.037,3%,,0.032
+Thursday,11/17/22,19:01,GB,GfK Consumer Confidence NOV,-44,-47,,-51
+Friday,11/18/22,2:00,GB,Retail Sales MoM OCT,0.006,-1.50%,0.003,-0.001
+Wednesday,11/23/22,8:30,US,Durable Goods Orders MoM OCT,0.01,0.30%,0.004,0.003
+Wednesday,11/23/22,14:00,US,FOMC Minutes,,,,
+Tuesday,11/29/22,20:30,CN,NBS Manufacturing PMI NOV,48,49.2,49,49
+Wednesday,11/30/22,5:00,EA,Inflation Rate YoY Flash NOV,0.1,10.60%,0.104,0.103
+Wednesday,11/30/22,10:00,US,JOLTs Job Openings OCT,10.334M,10.687M,10.3M,10.4M
+Wednesday,11/30/22,13:30,US,Fed Chair Powell Speech ,,,,
+Wednesday,11/30/22,20:45,CN,Caixin Manufacturing PMI NOV,49.4,49.2,48.9,48.4
+Thursday,12/01/22,0:00,JP,Consumer Confidence NOV,28.6,29.9,,29.1
+Thursday,12/01/22,8:30,US,Personal Income MoM OCT,0.007,0.40%,0.004,0.003
+Thursday,12/01/22,8:30,US,Personal Spending MoM OCT,0.008,0.60%,0.008,0.006
+Thursday,12/01/22,10:00,US,ISM Manufacturing PMI NOV,49,50.2,49.8,50
+Friday,12/02/22,8:30,US,Non Farm Payrolls NOV,263K,284K,200K,210K
+Monday,12/05/22,10:00,US,ISM Non-Manufacturing PMI NOV,56.5,54.4,53.3,53
+Tuesday,12/06/22,8:30,CA,Balance of Trade OCT,1.21B,0.61B,1.2B,3.4B
+Tuesday,12/06/22,8:30,US,Balance of Trade OCT,-78.2B,-74.1B,-80B,-73B
+Tuesday,12/06/22,10:00,CA,Ivey PMI s.a NOV,51.4,50.1,,49
+Tuesday,12/06/22,22:00,CN,Balance of Trade NOV,69.84B,85.15B,78.1B,81B
+Thursday,12/08/22,20:30,CN,Inflation Rate YoY NOV,0.016,2.10%,0.016,0.018
+Friday,12/09/22,8:30,US,PPI MoM NOV,0.003,0.30%,0.002,0.003
+Friday,12/09/22,10:00,US,Michigan Consumer Sentiment Prel DEC,59.1,56.8,56.9,56.4
+Monday,12/12/22,2:00,GB,GDP MoM OCT,0.005,-0.60%,0.004,0.004
+Tuesday,12/13/22,2:00,GB,Claimant Count Change NOV,30.5K,-6.4K,3.5K,8K
+Tuesday,12/13/22,8:30,US,Core Inflation Rate YoY NOV,0.06,6.30%,0.061,0.062
+Tuesday,12/13/22,8:30,US,Inflation Rate YoY NOV,0.071,7.70%,0.073,0.076
+Tuesday,12/13/22,18:50,JP,Tankan Large Manufacturers Index Q4,7,8,6,6
+Wednesday,12/14/22,2:00,GB,Inflation Rate YoY NOV,0.107,11.10%,0.109,0.11
+Wednesday,12/14/22,14:00,US,Fed Interest Rate Decision,0.045,4%,0.045,0.045
+Wednesday,12/14/22,14:30,US,Fed Press Conference,,,,
+Wednesday,12/14/22,18:50,JP,Balance of Trade NOV,-2027.4B,-2166.2B,-1680.3B,-1800B
+Wednesday,12/14/22,21:00,CN,Industrial Production YoY NOV,0.022,5%,0.036,0.04
+Thursday,12/15/22,7:00,GB,BoE Interest Rate Decision,0.035,3%,0.035,0.035
+Thursday,12/15/22,8:15,EA,Deposit Facility Rate,0.02,1.50%,0.02,0.02
+Thursday,12/15/22,8:15,EA,ECB Interest Rate Decision,0.025,2%,0.025,0.025
+Thursday,12/15/22,8:30,US,Retail Sales MoM NOV,-0.006,1.30%,-0.001,0.002
+Thursday,12/15/22,19:01,GB,GfK Consumer Confidence DEC,-42,-44,-43,-43
+Friday,12/16/22,2:00,GB,Retail Sales MoM NOV,-0.004,0.90%,0.003,0.003
+Monday,12/19/22,22:00,JP,BoJ Interest Rate Decision,-0.001,-0.10%,-0.001,-0.001
+Tuesday,12/20/22,8:30,US,Building Permits Prel NOV,1.342M,1.512M,1.485M,1.48M
+Wednesday,12/21/22,8:30,CA,Inflation Rate YoY NOV,0.068,6.90%,0.067,0.067
+Thursday,12/22/22,18:30,JP,Inflation Rate YoY NOV,0.038,3.70%,,0.039
+Friday,12/23/22,8:30,US,Durable Goods Orders MoM NOV,-0.021,0.70%,-0.006,-0.005
+Friday,12/23/22,8:30,US,Personal Income MoM NOV,0.004,0.70%,0.003,0.003
+Friday,12/23/22,8:30,US,Personal Spending MoM NOV,0.001,0.90%,0.002,0.003
+Friday,12/30/22,20:30,CN,NBS Manufacturing PMI DEC,47,48,48,49.5
+Monday,01/02/23,20:45,CN,Caixin Manufacturing PMI DEC,49,49.4,48.8,48
+Wednesday,01/04/23,10:00,US,ISM Manufacturing PMI DEC,48.4,49,48.5,49
+Wednesday,01/04/23,10:00,US,JOLTs Job Openings NOV,10.458M,10.512M,10M,10.1M
+Wednesday,01/04/23,14:00,US,FOMC Minutes,,,,
+Thursday,01/05/23,0:00,JP,Consumer Confidence DEC,30.3,28.6,,29
+Thursday,01/05/23,8:30,CA,Balance of Trade NOV,-0.04B,0.13B,0.61B,1.3B
+Thursday,01/05/23,8:30,US,Balance of Trade NOV,-61.5B,-77.8B,-73B,-72B
+Friday,01/06/23,5:00,EA,Inflation Rate YoY Flash DEC,0.092,10.10%,0.097,0.098
+Friday,01/06/23,8:30,US,Non Farm Payrolls DEC,223K,256K,200K,220K
+Friday,01/06/23,8:30,US,Unemployment Rate DEC,0.035,3.60%,0.037,0.037
+Friday,01/06/23,10:00,CA,Ivey PMI s.a DEC,33.4,51.4,,51
+Friday,01/06/23,10:00,US,ISM Non-Manufacturing PMI DEC,49.6,56.5,55,53
+Wednesday,01/11/23,20:30,CN,Inflation Rate YoY DEC,0.018,1.60%,0.018,0.02
+Thursday,01/12/23,8:30,US,Core Inflation Rate YoY DEC,0.057,6%,0.057,0.058
+Thursday,01/12/23,8:30,US,Inflation Rate YoY DEC,0.065,7.10%,0.065,0.067
+Thursday,01/12/23,22:00,CN,Balance of Trade DEC,78B,69.25B,76.2B, 80B
+Friday,01/13/23,2:00,GB,GDP MoM NOV,0.001,0.50%,-0.002,-0.002
+Friday,01/13/23,10:00,US,Michigan Consumer Sentiment Prel JAN,64.6,59.7,60.5,59
+Monday,01/16/23,21:00,CN,GDP Growth Rate YoY Q4,0.029,3.90%,0.018,0.015
+Monday,01/16/23,21:00,CN,Industrial Production YoY DEC,0.013,2.20%,0.002,0.008
+Tuesday,01/17/23,2:00,GB,Claimant Count Change DEC,19.7K,16.1K,,16K
+Tuesday,01/17/23,2:00,GB,Unemployment Rate NOV,0.037,3.70%,0.037,0.037
+Tuesday,01/17/23,8:30,CA,Inflation Rate YoY DEC,0.063,6.80%,0.064,0.064
+Tuesday,01/17/23,22:00,JP,BoJ Interest Rate Decision,-0.001,-0.10%,,-0.001
+Wednesday,01/18/23,2:00,GB,Inflation Rate YoY DEC,0.105,10.70%,0.105,0.105
+Wednesday,01/18/23,8:30,US,PPI MoM DEC,-0.005,0.20%,-0.001,-0.001
+Wednesday,01/18/23,8:30,US,Retail Sales MoM DEC,-0.011,-1%,-0.008,-0.004
+Wednesday,01/18/23,18:50,JP,Balance of Trade DEC,-1448.5B,-2029B,-1652.8B, -1900B
+Thursday,01/19/23,8:30,US,Building Permits Prel DEC,1.33M,1.351M,1.37M,1.4M
+Thursday,01/19/23,18:30,JP,Inflation Rate YoY DEC,0.04,3.80%,,0.04
+Thursday,01/19/23,19:01,GB,Gfk Consumer Confidence JAN,-45,-42,-40,-38
+Friday,01/20/23,2:00,GB,Retail Sales MoM DEC,-0.01,-0.50%,0.005,0.003
+Wednesday,01/25/23,10:00,CA,BoC Interest Rate Decision,0.045,4.25%,0.045,0.045
+Wednesday,01/25/23,10:00,CA,BoC Monetary Policy Report,,,,
+Thursday,01/26/23,8:30,US,Durable Goods Orders MoM DEC,0.056,-1.70%,0.025,0.022
+Thursday,01/26/23,8:30,US,GDP Growth Rate QoQ Adv Q4,0.029,3.20%,0.026,0.027
+Friday,01/27/23,8:30,US,Core PCE Price Index MoM DEC,0.003,0.20%,0.003,0.001
+Friday,01/27/23,8:30,US,Personal Income MoM DEC,0.002,0.30%,0.002,0.003
+Friday,01/27/23,8:30,US,Personal Spending MoM DEC,-0.002,-0.10%,-0.001,-0.001
+Monday,01/30/23,20:30,CN,NBS Manufacturing PMI JAN,50.1,47,49.8,49.5
+Tuesday,01/31/23,0:00,JP,Consumer Confidence JAN,31,30.3,30.5,30
+Tuesday,01/31/23,5:00,EA,GDP Growth Rate QoQ Flash Q4,0.001,0.30%,-0.001,0
+Tuesday,01/31/23,5:00,EA,GDP Growth Rate YoY Flash Q4,0.019,2.30%,0.018,0.016
+Tuesday,01/31/23,20:45,CN,Caixin Manufacturing PMI JAN,49.2,49,49.5,50
+Wednesday,02/01/23,5:00,EA,Inflation Rate YoY Flash JAN,0.085,9.20%,0.09,0.089
+Wednesday,02/01/23,5:00,EA,Unemployment Rate DEC,0.066,6.60%,0.065,0.065
+Wednesday,02/01/23,10:00,US,ISM Manufacturing PMI JAN,47.4,48.4,48,48
+Wednesday,02/01/23,10:00,US,JOLTs Job Openings DEC,11.012M,10.44M,10.25M,9.5M
+Wednesday,02/01/23,14:00,US,Fed Interest Rate Decision,0.0475,4.50%,0.0475,0.0475
+Wednesday,02/01/23,14:30,US,Fed Press Conference,,,,
+Thursday,02/02/23,7:00,GB,BoE Interest Rate Decision,0.04,3.50%,0.04,0.04
+Thursday,02/02/23,8:15,EA,Deposit Facility Rate,0.025,2%,0.025,0.025
+Thursday,02/02/23,8:15,EA,ECB Interest Rate Decision,0.03,2.50%,0.03,0.03
+Thursday,02/02/23,8:45,EA,ECB Press Conference,,,,
+Friday,02/03/23,8:30,US,Non Farm Payrolls JAN,517K,260K,185K,190K
+Friday,02/03/23,8:30,US,Unemployment Rate JAN,0.034,3.50%,0.036,0.036
+Friday,02/03/23,10:00,US,ISM Non-Manufacturing PMI JAN,55.2,49.2,50.4,50.6
+Monday,02/06/23,10:00,CA,Ivey PMI s.a JAN,60.1,49.3,42.3,40
+Tuesday,02/07/23,8:30,CA,Balance of Trade DEC,-0.16B,-0.22B,-0.5B,-0.4B
+Tuesday,02/07/23,8:30,US,Balance of Trade DEC,-67.4B,-61B,-68.5B,-68.8B
+Thursday,02/09/23,20:30,CN,Inflation Rate YoY JAN,0.021,1.80%,0.022,0.02
+Friday,02/10/23,2:00,GB,GDP Growth Rate QoQ Prel Q4,0,-0.20%,0,0.001
+Friday,02/10/23,2:00,GB,GDP Growth Rate YoY Prel Q4,0.004,1.90%,0.004,0.002
+Friday,02/10/23,2:00,GB,GDP MoM DEC,-0.005,0.10%,-0.003,-0.001
+Friday,02/10/23,8:30,CA,Unemployment Rate JAN,0.05,5%,0.051,0.052
+Friday,02/10/23,10:00,US,Michigan Consumer Sentiment Prel FEB,66.4,64.9,65,65
+Monday,02/13/23,18:50,JP,GDP Growth Annualized Prel Q4,0.006,-1%,0.02,0.016
+Monday,02/13/23,18:50,JP,GDP Growth Rate QoQ Prel Q4,0.002,-0.30%,0.005,0.004
+Tuesday,02/14/23,2:00,GB,Claimant Count Change JAN,-12.9K,-3.2K,,25.0K
+Tuesday,02/14/23,2:00,GB,Unemployment Rate DEC,0.037,3.70%,0.037,0.038
+Tuesday,02/14/23,8:30,US,Core Inflation Rate YoY JAN,0.056,5.70%,0.055,0.054
+Tuesday,02/14/23,8:30,US,Inflation Rate YoY JAN,0.064,6.50%,0.062,0.063
+Wednesday,02/15/23,2:00,GB,Inflation Rate YoY JAN,0.101,10.50%,0.103,0.103
+Wednesday,02/15/23,8:30,US,Retail Sales MoM JAN,0.03,-1.10%,0.018,0.012
+Wednesday,02/15/23,18:50,JP,Balance of Trade JAN,-3496.6B,-1451.8B,-3871.5B,-2200.0B
+Thursday,02/16/23,8:30,US,Building Permits Prel JAN,1.339M,1.337M,1.35M,1.374M
+Thursday,02/16/23,8:30,US,PPI MoM JAN,0.007,-0.20%,0.004,0.002
+Friday,02/17/23,2:00,GB,Retail Sales MoM JAN,0.005,-1.20%,-0.003,-0.008
+Tuesday,02/21/23,8:30,CA,Inflation Rate YoY JAN,0.059,6.30%,0.061,0.059
+Wednesday,02/22/23,14:00,US,FOMC Minutes,,,,
+Thursday,02/23/23,18:30,JP,Inflation Rate YoY JAN,0.043,4%,,0.042
+Thursday,02/23/23,19:01,GB,Gfk Consumer Confidence FEB,-38,-45,-43,-42
+Friday,02/24/23,8:30,US,Core PCE Price Index MoM JAN,0.006,0.40%,0.004,0.003
+Friday,02/24/23,8:30,US,Personal Income MoM JAN,0.006,0.30%,0.01,0.007
+Friday,02/24/23,8:30,US,Personal Spending MoM JAN,0.018,-0.10%,0.013,0.011
+Monday,02/27/23,8:30,US,Durable Goods Orders MoM JAN,-0.045,5.10%,-0.04,-0.035
+Tuesday,02/28/23,8:30,CA,GDP Growth Rate QoQ Q4,0,0.60%,,0.004
+Tuesday,02/28/23,20:30,CN,NBS Manufacturing PMI FEB,52.6,50.1,50.5,50.8
+Tuesday,02/28/23,20:45,CN,Caixin Manufacturing PMI FEB,51.6,49.2,50.2,50.3
+Wednesday,03/01/23,10:00,US,ISM Manufacturing PMI FEB,47.7,47.4,48,48
+Thursday,03/02/23,0:00,JP,Consumer Confidence FEB,31.1,31,32,32
+Thursday,03/02/23,5:00,EA,Inflation Rate YoY Flash FEB,0.085,8.60%,0.082,0.084
+Thursday,03/02/23,5:00,EA,Unemployment Rate JAN,0.067,6.70%,0.066,0.066
+Friday,03/03/23,10:00,US,ISM Non-Manufacturing PMI FEB,55.1,55.2,54.5,54.6
+Monday,03/06/23,10:00,CA,Ivey PMI s.a FEB,51.6,60.1,55.9,55
+Monday,03/06/23,23:30,CN,Balance of Trade JAN-FEB,116.88B,78B,81.8B,78.2B
+Tuesday,03/07/23,10:00,US,Fed Chair Powell Testimony,,,,
+Wednesday,03/08/23,8:30,CA,Balance of Trade JAN,1.92B,1.19B,-0.06B,0.1B
+Wednesday,03/08/23,8:30,US,Balance of Trade JAN,-68.3B,-67.2B,-68.9B,-69.0B
+Wednesday,03/08/23,10:00,CA,BoC Interest Rate Decision,0.045,4.50%,0.045,0.045
+Wednesday,03/08/23,10:00,US,Fed Chair Powell Testimony,,,,
+Wednesday,03/08/23,10:00,US,JOLTs Job Openings JAN,10.824M,11.234M,10.5M,10.6M
+Wednesday,03/08/23,20:30,CN,Inflation Rate YoY FEB,0.01,2.10%,0.019,0.023
+Thursday,03/09/23,22:00,JP,BoJ Interest Rate Decision,-0.001,-0.10%,-0.001,-0.001
+Friday,03/10/23,2:00,GB,GDP MoM JAN,0.003,-0.50%,0.001,0
+Friday,03/10/23,8:30,CA,Unemployment Rate FEB,0.05,5%,0.051,0.052
+Friday,03/10/23,8:30,US,Non Farm Payrolls FEB,311K,504K,205K,210.0K
+Friday,03/10/23,8:30,US,Unemployment Rate FEB,0.036,3.40%,0.034,0.034
+Monday,03/13/23,8:00,US,President Biden Speech on Banking System ,,,,
+Monday,03/13/23,10:30,US,Closed-door Fed Emergency Meeting,,,,
+Tuesday,03/14/23,2:00,GB,Claimant Count Change FEB,-11.2K,-30.3K,,-27.0K
+Tuesday,03/14/23,2:00,GB,Unemployment Rate JAN,0.037,3.70%,0.038,0.038
+Tuesday,03/14/23,7:30,US,Core Inflation Rate YoY FEB,0.055,5.60%,0.055,0.056
+Tuesday,03/14/23,7:30,US,Inflation Rate YoY FEB,0.06,6.40%,0.06,0.061
+Tuesday,03/14/23,21:00,CN,Industrial Production YoY JAN-FEB,0.024,1.30%,0.026,0.025
+Wednesday,03/15/23,7:30,US,PPI MoM FEB,-0.001,0.30%,0.003,0.004
+Wednesday,03/15/23,7:30,US,Retail Sales MoM FEB,-0.004,3.20%,-0.003,-0.002
+Wednesday,03/15/23,18:50,JP,Balance of Trade FEB,-897.7B,-3498.6B,-1069.4B,-1300.0B
+Thursday,03/16/23,7:30,US,Building Permits Prel FEB,1.524M,1.339M,1.34M,1.33M
+Thursday,03/16/23,8:15,EA,Deposit Facility Rate,0.03,2.50%,0.03,0.03
+Thursday,03/16/23,8:15,EA,ECB Interest Rate Decision,0.035,3%,0.035,0.035
+Thursday,03/16/23,8:45,EA,ECB Press Conference,,,,
+Friday,03/17/23,9:00,US,Michigan Consumer Sentiment Prel MAR,63.4,67,67,68
+Tuesday,03/21/23,7:30,CA,Inflation Rate YoY FEB,0.052,5.90%,0.054,0.052
+Wednesday,03/22/23,2:00,GB,Inflation Rate YoY FEB,0.104,10.10%,0.099,0.097
+Wednesday,03/22/23,13:00,US,Fed Interest Rate Decision,0.05,4.75%,0.05,0.05
+Wednesday,03/22/23,13:30,US,Fed Press Conference,,,,
+Thursday,03/23/23,7:00,GB,BoE Interest Rate Decision,0.0425,4%,0.0425,0.0425
+Thursday,03/23/23,18:30,JP,Inflation Rate YoY FEB,0.033,4.30%,,0.033
+Thursday,03/23/23,19:01,GB,Gfk Consumer Confidence MAR,-36,-38,-36,-36
+Friday,03/24/23,2:00,GB,Retail Sales MoM FEB,0.012,0.90%,0.002,0.003
+Friday,03/24/23,7:30,US,Durable Goods Orders MoM FEB,-0.01,-5%,0.006,0.007
+Thursday,03/30/23,20:30,CN,NBS Manufacturing PMI MAR,51.9,52.6,51.5,51.2
+Friday,03/31/23,4:00,EA,Inflation Rate YoY Flash MAR,0.069,8.50%,0.071,0.074
+Friday,03/31/23,4:00,EA,Unemployment Rate FEB,0.066,6.60%,0.067,0.067
+Friday,03/31/23,7:30,US,Core PCE Price Index MoM FEB,0.003,0.50%,0.004,0.006
+Friday,03/31/23,7:30,US,Personal Income MoM FEB,0.003,0.60%,0.002,0.004
+Friday,03/31/23,7:30,US,Personal Spending MoM FEB,0.002,2%,0.003,0.005
+Sunday,04/02/23,18:50,JP,Tankan Large Manufacturers Index Q1,1,7,3,1
+Sunday,04/02/23,20:45,CN,Caixin Manufacturing PMI MAR,50,51.6,51.7,52.2
+Monday,04/03/23,9:00,US,ISM Manufacturing PMI MAR,46.3,47.7,47.5,49
+Tuesday,04/04/23,9:00,US,JOLTs Job Openings FEB,9.931M,10.563M,10.4M,10.8M
+Wednesday,04/05/23,7:30,CA,Balance of Trade FEB,0.42B,1.2B,1.8B,1.4B
+Wednesday,04/05/23,7:30,US,Balance of Trade FEB,-70.5B,-68.7B,-69B,-69.0B
+Wednesday,04/05/23,9:00,US,ISM Non-Manufacturing PMI MAR,51.2,55.1,54.5,54
+Thursday,04/06/23,7:30,CA,Unemployment Rate MAR,0.05,5%,0.051,0.052
+Thursday,04/06/23,9:00,CA,Ivey PMI s.a MAR,58.2,51.6,56.1,49
+Friday,04/07/23,7:30,US,Non Farm Payrolls MAR,236K,326K,239K,250.0K
+Friday,04/07/23,7:30,US,Unemployment Rate MAR,0.035,3.60%,0.036,0.035
+Monday,04/10/23,0:00,JP,Consumer Confidence MAR,33.9,31.1,31.9,35
+Monday,04/10/23,20:30,CN,Inflation Rate YoY MAR,0.007,1%,0.01,0.02
+Wednesday,04/12/23,7:30,US,Core Inflation Rate YoY MAR,0.056,5.50%,0.056,0.055
+Wednesday,04/12/23,7:30,US,Inflation Rate MoM MAR,0.001,0.40%,0.002,0.003
+Wednesday,04/12/23,7:30,US,Inflation Rate YoY MAR,0.05,6%,0.052,0.053
+Wednesday,04/12/23,9:00,CA,BoC Monetary Policy Report,,,,
+Wednesday,04/12/23,13:00,US,FOMC Minutes,,,,
+Wednesday,04/12/23,22:00,CN,Balance of Trade MAR,88.19B,116.88B,39.2B, 52.0B
+Thursday,04/13/23,1:00,GB,GDP MoM FEB,0,0.40%,0.001,0.001
+Thursday,04/13/23,7:30,US,PPI MoM MAR,-0.005,0%,0,0.001
+Friday,04/14/23,7:30,US,Retail Sales MoM MAR,-0.01,-0.20%,-0.004,-0.009
+Friday,04/14/23,9:00,US,Michigan Consumer Sentiment Prel APR,63.5,62,62,62.4
+Monday,04/17/23,21:00,CN,GDP Growth Rate YoY Q1,0.045,2.90%,0.04,0.032
+Monday,04/17/23,21:00,CN,Industrial Production YoY MAR,0.039,2.40%,0.04,0.027
+Tuesday,04/18/23,1:00,GB,Claimant Count Change MAR,28.2K,-18.8K,,-9.5K
+Tuesday,04/18/23,1:00,GB,Unemployment Rate FEB,0.038,3.70%,0.037,0.038
+Tuesday,04/18/23,7:30,CA,Inflation Rate YoY MAR,0.043,5.20%,0.043,0.041
+Tuesday,04/18/23,7:30,US,Building Permits Prel MAR,1.413M,1.55M,1.45M,1.45M
+Wednesday,04/19/23,1:00,GB,Inflation Rate YoY MAR,0.101,10.40%,0.098,0.102
+Wednesday,04/19/23,18:50,JP,Balance of Trade MAR,-754.5B,-898.1B,-1294.8B, -1100.0B
+Thursday,04/20/23,18:01,GB,Gfk Consumer Confidence APR,-30,-36,-35,-34
+Thursday,04/20/23,18:30,JP,Inflation Rate YoY MAR,0.032,3.30%,,0.032
+Friday,04/21/23,1:00,GB,Retail Sales MoM MAR,-0.009,1.10%,-0.005,-0.005
+Wednesday,04/26/23,7:30,US,Durable Goods Orders MoM MAR,0.032,-1.20%,0.007,0.006
+Thursday,04/27/23,7:30,US,GDP Growth Rate QoQ Adv Q1,0.011,2.60%,0.02,0.023
+Thursday,04/27/23,23:00,JP,BoJ Interest Rate Decision,-0.001,-0.10%,-0.001,-0.001
+Friday,04/28/23,4:00,EA,GDP Growth Rate QoQ Flash Q1,0.001,0%,0.002,0.001
+Friday,04/28/23,4:00,EA,GDP Growth Rate YoY Flash Q1,0.013,1.80%,0.014,0.01
+Friday,04/28/23,7:30,US,Core PCE Price Index MoM MAR,0.003,0.30%,0.003,0.004
+Friday,04/28/23,7:30,US,Personal Income MoM MAR,0.003,0.30%,0.002,0.004
+Friday,04/28/23,7:30,US,Personal Spending MoM MAR,0,0.10%,-0.001,-0.002
+Saturday,04/29/23,20:30,CN,NBS Manufacturing PMI APR,49.2,51.9,51.4,51.5
+Saturday,04/29/23,0:00,JP,Consumer Confidence APR,35.4,33.9,,32
+Saturday,04/29/23,9:00,US,ISM Manufacturing PMI APR,47.1,46.3,46.8,46.5
+Tuesday,05/02/23,4:00,EA,Inflation Rate YoY Flash APR,0.07,6.90%,0.07,0.069
+Tuesday,05/02/23,9:00,US,JOLTs Job Openings MAR,9.59M,9.974M,9.775M,9.7M
+Wednesday,05/03/23,4:00,EA,Unemployment Rate MAR,0.065,6.60%,0.066,0.066
+Wednesday,05/03/23,9:00,US,ISM Services PMI APR,51.9,51.2,51.8,51.5
+Wednesday,05/03/23,13:00,US,Fed Interest Rate Decision,0.0525,5%,0.0525,0.0525
+Wednesday,05/03/23,13:30,US,Fed Press Conference,,,,
+Wednesday,05/03/23,20:45,CN,Caixin Manufacturing PMI APR,49.5,50,50.3,50.4
+Thursday,05/04/23,7:15,EA,Deposit Facility Rate,0.0325,3%,0.0325,0.0325
+Thursday,05/04/23,7:15,EA,ECB Interest Rate Decision,0.0375,3.50%,0.0375,0.0375
+Thursday,05/04/23,7:30,CA,Balance of Trade MAR,0.97B,-0.49B,0.2B,0.3B
+Thursday,05/04/23,7:30,US,Balance of Trade MAR,-64.2B,-70.6B,-63.3B,-63.1B
+Thursday,05/04/23,7:45,EA,ECB Press Conference,,,,
+Thursday,05/04/23,9:00,CA,Ivey PMI s.a APR,56.8,58.2,59,53
+Thursday,05/04/23,7:30,CA,Unemployment Rate APR,0.05,5%,0.051,0.052
+Thursday,05/04/23,7:30,US,Non Farm Payrolls APR,253K,165K,180K,190.0K
+Thursday,05/04/23,7:30,US,Unemployment Rate APR,0.034,3.50%,0.036,0.036
+Thursday,05/04/23,22:00,CN,Balance of Trade APR,90.21B,88.19B,71.6B,76.0B
+Wednesday,05/10/23,7:30,US,Core Inflation Rate YoY APR,0.055,5.60%,0.055,0.056
+Wednesday,05/10/23,7:30,US,Inflation Rate MoM APR,0.004,0.10%,0.004,0.003
+Wednesday,05/10/23,7:30,US,Inflation Rate YoY APR,0.049,5%,0.05,0.049
+Wednesday,05/10/23,20:30,CN,Inflation Rate YoY APR,0.001,0.70%,0.004,0.004
+Thursday,05/11/23,6:00,GB,BoE Interest Rate Decision,0.045,4.25%,0.045,0.045
+Thursday,05/11/23,7:30,US,PPI MoM APR,0.002,-0.40%,0.003,0.001
+Thursday,05/11/23,1:00,GB,GDP Growth Rate QoQ Prel Q1,0.001,0.10%,0.001,0.001
+Thursday,05/11/23,1:00,GB,GDP Growth Rate YoY Prel Q1,0.002,0.60%,0.002,0.003
+Thursday,05/11/23,1:00,GB,GDP MoM MAR,-0.003,0%,0,0.001
+Thursday,05/11/23,9:00,US,Michigan Consumer Sentiment Prel 05,57.7,63.5,63,64
+Thursday,05/11/23,21:00,CN,Industrial Production YoY APR,0.056,3.90%,0.109,0.098
+Tuesday,05/16/23,1:00,GB,Claimant Count Change APR,46.7K,26.5K,,-15.0K
+Tuesday,05/16/23,1:00,GB,Unemployment Rate MAR,0.039,3.80%,0.038,0.038
+Tuesday,05/16/23,7:30,CA,Inflation Rate YoY APR,0.044,4.30%,0.041,0.039
+Tuesday,05/16/23,7:30,US,Retail Sales MoM APR,0.004,-0.70%,0.008,0.007
+Tuesday,05/16/23,18:50,JP,GDP Growth Annualized Prel Q1,0.016,-0.10%,0.007,0.008
+Tuesday,05/16/23,18:50,JP,GDP Growth Rate QoQ Prel Q1,0.004,0%,0.001,0.002
+Wednesday,05/17/23,7:30,US,Building Permits Prel APR,1.416M,1.437M,1.437M,1.43M
+Wednesday,05/17/23,18:50,JP,Balance of Trade APR,-432.4B,-755.1B,-613.8B,-690B
+Thursday,05/18/23,18:01,GB,Gfk Consumer Confidence 05,-27,-30,-27,-32
+Thursday,05/18/23,18:30,JP,Inflation Rate YoY APR,0.035,3.20%,0.025,0.032
+Thursday,05/18/23,10:00,US,Fed Chair Powell Speech ,,,,
+Wednesday,05/24/23,1:00,GB,Inflation Rate YoY APR,0.087,10.10%,0.082,0.085
+Wednesday,05/24/23,13:00,US,FOMC Minutes,,,,
+Wednesday,05/24/23,1:00,GB,Retail Sales MoM APR,0.005,-1.20%,0.003,0.003
+Wednesday,05/24/23,7:30,US,Core PCE Price Index MoM APR,0.004,0.30%,0.003,0.003
+Wednesday,05/24/23,7:30,US,Durable Goods Orders MoM APR,0.011,3.30%,-0.01,-0.011
+Wednesday,05/24/23,7:30,US,Personal Income MoM APR,0.004,0.30%,0.004,0.003
+Wednesday,05/24/23,7:30,US,Personal Spending MoM APR,0.008,0.10%,0.004,0.003
+Tuesday,05/30/23,20:30,CN,NBS Manufacturing PMI 05,48.8,49.2,49.4,49.8
+Wednesday,05/31/23,0:00,JP,Consumer Confidence 05,36,35.4,36.1,36
+Wednesday,05/31/23,7:30,CA,GDP Growth Rate QoQ Q1,0.008,0%,0.004,0.005
+Wednesday,05/31/23,9:00,US,JOLTs Job Openings APR,10.103M,9.745M,9.375M,9.2M
+Wednesday,05/31/23,20:45,CN,Caixin Manufacturing PMI 05,50.9,49.5,49.5,49.6
+Thursday,06/01/23,4:00,EA,Inflation Rate YoY Flash 05,0.061,7%,0.063,0.065
+Thursday,06/01/23,4:00,EA,Unemployment Rate APR,0.065,6.60%,0.065,0.065
+Thursday,06/01/23,9:00,US,ISM Manufacturing PMI 05,46.9,47.1,47,48
+Friday,06/02/23,7:30,US,Non Farm Payrolls 05,339K,294K,190K,180.0K
+Friday,06/02/23,7:30,US,Unemployment Rate 05,0.037,3.40%,0.035,0.035
+Monday,06/05/23,9:00,US,ISM Services PMI 05,50.3,51.9,52.2,52.4
+Tuesday,06/06/23,9:00,CA,Ivey PMI s.a 05,53.5,56.8,57.2,56.5
+Tuesday,06/06/23,22:00,CN,Balance of Trade 05,65.81B,90.21B,92B,91.0B
+Wednesday,06/07/23,7:30,US,Balance of Trade APR,-74.6B,-60.6B,-75.2B,-78.2B
+Thursday,06/08/23,20:30,CN,Inflation Rate YoY 05,0.002,0.10%,0.003,0.002
+Friday,06/09/23,7:30,CA,Unemployment Rate 05,0.052,5%,0.051,0.051
+Tuesday,06/13/23,1:00,GB,Claimant Count Change 05,-13.6K,23.4K,,22.0K
+Tuesday,06/13/23,1:00,GB,Unemployment Rate APR,0.038,3.90%,0.04,0.039
+Tuesday,06/13/23,7:30,US,Core Inflation Rate YoY 05,0.053,5.50%,0.053,0.054
+Tuesday,06/13/23,7:30,US,Inflation Rate MoM 05,0.001,0.40%,0.002,0.003
+Tuesday,06/13/23,7:30,US,Inflation Rate YoY 05,0.04,4.90%,0.041,0.043
+Wednesday,06/14/23,1:00,GB,GDP MoM APR,0.002,-0.30%,0.002,0.002
+Wednesday,06/14/23,7:30,US,PPI MoM 05,-0.003,0.20%,-0.001,0.001
+Wednesday,06/14/23,13:00,US,Fed Interest Rate Decision,0.0525,5.25%,0.0525,0.0525
+Wednesday,06/14/23,13:30,US,Fed Press Conference,,,,
+Wednesday,06/14/23,18:50,JP,Balance of Trade 05,-1372.5B,-432.3B,-1331.9B,-1310.0B
+Wednesday,06/14/23,21:00,CN,Industrial Production YoY 05,0.035,5.60%,0.036,0.05
+Thursday,06/15/23,7:15,EA,Deposit Facility Rate,0.035,3.25%,0.035,0.035
+Thursday,06/15/23,7:15,EA,ECB Interest Rate Decision,0.04,3.75%,0.04,0.04
+Thursday,06/15/23,7:30,US,Retail Sales MoM 05,0.003,0.40%,-0.001,0.002
+Thursday,06/15/23,7:45,EA,ECB Press Conference,,,,
+Thursday,06/15/23,22:00,JP,BoJ Interest Rate Decision,-0.001,-0.10%,-0.001,-0.001
+Friday,06/16/23,9:00,US,Michigan Consumer Sentiment Prel JUN,63.9,59.2,60,60.8
+Tuesday,06/20/23,7:30,US,Building Permits Prel 05,1.491M,1.417M,1.42M,1.425M
+Wednesday,06/21/23,1:00,GB,Inflation Rate YoY 05,0.087,8.70%,0.084,0.085
+Wednesday,06/21/23,9:00,US,Fed Chair Powell Testimony,,,,
+Thursday,06/22/23,6:00,GB,BoE Interest Rate Decision,0.05,4.50%,0.0475,0.0475
+Thursday,06/22/23,9:00,US,Fed Chair Powell Testimony,,,,
+Thursday,06/22/23,18:01,GB,Gfk Consumer Confidence JUN,-24,-27,-26,-27
+Thursday,06/22/23,18:30,JP,Inflation Rate YoY 05,0.032,3.50%,0.041,0.032
+Friday,06/23/23,1:00,GB,Retail Sales MoM 05,0.003,0.50%,-0.002,-0.003
+Sunday,06/25/23,,EA,ECB Forum on Central Banking,,,,
+Monday,06/26/23,12:30,EA,ECB President Lagarde Speech ,,,,
+Monday,06/26/23,,EA,ECB Forum on Central Banking,,,,
+Tuesday,06/27/23,3:00,EA,ECB President Lagarde Speech ,,,,
+Tuesday,06/27/23,7:30,CA,Inflation Rate YoY 05,0.034,4.40%,0.034,0.036
+Tuesday,06/27/23,7:30,US,Durable Goods Orders MoM 05,0.017,1.20%,-0.01,-0.009
+Tuesday,06/27/23,,EA,ECB Forum on Central Banking,,,,
+Wednesday,06/28/23,8:30,US,Fed Chair Powell Speech ,,,,
+Thursday,06/29/23,0:00,JP,Consumer Confidence JUN,36.2,36,36.2,38
+Thursday,06/29/23,1:30,US,Fed Chair Powell Speech ,,,,
+Thursday,06/29/23,20:30,CN,NBS Manufacturing PMI JUN,49,48.8,49,51
+Friday,06/30/23,4:00,EA,Inflation Rate YoY Flash JUN,0.055,6.10%,0.056,0.056
+Friday,06/30/23,4:00,EA,Unemployment Rate 05,0.065,6.50%,0.065,0.065
+Friday,06/30/23,7:30,US,Core PCE Price Index MoM 05,0.003,0.40%,0.003,0.003
+Friday,06/30/23,7:30,US,Personal Income MoM 05,0.004,0.30%,0.003,0.003
+Friday,06/30/23,7:30,US,Personal Spending MoM 05,0.001,0.60%,0.002,0.004
+Sunday,07/02/23,18:50,JP,Tankan Large Manufacturers Index Q2,5,1,3,3
+Sunday,07/02/23,20:45,CN,Caixin Manufacturing PMI JUN,50.5,50.9,50.2,50.4
+Monday,07/03/23,9:00,US,ISM Manufacturing PMI JUN,46,46.9,47,48
+Wednesday,07/05/23,13:00,US,FOMC Minutes,,,,
+Thursday,07/06/23,9:00,US,ISM Services PMI JUN,53.9,50.3,51,50
+Thursday,07/06/23,9:00,US,JOLTs Job Openings 05,9.8M,10.32M,9.935M,9.9M
+Friday,07/07/23,7:30,CA,Unemployment Rate JUN,0.054,5.20%,0.053,0.054
+Friday,07/07/23,7:30,US,Non Farm Payrolls JUN,209K,306K,225K,250.0K
+Friday,07/07/23,7:30,US,Unemployment Rate JUN,0.036,3.70%,0.036,0.037
+Friday,07/07/23,9:00,CA,Ivey PMI s.a JUN,50.2,53.5,,52.3
+Sunday,07/09/23,20:30,CN,Inflation Rate YoY JUN,0,0.20%,0.002,0.001
+Tuesday,07/11/23,1:00,GB,Unemployment Rate 05,0.04,3.80%,0.038,0.039
+Wednesday,07/12/23,7:30,US,Core Inflation Rate MoM JUN,0.002,0.40%,0.003,0.003
+Wednesday,07/12/23,7:30,US,Core Inflation Rate YoY JUN,0.048,5.30%,0.05,0.05
+Wednesday,07/12/23,7:30,US,Inflation Rate MoM JUN,0.002,0.10%,0.003,0.002
+Wednesday,07/12/23,7:30,US,Inflation Rate YoY JUN,0.03,4%,0.031,0.032
+Wednesday,07/12/23,9:00,CA,BoC Interest Rate Decision,0.05,4.75%,0.05,0.05
+Wednesday,07/12/23,9:00,CA,BoC Monetary Policy Report,,,,
+Wednesday,07/12/23,22:00,CN,Balance of Trade JUN,70.62B,65.81B,74.8B, 90.0B
+Thursday,07/13/23,1:00,GB,GDP MoM 05,-0.001,0.20%,-0.003,-0.002
+Thursday,07/13/23,7:30,US,PPI MoM JUN,0.001,-0.40%,0.002,0.001
+Friday,07/14/23,9:00,US,Michigan Consumer Sentiment Prel JUL,72.6,64.4,65.5,64.5
+Sunday,07/16/23,21:00,CN,GDP Growth Rate YoY Q2,0.063,4.50%,0.073,0.071
+Sunday,07/16/23,21:00,CN,Industrial Production YoY JUN,0.044,3.50%,0.027,0.024
+Tuesday,07/18/23,7:30,CA,Inflation Rate YoY JUN,0.028,3.40%,0.03,0.03
+Tuesday,07/18/23,7:30,US,Retail Sales MoM JUN,0.002,0.50%,0.005,0.003
+Wednesday,07/19/23,1:00,GB,Inflation Rate YoY JUN,0.079,8.70%,0.082,0.083
+Wednesday,07/19/23,7:30,US,Building Permits Prel JUN,1.44M,1.496M,1.49M,1.462M
+Wednesday,07/19/23,18:50,JP,Balance of Trade JUN,43B,-1381.9B,-46.7B, -48B
+Thursday,07/20/23,18:30,JP,Inflation Rate YoY JUN,0.033,3.20%,0.035,0.033
+Friday,07/21/23,1:00,GB,Retail Sales MoM JUN,0.007,0.10%,0.002,0.001
+Wednesday,07/26/23,13:00,US,Fed Interest Rate Decision,0.055,5.25%,0.055,0.055
+Wednesday,07/26/23,13:30,US,Fed Press Conference,,,,
+Thursday,07/27/23,7:15,EA,ECB Interest Rate Decision,0.0425,4%,0.0425,0.0425
+Thursday,07/27/23,7:30,US,Durable Goods Orders MoM JUN,0.047,2%,0.01,0.006
+Thursday,07/27/23,7:30,US,GDP Growth Rate QoQ Adv Q2,0.024,2%,0.018,0.018
+Thursday,07/27/23,7:45,EA,ECB Press Conference,,,,
+Thursday,07/27/23,22:00,JP,BoJ Interest Rate Decision,-0.001,-0.10%,-0.001,-0.001
+Friday,07/28/23,7:30,US,Core PCE Price Index MoM JUN,0.002,0.30%,0.002,0.002
+Friday,07/28/23,7:30,US,Personal Income MoM JUN,0.003,0.50%,0.005,0.004
+Friday,07/28/23,7:30,US,Personal Spending MoM JUN,0.005,0.20%,0.004,0.003
+Sunday,07/30/23,20:30,CN,NBS Manufacturing PMI JUL,49.3,49,49.2,48.9
+Monday,07/31/23,4:00,EA,GDP Growth Rate QoQ Flash Q2,0.003,0%,0.002,0.003
+Monday,07/31/23,4:00,EA,GDP Growth Rate YoY Flash Q2,0.006,1.10%,0.005,0.006
+Monday,07/31/23,4:00,EA,Inflation Rate YoY Flash JUL,0.053,5.50%,0.053,0.052
+Monday,07/31/23,20:45,CN,Caixin Manufacturing PMI JUL,49.2,50.5,50.3,50.1
+Tuesday,08/01/23,9:00,US,ISM Manufacturing PMI JUL,46.4,46,46.8,48
+Tuesday,08/01/23,9:00,US,JOLTs Job Openings JUN,9.582M,9.616M,9.61M,9.5M
+Thursday,08/03/23,6:00,GB,BoE Interest Rate Decision,0.0525,5%,0.0525,0.0525
+Thursday,08/03/23,9:00,US,ISM Services PMI JUL,52.7,53.9,53,52
+Friday,08/04/23,7:30,CA,Unemployment Rate JUL,0.055,5.40%,0.055,0.054
+Friday,08/04/23,7:30,US,Non Farm Payrolls JUL,187K,185K,200K,190K
+Friday,08/04/23,7:30,US,Unemployment Rate JUL,0.035,3.60%,0.036,0.036
+Friday,08/04/23,9:00,CA,Ivey PMI s.a JUL,48.6,50.2,52.7,49.7
+Monday,08/07/23,22:00,CN,Balance of Trade JUL,80.6B,70.62B,70.6B,69B
+Tuesday,08/08/23,20:30,CN,Inflation Rate YoY JUL,-0.003,0%,-0.004,-0.003
+Thursday,08/10/23,7:30,US,Core Inflation Rate MoM JUL,0.002,0.20%,0.002,0.002
+Thursday,08/10/23,7:30,US,Core Inflation Rate YoY JUL,0.047,4.80%,0.048,0.048
+Thursday,08/10/23,7:30,US,Inflation Rate MoM JUL,0.002,0.20%,0.002,0.002
+Thursday,08/10/23,7:30,US,Inflation Rate YoY JUL,0.032,3%,0.033,0.031
+Friday,08/11/23,1:00,GB,GDP Growth Rate QoQ Prel Q2,0.002,0.10%,0,0.001
+Friday,08/11/23,1:00,GB,GDP Growth Rate YoY Prel Q2,0.004,0.20%,0.002,0.001
+Friday,08/11/23,1:00,GB,GDP MoM JUN,0.005,-0.10%,0.002,0.001
+Friday,08/11/23,7:30,US,PPI MoM JUL,0.003,0%,0.002,0.002
+Friday,08/11/23,9:00,US,Michigan Consumer Sentiment Prel AUG,71.2,71.6,71,71.3
+Monday,08/14/23,18:50,JP,GDP Growth Annualized Prel Q2,0.06,3.70%,0.031,0.032
+Monday,08/14/23,18:50,JP,GDP Growth Rate QoQ Prel Q2,0.015,0.90%,0.008,0.01
+Monday,08/14/23,21:00,CN,Industrial Production YoY JUL,0.037,4.40%,0.044,0.047
+Tuesday,08/15/23,1:00,GB,Unemployment Rate JUN,0.042,4%,0.04,0.04
+Tuesday,08/15/23,7:30,CA,Inflation Rate YoY JUL,0.033,2.80%,0.03,0.031
+Tuesday,08/15/23,7:30,US,Retail Sales MoM JUL,0.007,0.30%,0.004,0.003
+Wednesday,08/16/23,1:00,GB,Inflation Rate YoY JUL,0.068,7.90%,0.068,0.069
+Wednesday,08/16/23,7:30,US,Building Permits Prel JUL,1.442M,1.441M,1.463M,1.457M
+Wednesday,08/16/23,13:00,US,FOMC Minutes,,,,
+Wednesday,08/16/23,18:50,JP,Balance of Trade JUL,-78.7B,43.1B,24.6B,26B
+Thursday,08/17/23,18:30,JP,Inflation Rate YoY JUL,0.033,3.30%,0.025,0.031
+Friday,08/18/23,1:00,GB,Retail Sales MoM JUL,-0.012,0.60%,-0.005,-0.003
+Thursday,08/24/23,7:30,US,Durable Goods Orders MoM JUL,-0.052,4.40%,-0.04,0.005
+Friday,08/25/23,9:05,US,Fed Chair Powell Speech ,,,,
+Friday,08/25/23,14:00,EA,ECB President Lagarde Speech ,,,,
+Tuesday,08/29/23,9:00,US,JOLTs Job Openings JUL,8.827M,9.165M,9.465M,9.57M
+Wednesday,08/30/23,7:30,US,GDP Growth Rate QoQ 2nd Est Q2,0.021,2%,0.024,0.024
+Wednesday,08/30/23,20:30,CN,NBS Manufacturing PMI AUG,49.7,49.3,49.4,49.5
+Thursday,08/31/23,4:00,EA,Inflation Rate YoY Flash AUG,0.053,5.30%,0.051,0.05
+Thursday,08/31/23,7:30,US,Core PCE Price Index MoM JUL,0.002,0.20%,0.002,0.002
+Thursday,08/31/23,7:30,US,Personal Income MoM JUL,0.002,0.30%,0.003,0.003
+Thursday,08/31/23,7:30,US,Personal Spending MoM JUL,0.008,0.50%,0.007,0.004
+Thursday,08/31/23,20:45,CN,Caixin Manufacturing PMI AUG,51,49.2,49.3,49.3
+Friday,09/01/23,7:30,CA,GDP Growth Rate QoQ Q2,0,0.60%,0.003,0.001
+Friday,09/01/23,7:30,US,Non Farm Payrolls AUG,187K,157K,170K,180.0K
+Friday,09/01/23,7:30,US,Unemployment Rate AUG,0.038,3.50%,0.035,0.035
+Friday,09/01/23,9:00,US,ISM Manufacturing PMI AUG,47.6,46.4,47,47
+Wednesday,09/06/23,9:00,US,ISM Services PMI AUG,54.5,52.7,52.5,52.4
+Wednesday,09/06/23,22:00,CN,Balance of Trade AUG,68.36B,80.6B,73.9B,81B
+Thursday,09/07/23,9:00,CA,Ivey PMI s.a AUG,53.5,48.6,49.2,48
+Friday,09/08/23,7:30,CA,Unemployment Rate AUG,0.055,5.50%,0.056,0.057
+Friday,09/08/23,20:30,CN,Inflation Rate YoY AUG,0.001,-0.30%,0.002,0.001
+Tuesday,09/12/23,1:00,GB,Unemployment Rate JUL,0.043,4.20%,0.043,0.042
+Wednesday,09/13/23,1:00,GB,GDP MoM JUL,-0.005,0.50%,-0.002,-0.003
+Wednesday,09/13/23,7:30,US,Core Inflation Rate MoM AUG,0.003,0.20%,0.002,0.002
+Wednesday,09/13/23,7:30,US,Core Inflation Rate YoY AUG,0.043,4.70%,0.043,0.044
+Wednesday,09/13/23,7:30,US,Inflation Rate MoM AUG,0.006,0.20%,0.006,0.005
+Wednesday,09/13/23,7:30,US,Inflation Rate YoY AUG,0.037,3.20%,0.036,0.035
+Thursday,09/14/23,7:15,EA,ECB Interest Rate Decision,0.045,4.25%,0.0425,0.045
+Thursday,09/14/23,7:30,US,PPI MoM AUG,0.007,0.40%,0.004,0.004
+Thursday,09/14/23,7:30,US,Retail Sales MoM AUG,0.006,0.50%,0.002,0.004
+Thursday,09/14/23,7:45,EA,ECB Press Conference,,,,
+Thursday,09/14/23,21:00,CN,Industrial Production YoY AUG,0.045,3.70%,0.039,0.035
+Thursday,09/14/23,21:00,CN,Retail Sales YoY AUG,0.046,2.50%,0.03,0.026
+Friday,09/15/23,9:00,US,Michigan Consumer Sentiment Prel SEP,67.7,69.5,69.1,70
+Tuesday,09/19/23,7:30,CA,Inflation Rate YoY AUG,0.04,3.30%,0.038,0.039
+Tuesday,09/19/23,7:30,US,Building Permits Prel AUG,1.543M,1.443M,1.443M,1.43M
+Tuesday,09/19/23,18:50,JP,Balance of Trade AUG,-930.5B,-66.3B,-659.1B,-950.0B
+Wednesday,09/20/23,1:00,GB,Inflation Rate YoY AUG,0.067,6.80%,0.07,0.071
+Wednesday,09/20/23,13:00,US,Fed Interest Rate Decision,0.055,5.50%,0.055,0.055
+Wednesday,09/20/23,13:30,US,Fed Press Conference,,,,
+Thursday,09/21/23,6:00,GB,BoE Interest Rate Decision,0.0525,5.25%,0.055,0.055
+Thursday,09/21/23,18:30,JP,Inflation Rate YoY AUG,0.032,3.30%,,0.033
+Thursday,09/21/23,22:00,JP,BoJ Interest Rate Decision,-0.001,-0.10%,-0.001,-0.001
+Friday,09/22/23,1:00,GB,Retail Sales MoM AUG,0.004,-1.10%,0.005,0.004
+Wednesday,09/27/23,7:30,US,Durable Goods Orders MoM AUG,0.002,-5.60%,-0.005,-0.014
+Thursday,09/28/23,7:30,US,GDP Growth Rate QoQ Final Q2,0.021,2.20%,0.021,0.021
+Friday,09/29/23,4:00,EA,Inflation Rate YoY Flash SEP,0.043,5.20%,0.045,0.047
+Friday,09/29/23,7:30,US,Core PCE Price Index MoM AUG,0.001,0.20%,0.002,0.002
+Friday,09/29/23,7:30,US,Personal Income MoM AUG,0.004,0.20%,0.004,0.003
+Friday,09/29/23,7:30,US,Personal Spending MoM AUG,0.004,0.90%,0.004,0.006
+Friday,09/29/23,20:30,CN,NBS Manufacturing PMI SEP,50.2,49.7,50,50.4
+Saturday,09/30/23,20:45,CN,Caixin Manufacturing PMI SEP,50.6,51,51.2,51.2
+Sunday,10/01/23,18:50,JP,Tankan Large Manufacturers Index Q3,9,5,6,7
+Monday,10/02/23,9:00,US,ISM Manufacturing PMI SEP,49,47.6,47.8,48.1
+Tuesday,10/03/23,9:00,US,JOLTs Job Openings AUG,9.61M,8.92M,8.8M,8.6M
+Wednesday,10/04/23,9:00,US,ISM Services PMI SEP,53.6,54.5,53.6,53.7
+Thursday,10/05/23,9:00,CA,Ivey PMI s.a SEP,53.1,53.5,50.8,49.6
+Friday,10/06/23,7:30,CA,Unemployment Rate SEP,0.055,5.50%,0.056,0.056
+Friday,10/06/23,7:30,US,Non Farm Payrolls SEP,336K,227K,170K,150.0K
+Friday,10/06/23,7:30,US,Unemployment Rate SEP,0.038,3.80%,0.037,0.038
+Wednesday,10/11/23,7:30,US,PPI MoM SEP,0.005,0.70%,0.003,0.004
+Wednesday,10/11/23,13:00,US,FOMC Minutes,,,,
+Thursday,10/12/23,1:00,GB,GDP MoM AUG,0.002,-0.60%,0.002,0.001
+Thursday,10/12/23,7:30,US,Core Inflation Rate MoM SEP,0.003,0.30%,0.003,0.003
+Thursday,10/12/23,7:30,US,Core Inflation Rate YoY SEP,0.041,4.30%,0.041,0.041
+Thursday,10/12/23,7:30,US,Inflation Rate MoM SEP,0.004,0.60%,0.003,0.004
+Thursday,10/12/23,7:30,US,Inflation Rate YoY SEP,0.037,3.70%,0.036,0.037
+Thursday,10/12/23,20:30,CN,Inflation Rate YoY SEP,0,0.10%,0.002,0.003
+Thursday,10/12/23,22:00,CN,Balance of Trade SEP,77.71B,68.36B,70B,72.1B
+Friday,10/13/23,9:00,US,Michigan Consumer Sentiment Prel OCT,63,68.1,67.2,68
+Tuesday,10/17/23,7:30,CA,Inflation Rate YoY SEP,0.038,4%,0.04,0.045
+Tuesday,10/17/23,7:30,US,Retail Sales MoM SEP,0.007,0.80%,0.003,0.003
+Tuesday,10/17/23,21:00,CN,GDP Growth Rate YoY Q3,0.049,6.30%,0.044,0.046
+Tuesday,10/17/23,21:00,CN,Industrial Production YoY SEP,0.045,4.50%,0.043,0.043
+Tuesday,10/17/23,21:00,CN,Retail Sales YoY SEP,0.055,4.60%,0.049,0.047
+Wednesday,10/18/23,1:00,GB,Inflation Rate YoY SEP,0.067,6.70%,0.066,0.065
+Wednesday,10/18/23,7:30,US,Building Permits Prel SEP,1.473M,1.541M,1.45M,1.46M
+Wednesday,10/18/23,18:50,JP,Balance of Trade SEP,62.4B,-937.8B,-425B, -500.0B
+Thursday,10/19/23,11:00,US,Fed Chair Powell Speech ,,,,
+Thursday,10/19/23,18:30,JP,Inflation Rate YoY SEP,0.03,3.20%,,0.031
+Friday,10/20/23,1:00,GB,Retail Sales MoM SEP,-0.009,0.40%,-0.002,-0.002
+Tuesday,10/24/23,1:00,GB,Unemployment Rate - Adjusted AUG,0.042,,,
+Wednesday,10/25/23,9:00,CA,BoC Monetary Policy Report,,,,
+Wednesday,10/25/23,15:35,US,Fed Chair Powell Speech ,,,,
+Thursday,10/26/23,7:15,EA,ECB Interest Rate Decision,0.045,4.50%,0.045,0.045
+Thursday,10/26/23,7:30,US,Durable Goods Orders MoM SEP,0.047,-0.10%,0.017,0.011
+Thursday,10/26/23,7:30,US,GDP Growth Rate QoQ Adv Q3,0.049,2.10%,0.043,0.04
+Thursday,10/26/23,7:45,EA,ECB Press Conference,,,,
+Friday,10/27/23,7:30,US,Core PCE Price Index MoM SEP,0.003,0.10%,0.003,0.002
+Friday,10/27/23,7:30,US,Personal Income MoM SEP,0.003,0.40%,0.004,0.003
+Friday,10/27/23,7:30,US,Personal Spending MoM SEP,0.007,0.40%,0.005,0.005
+Monday,10/30/23,20:30,CN,NBS Manufacturing PMI OCT,49.5,50.2,50.2,50.5
+Monday,10/30/23,22:00,JP,BoJ Interest Rate Decision,-0.001,-0.10%,-0.001,-0.001
+Tuesday,10/31/23,5:00,EA,GDP Growth Rate QoQ Flash Q3,-0.001,0.20%,0,0
+Tuesday,10/31/23,5:00,EA,GDP Growth Rate YoY Flash Q3,0.001,0.50%,0.002,0.001
+Tuesday,10/31/23,5:00,EA,Inflation Rate YoY Flash OCT,0.029,4.30%,0.031,0.033
+Tuesday,10/31/23,20:45,CN,Caixin Manufacturing PMI OCT,49.5,50.6,50.8,50.7
+Wednesday,11/01/23,9:00,US,ISM Manufacturing PMI OCT,46.7,49,49,49.5
+Wednesday,11/01/23,9:00,US,JOLTs Job Openings SEP,9.553M,9.497M,9.25M,9.2M
+Wednesday,11/01/23,13:00,US,Fed Interest Rate Decision,0.055,5.50%,0.055,0.055
+Wednesday,11/01/23,13:30,US,Fed Press Conference,,,,
+Thursday,11/02/23,7:00,GB,BoE Interest Rate Decision,0.0525,5.25%,0.0525,0.0525
+Friday,11/03/23,7:30,CA,Unemployment Rate OCT,0.057,5.50%,0.056,0.055
+Friday,11/03/23,7:30,US,Non Farm Payrolls OCT,150K,297K,180K,190K
+Friday,11/03/23,7:30,US,Unemployment Rate OCT,0.039,3.80%,0.038,0.038
+Friday,11/03/23,9:00,US,ISM Services PMI OCT,51.8,53.6,53,53.7
+Monday,11/06/23,10:00,CA,Ivey PMI s.a OCT,53.4,53.1,54,52.1
+Monday,11/06/23,22:00,CN,Balance of Trade OCT,56.53B,77.71B,82B,81.0B
+Wednesday,11/08/23,9:15,US,Fed Chair Powell Speech ,,,,
+Wednesday,11/08/23,20:30,CN,Inflation Rate YoY OCT,-0.002,0%,-0.001,0
+Thursday,11/09/23,14:00,US,Fed Chair Powell Speech ,,,,
+Friday,11/10/23,2:00,GB,GDP Growth Rate QoQ Prel Q3,0,0.20%,-0.001,0
+Friday,11/10/23,2:00,GB,GDP Growth Rate YoY Prel Q3,0.006,0.60%,0.005,0.006
+Friday,11/10/23,2:00,GB,GDP MoM SEP,0.002,0.10%,0,0
+Friday,11/10/23,7:30,EA,ECB President Lagarde Speech ,,,,
+Friday,11/10/23,10:00,US,Michigan Consumer Sentiment Prel NOV,60.4,63.8,63.7,64.2
+Tuesday,11/14/23,2:00,GB,Unemployment Rate SEP,0.042,4.20%,0.043,0.043
+Tuesday,11/14/23,8:30,US,Core Inflation Rate MoM OCT,0.002,0.30%,0.003,0.003
+Tuesday,11/14/23,8:30,US,Core Inflation Rate YoY OCT,0.04,4.10%,0.041,0.04
+Tuesday,11/14/23,8:30,US,Inflation Rate MoM OCT,0,0.40%,0.001,0.001
+Tuesday,11/14/23,8:30,US,Inflation Rate YoY OCT,0.032,3.70%,0.033,0.033
+Tuesday,11/14/23,18:50,JP,GDP Growth Annualized Prel Q3,-0.021,4.50%,-0.006,-0.006
+Tuesday,11/14/23,18:50,JP,GDP Growth Rate QoQ Prel Q3,-0.005,1.10%,-0.001,-0.002
+Tuesday,11/14/23,21:00,CN,Industrial Production YoY OCT,0.046,4.50%,0.044,0.044
+Tuesday,11/14/23,21:00,CN,Retail Sales YoY OCT,0.076,5.50%,0.07,0.067
+Wednesday,11/15/23,2:00,GB,Inflation Rate YoY OCT,0.046,6.70%,0.048,0.049
+Wednesday,11/15/23,8:30,US,PPI MoM OCT,-0.005,0.40%,0.001,0.001
+Wednesday,11/15/23,8:30,US,Retail Sales MoM OCT,-0.001,0.90%,-0.003,0
+Wednesday,11/15/23,18:50,JP,Balance of Trade OCT,-662.5B,72.1B,-735.7B,-500B
+Friday,11/17/23,2:00,GB,Retail Sales MoM OCT,-0.003,-1.10%,0.003,0.002
+Friday,11/17/23,8:30,US,Building Permits Prel OCT,1.487M,1.471M,1.45M,1.45M
+Tuesday,11/21/23,8:30,CA,Inflation Rate YoY OCT,0.031,3.80%,0.032,0.033
+Tuesday,11/21/23,14:00,US,FOMC Minutes,,,,
+Wednesday,11/22/23,8:30,US,Durable Goods Orders MoM OCT,-0.054,4%,-0.031,-0.028
+Wednesday,11/22/23,,GB,Autumn Statement,,,,
+Thursday,11/23/23,18:30,JP,Inflation Rate YoY OCT,0.033,3%,,0.032
+Wednesday,11/29/23,8:30,US,GDP Growth Rate QoQ 2nd Est Q3,0.052,2.10%,0.05,0.049
+Wednesday,11/29/23,20:30,CN,NBS Manufacturing PMI NOV,49.4,49.5,49.7,49.9
+Thursday,11/30/23,5:00,EA,Inflation Rate YoY Flash NOV,0.024,2.90%,0.027,0.027
+Thursday,11/30/23,8:30,CA,GDP Growth Rate QoQ Q3,-0.003,0.30%,,0
+Thursday,11/30/23,8:30,US,Core PCE Price Index MoM OCT,0.002,0.30%,0.002,0.003
+Thursday,11/30/23,8:30,US,Personal Income MoM OCT,0.002,0.40%,0.002,0.003
+Thursday,11/30/23,8:30,US,Personal Spending MoM OCT,0.002,0.70%,0.002,0.004
+Thursday,11/30/23,20:45,CN,Caixin Manufacturing PMI NOV,50.7,49.5,49.8,49.8
+Friday,12/01/23,8:30,CA,Unemployment Rate NOV,0.058,5.70%,0.058,0.058
+Friday,12/01/23,10:00,US,ISM Manufacturing PMI NOV,46.7,46.7,47.6,47.2

@@ -1,1 +1,0 @@
-The Dataset is used here is taken from the Kaggle database website. You can download the file from the link given here, [Singaporean Cryptocurrency Analysis](https://www.kaggle.com/datasets/imperialwarrior/singapore-crypto)

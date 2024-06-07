@@ -1,7 +1,0 @@
-streamlit 
-streamlit_navigation_bar
-scikit-learn
-tensorflow
-pandas
-numpy
-plotly

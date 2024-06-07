@@ -1,9 +1,0 @@
-matplotlib==3.5.2
-seaborn==0.11.2
-numpy==1.19.2
-pandas==1.4.3
-sklearn==1.1.1
-spacy==3.4.0
-textblob==0.17.1
-Run the below code in cmd to download the spacy model
-!python -m spacy download en_core_web_sm

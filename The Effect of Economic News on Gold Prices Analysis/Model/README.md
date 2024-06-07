@@ -37,8 +37,6 @@ Model Building: We implemented the following algorithms for their distinct advan
   - Numpy
   - Matplotlib
   - Sklearn
-    
-### 📊 **Exploratory Data Analysis Results**
 
 ### 📊 **Exploratory Data Analysis Results**
 
@@ -79,7 +77,7 @@ Model Building: We implemented the following algorithms for their distinct advan
 
 
 ### 📢 **Conclusion**
-Among all the models tested, the **Gradient Booster** achieved the highest accuracy, approximately **100%**, making it the best-performing model for predicting gold prices. This demonstrates its effectiveness in handling the dataset and providing reliable predictions.
+Among all the models tested, the **Gradient Booster** achieved the highest accuracy,**100%**, making it the best-performing model for predicting gold prices. This demonstrates its effectiveness in handling the dataset and providing reliable predictions.
 
 ### ✒️ **Your Signature**
 Created by [Filbert Shawn](https://github.com/fspzar123) as a part of SSOC'24 Season 3.

@@ -1,18 +1,18 @@
 **Pcos Detection**
 
-**GOAL**
+🎯**GOAL**
 
 The aim of the project is to build a model which would predict whether a person has the Pcos Detection
 
-**DATASET**
+🧵**DATASET**
 
 The dataset was taken from the Kaggle.
 
-**DESCRIPTION**
+🧾**DESCRIPTION**
 
 In this project, we compare the accuracies of different models to predict the pcos in the person.
 
-**WHAT I HAD DONE**
+🧮**WHAT I HAD DONE**
 
 Steps followed:
 * Downloaded the dataset from Kaggle.
@@ -21,7 +21,18 @@ Steps followed:
 * Compared the accuracies
 * Then performed cross validation on all the algorithms to see if the accuraries imrpove.
 
-**LIBRARIES NEEDED**
+🚀 **Models Implemented**
+
+1) Logistic Regression
+2) Decision Tree
+3) Random forest
+4) Gradient Boosting
+5) Adaboost
+6) Naive Bayes
+7) Support Vector Machine
+8) K-Nearest Neighbors
+
+📚**LIBRARIES NEEDED**
 
 * Pandas
 * Matplotlib

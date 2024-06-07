@@ -44,7 +44,7 @@ Model Building: We implemented the following algorithms for their distinct advan
 
 <table>
     <tr>
-        <td><img src="https://github.com/fspzar123/ML-Crate/tree/22465f62c53b71fd029d4c1b350ae3bd1eda3f1f/The%20Effect%20of%20Economic%20News%20on%20Gold%20Prices%20Analysis/Images" alt="Weekly Gold Prices"></td>
+        <td><img src="https://github.com/fspzar123/ML-Crate/blob/48ce7189e52355c9ef268a87d9d4d160dbc55b28/The%20Effect%20of%20Economic%20News%20on%20Gold%20Prices%20Analysis/Images/Weekly-Gold.png" alt="Weekly Gold Prices"></td>
         <td><img src="https://github.com/fspzar123/ML-Crate/blob/22465f62c53b71fd029d4c1b350ae3bd1eda3f1f/The%20Effect%20of%20Economic%20News%20on%20Gold%20Prices%20Analysis/Images/Avg%20Price%20by%20country.png" alt="Average Price by Country"></td>
     </tr>
     <tr>

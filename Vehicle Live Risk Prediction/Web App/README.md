@@ -46,6 +46,10 @@ The Vehicle Risk Prediction application is built using the following technologie
 ### Video Demonstration 🎥
 [Watch the video](https://vimeo.com/953208773?share=copy)
 
+
+
+https://github.com/shivansh-2003/ML-Crate/assets/144326194/d8b87a5f-0f80-477f-877c-0d60df781289
+
 ### Signature ✒️
 
 Name:-Shivansh Mahajan

@@ -85,6 +85,10 @@ def main():
     # Make prediction on new data
     prediction = make_prediction(model, new_data)
     st.write("Predicted Class:", prediction)
+    if prediction==1:
+        st.write("The customer is likely to leave the bank.")
+    else:
+        st.write("The customer is likely to stay with the bank.")
 
 if __name__ == "__main__":
     main()

@@ -1,3 +1,9 @@
+---
+noteId: "5336f36024b711ef81150b8fd372c2c7"
+tags: []
+
+---
+
 # Live Vehicle Risk Detection using XGBoost Model
 
 This project aims to predict vehicle risk scores using various environmental and driver-related factors. The model is trained using an XGBoost classifier and is capable of making real-time risk predictions based on the input data.

@@ -1,8 +1,0 @@
-Libraries used:
-1. Numpy 
-2. Pandas 
-3. Seaborn 
-4. Matplotlib
-5. Plotly
-6. xgboost
-7. sklearn

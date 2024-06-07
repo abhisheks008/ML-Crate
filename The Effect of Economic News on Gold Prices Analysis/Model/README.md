@@ -44,7 +44,7 @@ Model Building: We implemented the following algorithms for their distinct advan
 
 <table>
     <tr>
-        <td><img src="https://github.com/fspzar123/ML-Crate/blob/22465f62c53b71fd029d4c1b350ae3bd1eda3f1f/The%20Effect%20of%20Economic%20News%20on%20Gold%20Prices%20Analysis/Images/Dist%20of%20events%20per%20date.png" alt="Distribution of events per date"></td>
+        <td><img src="https://github.com/fspzar123/ML-Crate/tree/22465f62c53b71fd029d4c1b350ae3bd1eda3f1f/The%20Effect%20of%20Economic%20News%20on%20Gold%20Prices%20Analysis/Images" alt="Weekly Gold Prices"></td>
         <td><img src="https://github.com/fspzar123/ML-Crate/blob/22465f62c53b71fd029d4c1b350ae3bd1eda3f1f/The%20Effect%20of%20Economic%20News%20on%20Gold%20Prices%20Analysis/Images/Avg%20Price%20by%20country.png" alt="Average Price by Country"></td>
     </tr>
     <tr>
@@ -55,7 +55,7 @@ Model Building: We implemented the following algorithms for their distinct advan
         <td colspan="2" style="text-align: center;"><img src="https://github.com/fspzar123/ML-Crate/blob/22465f62c53b71fd029d4c1b350ae3bd1eda3f1f/The%20Effect%20of%20Economic%20News%20on%20Gold%20Prices%20Analysis/Images/HeatMap%20Of%20Correlation.png" alt="Heatmap of Correlation" style="width: 70%;"></td>
     </tr>
     <tr>
-        <td colspan="2" style="text-align: center;"><img src="https://github.com/fspzar123/ML-Crate/blob/a9ab50a7bf4a70e1eb816952be05d9698963e0bf/The%20Effect%20of%20Economic%20News%20on%20Gold%20Prices%20Analysis/Images/Weekly-Gold.png" alt="Weekly Gold Prices" style="width: 70%;"></td>
+        <td colspan="2" style="text-align: center;"><img src="https://github.com/fspzar123/ML-Crate/blob/22465f62c53b71fd029d4c1b350ae3bd1eda3f1f/The%20Effect%20of%20Economic%20News%20on%20Gold%20Prices%20Analysis/Images/Dist%20of%20events%20per%20date.png" alt="Distribution of events per date" style="width: 70%;"></td>
     </tr>
 </table>
 

@@ -41,20 +41,21 @@ Model Building: We implemented the following algorithms for their distinct advan
 ### 📊 **Exploratory Data Analysis Results**
 <table>
     <tr>
-        <td><img src="The Effect of Economic News on Gold Prices Analysis/Images/Weekly-Gold.png"></td>
-        <td><img src=""></td>
+        <td><img src="https://github.com/fspzar123/ML-Crate/tree/22465f62c53b71fd029d4c1b350ae3bd1eda3f1f/The%20Effect%20of%20Economic%20News%20on%20Gold%20Prices%20Analysis/Images
+"></td>
+        <td><img src="
+https://github.com/fspzar123/ML-Crate/blob/22465f62c53b71fd029d4c1b350ae3bd1eda3f1f/The%20Effect%20of%20Economic%20News%20on%20Gold%20Prices%20Analysis/Images/Dist%20of%20events%20per%20date.png"></td>
     </tr>
     <tr>
-        <td><img src=""></td>
-        <td><img src=""></td>
+        <td><img src="https://github.com/fspzar123/ML-Crate/blob/22465f62c53b71fd029d4c1b350ae3bd1eda3f1f/The%20Effect%20of%20Economic%20News%20on%20Gold%20Prices%20Analysis/Images/Avg%20Price%20by%20country.png"></td>
+        <td><img src="https://github.com/fspzar123/ML-Crate/blob/22465f62c53b71fd029d4c1b350ae3bd1eda3f1f/The%20Effect%20of%20Economic%20News%20on%20Gold%20Prices%20Analysis/Images/Dist%20of%20price%20by%20country.png
+"></td>
     </tr>
     <tr>
-        <td><img src=""></td>
-        <td><img src=""></td>
+        <td><img src="https://github.com/fspzar123/ML-Crate/blob/22465f62c53b71fd029d4c1b350ae3bd1eda3f1f/The%20Effect%20of%20Economic%20News%20on%20Gold%20Prices%20Analysis/Images/Trend%20of%20Price%26Vol_K.png"></td>
     </tr>
     <tr>
-        <td><img src=""></td>
-        <td><img width=70% src=''></td>
+        <td><img width=70% src='https://github.com/fspzar123/ML-Crate/blob/22465f62c53b71fd029d4c1b350ae3bd1eda3f1f/The%20Effect%20of%20Economic%20News%20on%20Gold%20Prices%20Analysis/Images/HeatMap%20Of%20Correlation.png'></td>
     </tr>
 </table>
 
@@ -70,7 +71,7 @@ Model Building: We implemented the following algorithms for their distinct advan
             </ul>
         </td>
         <td style="vertical-align: top;">
-            <img src="" alt="Description of image" style="max-width: 200px; max-height: 200px;">
+            <img src="https://github.com/fspzar123/ML-Crate/blob/22465f62c53b71fd029d4c1b350ae3bd1eda3f1f/The%20Effect%20of%20Economic%20News%20on%20Gold%20Prices%20Analysis/Images/Accuracies%20of%20Models.png" alt="Description of image" style="max-width: 200px; max-height: 200px;">
         </td>
     </tr>
 </table>

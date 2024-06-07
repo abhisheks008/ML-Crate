@@ -41,9 +41,9 @@ Steps followed:
 * Sklearn
 
 📊**Exploratory Data Analysis Results**
+<a href="C:\Users\KIIT\Desktop\SSOC'24\ML-Crate\Pcos Detection\Images\Screenshot 2024-06-07 114101.png">Confusion Matrix</a>
+<a href="C:\Users\KIIT\Desktop\SSOC'24\ML-Crate\Pcos Detection\Images\Screenshot 2024-06-07 114118.png">Class Dostribution using SMOTE</a>
 
-![alt text](image-1.png)
-![alt text](image.png)
 
 📈 **Performance of the Models based on the Accuracy Scores**
 

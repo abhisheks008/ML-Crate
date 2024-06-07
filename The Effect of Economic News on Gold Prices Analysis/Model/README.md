@@ -39,25 +39,23 @@ Model Building: We implemented the following algorithms for their distinct advan
   - Sklearn
     
 ### 📊 **Exploratory Data Analysis Results**
+
+<table>
     <tr>
-        <td><img src="https://github.com/fspzar123/ML-Crate/tree/22465f62c53b71fd029d4c1b350ae3bd1eda3f1f/The%20Effect%20of%20Economic%20News%20on%20Gold%20Prices%20Analysis/Images
-"></td>
-        <td><img src="
-https://github.com/fspzar123/ML-Crate/blob/22465f62c53b71fd029d4c1b350ae3bd1eda3f1f/The%20Effect%20of%20Economic%20News%20on%20Gold%20Prices%20Analysis/Images/Dist%20of%20events%20per%20date.png"></td>
+        <td><img src="https://github.com/fspzar123/ML-Crate/blob/22465f62c53b71fd029d4c1b350ae3bd1eda3f1f/The%20Effect%20of%20Economic%20News%20on%20Gold%20Prices%20Analysis/Images/Dist%20of%20events%20per%20date.png" alt="Distribution of events per date"></td>
+        <td><img src="https://github.com/fspzar123/ML-Crate/blob/22465f62c53b71fd029d4c1b350ae3bd1eda3f1f/The%20Effect%20of%20Economic%20News%20on%20Gold%20Prices%20Analysis/Images/Avg%20Price%20by%20country.png" alt="Average Price by Country"></td>
     </tr>
     <tr>
-        <td><img src="https://github.com/fspzar123/ML-Crate/blob/22465f62c53b71fd029d4c1b350ae3bd1eda3f1f/The%20Effect%20of%20Economic%20News%20on%20Gold%20Prices%20Analysis/Images/Avg%20Price%20by%20country.png"></td>
-        <td><img src="https://github.com/fspzar123/ML-Crate/blob/22465f62c53b71fd029d4c1b350ae3bd1eda3f1f/The%20Effect%20of%20Economic%20News%20on%20Gold%20Prices%20Analysis/Images/Dist%20of%20price%20by%20country.png
-"></td>
+        <td><img src="https://github.com/fspzar123/ML-Crate/blob/22465f62c53b71fd029d4c1b350ae3bd1eda3f1f/The%20Effect%20of%20Economic%20News%20on%20Gold%20Prices%20Analysis/Images/Dist%20of%20price%20by%20country.png" alt="Distribution of Price by Country"></td>
+        <td><img src="https://github.com/fspzar123/ML-Crate/blob/22465f62c53b71fd029d4c1b350ae3bd1eda3f1f/The%20Effect%20of%20Economic%20News%20on%20Gold%20Prices%20Analysis/Images/Trend%20of%20Price%26Vol_K.png" alt="Trend of Price and Volume"></td>
     </tr>
     <tr>
-        <td><img src="https://github.com/fspzar123/ML-Crate/blob/22465f62c53b71fd029d4c1b350ae3bd1eda3f1f/The%20Effect%20of%20Economic%20News%20on%20Gold%20Prices%20Analysis/Images/Trend%20of%20Price%26Vol_K.png"></td>
+        <td colspan="2" style="text-align: center;"><img src="https://github.com/fspzar123/ML-Crate/blob/22465f62c53b71fd029d4c1b350ae3bd1eda3f1f/The%20Effect%20of%20Economic%20News%20on%20Gold%20Prices%20Analysis/Images/HeatMap%20Of%20Correlation.png" alt="Heatmap of Correlation" style="width: 70%;"></td>
     </tr>
-    <tr>
-        <td><img width=70% src='https://github.com/fspzar123/ML-Crate/blob/22465f62c53b71fd029d4c1b350ae3bd1eda3f1f/The%20Effect%20of%20Economic%20News%20on%20Gold%20Prices%20Analysis/Images/HeatMap%20Of%20Correlation.png'></td>
-    </tr>
+</table>
 
 ### 📈 **Performance of the Models based on the Accuracy Scores**
+
 <table>
     <tr>
         <td style="padding-right: 20px; vertical-align: top;">
@@ -69,10 +67,11 @@ https://github.com/fspzar123/ML-Crate/blob/22465f62c53b71fd029d4c1b350ae3bd1eda3
             </ul>
         </td>
         <td style="vertical-align: top;">
-            <img src="https://github.com/fspzar123/ML-Crate/blob/22465f62c53b71fd029d4c1b350ae3bd1eda3f1f/The%20Effect%20of%20Economic%20News%20on%20Gold%20Prices%20Analysis/Images/Accuracies%20of%20Models.png" alt="Description of image" style="max-width: 200px; max-height: 200px;">
+            <img src="https://github.com/fspzar123/ML-Crate/blob/22465f62c53b71fd029d4c1b350ae3bd1eda3f1f/The%20Effect%20of%20Economic%20News%20on%20Gold%20Prices%20Analysis/Images/Accuracies%20of%20Models.png" alt="Accuracies of Models" style="max-width: 200px; max-height: 200px;">
         </td>
     </tr>
 </table>
+
 
 
 ### 📢 **Conclusion**

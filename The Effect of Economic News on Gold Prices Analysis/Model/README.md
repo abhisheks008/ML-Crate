@@ -40,6 +40,8 @@ Model Building: We implemented the following algorithms for their distinct advan
     
 ### 📊 **Exploratory Data Analysis Results**
 
+### 📊 **Exploratory Data Analysis Results**
+
 <table>
     <tr>
         <td><img src="https://github.com/fspzar123/ML-Crate/blob/22465f62c53b71fd029d4c1b350ae3bd1eda3f1f/The%20Effect%20of%20Economic%20News%20on%20Gold%20Prices%20Analysis/Images/Dist%20of%20events%20per%20date.png" alt="Distribution of events per date"></td>
@@ -51,6 +53,9 @@ Model Building: We implemented the following algorithms for their distinct advan
     </tr>
     <tr>
         <td colspan="2" style="text-align: center;"><img src="https://github.com/fspzar123/ML-Crate/blob/22465f62c53b71fd029d4c1b350ae3bd1eda3f1f/The%20Effect%20of%20Economic%20News%20on%20Gold%20Prices%20Analysis/Images/HeatMap%20Of%20Correlation.png" alt="Heatmap of Correlation" style="width: 70%;"></td>
+    </tr>
+    <tr>
+        <td colspan="2" style="text-align: center;"><img src="https://github.com/fspzar123/ML-Crate/blob/a9ab50a7bf4a70e1eb816952be05d9698963e0bf/The%20Effect%20of%20Economic%20News%20on%20Gold%20Prices%20Analysis/Images/Weekly-Gold.png" alt="Weekly Gold Prices" style="width: 70%;"></td>
     </tr>
 </table>
 
@@ -71,7 +76,6 @@ Model Building: We implemented the following algorithms for their distinct advan
         </td>
     </tr>
 </table>
-
 
 
 ### 📢 **Conclusion**

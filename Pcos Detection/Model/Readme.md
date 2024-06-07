@@ -21,7 +21,7 @@ Steps followed:
 * Compared the accuracies
 * Then performed cross validation on all the algorithms to see if the accuraries imrpove.
 
-🚀 **Models Implemented**
+🚀**Models Implemented**
 
 1) Logistic Regression
 2) Decision Tree
@@ -40,9 +40,12 @@ Steps followed:
 * Numpy
 * Sklearn
 
+📊**Exploratory Data Analysis Results**
 
+![alt text](image-1.png)
+![alt text](image.png)
 
-**ACCURACIES**
+📈 **Performance of the Models based on the Accuracy Scores**
 
                 Classifier  Accuracy  Precision    Recall  F1 Score
 0     Logistic Regression  0.703704   0.514286  0.545455  0.529412
@@ -54,11 +57,11 @@ Steps followed:
 6  Support Vector Machine  0.305556   0.301887  0.969697  0.460432
 7     K-Nearest Neighbors  0.694444   0.500000  0.606061  0.547945
 
-
-**CONCLUSION**
+📢**CONCLUSION**
 
 From this project we conclude that Gradient Boosting has the highest accuracy among all the four algorithms, followed by  Logistic Regression, Random forest , AdaBoost and KNN.
-**Contribution by**
+
+✒️**Contribution by**
 
 Payal Sinha
 Github: https://github.com/payalsinha12

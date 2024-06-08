@@ -5,6 +5,7 @@
 
 - **Info about the related issue (Aim of the project)** : <!-- What's the goal of the project -->
 - **Name:** <!--Mention Your name-->
+- **Email ID for further communication**: <!--Mention your email ID-->
 - **GitHub ID:** <!-- Mention your GitHub ID -->
 - **Idenitfy yourself:** <!-- Mention your role -->
 

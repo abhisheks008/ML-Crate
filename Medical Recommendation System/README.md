@@ -15,6 +15,7 @@ Medical Recommendation System
   |- README.md
 |- Images
   |- 16 images
+  |- README.md
 |- Model
   |- medical_recommendation_system.ipynb
   |- README.md

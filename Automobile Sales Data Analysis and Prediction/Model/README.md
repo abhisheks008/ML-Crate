@@ -73,12 +73,12 @@
 
 ### 📊 **Exploratory Data Analysis Results**
 
-`<img src = "Automobile Sales Data Analysis and Prediction\Images\Dealsize_bar.png"/>
-<img src = "Automobile Sales Data Analysis and Prediction\Images\Dealsize_pie.png"/>
-<img src = "Automobile Sales Data Analysis and Prediction\Images\Productline_bar.png"/>
-<img src = "Automobile Sales Data Analysis and Prediction\Images\Productline_pie.png"/>
-<img src = "Automobile Sales Data Analysis and Prediction\Images\Status_bar.png"/>
-<img src = "Automobile Sales Data Analysis and Prediction\Images\Status_pie.png"/>`
+`<img src = "[Automobile Sales Data Analysis and Prediction\Images\Dealsize_bar.png](https://github.com/why-aditi/ML-Crate/blob/main/Automobile%20Sales%20Data%20Analysis%20and%20Prediction/Images/Dealsize_bar.png)"/>
+<img src = "[Automobile Sales Data Analysis and Prediction\Images\Dealsize_pie.png](https://github.com/why-aditi/ML-Crate/blob/main/Automobile%20Sales%20Data%20Analysis%20and%20Prediction/Images/Dealsize_pie.png)"/>
+<img src = "[Automobile Sales Data Analysis and Prediction\Images\Productline_bar.png](https://github.com/why-aditi/ML-Crate/blob/main/Automobile%20Sales%20Data%20Analysis%20and%20Prediction/Images/Productline_bar.png)"/>
+<img src = "[Automobile Sales Data Analysis and Prediction\Images\Productline_pie.png](https://github.com/why-aditi/ML-Crate/blob/main/Automobile%20Sales%20Data%20Analysis%20and%20Prediction/Images/Productline_pie.png)"/>
+<img src = "[Automobile Sales Data Analysis and Prediction\Images\Status_bar.png](https://github.com/why-aditi/ML-Crate/blob/main/Automobile%20Sales%20Data%20Analysis%20and%20Prediction/Images/Status_bar.png)"/>
+<img src = "[Automobile Sales Data Analysis and Prediction\Images\Status_pie.png](https://github.com/why-aditi/ML-Crate/blob/main/Automobile%20Sales%20Data%20Analysis%20and%20Prediction/Images/Status_pie.png)"/>`
 
 ### 📈 **Performance of the Models based on the Accuracy Scores**
 

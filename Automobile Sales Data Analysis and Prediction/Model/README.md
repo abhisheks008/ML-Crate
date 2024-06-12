@@ -2,19 +2,15 @@
 
 ### 🎯 **Goal**
 
-`The aim of this project is to create a machine learning model to predict the sales of the automobiles and prepare a data analysis of the same.`
+The aim of this project is to create a machine learning model to predict the sales of the automobiles and prepare a data analysis of the same.
 
 ### 🧵 **Dataset**
 
-`https://www.kaggle.com/datasets/ddosad/auto-sales-data`
-
-### 🧾 **Description**
-
-`Brief description about the project.`
+https://www.kaggle.com/datasets/ddosad/auto-sales-data
 
 ### 🧮 **What I had done!**
 
-`1. Data Cleaning and Preprocessing
+1. Data Cleaning and Preprocessing
 
 - **Load the dataset**: Import the data into a pandas DataFrame for manipulation and analysis.
 - **Convert date columns to datetime format**: Ensure date columns are in datetime format for time series analysis.
@@ -54,31 +50,31 @@
 7. Visualization
 
 - **Visualize actual vs. predicted sales**: Create line plots for time series data and scatter plots for predicted vs. actual sales values to assess model accuracy.
-- **Use bar plots and residual plots**: Display feature importances with bar plots and check model accuracy with residual plots, highlighting areas for improvement.`
+- **Use bar plots and residual plots**: Display feature importances with bar plots and check model accuracy with residual plots, highlighting areas for improvement.
 
 ### 🚀 **Models Implemented**
 
-`1. Simple Dense Model
+1. Simple Dense Model
 2. Bidirectional LSTM
 3. Convolutional Neural Network
 4. Random Forest Regressor
-5. Temporal Convolutional Network`
+5. Temporal Convolutional Network
 
 ### 📚 **Libraries Needed**
 
-`1. numpy
+1. numpy
 2. pandas
 3. matplotlib
-4. scikit-learn`
+4. scikit-learn
 
 ### 📊 **Exploratory Data Analysis Results**
 
-`<img src = "[Automobile Sales Data Analysis and Prediction\Images\Dealsize_bar.png](https://github.com/why-aditi/ML-Crate/blob/main/Automobile%20Sales%20Data%20Analysis%20and%20Prediction/Images/Dealsize_bar.png)"/>
-<img src = "[Automobile Sales Data Analysis and Prediction\Images\Dealsize_pie.png](https://github.com/why-aditi/ML-Crate/blob/main/Automobile%20Sales%20Data%20Analysis%20and%20Prediction/Images/Dealsize_pie.png)"/>
-<img src = "[Automobile Sales Data Analysis and Prediction\Images\Productline_bar.png](https://github.com/why-aditi/ML-Crate/blob/main/Automobile%20Sales%20Data%20Analysis%20and%20Prediction/Images/Productline_bar.png)"/>
-<img src = "[Automobile Sales Data Analysis and Prediction\Images\Productline_pie.png](https://github.com/why-aditi/ML-Crate/blob/main/Automobile%20Sales%20Data%20Analysis%20and%20Prediction/Images/Productline_pie.png)"/>
-<img src = "[Automobile Sales Data Analysis and Prediction\Images\Status_bar.png](https://github.com/why-aditi/ML-Crate/blob/main/Automobile%20Sales%20Data%20Analysis%20and%20Prediction/Images/Status_bar.png)"/>
-<img src = "[Automobile Sales Data Analysis and Prediction\Images\Status_pie.png](https://github.com/why-aditi/ML-Crate/blob/main/Automobile%20Sales%20Data%20Analysis%20and%20Prediction/Images/Status_pie.png)"/>`
+<img src = "https://github.com/why-aditi/ML-Crate/blob/main/Automobile%20Sales%20Data%20Analysis%20and%20Prediction/Images/Dealsize_bar.png"/>
+<img src = "https://github.com/why-aditi/ML-Crate/blob/main/Automobile%20Sales%20Data%20Analysis%20and%20Prediction/Images/Dealsize_pie.png"/>
+<img src = "https://github.com/why-aditi/ML-Crate/blob/main/Automobile%20Sales%20Data%20Analysis%20and%20Prediction/Images/Productline_bar.png"/>
+<img src = "https://github.com/why-aditi/ML-Crate/blob/main/Automobile%20Sales%20Data%20Analysis%20and%20Prediction/Images/Productline_pie.png"/>
+<img src = "https://github.com/why-aditi/ML-Crate/blob/main/Automobile%20Sales%20Data%20Analysis%20and%20Prediction/Images/Status_bar.png"/>
+<img src = "https://github.com/why-aditi/ML-Crate/blob/main/Automobile%20Sales%20Data%20Analysis%20and%20Prediction/Images/Status_pie.png"/>
 
 ### 📈 **Performance of the Models based on the Accuracy Scores**
 

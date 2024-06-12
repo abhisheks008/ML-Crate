@@ -1,0 +1,8 @@
+LIBRARIES NEEDED
+
+1. Pandas
+2. Matplotlib
+3. Sklearn
+4. NumPy
+6. Seaborn
+7. XGBoost

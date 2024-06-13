@@ -17,93 +17,74 @@ Conclusion
 ### 1. Decision Tree Regressor
 
 ```
-Description: A non-parametric model that splits the data into subsets based on feature
-values.
 Results:
-MAE Train: 0.
-MAE Test: 4.
-R² Train: 0.
-R² Test: 0.
+MAE Train: 0.0895
+MAE Test: 4.2191
+R² Train: 0.9959
+R² Test: 0.8525
 ```
 ### 2. Random Forest Regressor
 
 ```
-Description: An ensemble method that builds multiple decision trees and merges their
-results.
 Results:
-MAE Train: 1.
-MAE Test: 3.
-R² Train: 0.
-R² Test: 0.
+MAE Train: 1.2639
+MAE Test: 3.6031
+R² Train: 0.9854
+R² Test: 0.9061
 ```
 ### 3. Extra Trees Regressor
 
 ```
-Description: An ensemble method that fits multiple decision trees on various sub-samples
-of the dataset.
 Results:
-MAE Train: 1.
-MAE Test: 3.
-R² Train: 0.
-```
-
-```
-R² Test: 0.
+MAE Train: 1.2762
+MAE Test: 3.5927
+R² Train: 0.9852
+R² Test: 0.9105
 ```
 ### 4. Gradient Boosting Regressor
 
 ```
-Description: An ensemble technique that builds trees sequentially, correcting errors from
-previous trees.
 Results:
-MAE Train: 2.
-MAE Test: 3.
-R² Train: 0.
-R² Test: 0.
+MAE Train: 2.7935
+MAE Test: 3.7280
+R² Train: 0.9491
+R² Test: 0.9071
 ```
 ### 5. HistGradient Boosting Regressor
 
 ```
-Description: A fast, histogram-based version of gradient boosting.
 Results:
-MAE Train: 1.
-MAE Test: 3.
-R² Train: 0.
-R² Test: 0.
+MAE Train: 1.3844
+MAE Test: 3.0658
+R² Train: 0.9822
+R² Test: 0.9227
 ```
 ### 6. XGBoost Regressor
 
 ```
-Description: An optimized implementation of gradient boosting.
 Results:
-MAE Train: 0.
-MAE Test: 3.
-R² Train: 0.
-R² Test: 0.
+MAE Train: 0.3877
+MAE Test: 3.0132
+R² Train: 0.9951
+R² Test: 0.9266
 ```
 ### 7. LGBM Regressor
 
 ```
-Description: A gradient boosting framework that uses tree-based learning algorithms.
 Results:
-MAE Train: 1.
-MAE Test: 3.
-R² Train: 0.
-R² Test: 0.
+MAE Train: 1.3884
+MAE Test: 3.0798
+R² Train: 0.9822
+R² Test: 0.9247
 ```
 ### 8. CatBoost Regressor
 
 ```
-Description: A gradient boosting algorithm that handles categorical features automatically
-and efficiently.
 Results:
-MAE Train: 1.
-```
-
-```
-MAE Test: 2.
-R² Train: 0.
-R² Test: 0.
+MAE Train: 1.2125
+MAE Test: 2.6963
+R² Train: 0.9870
+R² Test: 0.9414
 ```
 ## Performance Metrics
 

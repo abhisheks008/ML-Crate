@@ -9,10 +9,8 @@ and fine aggregate.
 
 ```
 Installation
-Usage
 Models and Results
 Contributing
-License
 ```
 ## Installation
 

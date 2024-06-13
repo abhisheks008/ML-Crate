@@ -7,7 +7,10 @@ The main goal of this project is to provide a real-time facial landmark detectio
 The backend of this web application leverages the MediaPipe FaceMesh model for facial landmark detection. MediaPipe offers state-of-the-art speed and accuracy in detecting multiple facial landmarks across different face types. The application is built in Python using the Streamlit framework, facilitating a seamless integration of the ML model with the web interface.
 
 ### Video Demonstration 🎥
-Put a demonstration video of the web app working with full potential. This could be a link to a video hosted on a platform like YouTube, Vimeo, or a direct file link if hosted on a platform that supports video embedding.
+
+
+https://github.com/Anshg07/ML-Crate/assets/96684989/1a0117e1-91a8-4f13-a3d4-452301547896
+
 
 ### Signature ✒️
 Ansh Gupta

@@ -125,10 +125,9 @@ Residuals Plot: Shows the residual errors for each model.
 ```
 
 ![Prediciton vs Actual](https://github.com/adi271001/ML-Crate/blob/cement-strength/Cement%20Strength%20Prediction/images/__results___25_0.png?raw=true)
-![Alt text](url_to_image "Optional title")
-![Alt text](url_to_image "Optional title")
-![Alt text](url_to_image "Optional title")
-![Alt text](url_to_image "Optional title")
+![Residuals](https://github.com/adi271001/ML-Crate/blob/cement-strength/Cement%20Strength%20Prediction/images/__results___26_0.png?raw=true)
+![Tuned-Predicted vs Actual](https://github.com/adi271001/ML-Crate/blob/cement-strength/Cement%20Strength%20Prediction/images/__results___32_0.png?raw=true)
+![Tuned-Residuals](https://github.com/adi271001/ML-Crate/blob/cement-strength/Cement%20Strength%20Prediction/images/__results___33_0.png?raw=true)
 
 ### Feature Importance
 

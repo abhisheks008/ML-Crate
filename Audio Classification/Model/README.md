@@ -68,6 +68,8 @@ https://www.kaggle.com/datasets/khadijehvalipour/audio-classification
 5. scikit-learn
 
 ### 📊 **Exploratory Data Analysis Results**
+<img src = "https://github.com/why-aditi/ML-Crate/blob/main/Automobile%20Sales%20Data%20Analysis%20and%20Prediction/Images/Dealsize_bar.png"/>
+<img src = "https://github.com/why-aditi/ML-Crate/blob/main/Automobile%20Sales%20Data%20Analysis%20and%20Prediction/Images/Dealsize_bar.png"/>
 
 ### 📈 **Performance of the Models based on the Accuracy Scores**
 

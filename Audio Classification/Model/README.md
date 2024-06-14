@@ -68,6 +68,8 @@ https://www.kaggle.com/datasets/khadijehvalipour/audio-classification
 5. scikit-learn
 
 ### 📊 **Exploratory Data Analysis Results**
+
+** ACCURACY **
 <img src = "https://github.com/keshav1441/ML-Crate/blob/main/Audio%20Classification/Image/Accuracy.png"/>
 <img src = "https://github.com/keshav1441/ML-Crate/blob/main/Audio%20Classification/Image/Performance%20Metrics.png"/>
 

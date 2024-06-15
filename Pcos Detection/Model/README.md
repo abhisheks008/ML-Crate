@@ -1,38 +1,38 @@
-**Pcos Detection**
+# Pcos Detection
 
-🎯**GOAL**
+## 🎯 GOAL
 
-The aim of the project is to build a model which would predict whether a person has the Pcos Detection
+The aim of the project is to build a model which would predict whether a person has PCOS (Polycystic Ovary Syndrome).
 
-🧵**DATASET**
+## 🧵 DATASET
 
-The dataset was taken from the Kaggle.
+The dataset was taken from Kaggle.
 
-🧾**DESCRIPTION**
+## 🧾 DESCRIPTION
 
-In this project, we compare the accuracies of different models to predict the pcos in the person.
+In this project, we compare the accuracies of different models to predict PCOS in a person.
 
-🧮**WHAT I HAD DONE**
+## 🧮 WHAT I HAD DONE
 
 Steps followed:
 * Downloaded the dataset from Kaggle.
-* Checked for null values and performed exploratory data analysis
-* Built models using the following algorithms: Logistic Regression, KNN, Random Forest
-* Compared the accuracies
-* Then performed cross validation on all the algorithms to see if the accuraries imrpove.
+* Checked for null values and performed exploratory data analysis.
+* Built models using the following algorithms: Logistic Regression, KNN, Random Forest.
+* Compared the accuracies.
+* Then performed cross-validation on all the algorithms to see if the accuracies improve.
 
-🚀**Models Implemented**
+## 🚀 Models Implemented
 
-1) Logistic Regression
-2) Decision Tree
-3) Random forest
-4) Gradient Boosting
-5) Adaboost
-6) Naive Bayes
-7) Support Vector Machine
-8) K-Nearest Neighbors
+1. Logistic Regression
+2. Decision Tree
+3. Random Forest
+4. Gradient Boosting
+5. Adaboost
+6. Naive Bayes
+7. Support Vector Machine
+8. K-Nearest Neighbors
 
-📚**LIBRARIES NEEDED**
+## 📚 LIBRARIES NEEDED
 
 * Pandas
 * Matplotlib
@@ -40,28 +40,29 @@ Steps followed:
 * Numpy
 * Sklearn
 
-📊**Exploratory Data Analysis Results**
-<a href="C:\Users\KIIT\Desktop\SSOC'24\ML-Crate\Pcos Detection\Images\Screenshot 2024-06-07 114101.png">Confusion Matrix</a>
-<a href="C:\Users\KIIT\Desktop\SSOC'24\ML-Crate\Pcos Detection\Images\Screenshot 2024-06-07 114118.png">Class Dostribution using SMOTE</a>
+## 📊 Exploratory Data Analysis Results
 
+![Confusion Matrix](Images/Screenshot_2024-06-07_114101.png)
+![Class Distribution using SMOTE](Images/Screenshot_2024-06-07_114118.png)
 
-📈 **Performance of the Models based on the Accuracy Scores**
+## 📈 Performance of the Models based on the Accuracy Scores
 
-                Classifier  Accuracy  Precision    Recall  F1 Score
-0     Logistic Regression  0.703704   0.514286  0.545455  0.529412
-1           Decision Tree  0.629630   0.405405  0.454545  0.428571
-2           Random Forest  0.685185   0.487805  0.606061  0.540541
-3       Gradient Boosting  0.731481   0.547619  0.696970  0.613333
-4                AdaBoost  0.685185   0.487805  0.606061  0.540541
-5             Naive Bayes  0.518519   0.373333  0.848485  0.518519
-6  Support Vector Machine  0.305556   0.301887  0.969697  0.460432
-7     K-Nearest Neighbors  0.694444   0.500000  0.606061  0.547945
+| Classifier              | Accuracy   |
+|-------------------------|------------|
+| Logistic Regression     | 0.703704   |
+| Decision Tree           | 0.629630   |
+| Random Forest           | 0.685185   |
+| Gradient Boosting       | 0.731481   |
+| AdaBoost                | 0.685185   |
+| Naive Bayes             | 0.518519   |
+| Support Vector Machine  | 0.305556   |
+| K-Nearest Neighbors     | 0.694444   |
 
-📢**CONCLUSION**
+## 📢 CONCLUSION
 
-From this project we conclude that Gradient Boosting has the highest accuracy among all the four algorithms, followed by  Logistic Regression, Random forest , AdaBoost and KNN.
+From this project, we conclude that Gradient Boosting has the highest accuracy among all the algorithms, followed by Logistic Regression, Random Forest, AdaBoost, and KNN.
 
-✒️**Contribution by**
+## ✒️ Contribution by
 
-Payal Sinha
-Github: https://github.com/payalsinha12
+Payal Sinha  
+GitHub: [payalsinha12](https://github.com/payalsinha12)

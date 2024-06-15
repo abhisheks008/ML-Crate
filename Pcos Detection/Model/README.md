@@ -1,4 +1,4 @@
-# Pcos Detection
+# PCOS Detection
 
 ## 🎯 GOAL
 
@@ -15,11 +15,11 @@ In this project, we compare the accuracies of different models to predict PCOS i
 ## 🧮 WHAT I HAD DONE
 
 Steps followed:
-* Downloaded the dataset from Kaggle.
-* Checked for null values and performed exploratory data analysis.
-* Built models using the following algorithms: Logistic Regression, KNN, Random Forest.
-* Compared the accuracies.
-* Then performed cross-validation on all the algorithms to see if the accuracies improve.
+- Downloaded the dataset from Kaggle.
+- Checked for null values and performed exploratory data analysis.
+- Built models using various algorithms.
+- Compared the accuracies.
+- Performed cross-validation on all the algorithms to see if the accuracies improve.
 
 ## 🚀 Models Implemented
 
@@ -34,16 +34,17 @@ Steps followed:
 
 ## 📚 LIBRARIES NEEDED
 
-* Pandas
-* Matplotlib
-* Seaborn
-* Numpy
-* Sklearn
+- Pandas
+- Matplotlib
+- Seaborn
+- Numpy
+- Sklearn
 
 ## 📊 Exploratory Data Analysis Results
 
-![Confusion Matrix](Images/Screenshot_2024-06-07_114101.png)
-![Class Distribution using SMOTE](Images/Screenshot_2024-06-07_114118.png)
+[Confusion Matrix](https://drive.google.com/uc?id=1dNPpxjCl6P4_M2EwWTHzTLwiMEFT1TmM)
+
+[Class Distribution using SMOTE](https://drive.google.com/uc?id=1epb9AysULE7MwaRP0xlMeKwFure_GhkL)
 
 ## 📈 Performance of the Models based on the Accuracy Scores
 

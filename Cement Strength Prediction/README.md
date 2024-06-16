@@ -28,7 +28,7 @@ Link: https://www.kaggle.com/datasets/himalayaashish/cement-strength-dataset/dat
 ## Description
 
 . This Folder contains the code and resources for predicting the compressive strength of concrete using various machine learning models. 
-. The prediction is based on the ingredients of concrete, such as cement, blast furnace slag, fly ash, water, superplasticizer, coarse aggregate, and fine aggregate.
+ . The prediction is based on the ingredients of concrete, such as cement, blast furnace slag, fly ash, water, superplasticizer, coarse aggregate, and fine aggregate.
 
 
 ## What I had done!

@@ -1,5 +1,20 @@
 # Cement Strength Prediction
 
+## Table of Contents
+
+```
+Goal
+Dataset
+Description
+What I Had Done
+Installation
+Libraries
+EDA Results
+Models and Results
+Conclusion
+Contributing
+```
+
 ## Goal
 
 To predict compressive strength of concrete using various machine learning models
@@ -9,13 +24,6 @@ To predict compressive strength of concrete using various machine learning model
 
 Link: https://www.kaggle.com/datasets/himalayaashish/cement-strength-dataset/data
 
-## Table of Contents
-
-```
-Installation
-Models and Results
-Contributing
-```
 
 ## Description
 

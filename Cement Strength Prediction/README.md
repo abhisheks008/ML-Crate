@@ -13,6 +13,7 @@ EDA Results
 Models and Results
 Conclusion
 Contributing
+Signature
 ```
 
 ## Goal
@@ -183,9 +184,9 @@ Contributions are welcome! Please read the contribution guidelines first.
 
 ## Signature
 Aditya D
-Github: https://wwww.github.com/adi271001
-LInkedin: https://www.linkedin.com/in/aditya-d-23453a179/
-Topmate: https://topmate.io/aditya_d/
-Twitter: https://x.com/ADITYAD29257528
+* Github: https://wwww.github.com/adi271001
+* LInkedin: https://www.linkedin.com/in/aditya-d-23453a179/
+* Topmate: https://topmate.io/aditya_d/
+* Twitter: https://x.com/ADITYAD29257528
 
 

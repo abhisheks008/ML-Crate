@@ -27,27 +27,27 @@ Link: https://www.kaggle.com/datasets/himalayaashish/cement-strength-dataset/dat
 
 ## Description
 
-. This Folder contains the code and resources for predicting the compressive strength of concrete using various machine learning models. 
- . The prediction is based on the ingredients of concrete, such as cement, blast furnace slag, fly ash, water, superplasticizer, coarse aggregate, and fine aggregate.
+* This Folder contains the code and resources for predicting the compressive strength of concrete using various machine learning models. 
+* The prediction is based on the ingredients of concrete, such as cement, blast furnace slag, fly ash, water, superplasticizer, coarse aggregate, and fine aggregate.
 
 
 ## What I had done!
 ## Installation
-. clone the repository using the following command
+* clone the repository using the following command
 
 ```
 git clone https://github.com/yourusername/cement-strength-prediction.git
 cd cement-strength-prediction
 ```
 
-. To run the notebook and reproduce the results, you need to have Python installed along with the
+* To run the notebook and reproduce the results, you need to have Python installed along with the
 necessary libraries. You can install the required libraries using the following command:
 
 ```
 pip install -r requirements.txt
 ```
 
-. run the jupyter notebook
+* run the jupyter notebook
 
 ```
 jupyter notebook cement-strength-prediction.ipynb
@@ -55,33 +55,32 @@ jupyter notebook cement-strength-prediction.ipynb
 
 ## Libraries Needed
 
-. pandas==1.3.3
-. numpy==1.21.2
-. matplotlib==3.4.3
-. seaborn==0.11.2
-. scipy==1.7.1
-. statsmodels==0.12.2
-. sklearn==0.24.2
-. xgboost==1.4.2
-. lightgbm==3.2.1
-. catboost==0.26.1
-. tqdm==4.62.2
-. optuna==2.9.1
+* pandas==1.3.3
+* numpy==1.21.2
+* matplotlib==3.4.3
+* seaborn==0.11.2
+* scipy==1.7.1
+* statsmodels==0.12.2
+* sklearn==0.24.2
+* xgboost==1.4.2
+* lightgbm==3.2.1
+* catboost==0.26.1
+* tqdm==4.62.2
+* optuna==2.9.1
 
 ## Exploratory Data Analysis Results
 
-![relationship graphs](https://github.com/adi271001/ML-Crate/blob/cement-strength/Cement%20Strength%20Prediction/images/__results___8_0.png?raw=true)
-![cluster graphs](https://github.com/adi271001/ML-Crate/blob/cement-strength/Cement%20Strength%20Prediction/images/__results___9_0.png?raw=true)
-![Pearson correlation Matrix](https://github.com/adi271001/ML-Crate/blob/cement-strength/Cement%20Strength%20Prediction/images/__results___10_0.png?raw=true)
-![spearman correlation matrix](https://github.com/adi271001/ML-Crate/blob/cement-strength/Cement%20Strength%20Prediction/images/__results___11_0.png?raw=true)
-![predictive power score](https://github.com/adi271001/ML-Crate/blob/cement-strength/Cement%20Strength%20Prediction/images/__results___12_0.png?raw=true)
-![line of best fit graphs](https://github.com/adi271001/ML-Crate/blob/cement-strength/Cement%20Strength%20Prediction/images/__results___13_0.png?raw=true)
+* ![relationship graphs](https://github.com/adi271001/ML-Crate/blob/cement-strength/Cement%20Strength%20Prediction/images/__results___8_0.png?raw=true)
+* ![cluster graphs](https://github.com/adi271001/ML-Crate/blob/cement-strength/Cement%20Strength%20Prediction/images/__results___9_0.png?raw=true)
+* ![Pearson correlation Matrix](https://github.com/adi271001/ML-Crate/blob/cement-strength/Cement%20Strength%20Prediction/images/__results___10_0.png?raw=true)
+* ![spearman correlation matrix](https://github.com/adi271001/ML-Crate/blob/cement-strength/Cement%20Strength%20Prediction/images/__results___11_0.png?raw=true)
+* ![predictive power score](https://github.com/adi271001/ML-Crate/blob/cement-strength/Cement%20Strength%20Prediction/images/__results___12_0.png?raw=true)
+* ![line of best fit graphs](https://github.com/adi271001/ML-Crate/blob/cement-strength/Cement%20Strength%20Prediction/images/__results___13_0.png?raw=true)
 
 
 ## Models and Results
 
-The project explores the following machine learning models to predict the compressive strength
-of concrete:
+The project explores the following machine learning models to predict the compressive strength of concrete:
 
 ### 1. Decision Tree Regressor
 

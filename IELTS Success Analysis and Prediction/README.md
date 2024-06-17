@@ -12,7 +12,6 @@ https://www.kaggle.com/datasets/zakirkhanaleemi/ielts-success-stories-dataset
 
 To analyze the IELTS Success Stories Dataset and build and train the model on the basis of different features and variables.
 
-
 ### Visualization and EDA of different attributes:
 
 <img alt="heatmap" src="./Images/correlation_heatmap.png">
@@ -25,33 +24,33 @@ To analyze the IELTS Success Stories Dataset and build and train the model on th
 
 <img alt="graph" src="./Images/Study Duration (months)_feature.png">
 
-
 **MODELS USED**
 
-| Model                       | MSE_train           | R2_train | MSE_test  | R2_test   |
-|-----------------------------|---------------------|----------|-----------|-----------|
-| Random Forest Regression    | 7.79e-03            | 0.977    | 0.0151    | 0.9257    |
-| XG Boost Regression         | 1.42e-07            | 1.000    | 0.0165    | 0.919     |
-| Decision Tree Regression    | 0.000               | 1.000    | 0.0208    | 0.8974    |
-| Ridge Regression            | 6.44e-04            | 0.998    | 0.0723    | 0.6439    |
-| Elastic Net Regression      | 9.25e-02            | 0.727    | 0.1335    | 0.3428    |
-| Linear Regression           | 4.13e-30            | 1.000    | 0.154     | 0.2418    |
-| KNN Regression              | 1.01e-01            | 0.703    | 0.1683    | 0.1713    |
-
-
+| Model                                    | MSE_train           | R2_train | MSE_test  | R2_test   |
+|------------------------------------------|---------------------|----------|-----------|-----------|
+| GradientBoosting Regression with tuning  | 1.459225e-06        | 0.999996 | 0.000067  | 0.999671  |
+| XGboost Regression with tuning           | 1.842974e-07        | 0.999999 | 0.006423  | 0.968378  |
+| Random Forest Regression with tuning     | 6.955859e-03        | 0.979460 | 0.012847  | 0.936753  |
+| XG Boost Regression                      | 1.422946e-07        | 1.000000 | 0.016455  | 0.918990  |
+| XG Boost Regression without tuning       | 1.422946e-07        | 1.000000 | 0.016455  | 0.918990  |
+| Decision Tree Regression                 | 0.000000e+00        | 1.000000 | 0.020833  | 0.897436  |
+| Random Forest Regression                 | 1.066101e-02        | 0.968519 | 0.023450  | 0.884554  |
+| Ridge Regression                         | 6.444433e-04        | 0.998097 | 0.072341  | 0.643857  |
+| Elastic Net Regression                   | 9.246131e-02        | 0.726969 | 0.133491  | 0.342813  |
+| Linear Regression                        | 2.554407e-30        | 1.000000 | 0.154003  | 0.241830  |
+| KNN Regression                           | 1.005357e-01        | 0.703126 | 0.168333  | 0.171282  |
 
 **WHAT I HAD DONE**
 
-* Load the dataset which contains 27 entries in it and having 23 features in it.
+* Loaded the dataset which contains 27 entries and 23 features.
 * Checked for missing values and cleaned the data accordingly.
-* Analyzed the data, found insights and visualized them accordingly.
-* Plotting heatmap using correlation and checking the relation between different features.
-* Found detailed insights of different columns with target variable using plotting libraries and plot the box-plot to see the distribution of dataset correspond to target features.
-* Split the dataset into training and testing dataset.
-* Apply PCA to reduce the number of features.
-* Apply different training models and get their accuracies and MSE and R2 scores.
-* Train the datasets by different models and saves their accuracies into a dataframe.
-
+* Analyzed the data, found insights, and visualized them accordingly.
+* Plotted a heatmap using correlation and checked the relation between different features.
+* Found detailed insights of different columns with target variable using plotting libraries and plotted box plots to see the distribution of dataset with respect to target features.
+* Split the dataset into training and testing datasets.
+* Applied PCA to reduce the number of features.
+* Applied hyperparameter tuning using Grid Search for various models.
+* Trained the datasets using different models and recorded their accuracies, MSE, and R2 scores.
 
 **LIBRARIES NEEDED**
 
@@ -65,16 +64,13 @@ To analyze the IELTS Success Stories Dataset and build and train the model on th
 8. Sci-py
 9. Seaborn
 
-
 **CONCLUSION**
 
-- Random Forest and XG Boost Regression models show promising performance with lower MSE and higher R2 values.
+- GradientBoosting Regression with tuning and XGboost Regression with tuning show promising performance with lower MSE and higher R2 values.
 - Decision Tree Regression achieved perfect R2 on the training set but performed poorly on the test set, indicating overfitting.
-
 
 **YOUR NAME**
 
-*Avdhesh Varshney*
+*Manpreet Singh*
 
-[![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/avdhesh-varshney/)  [![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Avdhesh-Varshney)
-
+[![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/manpreet-singh-68718a20b/)  [![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)](https://github.com/devmanpreet5/)

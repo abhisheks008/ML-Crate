@@ -42,9 +42,11 @@ Steps followed:
 
 ## 📊 Exploratory Data Analysis Results
 
-[Confusion Matrix](https://drive.google.com/uc?id=1dNPpxjCl6P4_M2EwWTHzTLwiMEFT1TmM)
+![Confusion Matrix](https://raw.githubusercontent.com/abhisheks008/ML-Crate/1292b54868a3ea93e7520149b56450057ff92197/Pcos%20Detection/Images/Screenshot%202024-06-07%20114101.png)
 
-[Class Distribution using SMOTE](https://drive.google.com/uc?id=1epb9AysULE7MwaRP0xlMeKwFure_GhkL)
+
+![Class Distribution With SMOTE](https://raw.githubusercontent.com/abhisheks008/ML-Crate/1292b54868a3ea93e7520149b56450057ff92197/Pcos%20Detection/Images/Screenshot%202024-06-07%20114118.png)
+
 
 ## 📈 Performance of the Models based on the Accuracy Scores
 

@@ -72,12 +72,19 @@ This repository hosts a Body Fat prediction model, which now includes a Flask-ba
 ### Using the Web Interface
 
 1. Open your web browser and navigate to `http://127.0.0.1:5000/`.
+<img src="Images/Web App/Initial.png" alt="Initial State" width="600" />
 
 2. You will see a form where you can input the necessary parameters for Body Fat prediction.
+<img src="Images/Web App/FormFilled.png" alt="Filling the form" width="600" />
+
 
 3. Fill out the form with the required details and click on the "Predict" button.
+<img src="Images/Web App/Predicted.png" alt="Prediction output" width="600" />
+
 
 4. The application will process the input data using the pre-trained model and display the predicted body fat percentage.
+
+
 
 ## Directory Structure
 
@@ -95,6 +102,7 @@ Body Fat Prediction/
     ├── README.md                       # Model Documentation
 ├── Images/
     ├── README.md                       # Has links for images of plots (Data visualization) and Web App's working
+    ├── Web App/                        # Has images of Web App's working
 ├── Dataset/
     ├── bodyfat.csv                     # Body fat dataset - CSV file
     ├── README.md                       # Has Kaggle link for the Dataset

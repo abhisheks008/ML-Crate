@@ -115,7 +115,7 @@ Body Fat Prediction/
 
 CONTRIBUTED BY
 
-Tandrima Singha (Training the model)<br> [K S Prateek](https://github.com/imksprateek) (Web interface and Documentation)
+[Tandrima Singha](https://github.com/tandrimasingha) (Training the model)<br> [K S Prateek](https://github.com/imksprateek) (Web interface and Documentation)
 
 For any issues or contributions, please refer to the project's GitHub repository [here](https://github.com/abhisheks008/ML-Crate/tree/main/Body%20Fat%20Prediction).
 

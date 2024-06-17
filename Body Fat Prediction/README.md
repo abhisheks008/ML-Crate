@@ -26,23 +26,37 @@ This repository hosts a Body Fat prediction model, which now includes a Flask-ba
 1. **Clone the Repository**
 
     ```bash
-    git clone https://github.com/yourusername/body-fat-prediction.git
-    cd BODY\ FAT\ PREDICTION
+    git clone https://github.com/abhisheks008/ML-Crate.git
+    cd Body\ Fat\ Prediction
     ```
 
 2. **Install Dependencies**
 
-    It is recommended to use a virtual environment to manage dependencies. You can create and activate a virtual environment as follows:
+    - Install Anaconda (https://docs.anaconda.com/free/anaconda/install/)
+    <br>
+    Use the following command to confirm the installation of Anaconda
+    ```
+        conda --version 
+    ```
+
+    - It is recommended to use a virtual environment to manage dependencies. You can create and activate a virtual environment as follows:
 
     ```bash
-    python3 -m venv venv
-    source venv/bin/activate   # On Windows use `venv\Scripts\activate`
+    conda create --name myEnv
+    source activate myEnv
     ```
 
     Install the required packages:
 
     ```bash
-    pip install -r requirements.txt
+    conda update
+    conda install --yes --file requirements. txt
+    ```
+
+ - Install and make sure Jupyter notebook server is running at `http://localhost:8888`
+    ```
+        conda install jupyter
+        jupyter notebook
     ```
 
 3. **Run the Flask Application**
@@ -68,7 +82,7 @@ This repository hosts a Body Fat prediction model, which now includes a Flask-ba
 ## Directory Structure
 
 ```
-BODY FAT PREDICTION/
+Body Fat Prediction/
 ├── Web App/
     ├── app.py                          # Main Flask application
     ├── templates/

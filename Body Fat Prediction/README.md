@@ -64,7 +64,7 @@ This repository hosts a Body Fat prediction model, which now includes a Flask-ba
     Start the Flask development server:
 
     ```bash
-    flask run
+    python3 Web\ App/app.py
     ```
 
     By default, the application will be accessible at `http://127.0.0.1:5000/`.
@@ -99,14 +99,13 @@ Body Fat Prediction/
     ├── bodyfat.csv                     # Body fat dataset - CSV file
     ├── README.md                       # Has Kaggle link for the Dataset
 ├── model.pkl                           # Pickle dumped model
-├── requirements.txt                # Requirements to run the application
+├── requirements.txt                   # Requirements to run the application
 ├── README.md                           # Project documentation
 ```
 
 ## Additional Notes
 
-- **Model File**: The model file `body_fat_model.pkl` is stored in the `model/` directory. Ensure this file is present when running the application.
-- **Error Handling**: Basic error handling has been implemented to guide users if they input invalid data.
+- **Model File**: The model file `model.pkl` is stored in the project's root directory. Ensure this file is present when running the application.
 - **Future Improvements**: Potential enhancements include adding user authentication, improving the UI/UX, and deploying the application to a cloud platform for broader access.
 
 ## Acknowledgments
@@ -116,9 +115,9 @@ Body Fat Prediction/
 
 CONTRIBUTED BY
 
-Tandrima Singha, K S Prateek
+Tandrima Singha (Training the model)<br> [K S Prateek](https://github.com/imksprateek) (Web interface and Documentation)
 
-For any issues or contributions, please refer to the project's GitHub repository [here](https://github.com/yourusername/body-fat-prediction).
+For any issues or contributions, please refer to the project's GitHub repository [here](https://github.com/abhisheks008/ML-Crate/tree/main/Body%20Fat%20Prediction).
 
 ---
 ```

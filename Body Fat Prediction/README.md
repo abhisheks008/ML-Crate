@@ -94,7 +94,7 @@ Body Fat Prediction/
     ├── Body_Fat_Prediction.ipynb       # ML model for predicting Body fat
     ├── README.md                       # Model Documentation
 ├── Images/
-    ├── README.md                       # Has links for images of plots (Data visualization)
+    ├── README.md                       # Has links for images of plots (Data visualization) and Web App's working
 ├── Dataset/
     ├── bodyfat.csv                     # Body fat dataset - CSV file
     ├── README.md                       # Has Kaggle link for the Dataset

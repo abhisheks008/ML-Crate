@@ -1,0 +1,41 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Salary Prediction</title>
+    <link rel="stylesheet" href="{{ url_for('static', filename='styles.css') }}">
+</head>
+<body>
+    <div class="container">
+        <h1>Salary Prediction for Data Professionals</h1>
+        <form method="post" action="/predict">
+            <label for="AGE">Age:</label>
+            <input type="number" id="AGE" name="AGE" required><br><br>
+
+            <label for="SEX">Gender:</label>
+            <select id="SEX" name="SEX">
+                <option value="M">Male</option>
+                <option value="F">Female</option>
+            </select><br><br>
+
+            <label for="PAST EXP">Past Experience (years):</label>
+            <input type="number" id="PAST EXP" name="PAST EXP" required><br><br>
+
+            <label for="RATINGS">Performance Ratings:</label>
+            <input type="number" step="0.1" id="RATINGS" name="RATINGS" required><br><br>
+
+            <label for="TENURE">Tenure (years):</label>
+            <input type="number" step="0.1" id="TENURE" name="TENURE" required><br><br>
+
+            <label for="UNIT_DESIGNATION">Unit - Designation:</label>
+            <input type="text" id="UNIT_DESIGNATION" name="UNIT_DESIGNATION" required><br><br>
+
+            <input type="submit" value="Predict Salary">
+        </form>
+        {% if prediction_text %}
+        <h2>{{ prediction_text }}</h2>
+        {% endif %}
+    </div>
+</body>
+</html>

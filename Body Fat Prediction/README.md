@@ -90,8 +90,12 @@ This repository hosts a Body Fat prediction model, which now includes a Flask-ba
 
 ```
 Body Fat Prediction/
+├── model.pkl                           # Pickle dumped model
+├── requirements.txt                   # Requirements to run the application
+├── README.md                           # Project documentation
 ├── Web App/
     ├── app.py                          # Main Flask application
+    ├── README.md
     ├── templates/
         ├── index.html                   # HTML template for the web interface
     ├── static/
@@ -106,9 +110,6 @@ Body Fat Prediction/
 ├── Dataset/
     ├── bodyfat.csv                     # Body fat dataset - CSV file
     ├── README.md                       # Has Kaggle link for the Dataset
-├── model.pkl                           # Pickle dumped model
-├── requirements.txt                   # Requirements to run the application
-├── README.md                           # Project documentation
 ```
 
 ## Additional Notes

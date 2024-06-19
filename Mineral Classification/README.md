@@ -64,9 +64,7 @@ BRICS Sentiment Analysis
   |- comparision.png
   |- extra_tree_classification_conf.png
   |- logistic_regression.png
-  |- mineral_classificaiton.png
-  |- mineral_classificaiton_2.png
-  |- mineral_classificaiton_3.png
+  |- minerals.png
   |- prediction.png
   |- random_forest_conf.png
   |- webapp.png

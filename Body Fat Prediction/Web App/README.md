@@ -7,6 +7,7 @@ The main goal of this project is to provide an easy-to-use web interface for pre
 The backend part of the web app uses a pre-trained machine learning model (`../Model`) serialized with `pickle`. The model was trained on a dataset of body measurements and is designed to predict body fat percentage accurately.
 
 ### Video Demonstration 🎥
+![Demonstration](../Images/Web%20App/Demo.mp4)
 
 
 ### Signature ✒️

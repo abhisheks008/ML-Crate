@@ -13,7 +13,7 @@ import pickle
 app = Flask(__name__)
 
 # Load pickle model
-model = pickle.load(open('model.pkl', 'rb'))
+model = pickle.load(open('../model.pkl', 'rb'))
 
 # Define home route
 

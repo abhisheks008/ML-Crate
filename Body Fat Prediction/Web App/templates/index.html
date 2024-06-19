@@ -1,6 +1,5 @@
 <!DOCTYPE html>
 <html >
-<!--From https://codepen.io/frytyler/pen/EGdtg-->
 <head>
   <meta charset="UTF-8">
   <title>ML API</title>
@@ -13,25 +12,24 @@
 </head>
 
 <body>
- <div class="login">
+ <div class="data">
 	<h1>Body Fat Prediction</h1>
 
-     <!-- Main Input For Receiving Query to our ML -->
+     <!-- Main Input For Receiving Query to our ML model-->
     <form action="{{ url_for('predict')}}"method="post">
-    <!--	<input type="text" name="Density" placeholder="Density" required="required" /> -->
-       Age: <input type="text" name="Age" placeholder="Age" required="required" /> years <br>
-		Weight: <input type="text" name="Weight" placeholder="Weight" required="required" /> lbs<br>
-		Height: <input type="text" name="Height" placeholder="Height" required="required" /> inches<br>
-    Neck: <input type="text" name="Neck" placeholder="Neck circumference" required="required" /> cm<br>
-    Chest circumference: <input type="text" name="Chest" placeholder="Chest circumference" required="required" /> cm<br>
-    Abdomen circumference: <input type="text" name="Abdomen" placeholder="Abdomen circumference" required="required" /> cm<br>
-    Hip circumference: <input type="text" name="Hip" placeholder="Hip circumference" required="required" /> cm<br>
-    Thigh circumference: <input type="text" name="Thigh" placeholder="Thigh circumference" required="required" /> cm<br>
-    Knee circumference: <input type="text" name="Knee" placeholder="Knee circumference" required="required" /> cm<br>
-    Ankle circumference: <input type="text" name="Ankle" placeholder="Ankle circumference" required="required" /> cm<br>
-    Biceps(extended) circumference: <input type="text" name="Biceps" placeholder="Biceps circumference" required="required" /> cm<br>
-    Forearm circumference: <input type="text" name="Forearm" placeholder="Forearm circumference" required="required" /> cm<br>
-    Wrist circumference: <input type="text" name="Wrist" placeholder="Wrist circumference" required="required" /> cm<br>
+       Age (years): <input type="text" name="Age" placeholder="Age" required="required" />  <br>
+		Weight (lbs): <input type="text" name="Weight" placeholder="Weight" required="required" /> <br>
+		Height (inches): <input type="text" name="Height" placeholder="Height" required="required" /> <br>
+    Neck (cm): <input type="text" name="Neck" placeholder="Neck circumference" required="required" /> <br>
+    Chest circumference (cm): <input type="text" name="Chest" placeholder="Chest circumference" required="required" /> <br>
+    Abdomen circumference (cm): <input type="text" name="Abdomen" placeholder="Abdomen circumference" required="required" /> <br>
+    Hip circumference (cm): <input type="text" name="Hip" placeholder="Hip circumference" required="required" /> <br>
+    Thigh circumference (cm): <input type="text" name="Thigh" placeholder="Thigh circumference" required="required" /> <br>
+    Knee circumference (cm): <input type="text" name="Knee" placeholder="Knee circumference" required="required" /> <br>
+    Ankle circumference (cm): <input type="text" name="Ankle" placeholder="Ankle circumference" required="required" /> <br>
+    Biceps(extended) circumference (cm): <input type="text" name="Biceps" placeholder="Biceps circumference" required="required" /> <br>
+    Forearm circumference (cm): <input type="text" name="Forearm" placeholder="Forearm circumference" required="required" /> <br>
+    Wrist circumference (cm): <input type="text" name="Wrist" placeholder="Wrist circumference" required="required" /> <br>
         <button type="submit" class="btn btn-primary btn-block btn-large">Predict</button>
     </form>
 

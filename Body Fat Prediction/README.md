@@ -1,4 +1,4 @@
-# Body Fat Prediction Web Interface
+# Body Fat Prediction
 
 This repository hosts a Body Fat prediction model, which now includes a Flask-based web interface for user interaction. This document details how to run the app and explains the contributions made to enhance the project with a user-driven web interface.
 

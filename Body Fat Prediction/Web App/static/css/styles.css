@@ -1,0 +1,61 @@
+body {
+    font-family: 'Arimo', sans-serif;
+    background: #f0f0f0;
+    margin: 0;
+    padding: 0;
+}
+
+.data {
+    width: 100%;
+    max-width: 400px;
+    margin: 50px auto;
+    padding: 40px;
+    background: #fff;
+    box-shadow: 0 0 10px rgba(0, 0, 0, 0.1);
+    border-radius: 8px;
+    text-align: center;
+}
+
+.data h1 {
+    font-family: 'Pacifico', cursive;
+    margin-bottom: 20px;
+}
+
+.data form {
+    display: flex;
+    flex-direction: column;
+}
+
+.data input[type="text"],
+.data button {
+    font-family: 'Hind', sans-serif;
+    margin-bottom: 20px;
+    padding: 10px;
+    font-size: 16px;
+    width: 100%;
+    box-sizing: border-box;
+}
+
+.data input[type="text"] {
+    border: 1px solid #ddd;
+    border-radius: 4px;
+}
+
+.data button {
+    background: #3498db;
+    border: none;
+    color: #fff;
+    cursor: pointer;
+    border-radius: 4px;
+    transition: background 0.3s ease;
+}
+
+.data button:hover {
+    background: #2980b9;
+}
+
+.data p {
+    font-family: 'Open Sans Condensed', sans-serif;
+    font-size: 30px;
+    color: #333;
+}

@@ -21,7 +21,7 @@
 
 ## Dataset
 
-#### Link: The dataset is provided within the notebook and contains various e-commerce product
+#### Link: https://www.kaggle.com/datasets/muhammadroshaanriaz/e-commerce-trends-a-guide-to-leveraging-dataset
 
 #### details.
 
@@ -123,6 +123,8 @@ jupyter notebook ecommerce-trends-eda-models.ipynb
 
 #### Insights: These graphs show the trends and best fit lines for key relationships in the
 
+#### data.
+
 * ![description of dataset](https://github.com/adi271001/ML-Crate/blob/ecommerce-trends/E-Commerce%20Trends%20Analysis/Images/__results___7_1.png?raw=true)
 * ![Distribution of ratings](https://github.com/adi271001/ML-Crate/blob/ecommerce-trends/E-Commerce%20Trends%20Analysis/Images/__results___8_1.png?raw=true)
 * ![Distribution of other features](https://github.com/adi271001/ML-Crate/blob/ecommerce-trends/E-Commerce%20Trends%20Analysis/Images/__results___9_1.png?raw=true)
@@ -131,8 +133,6 @@ jupyter notebook ecommerce-trends-eda-models.ipynb
 * ![price vs sales clustering graph](https://github.com/adi271001/ML-Crate/blob/ecommerce-trends/E-Commerce%20Trends%20Analysis/Images/__results___17_0.png?raw=true)
 * ![pairplot of numerical features](https://github.com/adi271001/ML-Crate/blob/ecommerce-trends/E-Commerce%20Trends%20Analysis/Images/__results___18_2.png?raw=true)
 * ![Word Cloud](https://github.com/adi271001/ML-Crate/blob/ecommerce-trends/E-Commerce%20Trends%20Analysis/Images/__results___31_1.png?raw=true)   
-
-#### data.
 
 ## Models and Results
 

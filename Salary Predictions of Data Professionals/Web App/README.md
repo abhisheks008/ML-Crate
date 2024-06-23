@@ -22,7 +22,7 @@ This folder contains the web application built to deploy the best model from the
 - Click the "Predict" button to see the predicted salary.
 - The application will display the predicted salary based on the input provided.
 
-
-
+### DEMO VIDEO
+- A demo video showing how to use the web application 
 https://github.com/abhisheks008/ML-Crate/assets/128123681/f891d30a-2aed-4d1d-8c4b-6381ecc83366
 

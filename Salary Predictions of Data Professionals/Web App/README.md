@@ -21,3 +21,6 @@ This folder contains the web application built to deploy the best model from the
 - Enter the required information such as job role, experience, age, and ratings.
 - Click the "Predict" button to see the predicted salary.
 - The application will display the predicted salary based on the input provided.
+
+
+<video controls src="demo.mp4" title="Title"></video>

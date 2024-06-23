@@ -69,9 +69,7 @@ Results: RMSE: 621.81 R² Score: -0.1173
 ```
 ### 4. Gradient Boosting Regressor
 
-#### Gradient Boosting Regressor builds an ensemble of trees in a sequential manner, where each
-
-#### tree attempts to correct the errors of the previous one. This model is powerful and effective for regression tasks.
+#### Gradient Boosting Regressor builds an ensemble of trees in a sequential manner, where each tree attempts to correct the errors of the previous one. This model is powerful and effective for regression tasks.
 
 ```
 Results: RMSE: 609.70 R² Score: -0.0742

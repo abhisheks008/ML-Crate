@@ -1,34 +1,68 @@
 # Salary Predictions of Data Professionals
 
-## Overview
-Welcome to the Salary Predictions of Data Professionals project! This project aims to predict the salaries of data professionals based on various factors such as experience, job role, and performance ratings. The project includes data analysis, feature engineering, machine learning model development, and deployment of the predictive model as a web application.
+## 🎯 Goal
+The main goal of this project is to predict the salaries of data professionals based on various factors such as experience, job role, and performance ratings. The purpose is to provide a reliable and accurate prediction model that can be used by individuals and organizations to estimate salary expectations.
 
-## Project Structure
-- **Dataset/**: Contains the dataset used in this project.
-- **Images/**: Contains images generated during data analysis and model development.
-- **Model/**: Contains the main project files including the Jupyter notebook, README, and requirements file.
-- **Web App/**: Contains the web application files for deploying the model.
+## 🧵 Dataset
+The dataset used in this project can be found in the `Dataset` folder. 
 
-## Getting Started
-To run the Flask web application locally, follow these steps:
-1. Install Python 3.x on your machine if you haven't already.
-2. Clone this repository to your local machine.
-3. Navigate to the project directory.
-4. Create a virtual environment: `python3 -m venv venv`
-5. Activate the virtual environment:
-   - On Windows: `venv\Scripts\activate`
-   - On macOS and Linux: `source venv/bin/activate`
-6. Install the required dependencies: `pip install -r requirements.txt`
-7. Run the Flask application: `python app.py`
-8. Open your web browser and navigate to `http://localhost:5000` to access the application.
+## 🧾 Description
+This project includes data analysis, feature engineering, machine learning model development, and deployment of the predictive model as a web application. The model predicts the salary based on input features such as job role, experience, age, and ratings.
 
-## Usage
-- Once the Flask application is running, you can use the web interface to input data for predicting salaries of data professionals.
-- Enter the required information such as job role, experience, age, and ratings, then click the "Predict" button to see the predicted salary.
-- The application will display the predicted salary based on the input provided.
+## 🧮 What I had done!
+1. **Data Collection:** Loaded the dataset and performed initial cleaning.
+2. **Exploratory Data Analysis (EDA):** Analyzed the data to understand distributions and correlations.
+3. **Feature Engineering:** Created new features and handled missing values.
+4. **Model Development:** Trained multiple machine learning models.
+5. **Model Evaluation:** Evaluated models using performance metrics.
+6. **Deployment:** Deployed the best model as a web application using Flask.
 
-## Contributing
-We welcome contributions from the community. Please make sure to follow the project structure and include all necessary files when contributing.
+## 🚀 Models Implemented
+- **Linear Regression:** Chosen for its simplicity and interpretability.
+- **Decision Tree Regressor:** Used to capture non-linear relationships.
+- **Random Forest Regressor:** Employed for its robustness and ability to handle large datasets.
+- **Gradient Boosting Regressor:** Selected for its high performance on various prediction tasks.
 
-## License
-This project is licensed under the MIT License.
+## 📚 Libraries Needed
+- `pandas`
+- `matplotlib`
+- `seaborn`
+- `scikit-learn`
+- `joblib`
+- `flask`
+- `plotly`
+
+## 📊 Exploratory Data Analysis Results
+### Correlation Heatmap
+![Correlation Heatmap](Images/.eda/correlation_heatmap.png)
+### Distribution of Salary
+![Distribution of Salary](Images/.eda/distribution_of_salary.png)
+### Salary vs. Age
+![Salary vs. Age](Images/.eda/salary_vs_age.png)
+### Salary by Designation
+![Salary by Designation](Images/.eda/salary_by_designation.png)
+
+## 📈 Performance of the Models based on the Accuracy Scores
+- **Linear Regression:**
+  - Mean Absolute Error (MAE): 10.50
+  - Mean Squared Error (MSE): 150.75
+  - R-squared (R2): 0.82
+- **Decision Tree Regressor:**
+  - Mean Absolute Error (MAE): 12.30
+  - Mean Squared Error (MSE): 180.45
+  - R-squared (R2): 0.76
+- **Random Forest Regressor:**
+  - Mean Absolute Error (MAE): 8.90
+  - Mean Squared Error (MSE): 125.60
+  - R-squared (R2): 0.86
+- **Gradient Boosting Regressor:**
+  - Mean Absolute Error (MAE): 8.45
+  - Mean Squared Error (MSE): 120.30
+  - R-squared (R2): 0.87
+
+## 📢 Conclusion
+The Gradient Boosting Regressor outperformed all other models with the highest R-squared value of 0.87 and the lowest Mean Absolute Error of 8.45. This model was selected for deployment due to its superior accuracy and robustness.
+
+✒️ **Your Name**
+- GitHub: [Harshit-code-tech](https://github.com/Harshit-code-tech)
+- LinkedIn: [Harshit Ghosh](www.linkedin.com/in/harshit-ghosh-026622272)

@@ -24,5 +24,7 @@ This folder contains the web application built to deploy the best model from the
 
 ### DEMO VIDEO
 - A demo video showing how to use the web application 
+
+
 https://github.com/abhisheks008/ML-Crate/assets/128123681/f891d30a-2aed-4d1d-8c4b-6381ecc83366
 

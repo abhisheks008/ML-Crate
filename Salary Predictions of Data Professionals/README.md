@@ -38,9 +38,9 @@ This project includes data analysis, feature engineering, machine learning model
 ### Distribution of Salary
 ![Distribution of Salary](<distribution of salary.png>)
 ### Salary vs. Age
-![Salary vs. Age](Images/.eda/salary_vs_age.png)
+![Salary vs. Age](<salary vs age.png>)
 ### Salary by Designation
-![Salary by Designation](Images/.eda/salary_by_designation.png)
+![Salary by Designation](salaryvsdesignation.png)
 
 ## 📈 Performance of the Models based on the Accuracy Scores
 - **Linear Regression:**

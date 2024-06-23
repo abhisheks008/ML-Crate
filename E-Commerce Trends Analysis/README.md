@@ -27,13 +27,9 @@
 
 ## Description
 
-#### This folder contains the code and resources for analyzing e-commerce product trends and
+#### * This folder contains the code and resources for analyzing e-commerce product trends and predicting sales using various machine learning models.
 
-#### predicting sales using various machine learning models.
-
-#### The analysis is based on product details such as product name, category, price, rating,
-
-#### number of reviews, stock quantity, discount, and sales.
+#### * The analysis is based on product details such as product name, category, price, rating, number of reviews, stock quantity, discount, and sales.
 
 ## What I Had Done
 
@@ -45,9 +41,7 @@
 git clone https://github.com/yourusername/ecommerce-product-trends.git cd
 ecommerce-product-trends
 ```
-#### To run the notebook and reproduce the results, you need to have Python installed along
-
-#### with the necessary libraries. You can install the required libraries using the following
+#### * To run the notebook and reproduce the results, you need to have Python installed along with the necessary libraries. You can install the required libraries using the following
 
 #### command:
 
@@ -61,69 +55,48 @@ jupyter notebook ecommerce-trends-eda-models.ipynb
 ```
 ## Libraries Needed
 
-#### pandas
+#### * pandas
 
-#### numpy
+#### * numpy
 
-#### matplotlib
+#### * matplotlib
 
-#### seaborn
+#### * seaborn
 
-#### plotly
+#### * plotly
 
-#### scikit-learn
+#### * scikit-learn
 
-#### warnings
 
 ## Exploratory Data Analysis Results
 
-#### The dataset contains a wide range of product categories with varying prices, ratings, number
+#### * The dataset contains a wide range of product categories with varying prices, ratings, number of reviews, stock quantities, discounts, and sales.
 
-#### of reviews, stock quantities, discounts, and sales.
-
-#### Initial visualizations indicate significant trends and correlations among these features.
+#### * Initial visualizations indicate significant trends and correlations among these features.
 
 ### Graphs and Analysis
 
 #### 1. Relationship Graphs
 
-#### relationship graphs
+#### Insights: There are clear trends between price and sales, rating and sales, and discount and sales.
 
-#### Insights: There are clear trends between price and sales, rating and sales, and discount
+#### 2. Cluster Graph
 
-#### and sales.
-
-#### 2. Cluster Graphs
-
-#### cluster graphs
-
-#### Insights: Products are clustered into different groups based on their features, which
-
-#### helps in segmenting the data.
+#### Insights: Products are clustered into different groups based on their features, which helps in segmenting the data.
 
 #### 3. Correlation Matrix
 
 #### Pearson correlation Matrix
 
-#### Insights: The Pearson correlation matrix shows the linear correlation between different
-
-#### features.
+#### Insights: The Pearson correlation matrix shows the linear correlation between different features.
 
 #### 4. Predictive Power Score
 
-#### predictive power score
-
-#### Insights: This score helps in identifying the predictive power of different features for
-
-#### the target variable.
+#### Insights: This score helps in identifying the predictive power of different features for the target variable.
 
 #### 5. Line of Best Fit Graphs
 
-#### line of best fit graphs
-
-#### Insights: These graphs show the trends and best fit lines for key relationships in the
-
-#### data.
+#### Insights: These graphs show the trends and best fit lines for key relationships in the data.
 
 * ![description of dataset](https://github.com/adi271001/ML-Crate/blob/ecommerce-trends/E-Commerce%20Trends%20Analysis/Images/__results___7_1.png?raw=true)
 * ![Distribution of ratings](https://github.com/adi271001/ML-Crate/blob/ecommerce-trends/E-Commerce%20Trends%20Analysis/Images/__results___8_1.png?raw=true)
@@ -170,25 +143,13 @@ Results: Accuracy: 0.495
 ```
 ## Conclusion
 
-#### Based on the evaluation of various machine learning models, the Support Vector Regressor (SVR)
+#### * Based on the evaluation of various machine learning models, the Support Vector Regressor (SVR) emerged as the best-performing model with the lowest RMSE (588.42) and the least negative R² score (-0.001), indicating it provides the most accurate predictions among the tested models.
 
-#### emerged as the best-performing model with the lowest RMSE (588.42) and the least negative R²
+#### * Best Performing Model: Support Vector Regressor (SVR) due to its lowest RMSE and R² scores.
 
-#### score (-0.001), indicating it provides the most accurate predictions among the tested models.
+#### * Next Steps: Verify the data processing steps and re-evaluate the models to identify any issues. Consider tuning model hyperparameters and exploring other algorithms for improved performance.
 
-#### Best Performing Model: Support Vector Regressor (SVR) due to its lowest RMSE and R²
-
-#### scores.
-
-#### Next Steps: Verify the data processing steps and re-evaluate the models to identify any
-
-#### issues. Consider tuning model hyperparameters and exploring other algorithms for
-
-#### improved performance.
-
-#### Important Features: Features such as price, rating, and discount were expected to be
-
-#### influential in predicting sales.
+#### * Important Features: Features such as price, rating, and discount were expected to be influential in predicting sales.
 
 ## Contributing
 

@@ -34,7 +34,7 @@ This project includes data analysis, feature engineering, machine learning model
 
 ## 📊 Exploratory Data Analysis Results
 ### Correlation Heatmap
-![Correlation Heatmap](<Salary Predictions of Data Professionals/Images/eda/correlation.png>)
+![Correlation Heatmap](<Images/eda/correlation.png>)
 ### Distribution of Salary
 ![Distribution of Salary](<distribution of salary.png>)
 ### Salary vs. Age

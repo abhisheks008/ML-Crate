@@ -34,16 +34,13 @@ This project includes data analysis, feature engineering, machine learning model
 
 ## 📊 Exploratory Data Analysis Results
 ### Correlation Heatmap
-[![Correlation Heatmap](correlation.png)](correlation.png)
-
+![Correlation Heatmap](correlation.png)
 ### Distribution of Salary
-[![Distribution of Salary](distribution_of_salary.png)](distribution_of_salary.png)
-
+![Distribution of Salary](<distribution of salary.png>)
 ### Salary vs. Age
-[![Salary vs. Age](salary_vs_age.png)](salary_vs_age.png)
-
+![Salary vs. Age](<salary vs age.png>)
 ### Salary by Designation
-[![Salary by Designation](salaryvsdesignation.png)](salaryvsdesignation.png)
+![Salary by Designation](salaryvsdesignation.png)
 
 ## 📈 Performance of the Models based on the Accuracy Scores
 - **Linear Regression:**

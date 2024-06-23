@@ -23,4 +23,6 @@ This folder contains the web application built to deploy the best model from the
 - The application will display the predicted salary based on the input provided.
 
 
-<video controls src="demo.mp4" title="Title"></video>
+
+https://github.com/abhisheks008/ML-Crate/assets/128123681/f891d30a-2aed-4d1d-8c4b-6381ecc83366
+

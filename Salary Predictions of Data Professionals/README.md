@@ -36,9 +36,9 @@ This project includes data analysis, feature engineering, machine learning model
 ### Correlation Heatmap
 ![Correlation Heatmap](correlation.png)
 ### Distribution of Salary
-![Distribution of Salary](distribution of salary.png)
+![Distribution of Salary](<distribution of salary.png>)
 ### Salary vs. Age
-![Salary vs. Age](salary vs age.png>)
+![Salary vs. Age](Images/.eda/salary_vs_age.png)
 ### Salary by Designation
 ![Salary by Designation](Images/.eda/salary_by_designation.png)
 

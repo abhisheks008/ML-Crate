@@ -38,7 +38,7 @@ This project includes data analysis, feature engineering, machine learning model
 ### Distribution of Salary
 ![Distribution of Salary](distribution of salary.png)
 ### Salary vs. Age
-![Salary vs. Age]![alt text](<salary vs age.png>)
+![Salary vs. Age](salary vs age.png>)
 ### Salary by Designation
 ![Salary by Designation](Images/.eda/salary_by_designation.png)
 

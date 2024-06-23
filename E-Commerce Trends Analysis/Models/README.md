@@ -18,35 +18,27 @@
 
 ## Dataset
 
-#### Link: The dataset is provided within the notebook and contains various e-commerce product
-
-#### details.
+#### Link: The dataset is provided within the notebook and contains various e-commerce product details.
 
 ## Description
 
-#### This folder contains the code and resources for predicting sales of e-commerce products
+#### * This folder contains the code and resources for predicting sales of e-commerce products using various machine learning models.
 
-#### using various machine learning models.
-
-#### The prediction is based on product details such as product name, category, price, rating,
-
-#### number of reviews, stock quantity, discount, and sales.
+#### * The prediction is based on product details such as product name, category, price, rating, number of reviews, stock quantity, discount, and sales.
 
 ## Libraries Needed
 
-#### pandas
+#### * pandas
 
-#### numpy
+#### * numpy
 
-#### matplotlib
+#### * matplotlib
 
-#### seaborn
+#### * seaborn
 
-#### plotly
+#### * plotly
 
-#### scikit-learn
-
-#### warnings
+#### * scikit-learn
 
 ## Models and Results
 
@@ -120,14 +112,9 @@ Results: Accuracy: 0.495
 
 ## Conclusion
 
-#### Among the models tested, the Support Vector Regressor (SVR) performed the best with the
+#### * Among the models tested, the Support Vector Regressor (SVR) performed the best with the lowest RMSE (588.42) and the least negative R² score (-0.001), making it the most accurate model
+for predicting e-commerce product sales in this analysis.
 
-#### lowest RMSE (588.42) and the least negative R² score (-0.001), making it the most accurate model
+#### * Best Performing Model: Support Vector Regressor (SVR)
 
-#### for predicting e-commerce product sales in this analysis.
-
-#### Best Performing Model: Support Vector Regressor (SVR)
-
-#### Next Steps: Consider tuning hyperparameters and exploring other algorithms for
-
-#### potentially better performance.
+#### * Next Steps: Consider tuning hyperparameters and exploring other algorithms for potentially better performance.

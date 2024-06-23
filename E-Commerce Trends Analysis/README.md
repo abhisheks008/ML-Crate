@@ -41,7 +41,7 @@
 git clone https://github.com/yourusername/ecommerce-product-trends.git cd
 ecommerce-product-trends
 ```
-#### * To run the notebook and reproduce the results, you need to have Python installed along with the necessary libraries. You can install the required libraries using the following
+#### To run the notebook and reproduce the results, you need to have Python installed along with the necessary libraries. You can install the required libraries using the following
 
 #### command:
 

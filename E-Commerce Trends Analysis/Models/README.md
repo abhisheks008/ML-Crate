@@ -46,18 +46,14 @@
 
 ## 1. Linear Regression
 
-#### Linear Regression is a basic and commonly used predictive analysis model. The model attempts
-
-#### to find the linear relationship between the input features and the target variable (sales).
+#### Linear Regression is a basic and commonly used predictive analysis model. The model attempts to find the linear relationship between the input features and the target variable (sales).
 
 ```
 Results: RMSE: 593.23 R² Score: -0.0170
 ```
 ### 2. Decision Tree Regressor
 
-#### Decision Tree Regressor builds a model in the form of a tree structure. It breaks down the
-
-#### dataset into smaller subsets while at the same time an associated decision tree is incrementally
+#### Decision Tree Regressor builds a model in the form of a tree structure. It breaks down the dataset into smaller subsets while at the same time an associated decision tree is incrementally
 
 #### developed.
 
@@ -66,9 +62,7 @@ Results: RMSE: 855.12 R² Score: -1.1131
 ```
 ### 3. Random Forest Regressor
 
-#### Random Forest Regressor improves the performance of decision trees by building multiple trees
-
-#### and combining their predictions. It reduces overfitting and improves accuracy.
+#### Random Forest Regressor improves the performance of decision trees by building multiple trees and combining their predictions. It reduces overfitting and improves accuracy.
 
 ```
 Results: RMSE: 621.81 R² Score: -0.1173
@@ -77,18 +71,14 @@ Results: RMSE: 621.81 R² Score: -0.1173
 
 #### Gradient Boosting Regressor builds an ensemble of trees in a sequential manner, where each
 
-#### tree attempts to correct the errors of the previous one. This model is powerful and effective for
-
-#### regression tasks.
+#### tree attempts to correct the errors of the previous one. This model is powerful and effective for regression tasks.
 
 ```
 Results: RMSE: 609.70 R² Score: -0.0742
 ```
 ### 5. Support Vector Regressor (SVR)
 
-#### Support Vector Regressor uses Support Vector Machines for regression tasks. It aims to fit the
-
-#### best line within a threshold value (epsilon) and is effective in high-dimensional spaces.
+#### Support Vector Regressor uses Support Vector Machines for regression tasks. It aims to fit the best line within a threshold value (epsilon) and is effective in high-dimensional spaces.
 
 ```
 Results: RMSE: 588.42 R² Score: -0.0006
@@ -96,11 +86,7 @@ Results: RMSE: 588.42 R² Score: -0.0006
 
 ### 6. Logistic Regression
 
-#### Logistic Regression is typically used for classification tasks, but here it was included for
-
-#### comparative purposes. Its performance indicates it is not suitable for regression tasks like sales
-
-#### prediction.
+#### Logistic Regression is typically used for classification tasks, but here it was included for comparative purposes. Its performance indicates it is not suitable for regression tasks like sales prediction.
 
 ```
 Results: Accuracy: 0.495

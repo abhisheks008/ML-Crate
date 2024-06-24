@@ -1,0 +1,7 @@
+Libraries used:
+
+1. librosa
+2. pydub
+3. numpy
+4. pandas
+5. scikit-learn

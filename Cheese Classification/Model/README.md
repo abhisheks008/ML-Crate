@@ -21,6 +21,7 @@ KNN is a simple, instance-based learning algorithm where classification is based
 
 **Description**: 
 Logistic Regression is a linear model for binary classification that uses a logistic function to model the probability of a certain class.
+
 ![Relationship Graphs](https://github.com/adi271001/ML-Crate/blob/cheese-classification/Cheese%20Classification/Images/__results___69_2.png)
 
 ### 3. Decision Tree
@@ -52,7 +53,7 @@ Random Forest is an ensemble learning method that operates by constructing multi
 **Description**: 
 Gradient Boosting is an ensemble learning technique that builds models sequentially. Each new model attempts to correct errors made by the previous model.
 
-![Relationship Graphs](https://github.com/adi271001/ML-Crate/blob/cheese-classification/Cheese%20Classification/Images/__results___60_6.png)
+![Relationship Graphs](https://github.com/adi271001/ML-Crate/blob/cheese-classification/Cheese%20Classification/Images/__results___69_6.png)
 
 ### 7. AdaBoost
 

@@ -64,12 +64,12 @@ Link: [Cheese Dataset](https://www.kaggle.com/datasets/jainaru/cheese-across-the
 
 ## Exploratory Data Analysis Results
 
-* ![Relationship Graphs](https://github.com/yourusername/cheese-type-classification/images/relationship_graphs.png)
-* ![Cluster Graphs](https://github.com/yourusername/cheese-type-classification/images/cluster_graphs.png)
-* ![Pearson Correlation Matrix](https://github.com/yourusername/cheese-type-classification/images/pearson_correlation_matrix.png)
-* ![Spearman Correlation Matrix](https://github.com/yourusername/cheese-type-classification/images/spearman_correlation_matrix.png)
-* ![Predictive Power Score](https://github.com/yourusername/cheese-type-classification/images/predictive_power_score.png)
-* ![Line of Best Fit Graphs](https://github.com/yourusername/cheese-type-classification/images/line_of_best_fit_graphs.png)
+* ![Relationship Graphs](https://github.com/adi271001/ML-Crate/blob/cheese-classification/Cheese%20Classification/Images/__results___10_1.png)
+* ![Cluster Graphs](https://github.com/adi271001/ML-Crate/blob/cheese-classification/Cheese%20Classification/Images/__results___12_1.png)
+* ![Pearson Correlation Matrix](https://github.com/adi271001/ML-Crate/blob/cheese-classification/Cheese%20Classification/Images/__results___13_0.png)
+* ![Spearman Correlation Matrix](https://github.com/adi271001/ML-Crate/blob/cheese-classification/Cheese%20Classification/Images/__results___16_0.png)
+* ![Predictive Power Score](https://github.com/adi271001/ML-Crate/blob/cheese-classification/Cheese%20Classification/Images/__results___18_0.png)
+* ![Line of Best Fit Graphs](https://github.com/adi271001/ML-Crate/blob/cheese-classification/Cheese%20Classification/Images/__results___20_0.png)
 
 ## Models and Results
 

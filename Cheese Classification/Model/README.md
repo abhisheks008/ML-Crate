@@ -27,6 +27,7 @@ Logistic Regression is a linear model for binary classification that uses a logi
 
 **Description**: 
 Decision Trees are non-parametric supervised learning methods used for classification. The model predicts the target variable by learning simple decision rules inferred from the data features.
+
 ![Relationship Graphs](https://github.com/adi271001/ML-Crate/blob/cheese-classification/Cheese%20Classification/Images/__results___69_3.png)
 
 ### 4. Support Vector Machine (SVM)

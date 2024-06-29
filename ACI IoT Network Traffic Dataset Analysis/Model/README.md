@@ -20,6 +20,9 @@ Load the data using appropriate tools and conduct an initial inspection to ident
 1. Random Forest Classifier
 2. XGBoost
 3. SVM
+4. KNN
+5. Decision Tree
+6. Dense Model
 
 ### 📚 **Libraries Needed**
 
@@ -38,11 +41,14 @@ Load the data using appropriate tools and conduct an initial inspection to ident
 1. Random Forest Classifier: 99.77%
 2. XGBoost: 99.79%
 3. SVM: 99.99%
+4. KNN: 99.99%
+5. Decision Tree: 100%
+6. Dense Model: 99.80%
 
 
 ### 📢 **Conclusion**
 
-SVM is proven to be the best model with the accuracy score of 99.99%
+Decision Tree is proven to be the best model with the accuracy score of 100%
 
 ### ✒️ **Your Signature**
 

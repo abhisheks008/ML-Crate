@@ -1,0 +1,44 @@
+<!DOCTYPE html>
+<html >
+<head>
+  <meta charset="UTF-8">
+  <title>ML API</title>
+  <link href='https://fonts.googleapis.com/css?family=Pacifico' rel='stylesheet' type='text/css'>
+<link href='https://fonts.googleapis.com/css?family=Arimo' rel='stylesheet' type='text/css'>
+<link href='https://fonts.googleapis.com/css?family=Hind:300' rel='stylesheet' type='text/css'>
+<link href='https://fonts.googleapis.com/css?family=Open+Sans+Condensed:300' rel='stylesheet' type='text/css'>
+ <link rel="stylesheet" href="{{ url_for('static', filename='css/styles.css') }}">
+  
+</head>
+
+<body>
+ <div class="data">
+	<h1>Body Fat Prediction</h1>
+
+     <!-- Main Input For Receiving Query to our ML model-->
+    <form action="{{ url_for('predict')}}"method="post">
+       Age (years): <input type="text" name="Age" placeholder="Age" required="required" />  <br>
+		Weight (lbs): <input type="text" name="Weight" placeholder="Weight" required="required" /> <br>
+		Height (inches): <input type="text" name="Height" placeholder="Height" required="required" /> <br>
+    Neck (cm): <input type="text" name="Neck" placeholder="Neck circumference" required="required" /> <br>
+    Chest circumference (cm): <input type="text" name="Chest" placeholder="Chest circumference" required="required" /> <br>
+    Abdomen circumference (cm): <input type="text" name="Abdomen" placeholder="Abdomen circumference" required="required" /> <br>
+    Hip circumference (cm): <input type="text" name="Hip" placeholder="Hip circumference" required="required" /> <br>
+    Thigh circumference (cm): <input type="text" name="Thigh" placeholder="Thigh circumference" required="required" /> <br>
+    Knee circumference (cm): <input type="text" name="Knee" placeholder="Knee circumference" required="required" /> <br>
+    Ankle circumference (cm): <input type="text" name="Ankle" placeholder="Ankle circumference" required="required" /> <br>
+    Biceps(extended) circumference (cm): <input type="text" name="Biceps" placeholder="Biceps circumference" required="required" /> <br>
+    Forearm circumference (cm): <input type="text" name="Forearm" placeholder="Forearm circumference" required="required" /> <br>
+    Wrist circumference (cm): <input type="text" name="Wrist" placeholder="Wrist circumference" required="required" /> <br>
+        <button type="submit" class="btn btn-primary btn-block btn-large">Predict</button>
+    </form>
+
+   <br>
+   <br>
+   <p class="prediction">{{ prediction_text }}</p>
+
+ </div>
+
+
+</body>
+</html>

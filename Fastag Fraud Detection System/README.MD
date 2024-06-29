@@ -52,12 +52,13 @@ streamlit
 ### Distribution of Transactions
 - **Distribution of Transactions**: Visualized the distribution to spot anomalies.
 
-![amount distribution of fraud](Images/Feda/Famount_distribution of fraud.png)
+![amount distribution of fraud](<Images/eda/amount_distribution of fraud.png>)
 
 ### Fraud Indicators
 - **Fraud Indicators**: Analysis of potential fraud indicators.
 
-![fraud vs non-fraud](Images%2Feda%2Ffraud%20vs%20non-fraud.png)
+![fraud vs non-fraud](<Images/eda/fraud vs non-fraud.png>)
+
 ### 📈 **Performance of the Models Based on Accuracy Scores**
 
 | Model                  | F1 Score | Accuracy | ROC AUC Score |

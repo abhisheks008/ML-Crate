@@ -38,4 +38,7 @@ This folder contains the files for the web application built with Streamlit.
 ## Demo
 Check out the demo video to see the web application in action.
 
-- [Demo Video](demo.mp4)
+- [Demo Video](https://github.com/abhisheks008/ML-Crate/assets/128123681/3b3ed39a-7963-4315-97ff-f38b3e785d9d)
+
+[demo.webm](https://github.com/abhisheks008/ML-Crate/assets/128123681/3b3ed39a-7963-4315-97ff-f38b3e785d9d)
+

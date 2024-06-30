@@ -1,0 +1,4 @@
+1. NumPy
+2. Pandas
+3. Tensorflow
+4. Sci-kit learn

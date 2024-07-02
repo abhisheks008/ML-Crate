@@ -1,0 +1,1001 @@
+ProductID,ProductName,Category,Price,Rating,NumReviews,StockQuantity,Discount,Sales,DateAdded,City
+1,Headphones,Electronics,400.31,1.7,3772,20,0.08,466,2023-11-10,Albuquerque
+2,Headphones,Electronics,235.03,2.3,2919,663,0.33,1332,2023-09-28,Queens
+3,Smartwatch,Electronics,417.9,1.8,1184,459,0.31,252,2023-10-20,Austin
+4,Smartphone,Electronics,152.7,3.4,2047,475,0.49,1806,2023-12-05,Dallas
+5,Laptop,Electronics,394.74,1.8,1267,831,0.23,1508,2023-08-10,Tucson
+6,Headphones,Electronics,93.56,1.3,2435,600,0.48,241,2023-09-21,Louisville
+7,Laptop,Electronics,57.86,3.7,1478,427,0.25,1966,2024-05-08,Cleveland
+8,Laptop,Electronics,201.62,1.7,3073,389,0.1,1795,2023-08-07,Houston
+9,Smartphone,Electronics,485.1,4.1,161,201,0.45,269,2023-06-27,Cape Coral
+10,Smartwatch,Electronics,170.0,3.3,1275,701,0.16,719,2023-10-19,Minneapolis
+11,Laptop,Electronics,274.45,3.3,4859,187,0.27,1064,2024-01-07,Memphis
+12,Headphones,Electronics,90.98,1.1,2568,343,0.2,647,2024-04-10,Mesa
+13,Headphones,Electronics,107.43,3.8,4514,288,0.3,1513,2023-10-25,Palm Bay
+14,Laptop,Electronics,66.78,4.5,4875,929,0.05,502,2024-04-11,Columbia
+15,Smartwatch,Electronics,336.3,3.4,2773,986,0.28,1762,2024-03-03,Seattle
+16,Headphones,Electronics,359.49,4.0,502,766,0.13,794,2023-11-18,Hartford
+17,Headphones,Electronics,64.34,2.8,863,742,0.24,1020,2024-03-08,Palm Bay
+18,Smartwatch,Electronics,454.71,2.0,1678,170,0.1,524,2024-01-04,Charlotte
+19,Headphones,Electronics,151.98,1.6,2625,681,0.4,1976,2024-01-30,Charlotte
+20,Smartwatch,Electronics,403.8,1.7,1981,330,0.16,1371,2023-10-25,Akron
+21,Laptop,Electronics,63.93,1.9,4029,632,0.41,1768,2023-09-27,San Francisco
+22,Headphones,Electronics,90.68,3.1,4413,676,0.35,1257,2023-12-23,Austin
+23,Smartwatch,Electronics,472.03,2.3,1495,232,0.2,1853,2024-04-21,Cincinnati
+24,Smartwatch,Electronics,133.37,3.0,1636,624,0.5,698,2024-02-20,Spokane
+25,Laptop,Electronics,256.31,1.2,3474,637,0.07,1707,2023-11-07,New York
+26,Smartwatch,Electronics,280.92,3.4,3510,202,0.18,400,2023-10-01,Indianapolis
+27,Laptop,Electronics,190.21,3.5,197,981,0.27,751,2024-01-20,Virginia Beach
+28,Smartphone,Electronics,83.85,3.0,2511,348,0.43,763,2023-07-02,Baltimore
+29,Headphones,Electronics,406.66,2.4,1734,819,0.47,1959,2024-02-05,Providence
+30,Headphones,Electronics,469.0,1.6,4061,297,0.13,1787,2024-01-20,Buffalo
+31,Laptop,Electronics,491.26,3.1,4976,1,0.5,253,2024-01-24,San Antonio
+32,Smartphone,Electronics,451.2,3.5,2056,232,0.17,815,2023-11-17,Bronx
+33,Headphones,Electronics,429.6,2.6,1696,919,0.43,1648,2024-02-29,Buffalo
+34,Smartwatch,Electronics,294.54,2.5,98,152,0.0,1919,2023-07-10,Tulsa
+35,Laptop,Electronics,349.03,3.6,4067,160,0.01,397,2023-09-09,Toledo
+36,Smartwatch,Electronics,375.78,3.6,1218,400,0.15,687,2024-05-21,Seattle
+37,Laptop,Electronics,299.04,4.9,562,437,0.45,26,2023-10-30,Virginia Beach
+38,Smartphone,Electronics,256.29,3.3,959,480,0.1,1852,2023-08-13,Charlotte
+39,Headphones,Electronics,290.28,4.1,16,171,0.47,476,2024-04-27,New York
+40,Smartphone,Electronics,442.91,4.0,1060,279,0.17,301,2023-12-14,Cleveland
+41,Jacket,Clothing,482.17,4.4,190,252,0.19,1184,2023-09-30,Harrisburg
+42,Jacket,Clothing,93.05,3.2,569,322,0.29,1815,2024-02-19,Portland
+43,Sweater,Clothing,338.86,2.4,154,489,0.44,784,2024-02-29,Spokane
+44,T-Shirt,Clothing,76.94,3.8,2806,537,0.41,920,2024-05-30,Ogden
+45,Sweater,Clothing,260.56,3.0,4780,19,0.32,511,2024-01-22,San Juan
+46,Sweater,Clothing,444.44,1.1,4929,799,0.29,853,2024-04-22,Grand Rapids
+47,T-Shirt,Clothing,85.97,4.9,1715,681,0.41,1077,2024-03-03,Wichita
+48,T-Shirt,Clothing,415.66,2.1,4,102,0.04,876,2023-06-28,Las Vegas
+49,Jacket,Clothing,352.76,1.6,4364,369,0.26,1693,2024-01-17,St. Louis
+50,T-Shirt,Clothing,205.42,2.7,1369,740,0.09,1853,2023-09-07,Memphis
+51,Jacket,Clothing,351.03,2.6,1081,633,0.08,801,2024-03-08,Albany
+52,Jeans,Clothing,56.0,1.7,4992,271,0.26,703,2024-04-04,Knoxville
+53,Jeans,Clothing,367.72,1.2,4249,655,0.08,1109,2023-12-10,San Francisco
+54,T-Shirt,Clothing,66.88,1.2,2141,749,0.49,452,2023-11-21,Louisville
+55,Sweater,Clothing,57.94,3.0,4646,611,0.09,1757,2023-06-21,Buffalo
+56,Jacket,Clothing,33.55,4.8,2849,179,0.19,761,2024-01-17,Hartford
+57,Jeans,Clothing,255.51,3.2,4611,15,0.04,1782,2023-09-28,San Diego
+58,T-Shirt,Clothing,434.93,3.5,851,663,0.34,1698,2024-05-10,Minneapolis
+59,T-Shirt,Clothing,407.49,4.3,3913,42,0.1,396,2024-05-31,Palm Bay
+60,Jacket,Clothing,194.86,1.2,753,34,0.17,89,2023-09-22,San Jose
+61,T-Shirt,Clothing,423.99,1.1,417,114,0.14,1219,2023-08-03,Toledo
+62,T-Shirt,Clothing,180.68,4.7,728,276,0.48,675,2023-06-21,Dallas
+63,T-Shirt,Clothing,288.57,3.3,1122,547,0.19,95,2024-01-12,Boise
+64,Jacket,Clothing,466.07,4.4,3440,694,0.38,216,2023-06-23,Albuquerque
+65,T-Shirt,Clothing,195.09,3.1,595,879,0.19,396,2023-12-08,Louisville
+66,Jacket,Clothing,200.71,1.0,4171,264,0.16,717,2023-11-02,San Jose
+67,Sweater,Clothing,246.44,3.0,143,884,0.05,395,2024-05-18,Kansas City
+68,Sweater,Clothing,339.53,4.0,3222,143,0.39,108,2023-12-14,San Francisco
+69,Jeans,Clothing,487.38,5.0,4729,132,0.37,732,2023-10-21,Los Angeles
+70,Jacket,Clothing,67.36,1.6,953,491,0.43,1253,2024-06-05,Staten Island
+71,Jeans,Clothing,353.47,1.3,2993,794,0.35,1540,2024-05-14,Chicago
+72,T-Shirt,Clothing,124.28,3.3,1388,832,0.44,1680,2023-07-21,Atlanta
+73,T-Shirt,Clothing,300.03,2.4,3486,786,0.39,1205,2023-12-28,Louisville
+74,Jacket,Clothing,131.87,2.3,3522,172,0.01,1243,2024-02-07,Omaha
+75,Jeans,Clothing,373.08,4.1,894,360,0.37,386,2023-06-30,Salt Lake City
+76,Jeans,Clothing,206.11,2.9,823,928,0.11,133,2024-04-15,New Orleans
+77,Sweater,Clothing,489.17,3.2,4910,148,0.02,1236,2023-11-22,Denver
+78,Sweater,Clothing,46.16,3.2,3512,401,0.08,1328,2024-05-29,Pittsburgh
+79,Jacket,Clothing,232.73,3.5,3330,655,0.37,970,2024-05-31,Palm Bay
+80,Jeans,Clothing,475.7,4.6,3019,407,0.31,1031,2024-02-11,Providence
+81,Coffee Maker,Home & Kitchen,326.96,2.6,539,731,0.18,739,2023-12-03,Des Moines
+82,Microwave,Home & Kitchen,352.1,3.1,2508,731,0.14,908,2024-04-27,Spokane
+83,Microwave,Home & Kitchen,413.04,4.8,255,708,0.31,449,2024-06-02,Bronx
+84,Coffee Maker,Home & Kitchen,439.56,3.2,1015,800,0.39,145,2023-11-01,Mesa
+85,Microwave,Home & Kitchen,83.7,3.4,4158,216,0.48,794,2023-12-18,Akron
+86,Blender,Home & Kitchen,41.12,1.1,510,384,0.01,822,2024-06-06,Grand Rapids
+87,Coffee Maker,Home & Kitchen,408.32,5.0,1460,22,0.38,676,2023-11-23,Madison
+88,Toaster,Home & Kitchen,195.15,2.0,2048,50,0.14,1795,2023-08-29,Fort Worth
+89,Toaster,Home & Kitchen,185.5,1.5,249,673,0.24,770,2023-08-11,Grand Rapids
+90,Coffee Maker,Home & Kitchen,410.03,4.9,3037,733,0.4,400,2024-02-21,Tulsa
+91,Microwave,Home & Kitchen,24.1,4.0,3981,577,0.4,102,2023-12-03,Omaha
+92,Coffee Maker,Home & Kitchen,490.43,3.4,1358,858,0.05,1331,2023-10-07,San Francisco
+93,Toaster,Home & Kitchen,230.95,4.6,4637,758,0.26,80,2024-01-31,Portland
+94,Blender,Home & Kitchen,82.07,4.7,2832,507,0.03,68,2024-05-09,El Paso
+95,Toaster,Home & Kitchen,251.38,2.3,3818,42,0.12,1906,2024-02-22,Houston
+96,Blender,Home & Kitchen,235.46,3.3,3445,911,0.32,359,2023-12-11,Houston
+97,Blender,Home & Kitchen,449.43,2.9,4188,671,0.09,633,2024-04-22,Concord
+98,Microwave,Home & Kitchen,412.68,2.4,4777,828,0.02,837,2024-06-11,Charlotte
+99,Blender,Home & Kitchen,235.78,1.8,2593,944,0.25,1836,2024-03-31,Pittsburgh
+100,Toaster,Home & Kitchen,401.71,3.5,2286,55,0.44,830,2024-04-25,Los Angeles
+101,Blender,Home & Kitchen,11.27,4.5,2055,624,0.3,1715,2023-11-18,Tucson
+102,Microwave,Home & Kitchen,191.53,2.9,4569,27,0.18,1239,2024-01-10,Washington
+103,Toaster,Home & Kitchen,82.39,1.5,1646,918,0.26,1774,2023-09-12,San Diego
+104,Toaster,Home & Kitchen,183.53,2.6,4580,27,0.01,1976,2023-09-13,Tulsa
+105,Microwave,Home & Kitchen,53.71,3.1,4632,144,0.17,24,2024-04-05,Boston
+106,Toaster,Home & Kitchen,396.69,3.0,2158,227,0.27,33,2024-02-22,Madison
+107,Coffee Maker,Home & Kitchen,297.4,3.3,2472,612,0.18,1305,2023-07-28,Detroit
+108,Toaster,Home & Kitchen,129.73,3.0,3812,376,0.12,661,2023-09-09,Oklahoma City
+109,Toaster,Home & Kitchen,189.02,3.0,3421,842,0.04,349,2024-03-09,Fort Worth
+110,Coffee Maker,Home & Kitchen,449.42,1.3,242,542,0.21,547,2023-11-02,New York
+111,Toaster,Home & Kitchen,204.95,4.9,3,846,0.41,880,2024-03-10,Baltimore
+112,Coffee Maker,Home & Kitchen,364.22,4.3,4289,846,0.27,1049,2023-12-22,Tucson
+113,Coffee Maker,Home & Kitchen,110.49,4.9,1810,723,0.25,112,2024-01-24,Columbia
+114,Microwave,Home & Kitchen,356.54,4.1,1573,804,0.25,1534,2023-06-22,Albany
+115,Blender,Home & Kitchen,270.97,1.2,4785,9,0.27,1673,2023-12-23,Allentown
+116,Toaster,Home & Kitchen,167.95,4.2,320,318,0.34,784,2023-09-21,Grand Rapids
+117,Microwave,Home & Kitchen,241.85,3.4,3490,605,0.05,1604,2023-07-30,Phoenix
+118,Coffee Maker,Home & Kitchen,482.86,1.5,375,458,0.47,587,2024-05-08,Albany
+119,Blender,Home & Kitchen,373.15,3.3,3850,872,0.38,1851,2023-08-31,Madison
+120,Microwave,Home & Kitchen,90.49,4.3,77,409,0.45,600,2023-10-19,Orlando
+121,Biography,Books,202.3,4.3,1318,615,0.19,1714,2024-02-08,Denver
+122,Biography,Books,274.49,2.8,992,664,0.18,1006,2023-08-08,Sacramento
+123,Fantasy Book,Books,122.22,3.2,197,645,0.17,1202,2024-05-01,Port St. Lucie
+124,Fantasy Book,Books,91.7,4.5,2035,477,0.45,419,2024-01-07,Pittsburgh
+125,Biography,Books,378.68,3.8,950,288,0.02,597,2023-07-26,Staten Island
+126,Biography,Books,252.05,4.0,2853,908,0.06,227,2023-11-09,Chicago
+127,Fantasy Book,Books,204.67,4.2,3228,46,0.2,1708,2024-02-03,Charlotte
+128,Science Book,Books,324.16,3.8,793,810,0.3,1683,2024-06-01,Des Moines
+129,Biography,Books,455.14,3.3,4807,22,0.23,301,2023-06-15,San Francisco
+130,Fantasy Book,Books,456.81,1.6,3281,984,0.13,1639,2023-08-01,Fort Worth
+131,Science Book,Books,466.74,3.3,2935,804,0.35,1129,2024-03-12,Tulsa
+132,Science Book,Books,307.29,2.7,3533,295,0.42,778,2023-09-29,Manhattan
+133,Biography,Books,125.59,1.7,1205,982,0.46,1854,2024-04-18,St. Louis
+134,Science Book,Books,299.72,2.6,1332,136,0.1,312,2024-02-16,Portland
+135,Biography,Books,173.41,2.6,536,601,0.46,385,2023-11-15,Port St. Lucie
+136,Science Book,Books,371.38,2.8,954,875,0.46,1205,2024-01-12,Fresno
+137,Novel,Books,254.2,2.7,4380,62,0.14,665,2024-01-08,Denton
+138,Biography,Books,335.13,1.7,3432,688,0.28,341,2024-04-10,Boise
+139,Novel,Books,100.39,2.2,1759,140,0.2,434,2023-11-14,Chicago
+140,Biography,Books,110.52,1.8,4524,476,0.24,1447,2024-05-24,Charlotte
+141,Biography,Books,154.08,3.9,3057,193,0.27,1136,2024-02-19,Bronx
+142,Biography,Books,284.22,1.6,3335,924,0.04,1666,2023-08-29,Denver
+143,Biography,Books,142.66,3.6,3451,992,0.01,1499,2023-08-29,Los Angeles
+144,Biography,Books,434.83,2.6,4408,758,0.13,442,2023-10-01,Detroit
+145,Novel,Books,301.57,2.4,3300,578,0.44,1627,2023-09-22,Louisville
+146,Biography,Books,404.6,5.0,1311,119,0.4,1935,2023-12-30,New York
+147,Biography,Books,110.44,2.2,943,977,0.01,774,2024-01-03,Port St. Lucie
+148,Science Book,Books,425.58,1.5,914,547,0.32,81,2024-06-10,Little Rock
+149,Novel,Books,410.55,2.4,4841,385,0.18,1142,2024-05-23,Little Rock
+150,Novel,Books,179.14,4.1,3577,853,0.39,592,2023-11-23,Jacksonville
+151,Biography,Books,248.84,4.6,4223,735,0.21,1138,2023-11-16,Wichita
+152,Biography,Books,373.43,3.8,1304,358,0.11,1301,2023-10-21,Orlando
+153,Biography,Books,492.36,3.1,3180,609,0.14,74,2023-07-22,Los Angeles
+154,Biography,Books,269.53,4.3,40,933,0.03,1700,2024-01-11,Port St. Lucie
+155,Biography,Books,416.57,1.8,341,980,0.13,1310,2024-01-30,Salt Lake City
+156,Science Book,Books,302.73,3.4,454,905,0.46,921,2023-12-05,St. Louis
+157,Biography,Books,216.8,2.4,1386,704,0.04,1315,2023-09-04,Baltimore
+158,Novel,Books,200.75,2.2,1136,186,0.15,1250,2023-08-07,Tucson
+159,Biography,Books,204.36,4.8,4501,68,0.24,1785,2024-05-07,Baltimore
+160,Science Book,Books,138.51,3.4,3920,957,0.48,481,2023-11-24,Provo
+161,Board Game,Toys & Games,242.38,2.4,2343,16,0.21,60,2024-02-29,Queens
+162,Board Game,Toys & Games,235.24,1.3,3569,228,0.0,1458,2024-03-02,Milwaukee
+163,Board Game,Toys & Games,60.52,2.3,4090,816,0.07,329,2024-04-16,Denver
+164,Puzzle,Toys & Games,265.44,1.3,3663,215,0.38,660,2024-03-23,Cape Coral
+165,Puzzle,Toys & Games,364.81,3.5,3726,570,0.49,1900,2024-05-17,Tampa
+166,Puzzle,Toys & Games,31.64,3.4,400,918,0.28,1109,2023-10-06,Dayton
+167,Puzzle,Toys & Games,26.63,3.8,4232,882,0.46,1521,2023-08-02,Atlanta
+168,Puzzle,Toys & Games,399.72,4.0,2419,934,0.23,1466,2024-03-01,Mission Viejo
+169,Action Figure,Toys & Games,328.58,2.5,2667,187,0.24,130,2023-08-24,Harrisburg
+170,Puzzle,Toys & Games,176.54,3.9,4459,38,0.16,496,2024-06-08,Harrisburg
+171,Action Figure,Toys & Games,334.21,4.0,4111,492,0.31,893,2023-08-06,Riverside
+172,Puzzle,Toys & Games,436.35,1.1,4854,780,0.26,1439,2024-03-08,Boston
+173,Puzzle,Toys & Games,44.31,1.0,4124,957,0.04,317,2023-10-11,Milwaukee
+174,Toy Car,Toys & Games,317.48,4.5,1262,376,0.38,920,2023-06-19,El Paso
+175,Toy Car,Toys & Games,371.42,2.0,2050,428,0.18,1693,2023-07-24,Mesa
+176,Board Game,Toys & Games,124.47,1.2,704,948,0.49,584,2023-08-12,Baltimore
+177,Action Figure,Toys & Games,343.03,1.9,2041,804,0.39,938,2023-11-27,Raleigh
+178,Puzzle,Toys & Games,440.77,4.8,10,61,0.31,1176,2023-11-26,Nashville
+179,Toy Car,Toys & Games,41.84,2.6,884,242,0.26,1353,2024-02-26,Tulsa
+180,Board Game,Toys & Games,198.2,1.1,2553,258,0.41,1540,2023-09-25,Akron
+181,Board Game,Toys & Games,484.86,4.5,3170,19,0.5,1596,2023-12-17,Houston
+182,Board Game,Toys & Games,351.05,1.6,4255,738,0.11,1143,2024-03-15,New Orleans
+183,Action Figure,Toys & Games,448.51,4.4,1290,616,0.2,634,2024-05-14,Albuquerque
+184,Action Figure,Toys & Games,31.74,4.4,4265,520,0.16,1560,2023-09-25,Miami
+185,Puzzle,Toys & Games,52.62,2.6,974,37,0.13,1924,2023-12-19,Miami
+186,Board Game,Toys & Games,270.98,4.8,1711,972,0.45,972,2024-03-23,Jacksonville
+187,Board Game,Toys & Games,252.62,2.9,2396,114,0.41,1591,2024-05-03,Buffalo
+188,Board Game,Toys & Games,276.45,4.5,1312,261,0.26,335,2023-12-27,Boise
+189,Toy Car,Toys & Games,426.79,4.5,1704,780,0.42,1368,2023-12-14,San Francisco
+190,Board Game,Toys & Games,61.86,3.8,4795,6,0.44,556,2023-08-03,Charlotte
+191,Action Figure,Toys & Games,24.33,4.3,2719,362,0.11,1574,2024-03-22,Virginia Beach
+192,Toy Car,Toys & Games,282.53,4.0,1547,294,0.1,1548,2024-04-27,Providence
+193,Puzzle,Toys & Games,490.78,3.5,4795,447,0.27,674,2023-07-22,Ogden
+194,Puzzle,Toys & Games,382.9,3.2,1247,993,0.17,571,2023-07-13,Allentown
+195,Board Game,Toys & Games,379.31,4.2,1887,483,0.03,730,2023-12-03,New Haven
+196,Action Figure,Toys & Games,387.78,3.8,885,704,0.03,1143,2023-11-15,Albany
+197,Board Game,Toys & Games,495.17,3.7,4811,675,0.32,947,2024-06-05,Detroit
+198,Action Figure,Toys & Games,20.84,2.3,3999,946,0.13,1561,2023-10-30,Albany
+199,Action Figure,Toys & Games,472.71,1.4,38,270,0.4,156,2024-03-29,Albuquerque
+200,Toy Car,Toys & Games,421.57,4.1,3155,21,0.07,1730,2023-07-11,Cincinnati
+201,Fish Oil,Vitamins and supplements,84.02,2.7,4116,302,0.21,1978,2024-03-20,Spokane
+202,Fish Oil,Vitamins and supplements,382.45,2.8,4665,891,0.36,1185,2024-01-01,El Paso
+203,Protein Powder,Vitamins and supplements,435.38,3.9,1809,270,0.24,1562,2024-04-01,Columbus
+204,Protein Powder,Vitamins and supplements,100.91,4.5,3380,519,0.39,1709,2024-04-23,New York
+205,Protein Powder,Vitamins and supplements,18.75,4.2,692,535,0.46,898,2024-04-27,Cleveland
+206,Vitamin D,Vitamins and supplements,245.95,1.5,3344,893,0.34,1763,2024-06-03,McAllen
+207,Fish Oil,Vitamins and supplements,120.51,1.6,116,385,0.4,394,2024-04-09,Knoxville
+208,Multivitamin,Vitamins and supplements,83.29,2.9,2013,319,0.2,1518,2024-03-09,Spokane
+209,Fish Oil,Vitamins and supplements,152.91,3.8,2043,101,0.45,778,2023-11-11,Columbus
+210,Vitamin D,Vitamins and supplements,61.42,2.0,2936,45,0.07,591,2023-08-07,San Diego
+211,Fish Oil,Vitamins and supplements,113.07,2.4,935,927,0.47,1888,2024-06-10,Charleston
+212,Multivitamin,Vitamins and supplements,53.05,2.4,917,102,0.07,870,2024-03-14,Milwaukee
+213,Fish Oil,Vitamins and supplements,349.67,4.3,105,886,0.34,1895,2023-07-31,San Francisco
+214,Vitamin D,Vitamins and supplements,449.15,3.4,3144,358,0.31,552,2023-11-21,Detroit
+215,Protein Powder,Vitamins and supplements,474.2,3.5,1107,317,0.31,382,2024-06-05,Wichita
+216,Vitamin D,Vitamins and supplements,448.46,3.2,3385,21,0.23,514,2024-02-06,New Haven
+217,Multivitamin,Vitamins and supplements,90.36,2.8,2134,523,0.08,1324,2023-10-13,McAllen
+218,Fish Oil,Vitamins and supplements,171.22,2.9,4780,903,0.44,308,2023-12-12,Sacramento
+219,Protein Powder,Vitamins and supplements,254.12,3.2,661,548,0.5,872,2024-04-14,Charleston
+220,Vitamin D,Vitamins and supplements,49.95,2.6,4540,92,0.21,1230,2023-06-25,Spokane
+221,Vitamin D,Vitamins and supplements,236.69,4.5,158,953,0.37,403,2023-08-24,Akron
+222,Protein Powder,Vitamins and supplements,370.32,4.1,955,151,0.27,946,2024-03-08,Atlanta
+223,Multivitamin,Vitamins and supplements,224.92,3.9,3811,577,0.3,931,2023-09-24,Queens
+224,Vitamin D,Vitamins and supplements,145.65,3.4,1269,636,0.11,1260,2024-05-25,Denver
+225,Protein Powder,Vitamins and supplements,419.64,1.9,4889,519,0.2,477,2024-03-17,Baltimore
+226,Fish Oil,Vitamins and supplements,126.4,4.9,374,292,0.43,1004,2024-05-02,Columbus
+227,Fish Oil,Vitamins and supplements,57.72,2.6,13,503,0.29,1107,2024-02-03,New York
+228,Vitamin D,Vitamins and supplements,90.13,2.6,2040,27,0.13,1252,2023-09-25,Jacksonville
+229,Vitamin D,Vitamins and supplements,298.32,3.4,4396,918,0.23,1418,2024-06-02,Birmingham
+230,Vitamin D,Vitamins and supplements,226.59,2.3,2891,861,0.07,132,2023-09-10,McAllen
+231,Protein Powder,Vitamins and supplements,312.4,3.8,575,885,0.08,1144,2024-02-26,St. Louis
+232,Multivitamin,Vitamins and supplements,184.8,3.1,2352,496,0.35,1847,2024-01-08,Staten Island
+233,Vitamin D,Vitamins and supplements,435.45,1.8,956,915,0.13,1665,2023-08-24,Hartford
+234,Protein Powder,Vitamins and supplements,35.33,3.6,1058,197,0.09,1082,2023-07-23,Spokane
+235,Multivitamin,Vitamins and supplements,258.55,1.2,4585,275,0.49,1239,2023-10-05,Dayton
+236,Vitamin D,Vitamins and supplements,18.52,2.3,3868,184,0.29,1207,2023-12-17,Orlando
+237,Vitamin D,Vitamins and supplements,336.76,1.6,4403,335,0.47,891,2024-06-04,McAllen
+238,Fish Oil,Vitamins and supplements,102.29,3.9,4612,494,0.09,1825,2023-12-02,Hartford
+239,Vitamin D,Vitamins and supplements,489.53,2.5,3485,113,0.12,1561,2024-01-28,Columbia
+240,Vitamin D,Vitamins and supplements,289.6,1.1,1863,344,0.34,800,2024-06-11,Grand Rapids
+241,Sunscreen,Skin care,471.03,4.3,1327,68,0.29,1981,2023-11-05,Palm Bay
+242,Cleanser,Skin care,499.71,1.2,3232,680,0.5,780,2024-03-31,Chicago
+243,Moisturizer,Skin care,287.84,4.0,1347,609,0.2,493,2024-02-01,McAllen
+244,Cleanser,Skin care,224.7,4.6,1000,278,0.22,1354,2024-02-04,Palm Bay
+245,Toner,Skin care,155.47,3.6,2772,654,0.32,710,2024-01-21,Portland
+246,Moisturizer,Skin care,196.41,3.2,1440,304,0.27,290,2024-03-02,Cleveland
+247,Cleanser,Skin care,297.66,1.7,2889,961,0.23,1026,2024-03-19,New York
+248,Cleanser,Skin care,476.22,4.4,1947,628,0.41,664,2024-05-31,Bronx
+249,Moisturizer,Skin care,205.42,3.3,3371,739,0.3,943,2023-07-05,Provo
+250,Cleanser,Skin care,375.97,3.9,1004,20,0.1,1014,2023-07-12,Colorado Springs
+251,Sunscreen,Skin care,44.93,4.8,714,50,0.03,788,2024-01-23,Omaha
+252,Cleanser,Skin care,105.33,1.7,963,372,0.14,1562,2024-01-07,Miami
+253,Sunscreen,Skin care,270.81,3.3,105,419,0.36,1,2024-03-27,Sacramento
+254,Toner,Skin care,413.36,3.1,1286,350,0.43,1062,2024-01-05,Cleveland
+255,Sunscreen,Skin care,154.69,4.2,444,297,0.46,1107,2023-09-23,San Juan
+256,Cleanser,Skin care,279.61,1.2,2938,140,0.3,1141,2023-09-09,Orlando
+257,Cleanser,Skin care,300.83,4.2,9,983,0.21,1660,2023-12-25,Denton
+258,Toner,Skin care,387.27,3.2,4954,292,0.15,663,2024-05-24,Spokane
+259,Toner,Skin care,217.63,3.7,145,914,0.31,992,2023-10-14,Mesa
+260,Moisturizer,Skin care,92.33,3.9,1249,672,0.11,661,2023-08-24,Oklahoma City
+261,Sunscreen,Skin care,122.82,1.8,1546,649,0.13,1100,2023-10-02,Portland
+262,Moisturizer,Skin care,494.01,1.5,3729,834,0.22,636,2023-12-28,Minneapolis
+263,Moisturizer,Skin care,349.29,5.0,4795,301,0.05,1241,2024-03-02,Austin
+264,Cleanser,Skin care,453.71,4.1,4131,743,0.32,1699,2024-03-31,Phoenix
+265,Toner,Skin care,189.81,2.4,3046,707,0.22,827,2024-02-03,Bakersfield
+266,Toner,Skin care,402.17,1.9,2823,229,0.3,66,2023-08-17,Riverside
+267,Moisturizer,Skin care,233.86,1.8,2774,171,0.33,1232,2023-08-26,Reno
+268,Cleanser,Skin care,228.71,2.3,661,811,0.04,452,2023-07-15,Omaha
+269,Moisturizer,Skin care,348.1,1.8,207,617,0.05,632,2024-04-18,Orlando
+270,Toner,Skin care,10.61,2.2,3719,979,0.24,1565,2023-10-19,Albany
+271,Sunscreen,Skin care,205.66,1.6,1540,979,0.46,363,2023-07-27,Sacramento
+272,Moisturizer,Skin care,339.06,1.4,4551,742,0.43,1012,2023-09-14,Cleveland
+273,Toner,Skin care,393.19,3.8,3725,803,0.15,113,2023-10-19,Tampa
+274,Cleanser,Skin care,196.65,2.4,2496,842,0.41,1725,2024-01-10,Raleigh
+275,Toner,Skin care,437.93,1.6,405,938,0.29,1339,2024-03-03,Mesa
+276,Toner,Skin care,112.17,4.7,4137,677,0.41,1826,2024-01-06,Dallas
+277,Toner,Skin care,270.92,3.9,3138,847,0.11,1549,2024-03-31,Miami
+278,Sunscreen,Skin care,207.46,1.7,4225,930,0.17,1811,2023-09-30,Richmond
+279,Cleanser,Skin care,413.02,1.5,4259,94,0.24,1133,2023-07-12,Milwaukee
+280,Cleanser,Skin care,416.37,2.3,2530,936,0.41,1676,2024-02-16,Sacramento
+281,Mascara,Makeup,43.4,1.1,536,78,0.48,1979,2024-05-31,Akron
+282,Blush,Makeup,69.8,3.4,542,845,0.44,988,2023-08-01,Columbus
+283,Lipstick,Makeup,324.0,1.9,4349,129,0.33,466,2023-08-30,Palm Bay
+284,Lipstick,Makeup,286.58,1.8,4737,381,0.5,1276,2024-04-17,Albany
+285,Lipstick,Makeup,492.0,2.0,4244,328,0.39,1517,2023-09-23,Akron
+286,Blush,Makeup,348.89,3.5,1638,551,0.41,1382,2023-08-09,Atlanta
+287,Foundation,Makeup,315.71,3.1,3302,689,0.07,1651,2023-12-04,Oklahoma City
+288,Mascara,Makeup,330.5,2.4,2139,981,0.41,1764,2024-03-18,Detroit
+289,Foundation,Makeup,15.41,2.7,2293,741,0.13,649,2023-08-03,New York
+290,Blush,Makeup,272.3,1.9,2009,241,0.31,1716,2023-07-10,Madison
+291,Foundation,Makeup,480.19,3.0,3042,496,0.27,702,2023-08-09,Providence
+292,Blush,Makeup,58.06,3.0,545,563,0.12,593,2023-10-24,Jacksonville
+293,Lipstick,Makeup,194.19,2.6,3493,553,0.39,396,2024-02-20,Columbia
+294,Foundation,Makeup,60.05,3.6,424,128,0.4,1583,2024-05-14,Milwaukee
+295,Foundation,Makeup,422.03,1.2,2279,788,0.41,758,2023-08-27,Richmond
+296,Blush,Makeup,448.61,3.5,78,912,0.03,855,2023-12-22,Des Moines
+297,Lipstick,Makeup,61.79,5.0,2148,7,0.02,1528,2024-03-17,Queens
+298,Lipstick,Makeup,332.93,4.2,2711,16,0.48,276,2023-10-24,Birmingham
+299,Mascara,Makeup,236.35,5.0,4531,398,0.47,498,2024-05-15,Austin
+300,Lipstick,Makeup,95.31,1.4,2037,351,0.03,137,2024-05-05,Bakersfield
+301,Lipstick,Makeup,50.26,4.9,1246,647,0.38,920,2023-07-19,Mesa
+302,Mascara,Makeup,337.0,1.0,1827,381,0.13,1640,2023-12-26,McAllen
+303,Foundation,Makeup,269.85,1.2,369,777,0.4,651,2023-07-01,Palm Bay
+304,Blush,Makeup,65.84,2.9,3983,287,0.31,1249,2024-06-01,Cleveland
+305,Mascara,Makeup,175.75,4.7,2230,968,0.19,1850,2023-07-14,Raleigh
+306,Blush,Makeup,200.44,1.7,4083,413,0.46,1195,2023-08-29,San Diego
+307,Lipstick,Makeup,444.59,3.6,4066,121,0.41,1654,2024-05-04,Mission Viejo
+308,Foundation,Makeup,136.63,3.2,2196,396,0.11,1661,2023-08-15,Detroit
+309,Blush,Makeup,283.33,1.7,1759,202,0.16,661,2023-10-21,Providence
+310,Foundation,Makeup,469.32,1.2,3537,769,0.07,462,2023-09-03,Madison
+311,Mascara,Makeup,114.62,3.0,4183,43,0.37,1706,2023-12-06,Hartford
+312,Foundation,Makeup,259.1,2.2,2066,22,0.34,1830,2024-02-25,Tucson
+313,Lipstick,Makeup,439.8,2.7,361,185,0.0,128,2023-06-14,Mesa
+314,Foundation,Makeup,441.91,2.1,1855,873,0.33,472,2024-06-02,Manhattan
+315,Foundation,Makeup,369.2,3.5,922,65,0.18,1036,2024-03-18,San Francisco
+316,Mascara,Makeup,382.89,1.1,2256,973,0.1,1441,2024-05-23,Phoenix
+317,Lipstick,Makeup,380.57,4.4,3895,210,0.5,131,2024-02-22,Hartford
+318,Foundation,Makeup,325.25,4.1,1013,226,0.07,1765,2023-08-07,Mesa
+319,Blush,Makeup,97.4,1.1,4283,56,0.19,272,2024-02-14,Salt Lake City
+320,Lipstick,Makeup,245.68,3.6,4431,697,0.28,899,2023-10-02,Hartford
+321,Denim Jacket,Coats and jackets,341.47,4.2,3259,59,0.16,1342,2023-11-14,Palm Bay
+322,Rain Jacket,Coats and jackets,350.75,4.0,2974,867,0.26,431,2023-12-22,Chicago
+323,Denim Jacket,Coats and jackets,69.96,3.9,2528,145,0.19,1136,2023-10-05,Provo
+324,Denim Jacket,Coats and jackets,370.47,5.0,1019,117,0.32,400,2023-11-27,McAllen
+325,Denim Jacket,Coats and jackets,253.12,1.7,398,709,0.5,123,2024-03-29,Concord
+326,Leather Jacket,Coats and jackets,290.22,3.4,499,572,0.49,1794,2024-02-26,San Juan
+327,Winter Coat,Coats and jackets,297.05,3.3,2757,848,0.46,562,2023-10-11,Hartford
+328,Leather Jacket,Coats and jackets,137.06,2.7,4676,348,0.23,48,2024-03-30,Cape Coral
+329,Denim Jacket,Coats and jackets,246.65,1.5,3331,637,0.36,1009,2024-02-04,Indianapolis
+330,Denim Jacket,Coats and jackets,367.46,4.1,685,827,0.07,1592,2024-05-12,Boise
+331,Denim Jacket,Coats and jackets,331.91,4.8,1431,875,0.02,1365,2023-11-05,Des Moines
+332,Leather Jacket,Coats and jackets,131.02,4.6,631,905,0.14,1205,2024-02-27,Concord
+333,Winter Coat,Coats and jackets,390.59,1.3,1719,618,0.03,249,2023-06-15,Rochester
+334,Winter Coat,Coats and jackets,179.5,2.3,3141,638,0.12,671,2023-10-08,Charlotte
+335,Leather Jacket,Coats and jackets,482.06,3.2,1449,665,0.21,895,2024-01-22,Des Moines
+336,Winter Coat,Coats and jackets,252.3,4.9,3652,130,0.36,1956,2023-08-12,Akron
+337,Leather Jacket,Coats and jackets,161.26,4.8,1931,444,0.06,1201,2024-02-16,Harrisburg
+338,Denim Jacket,Coats and jackets,214.82,1.4,597,288,0.26,1596,2024-04-12,Boise
+339,Rain Jacket,Coats and jackets,207.95,3.2,3669,176,0.27,965,2023-11-27,Chicago
+340,Rain Jacket,Coats and jackets,247.5,1.7,1537,21,0.42,1089,2023-07-18,Kansas City
+341,Rain Jacket,Coats and jackets,432.37,2.8,3750,85,0.15,1959,2023-08-23,Spokane
+342,Denim Jacket,Coats and jackets,184.43,4.9,2290,830,0.25,31,2023-09-09,Bridgeport
+343,Denim Jacket,Coats and jackets,276.98,4.0,4979,213,0.01,743,2023-11-12,Springfield
+344,Leather Jacket,Coats and jackets,441.0,4.5,3048,679,0.49,1049,2024-04-07,Atlanta
+345,Winter Coat,Coats and jackets,56.13,2.4,1067,96,0.2,226,2023-09-24,Virginia Beach
+346,Leather Jacket,Coats and jackets,331.82,4.3,4402,778,0.1,1609,2024-06-04,Rochester
+347,Denim Jacket,Coats and jackets,184.77,4.0,484,596,0.16,904,2024-04-26,Oakland
+348,Leather Jacket,Coats and jackets,458.39,3.1,4563,453,0.4,774,2023-07-12,New York
+349,Leather Jacket,Coats and jackets,187.92,4.6,1898,39,0.25,219,2024-02-04,Kansas City
+350,Leather Jacket,Coats and jackets,100.27,4.6,687,618,0.16,989,2023-10-10,Pittsburgh
+351,Leather Jacket,Coats and jackets,442.38,4.2,3958,15,0.49,1132,2024-05-22,Las Vegas
+352,Rain Jacket,Coats and jackets,320.99,1.7,1125,505,0.21,246,2024-02-05,Akron
+353,Leather Jacket,Coats and jackets,346.56,1.4,2243,792,0.41,1689,2024-01-31,Little Rock
+354,Leather Jacket,Coats and jackets,101.83,4.4,1395,485,0.27,210,2024-04-13,Spokane
+355,Denim Jacket,Coats and jackets,494.15,4.6,1899,456,0.18,1249,2024-02-02,Tampa
+356,Denim Jacket,Coats and jackets,174.25,1.7,3348,155,0.41,189,2024-01-01,Dallas
+357,Denim Jacket,Coats and jackets,453.63,4.0,4433,313,0.31,278,2023-12-19,Concord
+358,Denim Jacket,Coats and jackets,182.66,4.4,1674,861,0.49,930,2023-08-28,Austin
+359,Denim Jacket,Coats and jackets,372.25,1.4,4578,935,0.0,1070,2023-11-24,Bakersfield
+360,Denim Jacket,Coats and jackets,121.32,4.3,854,639,0.32,515,2023-08-14,Philadelphia
+361,Road Bike,Bicycles,186.59,1.3,1336,628,0.2,1677,2024-05-04,Columbia
+362,Mountain Bike,Bicycles,396.34,3.7,2257,114,0.45,1274,2023-11-06,Omaha
+363,Hybrid Bike,Bicycles,92.85,2.6,2597,141,0.43,839,2023-12-05,New Orleans
+364,Hybrid Bike,Bicycles,212.25,4.2,595,880,0.02,855,2023-09-16,Detroit
+365,Road Bike,Bicycles,483.46,1.5,4088,82,0.49,898,2023-09-11,Harrisburg
+366,Mountain Bike,Bicycles,421.34,4.9,3789,62,0.28,1659,2024-02-12,El Paso
+367,Electric Bike,Bicycles,321.19,2.8,1143,933,0.06,675,2023-08-31,Sacramento
+368,Mountain Bike,Bicycles,16.08,2.9,4916,738,0.11,333,2023-11-03,Charlotte
+369,Mountain Bike,Bicycles,33.59,4.6,4008,631,0.09,694,2024-05-27,Allentown
+370,Mountain Bike,Bicycles,420.69,2.1,2315,34,0.13,493,2024-04-23,Bonita Springs
+371,Mountain Bike,Bicycles,265.51,1.3,1299,868,0.3,1952,2023-11-24,Oklahoma City
+372,Mountain Bike,Bicycles,26.0,4.5,4577,727,0.48,1031,2023-08-16,Palm Bay
+373,Hybrid Bike,Bicycles,220.91,2.3,3659,173,0.39,1896,2024-01-17,Oakland
+374,Road Bike,Bicycles,90.76,1.7,1573,787,0.39,178,2024-02-01,Riverside
+375,Hybrid Bike,Bicycles,261.06,1.4,578,853,0.13,1185,2023-07-01,Colorado Springs
+376,Hybrid Bike,Bicycles,492.08,2.1,4005,261,0.45,1745,2024-04-12,Rochester
+377,Electric Bike,Bicycles,306.0,4.6,3451,361,0.49,92,2024-02-24,San Francisco
+378,Mountain Bike,Bicycles,315.03,2.9,1455,748,0.24,1712,2024-01-23,Richmond
+379,Mountain Bike,Bicycles,12.7,1.0,1213,135,0.02,891,2023-06-25,Albuquerque
+380,Road Bike,Bicycles,236.8,2.8,703,317,0.2,1845,2023-10-23,Harrisburg
+381,Mountain Bike,Bicycles,410.17,2.1,855,788,0.17,1958,2023-12-12,San Francisco
+382,Mountain Bike,Bicycles,24.54,3.7,1517,658,0.23,126,2024-04-27,Miami
+383,Mountain Bike,Bicycles,203.34,2.7,3403,583,0.45,1132,2023-09-18,New Haven
+384,Mountain Bike,Bicycles,161.59,4.3,987,249,0.36,1176,2023-07-01,Baltimore
+385,Road Bike,Bicycles,35.06,2.0,726,688,0.3,849,2024-01-18,Richmond
+386,Road Bike,Bicycles,335.99,4.2,419,593,0.05,1774,2024-03-20,Reno
+387,Mountain Bike,Bicycles,44.79,1.3,2702,40,0.47,958,2023-09-01,Colorado Springs
+388,Mountain Bike,Bicycles,326.76,4.6,1996,265,0.25,562,2024-02-15,Palm Bay
+389,Mountain Bike,Bicycles,310.16,4.5,3155,453,0.06,1537,2024-03-11,Oklahoma City
+390,Road Bike,Bicycles,416.22,5.0,4008,267,0.15,1856,2023-08-06,Austin
+391,Mountain Bike,Bicycles,205.69,4.6,4669,48,0.11,920,2023-09-07,New Orleans
+392,Electric Bike,Bicycles,329.62,4.4,1130,657,0.2,1452,2024-03-31,New Orleans
+393,Mountain Bike,Bicycles,432.25,3.4,3435,865,0.19,194,2024-01-08,Jacksonville
+394,Electric Bike,Bicycles,459.15,2.7,359,74,0.29,1848,2024-02-15,Richmond
+395,Electric Bike,Bicycles,202.56,3.1,3361,439,0.08,6,2023-11-29,Las Vegas
+396,Mountain Bike,Bicycles,446.15,2.4,3219,786,0.01,1467,2024-02-07,Brooklyn
+397,Hybrid Bike,Bicycles,162.5,3.7,929,687,0.11,1227,2023-07-27,Boise
+398,Hybrid Bike,Bicycles,347.25,1.6,1399,343,0.25,74,2024-04-28,Birmingham
+399,Electric Bike,Bicycles,58.66,1.8,4458,447,0.21,1586,2023-08-11,Memphis
+400,Road Bike,Bicycles,380.54,2.8,4637,937,0.45,124,2024-05-06,Cincinnati
+401,Sketchbook,Art and crafting materials,193.65,2.9,785,200,0.49,76,2024-04-14,El Paso
+402,Brushes,Art and crafting materials,84.28,1.1,3807,277,0.27,1188,2023-08-12,Baton Rouge
+403,Paint Set,Art and crafting materials,275.44,4.0,2390,946,0.18,1377,2024-02-24,Baltimore
+404,Brushes,Art and crafting materials,96.81,3.0,382,532,0.48,358,2023-07-24,Portland
+405,Brushes,Art and crafting materials,90.97,3.3,1134,865,0.24,434,2023-09-13,Detroit
+406,Brushes,Art and crafting materials,441.35,3.5,3735,761,0.23,998,2023-07-07,Las Vegas
+407,Canvas,Art and crafting materials,29.34,2.9,2211,885,0.11,63,2024-03-13,Knoxville
+408,Paint Set,Art and crafting materials,303.57,2.4,3630,139,0.02,1781,2024-06-07,Oklahoma City
+409,Paint Set,Art and crafting materials,343.57,2.9,882,146,0.26,619,2023-10-20,Miami
+410,Canvas,Art and crafting materials,433.14,3.4,1610,416,0.28,406,2023-11-22,Denver
+411,Canvas,Art and crafting materials,251.24,3.3,3802,81,0.22,1710,2023-10-17,Queens
+412,Canvas,Art and crafting materials,405.23,2.9,2558,328,0.03,940,2023-07-11,New Haven
+413,Paint Set,Art and crafting materials,425.01,4.6,2490,836,0.26,1517,2023-12-06,Houston
+414,Brushes,Art and crafting materials,369.67,4.1,4117,348,0.02,1858,2024-04-19,Virginia Beach
+415,Sketchbook,Art and crafting materials,75.87,2.2,1999,203,0.4,1687,2024-05-08,Chicago
+416,Canvas,Art and crafting materials,269.0,4.2,3234,18,0.1,793,2024-02-20,Staten Island
+417,Canvas,Art and crafting materials,154.36,1.1,1088,291,0.42,0,2024-05-06,San Diego
+418,Paint Set,Art and crafting materials,379.18,4.1,200,126,0.44,546,2023-12-01,Long Beach
+419,Brushes,Art and crafting materials,53.42,3.0,413,990,0.03,1378,2024-04-01,Oakland
+420,Brushes,Art and crafting materials,319.72,3.3,2015,289,0.0,82,2024-02-10,Toledo
+421,Sketchbook,Art and crafting materials,156.79,1.3,2422,161,0.4,1679,2023-06-20,Charlotte
+422,Canvas,Art and crafting materials,81.15,3.8,2158,926,0.12,294,2023-11-10,Albuquerque
+423,Sketchbook,Art and crafting materials,84.64,2.1,3701,732,0.29,1830,2023-07-27,Kansas City
+424,Paint Set,Art and crafting materials,323.83,4.9,1556,402,0.18,1336,2023-09-05,Cincinnati
+425,Sketchbook,Art and crafting materials,102.04,3.9,1589,563,0.32,1905,2024-05-29,Bonita Springs
+426,Sketchbook,Art and crafting materials,359.84,4.3,2307,204,0.46,775,2024-05-31,San Jose
+427,Brushes,Art and crafting materials,87.73,4.5,4449,638,0.03,1739,2024-04-24,Cincinnati
+428,Brushes,Art and crafting materials,60.35,1.8,1884,153,0.36,1749,2023-08-23,Phoenix
+429,Paint Set,Art and crafting materials,40.72,4.4,2437,324,0.47,1855,2024-01-07,Grand Rapids
+430,Canvas,Art and crafting materials,59.93,2.4,4232,922,0.43,1475,2024-03-04,Washington
+431,Sketchbook,Art and crafting materials,447.02,2.7,2224,197,0.19,1995,2023-12-16,San Juan
+432,Paint Set,Art and crafting materials,66.85,1.2,1948,928,0.47,1752,2024-02-13,Baton Rouge
+433,Brushes,Art and crafting materials,12.14,1.7,3988,234,0.33,928,2024-05-19,Harrisburg
+434,Canvas,Art and crafting materials,73.5,3.7,4888,605,0.13,1875,2023-11-14,Charlotte
+435,Canvas,Art and crafting materials,499.74,1.4,2587,552,0.24,1519,2024-01-18,San Jose
+436,Canvas,Art and crafting materials,190.67,2.5,891,454,0.38,209,2023-10-27,Grand Rapids
+437,Paint Set,Art and crafting materials,213.74,3.9,4744,328,0.43,1845,2024-03-04,Raleigh
+438,Paint Set,Art and crafting materials,379.47,1.1,3976,727,0.47,1827,2023-09-12,Virginia Beach
+439,Brushes,Art and crafting materials,164.66,3.6,3220,539,0.36,1461,2024-04-08,Boise
+440,Canvas,Art and crafting materials,51.82,1.2,1548,312,0.41,53,2024-01-26,Portland
+441,Coffee Mug,Drinkware,141.12,4.3,4653,524,0.19,1815,2023-09-28,Staten Island
+442,Water Bottle,Drinkware,357.6,4.8,674,920,0.37,613,2024-05-26,Bakersfield
+443,Tea Cup,Drinkware,301.61,1.0,4266,408,0.48,1211,2023-07-02,Detroit
+444,Water Bottle,Drinkware,383.53,2.8,2831,686,0.11,1627,2023-12-09,Mission Viejo
+445,Tea Cup,Drinkware,71.52,1.1,2222,733,0.18,1444,2024-01-30,Allentown
+446,Wine Glass,Drinkware,18.6,2.2,32,54,0.26,755,2023-08-04,Columbus
+447,Water Bottle,Drinkware,289.62,3.3,4579,972,0.49,622,2023-08-10,Fresno
+448,Coffee Mug,Drinkware,278.01,4.3,3030,728,0.15,1068,2023-11-11,Des Moines
+449,Wine Glass,Drinkware,158.43,1.3,488,156,0.12,411,2023-11-20,Los Angeles
+450,Wine Glass,Drinkware,39.26,3.7,515,601,0.5,630,2024-01-31,Kansas City
+451,Tea Cup,Drinkware,495.75,3.2,3871,539,0.39,1552,2024-04-14,Concord
+452,Water Bottle,Drinkware,105.96,1.6,25,24,0.39,1324,2023-07-09,Worcester
+453,Wine Glass,Drinkware,491.01,3.1,3483,970,0.13,1072,2023-12-20,Concord
+454,Tea Cup,Drinkware,175.3,3.9,1592,558,0.03,685,2023-10-14,Orlando
+455,Water Bottle,Drinkware,82.18,1.0,2295,565,0.21,421,2023-10-30,Palm Bay
+456,Wine Glass,Drinkware,183.59,4.8,2500,389,0.14,597,2023-11-15,Springfield
+457,Water Bottle,Drinkware,277.82,2.7,1757,2,0.08,1116,2024-06-04,Boise
+458,Tea Cup,Drinkware,449.86,3.7,3823,330,0.4,1546,2023-06-27,Phoenix
+459,Tea Cup,Drinkware,332.97,1.4,4675,866,0.25,695,2023-07-28,Dayton
+460,Wine Glass,Drinkware,490.76,3.3,356,600,0.46,310,2023-06-20,Minneapolis
+461,Water Bottle,Drinkware,16.38,1.1,619,882,0.37,124,2023-06-24,Cleveland
+462,Coffee Mug,Drinkware,480.47,3.1,929,246,0.2,361,2024-06-04,Des Moines
+463,Water Bottle,Drinkware,361.98,2.0,4282,595,0.28,1877,2024-03-11,Bonita Springs
+464,Water Bottle,Drinkware,305.5,4.3,3619,612,0.19,1179,2023-10-01,Seattle
+465,Wine Glass,Drinkware,32.57,4.2,4967,321,0.26,943,2024-03-13,Sacramento
+466,Water Bottle,Drinkware,220.06,1.1,3947,652,0.0,739,2023-09-21,Bridgeport
+467,Water Bottle,Drinkware,204.94,4.7,2176,671,0.26,326,2023-10-15,Wichita
+468,Wine Glass,Drinkware,202.3,4.0,3696,358,0.29,717,2024-05-26,Akron
+469,Water Bottle,Drinkware,496.3,2.5,692,90,0.21,960,2024-02-19,San Juan
+470,Coffee Mug,Drinkware,103.88,4.7,3699,854,0.25,1738,2024-05-02,Los Angeles
+471,Coffee Mug,Drinkware,122.06,4.8,2401,748,0.11,1603,2023-11-28,Provo
+472,Tea Cup,Drinkware,223.94,3.3,2635,281,0.42,1132,2023-12-07,Fresno
+473,Wine Glass,Drinkware,448.11,4.8,4647,644,0.21,131,2023-09-07,Grand Rapids
+474,Water Bottle,Drinkware,445.55,3.2,3180,220,0.13,1391,2024-01-17,San Jose
+475,Tea Cup,Drinkware,428.96,1.8,3576,474,0.03,270,2023-11-30,Houston
+476,Wine Glass,Drinkware,407.33,4.3,3607,535,0.33,1858,2023-08-27,New York
+477,Coffee Mug,Drinkware,237.01,1.2,278,876,0.02,253,2023-12-14,Las Vegas
+478,Water Bottle,Drinkware,270.69,3.4,699,565,0.18,1848,2024-01-26,Pittsburgh
+479,Tea Cup,Drinkware,120.8,2.2,3388,211,0.12,1714,2023-07-06,Indianapolis
+480,Wine Glass,Drinkware,103.65,2.2,4082,510,0.32,1192,2023-07-05,Albuquerque
+481,Eau de Toilette,Perfume and cologne,158.44,2.3,1135,410,0.14,1208,2024-04-26,Buffalo
+482,Eau de Toilette,Perfume and cologne,208.82,1.9,4308,309,0.3,752,2023-09-14,San Diego
+483,Body Spray,Perfume and cologne,213.09,4.0,4538,161,0.39,520,2024-01-25,Las Vegas
+484,Perfume Oil,Perfume and cologne,30.79,2.1,3907,559,0.15,152,2024-02-10,Washington
+485,Eau de Parfum,Perfume and cologne,284.44,4.1,1752,562,0.18,488,2024-03-16,Minneapolis
+486,Eau de Toilette,Perfume and cologne,351.63,3.9,1914,197,0.46,406,2023-12-28,Las Vegas
+487,Eau de Parfum,Perfume and cologne,432.23,2.1,4858,680,0.1,1164,2024-04-03,Toledo
+488,Eau de Toilette,Perfume and cologne,335.92,1.6,3408,574,0.38,1903,2023-12-20,Cleveland
+489,Eau de Parfum,Perfume and cologne,474.07,3.0,1497,782,0.25,863,2024-02-05,Birmingham
+490,Perfume Oil,Perfume and cologne,198.33,1.1,1907,418,0.01,825,2023-08-28,Baltimore
+491,Eau de Toilette,Perfume and cologne,423.21,1.4,3386,924,0.41,888,2023-12-27,Birmingham
+492,Body Spray,Perfume and cologne,220.5,2.2,3407,389,0.06,1263,2023-07-28,Denver
+493,Eau de Toilette,Perfume and cologne,280.83,2.6,4986,554,0.43,1683,2024-03-09,Harrisburg
+494,Perfume Oil,Perfume and cologne,316.26,2.3,3093,882,0.25,839,2024-06-05,Albany
+495,Eau de Toilette,Perfume and cologne,316.19,3.3,3062,594,0.31,499,2023-07-20,Charleston
+496,Perfume Oil,Perfume and cologne,101.59,1.1,2378,900,0.18,1424,2024-03-07,Minneapolis
+497,Eau de Parfum,Perfume and cologne,369.02,2.6,887,58,0.18,49,2024-05-24,Wichita
+498,Eau de Toilette,Perfume and cologne,172.9,1.2,2606,678,0.47,1164,2024-03-20,Harrisburg
+499,Eau de Toilette,Perfume and cologne,369.41,1.5,3474,127,0.38,759,2024-05-14,Detroit
+500,Perfume Oil,Perfume and cologne,145.4,2.7,4664,391,0.03,1692,2023-11-23,New Orleans
+501,Eau de Parfum,Perfume and cologne,60.53,3.2,1341,680,0.37,1497,2023-11-06,Little Rock
+502,Eau de Parfum,Perfume and cologne,204.83,2.1,4873,97,0.24,207,2024-06-10,Austin
+503,Perfume Oil,Perfume and cologne,279.31,3.8,153,938,0.3,218,2024-01-07,Raleigh
+504,Body Spray,Perfume and cologne,476.2,2.2,2195,107,0.23,1506,2023-07-26,Denton
+505,Eau de Toilette,Perfume and cologne,324.4,3.8,1742,282,0.34,480,2023-06-26,Tulsa
+506,Perfume Oil,Perfume and cologne,295.94,3.1,2555,257,0.43,1088,2024-03-21,San Jose
+507,Eau de Toilette,Perfume and cologne,230.05,3.4,4757,946,0.44,890,2023-10-08,Phoenix
+508,Eau de Toilette,Perfume and cologne,316.35,2.5,283,448,0.01,1091,2024-06-05,Mesa
+509,Eau de Parfum,Perfume and cologne,275.58,4.8,3491,72,0.42,617,2023-08-29,St. Louis
+510,Eau de Toilette,Perfume and cologne,488.73,1.4,369,794,0.22,1442,2023-10-12,San Diego
+511,Body Spray,Perfume and cologne,51.31,4.2,4462,270,0.41,378,2024-03-31,New York
+512,Body Spray,Perfume and cologne,14.44,3.4,3856,42,0.32,169,2023-11-13,Des Moines
+513,Eau de Parfum,Perfume and cologne,54.78,1.8,150,110,0.37,1070,2024-04-10,Knoxville
+514,Eau de Parfum,Perfume and cologne,115.06,2.1,4897,295,0.18,945,2023-07-30,Virginia Beach
+515,Eau de Toilette,Perfume and cologne,302.58,3.4,1629,303,0.17,1361,2024-05-05,Dayton
+516,Body Spray,Perfume and cologne,413.26,4.7,3757,386,0.31,832,2024-03-13,Grand Rapids
+517,Eau de Toilette,Perfume and cologne,152.83,4.1,2556,389,0.4,294,2023-09-02,Seattle
+518,Eau de Parfum,Perfume and cologne,448.72,3.7,4663,186,0.23,444,2024-04-15,Bronx
+519,Body Spray,Perfume and cologne,322.6,4.3,679,419,0.27,1642,2024-05-06,Memphis
+520,Body Spray,Perfume and cologne,41.36,4.3,2559,138,0.3,1228,2023-09-26,Charlotte
+521,White Wine,Wine,256.29,1.2,4917,87,0.46,1230,2024-02-04,Cape Coral
+522,Rose Wine,Wine,359.35,1.0,120,384,0.46,1364,2024-01-31,Columbia
+523,Red Wine,Wine,100.97,3.7,2668,302,0.34,802,2024-04-04,Louisville
+524,Red Wine,Wine,161.81,2.0,2359,745,0.27,276,2024-04-12,Minneapolis
+525,Rose Wine,Wine,47.55,4.5,2591,566,0.48,1571,2024-02-23,Charleston
+526,White Wine,Wine,193.02,2.1,2895,96,0.16,828,2024-01-27,Charleston
+527,White Wine,Wine,281.15,3.0,661,424,0.43,1449,2024-03-17,Queens
+528,Red Wine,Wine,178.94,2.8,2942,725,0.15,1262,2023-12-30,Reno
+529,Rose Wine,Wine,97.83,3.8,4590,623,0.06,1424,2023-10-09,Columbia
+530,Sparkling Wine,Wine,432.86,3.1,3089,605,0.08,288,2023-11-16,Omaha
+531,White Wine,Wine,91.22,4.6,4729,649,0.32,114,2024-01-02,Little Rock
+532,Red Wine,Wine,113.83,2.2,2294,558,0.2,146,2024-02-15,Kansas City
+533,Rose Wine,Wine,377.2,3.3,2410,508,0.21,1312,2024-05-24,Tucson
+534,Rose Wine,Wine,351.25,3.8,448,924,0.25,1522,2024-01-23,Portland
+535,White Wine,Wine,291.95,1.1,238,204,0.35,244,2023-07-28,Denton
+536,Red Wine,Wine,175.23,1.6,4166,268,0.2,304,2024-06-05,Provo
+537,White Wine,Wine,258.82,2.7,1776,573,0.4,1560,2023-10-05,Concord
+538,Red Wine,Wine,209.98,4.5,2463,793,0.13,24,2023-08-07,Colorado Springs
+539,Sparkling Wine,Wine,351.66,4.0,504,597,0.42,498,2023-06-14,Spokane
+540,Rose Wine,Wine,149.9,3.1,3484,338,0.41,1960,2023-09-15,Bonita Springs
+541,Rose Wine,Wine,16.55,2.6,2104,231,0.01,383,2024-04-25,Pittsburgh
+542,White Wine,Wine,42.82,4.5,2763,750,0.27,291,2023-07-13,Little Rock
+543,Sparkling Wine,Wine,277.34,4.9,4177,833,0.26,334,2024-05-23,Milwaukee
+544,Sparkling Wine,Wine,471.85,1.2,2370,850,0.04,205,2023-07-28,Rochester
+545,Sparkling Wine,Wine,43.67,2.5,2890,121,0.17,95,2023-07-01,Tucson
+546,White Wine,Wine,116.66,3.6,670,123,0.05,1527,2023-11-18,Pittsburgh
+547,Sparkling Wine,Wine,42.57,4.1,249,313,0.39,1452,2023-07-30,Chicago
+548,Rose Wine,Wine,341.96,4.0,3426,484,0.1,43,2024-05-14,Sacramento
+549,Rose Wine,Wine,93.24,1.8,219,901,0.37,400,2023-11-10,Bonita Springs
+550,Rose Wine,Wine,302.61,3.6,803,489,0.29,1493,2024-04-11,Charleston
+551,White Wine,Wine,160.38,2.7,53,527,0.1,1082,2023-08-04,Oklahoma City
+552,Sparkling Wine,Wine,303.89,4.4,2781,715,0.36,394,2023-11-18,Port St. Lucie
+553,Sparkling Wine,Wine,47.72,3.8,370,857,0.23,1341,2023-11-01,Bakersfield
+554,Red Wine,Wine,143.25,3.8,4334,194,0.47,1245,2024-04-12,Bronx
+555,Red Wine,Wine,269.07,4.3,3988,377,0.14,922,2023-06-22,Ogden
+556,Rose Wine,Wine,139.67,3.6,974,206,0.39,1814,2023-07-22,Oklahoma City
+557,Sparkling Wine,Wine,53.31,3.8,203,160,0.22,768,2023-12-30,Cincinnati
+558,Rose Wine,Wine,139.36,2.7,607,674,0.41,827,2024-02-13,Concord
+559,White Wine,Wine,336.76,2.3,2103,365,0.44,1767,2023-10-01,Omaha
+560,Red Wine,Wine,223.85,3.7,2378,992,0.29,1791,2024-05-05,Detroit
+561,Knee-High Socks,Socks,415.06,4.6,956,798,0.4,572,2023-07-01,Oakland
+562,Ankle Socks,Socks,289.87,2.2,2828,880,0.48,458,2023-12-08,Tulsa
+563,Wool Socks,Socks,394.03,3.3,4603,303,0.16,597,2023-12-29,Salt Lake City
+564,Ankle Socks,Socks,384.53,3.5,991,355,0.02,206,2023-09-30,Jacksonville
+565,Ankle Socks,Socks,12.62,4.8,4804,852,0.2,338,2024-05-18,Fresno
+566,Knee-High Socks,Socks,495.43,4.0,2730,449,0.35,938,2024-01-11,Mesa
+567,Knee-High Socks,Socks,289.05,4.5,650,621,0.19,539,2023-11-28,Buffalo
+568,Ankle Socks,Socks,113.7,5.0,2827,561,0.32,1136,2023-12-25,Pittsburgh
+569,Knee-High Socks,Socks,470.57,3.0,4383,906,0.42,1178,2024-04-18,Colorado Springs
+570,Cotton Socks,Socks,192.83,4.8,2324,939,0.25,1448,2024-04-14,New Haven
+571,Ankle Socks,Socks,487.38,1.3,917,850,0.37,838,2023-09-26,Reno
+572,Wool Socks,Socks,97.88,3.8,1749,753,0.33,92,2024-01-22,Las Vegas
+573,Cotton Socks,Socks,19.38,4.1,374,58,0.35,779,2023-08-21,St. Louis
+574,Cotton Socks,Socks,345.99,4.6,3255,89,0.2,972,2023-07-26,Spokane
+575,Wool Socks,Socks,418.56,3.6,1610,967,0.05,1834,2024-01-14,Louisville
+576,Knee-High Socks,Socks,25.55,2.7,4735,339,0.44,1167,2023-07-30,Indianapolis
+577,Ankle Socks,Socks,113.5,4.5,1262,951,0.1,1204,2023-11-10,Boise
+578,Knee-High Socks,Socks,443.45,1.5,4274,211,0.11,464,2023-10-17,Rochester
+579,Ankle Socks,Socks,486.96,2.9,2654,884,0.03,275,2023-10-25,New Haven
+580,Wool Socks,Socks,487.92,4.3,3135,809,0.47,1938,2024-06-01,Atlanta
+581,Cotton Socks,Socks,44.81,1.8,762,275,0.03,727,2024-04-21,Spokane
+582,Ankle Socks,Socks,82.17,4.9,2040,807,0.06,235,2024-04-17,Minneapolis
+583,Ankle Socks,Socks,401.16,2.3,903,92,0.12,1083,2024-01-26,Charleston
+584,Ankle Socks,Socks,189.14,2.4,1036,991,0.49,1817,2024-03-18,San Jose
+585,Knee-High Socks,Socks,81.99,2.4,2430,855,0.08,1494,2023-09-08,Allentown
+586,Cotton Socks,Socks,416.36,3.8,3373,95,0.08,191,2023-09-20,Worcester
+587,Knee-High Socks,Socks,158.78,2.2,3183,827,0.24,1168,2024-04-08,El Paso
+588,Ankle Socks,Socks,492.27,2.6,2153,180,0.21,776,2023-09-08,Mesa
+589,Wool Socks,Socks,180.06,3.2,2153,270,0.02,1526,2023-12-28,Mission Viejo
+590,Wool Socks,Socks,494.83,4.6,3802,980,0.24,1743,2023-11-24,Madison
+591,Ankle Socks,Socks,284.19,3.7,226,47,0.2,1462,2023-08-22,Cleveland
+592,Knee-High Socks,Socks,213.91,3.1,2535,908,0.44,1252,2024-03-27,Memphis
+593,Wool Socks,Socks,261.32,4.5,4405,131,0.49,1095,2023-09-05,Tampa
+594,Wool Socks,Socks,334.22,1.6,1445,119,0.09,1757,2024-02-02,Buffalo
+595,Wool Socks,Socks,209.21,4.6,2294,71,0.19,5,2023-11-19,Omaha
+596,Knee-High Socks,Socks,400.89,2.5,698,75,0.28,1822,2023-06-29,Queens
+597,Ankle Socks,Socks,175.45,5.0,2334,765,0.26,1619,2024-05-30,Tucson
+598,Wool Socks,Socks,436.63,4.2,275,499,0.38,1973,2023-09-13,Mission Viejo
+599,Knee-High Socks,Socks,248.2,4.7,4204,278,0.15,1799,2023-08-02,Atlanta
+600,Cotton Socks,Socks,395.05,3.4,1520,155,0.38,1295,2024-06-10,Worcester
+601,Silk Sheets,Bedsheets,220.69,3.4,870,12,0.38,1756,2023-10-18,Buffalo
+602,Silk Sheets,Bedsheets,243.09,3.7,1647,566,0.32,1490,2024-02-17,Omaha
+603,Linen Sheets,Bedsheets,456.2,3.0,4660,470,0.31,925,2023-08-04,Los Angeles
+604,Bamboo Sheets,Bedsheets,464.91,5.0,1067,738,0.38,1743,2023-09-21,Oklahoma City
+605,Bamboo Sheets,Bedsheets,34.31,3.9,2951,71,0.46,1291,2023-07-27,San Antonio
+606,Linen Sheets,Bedsheets,402.71,2.6,4234,614,0.06,272,2023-11-04,Cincinnati
+607,Cotton Sheets,Bedsheets,287.23,4.7,4485,341,0.03,1956,2023-12-03,Cleveland
+608,Linen Sheets,Bedsheets,267.12,4.1,4322,370,0.17,816,2024-01-15,Bronx
+609,Linen Sheets,Bedsheets,153.95,1.2,870,667,0.3,1029,2024-01-17,Madison
+610,Bamboo Sheets,Bedsheets,165.6,4.4,3190,292,0.44,1603,2023-11-11,Bonita Springs
+611,Silk Sheets,Bedsheets,457.34,2.4,307,569,0.36,1128,2023-10-28,Tampa
+612,Linen Sheets,Bedsheets,223.47,4.2,1378,749,0.04,795,2023-11-15,Long Beach
+613,Bamboo Sheets,Bedsheets,418.94,4.7,4567,719,0.23,1957,2024-01-27,New York
+614,Linen Sheets,Bedsheets,89.77,3.4,1398,653,0.22,1534,2023-08-27,Cape Coral
+615,Linen Sheets,Bedsheets,130.86,2.9,3049,72,0.38,1983,2023-06-18,Baltimore
+616,Silk Sheets,Bedsheets,96.82,2.2,1977,282,0.03,270,2024-01-01,Austin
+617,Bamboo Sheets,Bedsheets,433.83,2.0,2398,433,0.45,1494,2024-02-01,Cape Coral
+618,Linen Sheets,Bedsheets,156.44,1.4,1269,600,0.36,1922,2024-01-15,Orlando
+619,Cotton Sheets,Bedsheets,432.94,4.3,2044,480,0.06,1788,2024-01-21,Spokane
+620,Silk Sheets,Bedsheets,156.97,3.4,1325,24,0.08,888,2024-04-03,Milwaukee
+621,Cotton Sheets,Bedsheets,32.17,1.9,470,963,0.29,660,2023-10-29,Toledo
+622,Silk Sheets,Bedsheets,266.34,3.8,3623,241,0.28,1203,2023-11-25,Brooklyn
+623,Linen Sheets,Bedsheets,134.43,4.1,3308,692,0.23,55,2023-10-19,Hartford
+624,Silk Sheets,Bedsheets,115.2,1.3,2799,513,0.37,1723,2023-08-10,Chicago
+625,Silk Sheets,Bedsheets,433.1,1.9,4006,601,0.39,1991,2023-11-05,Nashville
+626,Silk Sheets,Bedsheets,398.85,1.1,1719,494,0.07,542,2024-04-21,Indianapolis
+627,Cotton Sheets,Bedsheets,349.09,2.8,4647,612,0.31,1856,2023-10-07,Austin
+628,Linen Sheets,Bedsheets,347.49,4.6,1232,21,0.24,1231,2024-06-04,Grand Rapids
+629,Silk Sheets,Bedsheets,404.8,2.3,2649,652,0.04,848,2024-03-26,Port St. Lucie
+630,Cotton Sheets,Bedsheets,422.05,1.9,1262,71,0.4,1845,2023-09-03,Baton Rouge
+631,Cotton Sheets,Bedsheets,234.97,2.2,2722,59,0.06,981,2024-04-15,McAllen
+632,Cotton Sheets,Bedsheets,216.17,3.4,3076,985,0.2,709,2024-04-14,Austin
+633,Bamboo Sheets,Bedsheets,313.43,2.3,4621,461,0.03,383,2024-04-29,Minneapolis
+634,Linen Sheets,Bedsheets,261.03,4.1,1003,418,0.04,1938,2024-03-04,Boston
+635,Linen Sheets,Bedsheets,207.57,4.3,1895,919,0.31,144,2023-07-21,Dallas
+636,Linen Sheets,Bedsheets,481.51,2.8,3212,965,0.34,397,2023-10-17,Madison
+637,Silk Sheets,Bedsheets,99.07,1.6,4827,911,0.02,428,2023-07-02,Columbia
+638,Bamboo Sheets,Bedsheets,263.96,3.8,4866,757,0.16,1806,2023-12-24,New Orleans
+639,Linen Sheets,Bedsheets,479.48,1.9,3847,582,0.47,370,2024-03-01,Wichita
+640,Silk Sheets,Bedsheets,165.13,2.1,2845,457,0.16,881,2023-11-28,Colorado Springs
+641,Framed Poster,Posters and artwork,219.94,3.9,4266,381,0.07,452,2023-06-28,Kansas City
+642,Canvas Print,Posters and artwork,472.16,1.9,3075,92,0.46,287,2024-02-27,Orlando
+643,Canvas Print,Posters and artwork,132.26,3.2,4552,740,0.45,1029,2024-02-21,Albany
+644,Art Print,Posters and artwork,29.24,2.1,3722,810,0.49,1411,2023-07-11,Oakland
+645,Framed Poster,Posters and artwork,113.33,4.4,2501,290,0.47,149,2023-10-09,Concord
+646,Digital Art,Posters and artwork,232.66,4.1,2123,598,0.23,1553,2024-02-20,Allentown
+647,Digital Art,Posters and artwork,469.88,1.7,1106,124,0.11,1070,2023-09-30,Bronx
+648,Digital Art,Posters and artwork,214.42,1.6,2415,494,0.38,717,2023-08-03,Virginia Beach
+649,Canvas Print,Posters and artwork,59.12,1.1,1357,354,0.3,1761,2023-09-20,San Francisco
+650,Digital Art,Posters and artwork,125.15,4.3,4780,902,0.07,1471,2024-04-09,Port St. Lucie
+651,Canvas Print,Posters and artwork,463.97,2.7,3066,330,0.21,1778,2024-05-25,Jacksonville
+652,Digital Art,Posters and artwork,24.04,3.3,4586,430,0.12,297,2024-03-28,Jacksonville
+653,Art Print,Posters and artwork,204.87,4.9,4922,922,0.35,71,2023-09-23,Baton Rouge
+654,Digital Art,Posters and artwork,193.61,3.2,4987,11,0.21,1578,2024-05-26,Baltimore
+655,Digital Art,Posters and artwork,119.92,1.9,3028,519,0.47,719,2023-08-25,Palm Bay
+656,Art Print,Posters and artwork,34.77,3.5,925,662,0.11,969,2024-04-02,New Haven
+657,Framed Poster,Posters and artwork,436.61,4.0,4290,910,0.2,1965,2023-09-11,Provo
+658,Framed Poster,Posters and artwork,290.28,4.2,2074,310,0.08,1683,2023-09-05,Palm Bay
+659,Canvas Print,Posters and artwork,179.81,2.6,4319,783,0.09,949,2023-06-22,Washington
+660,Canvas Print,Posters and artwork,202.04,3.8,3498,829,0.49,1891,2024-05-21,Denton
+661,Art Print,Posters and artwork,448.89,2.2,3406,440,0.07,1311,2024-04-23,Dallas
+662,Canvas Print,Posters and artwork,32.19,3.6,3748,277,0.34,988,2023-08-17,Charleston
+663,Canvas Print,Posters and artwork,24.71,2.8,2182,579,0.49,477,2024-01-05,San Jose
+664,Art Print,Posters and artwork,383.22,3.0,2462,338,0.49,287,2023-07-26,Concord
+665,Digital Art,Posters and artwork,211.48,2.7,2363,983,0.28,143,2024-05-27,Fort Worth
+666,Canvas Print,Posters and artwork,21.53,2.7,2176,906,0.28,3,2023-07-21,Houston
+667,Canvas Print,Posters and artwork,266.56,2.0,3792,224,0.25,991,2023-07-27,New York
+668,Digital Art,Posters and artwork,113.06,4.1,1131,530,0.06,1319,2023-08-11,Akron
+669,Digital Art,Posters and artwork,482.27,1.5,194,489,0.44,181,2023-08-12,Grand Rapids
+670,Art Print,Posters and artwork,12.65,1.0,3867,792,0.01,777,2023-08-19,Sacramento
+671,Art Print,Posters and artwork,168.67,3.6,1397,553,0.13,1269,2023-11-17,Detroit
+672,Framed Poster,Posters and artwork,306.94,4.4,2410,282,0.37,161,2024-01-04,Portland
+673,Canvas Print,Posters and artwork,301.13,2.6,4683,857,0.01,1887,2023-10-30,Queens
+674,Art Print,Posters and artwork,23.65,3.5,4416,434,0.27,1431,2024-01-05,Pittsburgh
+675,Framed Poster,Posters and artwork,483.0,1.2,2660,155,0.08,870,2023-09-06,New Orleans
+676,Framed Poster,Posters and artwork,44.0,1.4,1751,909,0.4,313,2023-07-16,Rochester
+677,Canvas Print,Posters and artwork,80.21,3.9,2686,847,0.5,439,2023-11-08,Atlanta
+678,Art Print,Posters and artwork,341.42,3.7,194,662,0.0,122,2023-12-08,San Juan
+679,Framed Poster,Posters and artwork,334.3,3.5,3814,990,0.02,395,2023-07-11,San Jose
+680,Framed Poster,Posters and artwork,420.26,1.5,3629,799,0.41,1424,2023-12-26,Mesa
+681,Soy Candle,Candles,460.01,3.6,2156,794,0.2,615,2023-09-30,Washington
+682,Beeswax Candle,Candles,156.4,4.6,1268,286,0.16,475,2024-03-21,Bonita Springs
+683,Soy Candle,Candles,16.32,3.2,935,908,0.48,290,2024-01-31,Bonita Springs
+684,Scented Candle,Candles,281.02,4.2,3861,961,0.3,507,2023-11-06,Albuquerque
+685,Scented Candle,Candles,201.05,2.9,4703,586,0.41,565,2023-07-04,Minneapolis
+686,Beeswax Candle,Candles,270.62,4.5,3603,557,0.23,1918,2024-04-15,San Jose
+687,Scented Candle,Candles,159.81,2.6,3996,851,0.34,28,2024-02-21,Baton Rouge
+688,Beeswax Candle,Candles,188.69,4.0,2756,474,0.06,211,2024-02-24,Reno
+689,Pillar Candle,Candles,379.2,4.5,4085,786,0.37,684,2023-12-24,Mission Viejo
+690,Scented Candle,Candles,340.11,4.1,1499,51,0.25,876,2023-07-06,Worcester
+691,Beeswax Candle,Candles,106.16,1.5,857,751,0.14,1942,2023-08-18,Indianapolis
+692,Scented Candle,Candles,275.27,1.3,4306,751,0.05,779,2023-11-18,Birmingham
+693,Beeswax Candle,Candles,42.68,1.2,4506,522,0.02,426,2023-09-11,Seattle
+694,Pillar Candle,Candles,205.59,3.4,1243,576,0.49,327,2024-04-21,St. Louis
+695,Soy Candle,Candles,447.88,1.3,3388,323,0.09,1689,2023-06-20,Wichita
+696,Soy Candle,Candles,175.28,4.8,4141,820,0.16,1912,2023-09-17,Pittsburgh
+697,Scented Candle,Candles,418.27,2.2,2163,629,0.31,1503,2023-08-12,Mission Viejo
+698,Beeswax Candle,Candles,232.55,2.6,2476,790,0.16,746,2023-08-04,Bakersfield
+699,Soy Candle,Candles,409.73,2.9,2829,333,0.03,347,2023-09-13,Baton Rouge
+700,Beeswax Candle,Candles,231.35,2.4,3164,684,0.06,1240,2023-06-20,Omaha
+701,Soy Candle,Candles,310.85,3.5,243,505,0.03,1110,2023-11-08,Manhattan
+702,Soy Candle,Candles,367.94,1.5,1192,329,0.24,390,2023-08-11,Tampa
+703,Soy Candle,Candles,435.4,2.2,1211,929,0.02,643,2023-11-07,Manhattan
+704,Pillar Candle,Candles,280.66,3.4,4552,188,0.29,1788,2023-08-25,Houston
+705,Soy Candle,Candles,269.69,3.7,1869,376,0.2,507,2024-05-27,Bridgeport
+706,Beeswax Candle,Candles,84.21,2.7,4516,528,0.26,941,2024-05-04,San Francisco
+707,Scented Candle,Candles,415.93,1.3,2155,267,0.41,1553,2024-03-14,Jacksonville
+708,Scented Candle,Candles,105.65,3.7,2430,441,0.49,1113,2023-10-19,New Haven
+709,Soy Candle,Candles,363.81,1.2,2645,18,0.26,606,2023-10-02,Houston
+710,Scented Candle,Candles,15.14,4.6,1547,629,0.31,1446,2023-10-10,Miami
+711,Scented Candle,Candles,16.32,1.9,746,701,0.18,769,2023-12-15,Fresno
+712,Beeswax Candle,Candles,196.67,1.2,2306,134,0.45,1771,2023-12-09,Spokane
+713,Scented Candle,Candles,419.33,1.8,4675,890,0.29,880,2024-03-06,Madison
+714,Scented Candle,Candles,43.37,1.9,4478,133,0.23,502,2023-12-10,Grand Rapids
+715,Scented Candle,Candles,212.93,4.8,3981,678,0.3,219,2023-12-16,Kansas City
+716,Beeswax Candle,Candles,244.38,1.1,3733,415,0.41,196,2024-05-01,Baton Rouge
+717,Scented Candle,Candles,266.47,1.9,3878,889,0.04,924,2024-02-10,Tampa
+718,Beeswax Candle,Candles,80.05,4.0,28,974,0.3,1419,2024-02-22,San Antonio
+719,Soy Candle,Candles,260.74,2.9,903,519,0.42,339,2023-12-20,Palm Bay
+720,Pillar Candle,Candles,13.59,1.1,3087,332,0.5,8,2023-08-01,Allentown
+721,Body Lotion,Bath and body,480.3,1.2,2062,838,0.02,1448,2023-09-08,San Antonio
+722,Body Scrub,Bath and body,267.2,2.8,2313,490,0.29,1735,2023-08-11,Bakersfield
+723,Body Scrub,Bath and body,492.18,4.2,1517,367,0.34,419,2023-09-07,Boise
+724,Bath Salts,Bath and body,348.46,3.9,3096,529,0.46,1578,2023-07-14,Philadelphia
+725,Body Scrub,Bath and body,47.61,1.0,2226,55,0.21,110,2024-01-27,Richmond
+726,Body Scrub,Bath and body,329.96,3.3,813,248,0.05,322,2024-06-06,New Orleans
+727,Body Scrub,Bath and body,481.95,1.5,2476,268,0.08,147,2024-02-15,New York
+728,Body Lotion,Bath and body,400.78,3.7,2038,812,0.24,1854,2024-03-28,Phoenix
+729,Bath Salts,Bath and body,224.16,3.5,3510,714,0.42,998,2023-08-08,Chicago
+730,Body Lotion,Bath and body,438.41,4.3,1451,727,0.2,562,2023-11-11,Boston
+731,Bath Salts,Bath and body,18.17,1.8,4534,731,0.21,698,2023-08-28,Mesa
+732,Bath Salts,Bath and body,265.72,1.3,3197,176,0.48,1634,2024-03-06,Kansas City
+733,Bath Salts,Bath and body,213.75,3.2,3916,637,0.26,309,2024-01-14,Cape Coral
+734,Body Scrub,Bath and body,320.07,4.1,684,557,0.01,1462,2023-11-11,Manhattan
+735,Shower Gel,Bath and body,222.69,1.5,3560,64,0.18,626,2024-04-09,Riverside
+736,Bath Salts,Bath and body,247.06,2.7,1181,588,0.3,1878,2023-10-31,Bridgeport
+737,Shower Gel,Bath and body,241.15,3.2,4908,939,0.11,1906,2023-08-14,Boise
+738,Body Scrub,Bath and body,134.72,2.9,2387,346,0.13,648,2023-10-11,Buffalo
+739,Shower Gel,Bath and body,212.08,1.8,4391,111,0.07,1200,2023-07-05,Port St. Lucie
+740,Body Scrub,Bath and body,138.05,2.7,3472,27,0.26,1560,2024-04-15,Oakland
+741,Body Lotion,Bath and body,213.6,4.6,2597,901,0.01,1677,2023-07-26,Knoxville
+742,Body Scrub,Bath and body,73.01,3.3,1248,663,0.02,1983,2023-10-15,Bronx
+743,Body Scrub,Bath and body,209.61,3.1,2749,0,0.1,428,2024-02-07,New Orleans
+744,Bath Salts,Bath and body,298.17,2.3,220,914,0.4,1048,2024-05-27,Akron
+745,Body Lotion,Bath and body,457.39,3.3,3986,480,0.13,1771,2023-06-18,Allentown
+746,Bath Salts,Bath and body,198.52,2.7,44,645,0.29,1093,2023-06-26,Baltimore
+747,Shower Gel,Bath and body,49.97,1.4,1001,9,0.26,755,2023-09-12,Provo
+748,Body Scrub,Bath and body,17.16,2.4,478,14,0.19,1191,2024-06-03,Las Vegas
+749,Shower Gel,Bath and body,401.34,4.7,271,142,0.08,1843,2024-04-04,Austin
+750,Bath Salts,Bath and body,334.66,4.2,622,769,0.41,771,2024-02-24,Little Rock
+751,Body Lotion,Bath and body,112.12,1.5,66,495,0.16,767,2024-06-03,Allentown
+752,Body Lotion,Bath and body,135.53,1.9,3580,297,0.43,375,2024-01-23,Milwaukee
+753,Body Scrub,Bath and body,184.72,4.6,72,307,0.26,1781,2023-08-05,Omaha
+754,Body Scrub,Bath and body,112.75,4.9,1174,668,0.15,178,2023-11-28,Ogden
+755,Bath Salts,Bath and body,84.17,1.6,787,747,0.03,492,2024-02-03,Miami
+756,Shower Gel,Bath and body,367.36,3.3,1129,374,0.25,697,2024-03-05,Allentown
+757,Body Lotion,Bath and body,111.22,2.3,324,978,0.2,955,2023-07-30,Des Moines
+758,Body Scrub,Bath and body,407.92,4.3,3086,216,0.16,1570,2023-12-12,Houston
+759,Body Lotion,Bath and body,99.58,4.8,2352,984,0.45,1013,2023-10-24,Akron
+760,Bath Salts,Bath and body,131.78,2.3,1577,272,0.15,972,2024-06-05,Philadelphia
+761,Dutch Oven,Cookware,394.69,2.1,4613,919,0.05,133,2023-09-01,San Jose
+762,Frying Pan,Cookware,172.49,3.0,2378,537,0.12,893,2023-09-02,Bronx
+763,Dutch Oven,Cookware,96.79,1.0,687,20,0.34,1894,2023-11-03,Queens
+764,Dutch Oven,Cookware,407.85,4.8,3797,58,0.4,1644,2024-01-07,Palm Bay
+765,Dutch Oven,Cookware,50.16,3.6,3106,378,0.32,236,2024-02-29,Tulsa
+766,Dutch Oven,Cookware,361.56,2.9,966,171,0.1,1146,2023-07-17,Palm Bay
+767,Frying Pan,Cookware,278.97,1.8,2212,698,0.3,1762,2024-04-25,Fort Worth
+768,Grill Pan,Cookware,466.92,4.7,610,115,0.23,1391,2023-10-03,Salt Lake City
+769,Saucepan,Cookware,187.86,4.5,3699,662,0.31,1525,2023-11-19,Reno
+770,Frying Pan,Cookware,33.13,4.8,4657,803,0.12,1614,2023-12-05,Fresno
+771,Dutch Oven,Cookware,433.11,1.5,351,700,0.07,1245,2023-10-15,Long Beach
+772,Saucepan,Cookware,488.13,2.5,2381,888,0.09,1105,2023-12-03,Salt Lake City
+773,Saucepan,Cookware,213.77,1.3,3639,93,0.21,596,2023-10-11,Houston
+774,Frying Pan,Cookware,105.9,4.3,2681,127,0.21,1296,2023-07-12,New Haven
+775,Frying Pan,Cookware,32.57,4.7,1505,861,0.3,998,2023-07-23,Atlanta
+776,Saucepan,Cookware,461.14,2.4,3236,487,0.24,1449,2023-12-10,Knoxville
+777,Frying Pan,Cookware,10.11,4.7,2721,438,0.38,250,2024-03-07,Dallas
+778,Frying Pan,Cookware,364.16,1.9,512,215,0.15,124,2024-03-22,New Orleans
+779,Dutch Oven,Cookware,193.66,3.5,2331,105,0.06,227,2023-12-07,Virginia Beach
+780,Frying Pan,Cookware,62.93,1.9,2921,471,0.02,12,2024-05-25,Charlotte
+781,Frying Pan,Cookware,177.21,2.8,294,188,0.25,1102,2024-01-18,Sacramento
+782,Dutch Oven,Cookware,339.08,1.1,4961,825,0.02,70,2023-10-08,El Paso
+783,Frying Pan,Cookware,493.58,4.0,4565,505,0.27,493,2023-08-12,Bronx
+784,Grill Pan,Cookware,432.83,2.1,2521,845,0.43,1454,2023-07-16,Harrisburg
+785,Frying Pan,Cookware,125.03,4.3,3199,531,0.41,1957,2023-07-20,Louisville
+786,Saucepan,Cookware,476.18,1.5,1407,430,0.09,981,2023-07-29,Cape Coral
+787,Saucepan,Cookware,152.77,2.7,3605,458,0.45,1436,2024-05-01,Salt Lake City
+788,Frying Pan,Cookware,421.6,2.4,2449,758,0.5,1317,2023-11-18,Milwaukee
+789,Frying Pan,Cookware,458.75,3.9,1910,914,0.16,1505,2023-08-26,Oklahoma City
+790,Frying Pan,Cookware,103.16,4.3,3548,709,0.04,178,2023-11-06,Minneapolis
+791,Saucepan,Cookware,431.23,1.7,60,53,0.01,847,2024-04-08,Philadelphia
+792,Grill Pan,Cookware,468.05,4.6,3960,698,0.44,1963,2023-12-14,Queens
+793,Dutch Oven,Cookware,256.82,4.5,1004,451,0.38,1039,2023-07-21,Staten Island
+794,Grill Pan,Cookware,348.71,1.7,124,80,0.25,1861,2024-01-14,Tulsa
+795,Grill Pan,Cookware,211.49,3.7,4846,500,0.2,210,2024-04-28,San Diego
+796,Saucepan,Cookware,29.51,2.1,4486,846,0.48,793,2024-03-07,Providence
+797,Dutch Oven,Cookware,352.8,4.4,4280,68,0.07,1590,2024-03-07,Little Rock
+798,Grill Pan,Cookware,490.82,2.5,1357,924,0.17,78,2024-04-06,Mission Viejo
+799,Dutch Oven,Cookware,320.3,2.8,2728,662,0.37,1337,2024-05-11,Bakersfield
+800,Dutch Oven,Cookware,406.05,1.3,3644,269,0.34,517,2024-03-01,Riverside
+801,Nail File,Nail care,82.77,3.4,3168,73,0.48,1705,2023-08-10,Salt Lake City
+802,Nail Clippers,Nail care,467.15,3.3,3598,573,0.41,1744,2023-07-28,Salt Lake City
+803,Nail File,Nail care,240.94,2.9,4734,291,0.26,12,2023-09-15,New Haven
+804,Nail Polish,Nail care,345.1,1.1,2494,985,0.16,73,2024-05-18,Louisville
+805,Nail Polish,Nail care,186.59,1.3,4136,428,0.27,365,2024-02-13,Memphis
+806,Nail Polish,Nail care,53.98,4.6,3201,351,0.24,1341,2024-01-27,New Haven
+807,Nail Clippers,Nail care,463.77,1.6,2415,93,0.1,1738,2023-07-07,El Paso
+808,Nail Polish,Nail care,227.45,2.1,585,876,0.44,1577,2023-11-13,Provo
+809,Nail Polish,Nail care,303.69,1.8,3085,432,0.06,131,2023-07-10,Dayton
+810,Cuticle Oil,Nail care,371.58,3.4,3276,78,0.25,987,2023-10-09,Mission Viejo
+811,Cuticle Oil,Nail care,52.68,2.9,1177,153,0.13,1456,2023-07-10,San Antonio
+812,Nail Clippers,Nail care,249.63,2.4,2857,786,0.28,1952,2024-03-28,Jacksonville
+813,Nail Polish,Nail care,162.97,3.9,4662,665,0.18,1331,2023-06-22,Virginia Beach
+814,Nail Polish,Nail care,304.68,2.4,4503,188,0.37,1152,2024-04-24,Nashville
+815,Nail Polish,Nail care,206.92,3.7,2489,199,0.37,859,2024-01-30,Allentown
+816,Nail Clippers,Nail care,245.34,3.6,1357,810,0.06,1357,2023-11-26,Bonita Springs
+817,Nail Polish,Nail care,376.82,2.9,3010,435,0.27,1945,2024-06-10,Allentown
+818,Nail File,Nail care,404.75,2.2,4825,555,0.27,1613,2023-11-09,Springfield
+819,Nail File,Nail care,228.9,1.5,1959,577,0.01,86,2024-03-25,Los Angeles
+820,Nail Polish,Nail care,335.02,4.4,1299,698,0.47,1206,2023-09-18,Minneapolis
+821,Nail Clippers,Nail care,387.18,4.9,2831,338,0.17,1532,2023-10-18,San Francisco
+822,Nail File,Nail care,253.65,1.7,3089,523,0.42,1269,2023-11-03,Bakersfield
+823,Nail Polish,Nail care,202.88,2.9,1797,83,0.43,618,2023-06-21,Reno
+824,Nail Clippers,Nail care,184.49,3.7,142,191,0.41,580,2024-05-20,New Orleans
+825,Nail Polish,Nail care,272.32,3.5,4500,839,0.16,1290,2023-07-20,Bronx
+826,Nail File,Nail care,336.79,2.7,3597,502,0.36,1675,2023-08-23,Harrisburg
+827,Nail Clippers,Nail care,55.43,3.1,4729,912,0.06,957,2023-11-02,Albuquerque
+828,Cuticle Oil,Nail care,246.31,1.2,2985,396,0.35,1108,2023-11-11,Grand Rapids
+829,Nail Polish,Nail care,485.21,3.9,641,11,0.38,865,2023-09-24,Tulsa
+830,Nail Clippers,Nail care,170.91,2.9,2942,651,0.24,519,2023-10-06,Spokane
+831,Cuticle Oil,Nail care,76.82,3.9,4564,211,0.13,803,2023-06-16,Tulsa
+832,Nail Clippers,Nail care,258.28,4.4,853,660,0.07,477,2023-12-28,El Paso
+833,Nail Clippers,Nail care,462.1,3.0,4505,421,0.42,1724,2024-04-29,Virginia Beach
+834,Nail File,Nail care,174.8,4.7,377,389,0.28,241,2023-08-23,Salt Lake City
+835,Nail Clippers,Nail care,169.06,3.7,69,852,0.14,38,2023-08-28,Queens
+836,Cuticle Oil,Nail care,393.67,4.0,755,351,0.42,1321,2023-09-03,Houston
+837,Nail File,Nail care,257.41,4.1,3865,24,0.06,737,2024-04-16,Philadelphia
+838,Nail Clippers,Nail care,218.23,2.5,2623,454,0.22,1236,2023-09-28,Denver
+839,Nail File,Nail care,59.28,2.6,595,802,0.43,1020,2023-10-10,Colorado Springs
+840,Nail File,Nail care,172.89,2.3,3964,541,0.18,905,2023-07-05,Ogden
+841,Thongs,Underwear,496.7,4.5,3235,160,0.3,1831,2024-03-15,Pittsburgh
+842,Thongs,Underwear,425.61,3.7,4957,274,0.1,1274,2023-08-07,Raleigh
+843,Thongs,Underwear,165.84,4.7,1927,529,0.46,4,2023-12-13,Charleston
+844,Boxers,Underwear,165.52,1.9,2663,890,0.05,1278,2024-03-28,Reno
+845,Briefs,Underwear,17.85,4.9,2636,484,0.3,1281,2024-02-06,Bronx
+846,Boxers,Underwear,203.1,4.4,253,187,0.4,782,2024-06-07,Columbia
+847,Panties,Underwear,450.63,3.5,654,361,0.24,1798,2024-05-03,Akron
+848,Thongs,Underwear,341.44,2.2,3823,739,0.38,576,2024-06-01,Oklahoma City
+849,Thongs,Underwear,312.14,1.2,1244,852,0.23,236,2023-11-06,Atlanta
+850,Panties,Underwear,112.46,1.5,989,188,0.49,615,2023-07-12,McAllen
+851,Panties,Underwear,20.29,1.1,4452,255,0.44,1755,2024-06-03,Cleveland
+852,Thongs,Underwear,207.49,3.5,4379,311,0.06,481,2023-10-30,Spokane
+853,Boxers,Underwear,228.18,3.0,569,589,0.05,421,2023-07-24,Columbia
+854,Boxers,Underwear,172.76,3.8,1223,100,0.46,1609,2023-12-24,Denver
+855,Boxers,Underwear,125.44,2.2,220,594,0.12,521,2024-06-08,Indianapolis
+856,Panties,Underwear,324.96,3.9,4310,971,0.12,100,2024-06-03,Charleston
+857,Boxers,Underwear,426.75,4.0,3134,632,0.16,104,2023-09-26,Birmingham
+858,Boxers,Underwear,308.02,2.8,3099,681,0.46,1651,2024-04-04,Columbia
+859,Briefs,Underwear,242.41,1.7,2415,250,0.03,1954,2023-12-21,Cape Coral
+860,Briefs,Underwear,340.28,1.1,918,149,0.04,58,2023-07-24,San Francisco
+861,Panties,Underwear,135.64,4.7,3815,246,0.4,1262,2023-12-27,Tucson
+862,Thongs,Underwear,216.16,3.0,3799,688,0.36,1103,2023-12-10,Oklahoma City
+863,Panties,Underwear,361.51,2.8,4573,925,0.48,1237,2023-07-06,Washington
+864,Briefs,Underwear,432.85,2.9,587,310,0.02,707,2023-06-27,Baltimore
+865,Thongs,Underwear,109.96,4.3,4020,83,0.03,667,2024-05-27,Grand Rapids
+866,Boxers,Underwear,206.83,3.0,2084,332,0.33,44,2023-11-19,Brooklyn
+867,Briefs,Underwear,261.46,3.9,18,364,0.1,1784,2024-02-16,Provo
+868,Thongs,Underwear,194.17,4.3,4150,777,0.23,1320,2023-10-25,Provo
+869,Boxers,Underwear,230.62,2.0,1467,127,0.03,391,2023-12-02,Bonita Springs
+870,Thongs,Underwear,481.09,3.5,4144,776,0.02,1081,2023-12-10,Oakland
+871,Briefs,Underwear,239.18,3.4,2194,483,0.28,1676,2023-07-14,Rochester
+872,Thongs,Underwear,447.72,2.7,4016,803,0.24,1289,2024-03-09,Columbia
+873,Briefs,Underwear,455.34,4.1,2266,532,0.47,79,2023-08-05,Salt Lake City
+874,Briefs,Underwear,259.39,2.8,693,24,0.48,631,2023-09-09,Memphis
+875,Briefs,Underwear,168.92,4.8,4114,383,0.35,236,2023-09-09,Birmingham
+876,Panties,Underwear,50.46,1.6,4734,236,0.26,54,2023-12-23,Birmingham
+877,Boxers,Underwear,436.14,2.9,372,972,0.17,200,2023-07-11,Tampa
+878,Boxers,Underwear,407.23,4.8,3189,702,0.31,314,2023-09-10,Washington
+879,Boxers,Underwear,16.96,2.0,574,573,0.35,1552,2023-07-23,Phoenix
+880,Panties,Underwear,434.92,4.8,1104,550,0.2,428,2023-11-28,San Juan
+881,Oil Filter,Motor vehicle parts,254.18,3.4,1992,195,0.27,13,2023-07-23,Allentown
+882,Oil Filter,Motor vehicle parts,54.37,3.7,528,797,0.39,1634,2023-09-07,Raleigh
+883,Brake Pads,Motor vehicle parts,448.91,1.1,3336,270,0.02,1723,2023-11-11,Pittsburgh
+884,Spark Plugs,Motor vehicle parts,177.61,4.2,3392,724,0.11,640,2024-06-02,Long Beach
+885,Spark Plugs,Motor vehicle parts,80.34,1.7,4198,891,0.26,1903,2024-05-16,Dayton
+886,Car Battery,Motor vehicle parts,433.08,1.6,988,81,0.43,821,2023-10-02,Denton
+887,Oil Filter,Motor vehicle parts,192.3,1.4,2440,712,0.12,1278,2023-12-16,Louisville
+888,Spark Plugs,Motor vehicle parts,279.67,3.1,2205,3,0.42,959,2023-11-21,Fresno
+889,Oil Filter,Motor vehicle parts,267.79,3.8,3350,815,0.37,677,2023-08-06,Virginia Beach
+890,Car Battery,Motor vehicle parts,412.66,1.6,1158,696,0.02,617,2024-01-31,Fresno
+891,Car Battery,Motor vehicle parts,104.21,2.2,4681,462,0.29,121,2024-05-26,Concord
+892,Car Battery,Motor vehicle parts,208.5,1.0,2042,502,0.25,1697,2023-11-27,Philadelphia
+893,Oil Filter,Motor vehicle parts,302.11,4.0,417,555,0.34,325,2023-12-17,Bridgeport
+894,Brake Pads,Motor vehicle parts,235.56,1.9,2261,853,0.48,1602,2023-07-16,San Jose
+895,Brake Pads,Motor vehicle parts,180.43,3.5,3905,3,0.04,599,2024-05-26,Mesa
+896,Car Battery,Motor vehicle parts,114.64,2.6,1993,904,0.11,722,2023-09-09,New Haven
+897,Car Battery,Motor vehicle parts,434.45,4.5,4354,323,0.12,1191,2023-12-19,Bronx
+898,Oil Filter,Motor vehicle parts,185.74,2.1,4568,295,0.05,813,2023-07-14,Las Vegas
+899,Brake Pads,Motor vehicle parts,186.24,3.7,1767,240,0.03,769,2023-10-07,Hartford
+900,Brake Pads,Motor vehicle parts,210.5,2.3,4266,473,0.22,1130,2023-07-25,Dayton
+901,Spark Plugs,Motor vehicle parts,409.89,4.9,3686,550,0.03,1848,2023-12-14,El Paso
+902,Brake Pads,Motor vehicle parts,308.74,4.7,3957,335,0.28,1570,2023-09-27,Hartford
+903,Car Battery,Motor vehicle parts,173.55,3.3,2886,116,0.28,1897,2024-02-17,Rochester
+904,Oil Filter,Motor vehicle parts,227.87,1.1,4934,65,0.46,446,2024-05-23,Bonita Springs
+905,Brake Pads,Motor vehicle parts,35.83,2.8,2758,550,0.46,394,2023-07-22,New York
+906,Brake Pads,Motor vehicle parts,159.02,3.5,1189,641,0.45,1875,2024-03-15,San Francisco
+907,Spark Plugs,Motor vehicle parts,325.51,4.3,3748,48,0.32,1813,2024-02-19,San Jose
+908,Spark Plugs,Motor vehicle parts,133.39,4.3,1397,372,0.43,1778,2023-07-28,Queens
+909,Oil Filter,Motor vehicle parts,139.91,2.7,81,86,0.08,821,2023-06-20,Providence
+910,Spark Plugs,Motor vehicle parts,249.39,3.1,1932,680,0.13,1860,2024-03-12,Tulsa
+911,Brake Pads,Motor vehicle parts,73.25,4.0,3933,313,0.31,1945,2024-02-05,Buffalo
+912,Spark Plugs,Motor vehicle parts,76.47,2.0,2597,452,0.47,737,2024-04-20,Harrisburg
+913,Spark Plugs,Motor vehicle parts,232.42,3.0,1928,575,0.14,636,2023-12-16,Springfield
+914,Spark Plugs,Motor vehicle parts,498.86,2.1,4124,371,0.33,1893,2023-11-22,Salt Lake City
+915,Spark Plugs,Motor vehicle parts,119.27,2.6,1125,45,0.01,1187,2024-02-22,Houston
+916,Oil Filter,Motor vehicle parts,440.87,3.1,3362,670,0.13,896,2023-09-05,Kansas City
+917,Spark Plugs,Motor vehicle parts,225.17,1.2,1074,897,0.41,491,2024-04-04,Raleigh
+918,Brake Pads,Motor vehicle parts,219.18,2.9,4284,414,0.32,1099,2023-12-31,Charlotte
+919,Oil Filter,Motor vehicle parts,466.42,2.4,3055,688,0.49,1412,2023-11-07,Harrisburg
+920,Brake Pads,Motor vehicle parts,377.28,3.8,2302,235,0.03,1284,2023-10-02,San Diego
+921,Charger,Mobile phone accessories,331.2,1.2,258,947,0.36,524,2023-11-17,Provo
+922,Charger,Mobile phone accessories,252.05,4.5,2202,677,0.25,1853,2023-06-20,Sacramento
+923,Screen Protector,Mobile phone accessories,469.45,2.4,4724,198,0.1,532,2023-11-25,Phoenix
+924,Charger,Mobile phone accessories,319.21,1.1,4343,787,0.26,1325,2024-05-12,St. Louis
+925,Screen Protector,Mobile phone accessories,177.77,3.2,3342,605,0.38,1820,2024-03-24,Oklahoma City
+926,Earbuds,Mobile phone accessories,102.23,1.7,838,406,0.2,1116,2023-07-12,St. Louis
+927,Screen Protector,Mobile phone accessories,34.01,3.3,4468,224,0.27,1272,2024-03-13,New York
+928,Earbuds,Mobile phone accessories,483.61,2.8,1840,938,0.42,839,2023-11-10,Richmond
+929,Phone Case,Mobile phone accessories,340.86,1.8,4771,872,0.06,1837,2023-07-26,Provo
+930,Phone Case,Mobile phone accessories,382.03,3.5,3497,947,0.17,1148,2024-04-06,Portland
+931,Screen Protector,Mobile phone accessories,293.59,3.5,1601,825,0.35,1622,2024-06-10,Pittsburgh
+932,Earbuds,Mobile phone accessories,339.69,3.0,4631,367,0.15,1984,2023-11-16,Concord
+933,Charger,Mobile phone accessories,479.41,1.1,3549,104,0.08,45,2023-08-06,Fort Worth
+934,Charger,Mobile phone accessories,116.69,3.5,1836,921,0.24,535,2024-05-08,Manhattan
+935,Earbuds,Mobile phone accessories,255.3,4.6,2063,570,0.32,1973,2023-11-18,Boise
+936,Earbuds,Mobile phone accessories,291.23,2.4,2752,846,0.25,1603,2023-08-18,Little Rock
+937,Phone Case,Mobile phone accessories,208.68,4.9,1505,102,0.45,177,2023-11-10,Bronx
+938,Charger,Mobile phone accessories,133.64,4.7,2096,537,0.1,175,2024-03-25,St. Louis
+939,Screen Protector,Mobile phone accessories,454.42,1.7,1667,275,0.23,675,2023-08-29,San Diego
+940,Earbuds,Mobile phone accessories,265.23,2.9,546,111,0.41,35,2023-11-08,New York
+941,Earbuds,Mobile phone accessories,217.24,4.2,4402,533,0.23,1132,2023-06-21,Kansas City
+942,Phone Case,Mobile phone accessories,277.04,1.3,2739,180,0.08,1487,2023-12-26,Denver
+943,Screen Protector,Mobile phone accessories,273.27,3.7,2431,811,0.31,38,2023-09-01,Louisville
+944,Screen Protector,Mobile phone accessories,94.38,2.7,4766,242,0.42,1997,2024-04-24,Bonita Springs
+945,Phone Case,Mobile phone accessories,99.88,1.0,4025,870,0.07,946,2024-06-10,Miami
+946,Charger,Mobile phone accessories,119.57,4.4,3665,655,0.22,540,2023-09-16,Dallas
+947,Charger,Mobile phone accessories,48.37,3.3,505,105,0.22,1194,2023-07-11,Tucson
+948,Phone Case,Mobile phone accessories,438.62,3.9,4067,99,0.44,1597,2023-12-10,Manhattan
+949,Phone Case,Mobile phone accessories,320.26,3.9,4727,681,0.01,1884,2023-09-26,Oakland
+950,Screen Protector,Mobile phone accessories,234.29,1.4,3302,719,0.47,1922,2024-02-19,Houston
+951,Screen Protector,Mobile phone accessories,95.24,1.2,4969,721,0.46,1555,2024-04-15,Virginia Beach
+952,Earbuds,Mobile phone accessories,499.68,1.8,886,461,0.34,1075,2023-08-24,Tampa
+953,Earbuds,Mobile phone accessories,256.41,4.2,926,556,0.48,1055,2023-08-28,Madison
+954,Screen Protector,Mobile phone accessories,265.65,1.9,1052,642,0.1,252,2023-08-31,Fresno
+955,Phone Case,Mobile phone accessories,177.69,4.9,4525,579,0.21,1164,2023-10-25,Atlanta
+956,Earbuds,Mobile phone accessories,77.49,1.2,1468,757,0.03,575,2024-05-12,Provo
+957,Earbuds,Mobile phone accessories,395.39,2.0,1645,580,0.22,811,2023-07-18,Mesa
+958,Earbuds,Mobile phone accessories,492.03,2.4,3142,766,0.18,1590,2023-07-25,Boston
+959,Phone Case,Mobile phone accessories,26.86,3.5,810,187,0.3,809,2023-11-21,Concord
+960,Phone Case,Mobile phone accessories,360.33,2.0,2705,596,0.31,947,2024-04-27,Orlando
+961,Throw Blanket,Blankets,438.03,1.9,3697,490,0.37,891,2024-05-13,Bakersfield
+962,Throw Blanket,Blankets,442.17,4.8,4376,274,0.2,718,2023-07-20,Raleigh
+963,Electric Blanket,Blankets,14.22,1.1,2073,26,0.23,1919,2023-12-25,Jacksonville
+964,Fleece Blanket,Blankets,217.12,3.9,4324,978,0.13,527,2023-09-07,Houston
+965,Electric Blanket,Blankets,298.33,1.8,2153,731,0.03,1712,2023-09-04,Madison
+966,Fleece Blanket,Blankets,136.57,4.5,2720,618,0.22,1770,2024-05-25,Rochester
+967,Weighted Blanket,Blankets,37.31,4.6,3788,550,0.25,1711,2023-10-15,Staten Island
+968,Weighted Blanket,Blankets,152.59,4.5,677,105,0.36,1946,2024-04-01,Atlanta
+969,Throw Blanket,Blankets,104.23,2.9,3257,69,0.42,1269,2023-09-24,Phoenix
+970,Weighted Blanket,Blankets,271.2,3.5,1301,562,0.06,454,2024-02-29,Cincinnati
+971,Weighted Blanket,Blankets,465.67,2.8,1417,500,0.15,1544,2024-03-25,Ogden
+972,Throw Blanket,Blankets,209.1,4.7,1209,33,0.06,130,2024-02-13,San Jose
+973,Electric Blanket,Blankets,336.54,2.1,2544,402,0.05,614,2023-07-19,Tampa
+974,Throw Blanket,Blankets,481.48,4.9,120,605,0.24,128,2024-03-13,Portland
+975,Throw Blanket,Blankets,311.1,4.6,332,296,0.17,1196,2023-11-17,Pittsburgh
+976,Throw Blanket,Blankets,118.14,3.1,4234,502,0.4,28,2024-01-21,Phoenix
+977,Throw Blanket,Blankets,111.33,4.7,1865,944,0.48,63,2023-10-13,San Jose
+978,Weighted Blanket,Blankets,141.74,5.0,1906,231,0.07,1218,2023-07-14,Birmingham
+979,Throw Blanket,Blankets,311.98,1.2,3985,392,0.31,1172,2023-10-07,Staten Island
+980,Fleece Blanket,Blankets,206.17,4.8,4293,555,0.24,1452,2024-05-26,Pittsburgh
+981,Electric Blanket,Blankets,347.7,2.4,4994,75,0.41,961,2023-10-08,Sacramento
+982,Weighted Blanket,Blankets,404.51,4.4,392,84,0.48,610,2023-07-01,Harrisburg
+983,Fleece Blanket,Blankets,194.73,4.9,3677,173,0.01,219,2024-05-12,Bakersfield
+984,Electric Blanket,Blankets,80.1,1.1,616,538,0.47,870,2024-03-03,Miami
+985,Fleece Blanket,Blankets,177.42,4.8,340,860,0.36,1340,2024-05-05,Oakland
+986,Throw Blanket,Blankets,345.37,3.0,2975,25,0.24,1346,2023-10-31,Bakersfield
+987,Fleece Blanket,Blankets,94.47,4.5,3979,559,0.08,370,2023-08-26,Indianapolis
+988,Throw Blanket,Blankets,383.64,3.3,1228,696,0.4,386,2023-08-08,Ogden
+989,Throw Blanket,Blankets,255.92,2.8,1781,160,0.07,1969,2023-11-13,Boston
+990,Throw Blanket,Blankets,409.36,2.0,550,600,0.05,991,2023-10-02,Richmond
+991,Throw Blanket,Blankets,48.75,2.8,2737,588,0.48,991,2024-05-28,Ogden
+992,Throw Blanket,Blankets,57.35,2.1,4264,329,0.44,1328,2024-01-18,Richmond
+993,Electric Blanket,Blankets,214.76,1.2,527,226,0.08,1564,2024-01-13,Akron
+994,Fleece Blanket,Blankets,61.84,3.0,1176,788,0.47,56,2023-12-09,Long Beach
+995,Weighted Blanket,Blankets,269.34,3.3,2513,662,0.17,800,2023-10-25,San Antonio
+996,Throw Blanket,Blankets,207.72,2.3,1973,16,0.46,325,2024-02-13,Baton Rouge
+997,Fleece Blanket,Blankets,268.6,3.2,841,201,0.39,1546,2023-07-01,Worcester
+998,Throw Blanket,Blankets,92.74,2.8,3454,880,0.02,1295,2023-10-29,Raleigh
+999,Weighted Blanket,Blankets,152.28,1.3,2850,752,0.34,1962,2023-10-28,Nashville
+1000,Throw Blanket,Blankets,136.53,2.0,4055,282,0.38,1089,2024-01-27,San Francisco

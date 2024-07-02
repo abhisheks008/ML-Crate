@@ -6,6 +6,12 @@ This project focuses on classifying mineral images into distinct categories usin
 
 ## Model(s) Used for the Web App 🧮
 The model used in this web app is a pre-trained Logistic Regression, which has been fine-tuned for mineral classification.
+
+## Video Demonstration
+
+https://github.com/tanuj437/ML-Crate/assets/128210429/465d9f47-a531-4ad9-8de7-d795c338e2d2
+
+
 ## Photo Demonstration
 
 <img width="926" alt="webapp" src="https://github.com/tanuj437/Mineral-Classification/assets/128210429/b98cc82c-5a5f-453f-862d-8bd7ddd6f9bc">

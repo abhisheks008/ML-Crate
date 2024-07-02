@@ -3,6 +3,10 @@
 ## 📝 Description
 This folder contains the Streamlit web application for detecting ships in satellite images using a pre-trained UNet segmentation model. The app allows users to upload an image, and it performs ship segmentation, displaying the results.
 
+
+https://github.com/tanuj437/ML-Crate/assets/128210429/3a1b2d6a-9bb6-40b9-a858-c089a1248b0f
+
+
 ## 📂 Contents
 **app.py:** Streamlit application script for ship detection.
 **README.md:** This document.

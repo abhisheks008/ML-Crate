@@ -12,6 +12,10 @@ train_ship_segmentations.csv: This file provides the ground truth (in run-length
 sample_submission.csv: This file contains the images in the test set.
 
 **Sample Images:**
+![00113a75c](https://github.com/tanuj437/ML-Crate/assets/128210429/b41182e5-7d70-4ee3-ad8a-23b22754f87d)
+![00021ddc3](https://github.com/tanuj437/ML-Crate/assets/128210429/72a4683b-f8e3-44ea-adff-79b1c35c840e)
+![008f038d3](https://github.com/tanuj437/ML-Crate/assets/128210429/a2f39df5-55a2-42da-8632-2ed0f32d8848)
+![00aa79c47](https://github.com/tanuj437/ML-Crate/assets/128210429/5bf13a59-06e8-4b9e-a52e-9443d2814b41)
 
 
 

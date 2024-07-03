@@ -14,7 +14,12 @@ The Sensor Fault Detection system is designed to monitor sensors and detect any 
                 "KNN": KNeighborsClassifier()
 
 ### Video Demonstration 🎥
-# [video](https://drive.google.com/file/d/1yFZVNLQHuSQu5vOkE71K8dMvUH8G5rd4/view?usp=sharing)
+
+<video width="1000" height="500" controls>
+  <source src="./img/sensor video.mp4" type="video/mp4">
+  Your browser does not support the video tag.
+</video>
+
 
 ### Signature ✒️
 ## [Github](https://www.github.com/daemonX10)

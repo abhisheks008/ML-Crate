@@ -29,6 +29,13 @@ The Sensor Fault Detection system is designed to monitor sensors and detect any 
 
 ## View the project
 
+### video Demonstration
+<video width="1000" height="500" controls>
+  <source src="./img/sensor video.mp4" type="video/mp4">
+  Your browser does not support the video tag.
+</video>
+
+### images
 <img src="./img/home page sensor.png" alt="Your Image" width="1000" height="500">
 <img src="./img/page 2 sensor.png" alt="Your Image" width="1000" height="500">
 <img src="./img/page 3 sensor.png" alt="Your Image" width="1000" height="500">

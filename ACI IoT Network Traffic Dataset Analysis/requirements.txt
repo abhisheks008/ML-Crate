@@ -1,0 +1,4 @@
+sci-kit learn
+matplotlib
+numpy
+pandas

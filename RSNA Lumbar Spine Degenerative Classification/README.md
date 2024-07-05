@@ -8,7 +8,7 @@ The main goal of this project is to analyze lumbar spine data to predict spinal 
 
 ## 🧵 Dataset
 
-The dataset used for this project can be accessed [here](link-to-dataset). It is sourced from [RSNA](source-link).
+The dataset used for this project can be accessed [here](https://www.kaggle.com/competitions/rsna-2024-lumbar-spine-degenerative-classification/data). 
 
 ## 🧾 Description
 

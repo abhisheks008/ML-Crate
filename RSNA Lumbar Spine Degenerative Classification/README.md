@@ -73,5 +73,12 @@ This project involves the analysis of lumbar spine data, utilizing machine learn
 The project successfully implemented and evaluated various machine learning models on the lumbar spine dataset. The best performing models were Logistic Regression, Gradient Boosting, AdaBoost, CatBoost, and LightGBM, each achieving an accuracy of 76%. Among these, XGBoost was a close second with 75% accuracy.
 
 ✒️ Your Signature
-[Your Name]  
-[Your Social Media Handles]
+ #### Aditya D
+
+#### Github: https://www.github.com/adi271001
+
+#### LinkedIn: https://www.linkedin.com/in/aditya-d-23453a179/
+
+#### Topmate: https://topmate.io/aditya_d/
+
+#### Twitter: https://x.com/ADITYAD29257528

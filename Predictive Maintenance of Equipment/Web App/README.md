@@ -1,4 +1,4 @@
-## App demo
+# App demo
 
 A Streamlit web application to provide an interface to the user to input operational parameters and predict if they could cause machine failure, along with a confidence score in the form of probability.  
 This can act as a simulation tool, since these parameters are available once the machine starts operating. User can know in advance if certain combinations of parameters are high risk for machine failure, and avoid operating at those conditions.
@@ -12,12 +12,16 @@ User can input the following parameters:
 5. Rotational speed
 6. Torque
 
+## Video demonstration
+
+[streamlit-app-demo.webm](https://github.com/siddhant4ds/ssoc3-ML-Crate/assets/150765441/a18d158f-9417-4af0-9215-472a6504b94e)
+
+## Screenshots
+
 ### Prediction: No
 
-![demo-no](/Web%20App/streamlit-app-demo-prediction-no.png)
+![demo-no](streamlit-app-demo-prediction-no.png)
 
 ### Prediction: Yes
 
-![demo-yes](/Web%20App/streamlit-app-demo-prediction-yes.png)
-
-(A video demonstration is also included in the folder.)
+![demo-yes](streamlit-app-demo-prediction-yes.png)

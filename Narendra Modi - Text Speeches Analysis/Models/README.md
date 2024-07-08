@@ -32,4 +32,4 @@
 
 - Thirdly, frquency of its speeeches over a years and months. This concludes that in 2019 due to general election the frquency of speeches goes above 300, which was highest of all 4 years (excluding 2022, we have less data of that particular year).
 
-- Lastly, Analysis the sentimental score of speeches which all postive infact all are greater than 0.9.
+- Lastly, Analysis the sentimental score of speeches which all postive infact all are greater than 0.9 points.

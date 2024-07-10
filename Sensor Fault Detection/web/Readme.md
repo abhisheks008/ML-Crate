@@ -16,7 +16,7 @@ The Sensor Fault Detection system is designed to monitor sensors and detect any 
 ### Video Demonstration 🎥
 
 <video width="1000" height="500" controls>
-  <source src="./img/sensor video.mp4" type="video/mp4">
+  <source src="https://github.com/abhisheks008/ML-Crate/assets/115637298/7712a38e-94b3-4463-ba65-c34f3e3a484d" type="video/mp4">
   Your browser does not support the video tag.
 </video>
 

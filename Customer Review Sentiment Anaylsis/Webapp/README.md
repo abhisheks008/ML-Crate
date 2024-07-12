@@ -10,6 +10,10 @@ The model used in this web app is a pre-trained Logistic Regression, which has b
 
 
 
+https://github.com/user-attachments/assets/46cada4d-cefd-41ac-af8d-415a23a035b9
+
+
+
 
 ## How to Run the Web App
 

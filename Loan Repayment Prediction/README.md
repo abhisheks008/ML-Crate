@@ -81,7 +81,7 @@ Each model is evaluated based on its accuracy, precision, recall, and F1 score. 
 
 |       Model        |      Accuracy      |
 |--------------------|--------------------|
-| Logistic Regression| 0.6503067484662577 |
+| Logistic Regression| 0.7852760736196319 |
 | SVM                | 0.6503067484662577 |
 | Decision Tree      | 0.7116564417177914 |
 | KNN                | 0.6196319018404908 |

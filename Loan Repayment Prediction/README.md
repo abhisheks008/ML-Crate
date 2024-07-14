@@ -1,8 +1,8 @@
-# Loan Prediction Project
+# Loan Repayment Prediction
 
 ## Overview
 
-Welcome to the Loan Prediction Project! This project aims to build a predictive model to identify the likelihood of a loan application being approved. Leveraging machine learning techniques, this project helps financial institutions streamline their loan approval processes and minimize risks.
+Welcome to the Loan Repayment Prediction Project! This project aims to build a predictive model to identify the likelihood of a loan application being approved. Leveraging machine learning techniques, this project helps financial institutions streamline their loan approval processes and minimize risks.
 
 ## Table of Contents
 
@@ -18,7 +18,7 @@ Welcome to the Loan Prediction Project! This project aims to build a predictive 
 
 ## Project Description
 
-The Loan Prediction Project utilizes various machine learning algorithms to predict loan approvals based on applicant information. The primary goal is to create a model that accurately predicts whether a loan should be approved, thus aiding financial institutions in decision-making.
+The Loan Repayment Prediction Project utilizes various machine learning algorithms to predict loan approvals based on applicant information. The primary goal is to create a model that accurately predicts whether a loan should be approved, thus aiding financial institutions in decision-making.
 
 ## Data Description
 
@@ -34,7 +34,7 @@ To run this project, you'll need to have Python installed. Follow the steps belo
 
 1. Clone the repository:
    ```bash
-   git clone https://github.com/aviralgarg05/Loan-Prediciton-Project.git
+   git clone https://github.com/aviralgarg05/Loan-Repayment-Prediciton.git
    ```
 2. Navigate to the project directory:
    ```bash

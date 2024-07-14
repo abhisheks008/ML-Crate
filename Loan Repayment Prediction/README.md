@@ -79,6 +79,13 @@ Each model is evaluated based on its accuracy, precision, recall, and F1 score. 
 1. The Loan Status is heavily dependent on the Credit History for Predictions.
 2. The Logistic Regression algorithm gives us the maximum Accuracy (79% approx) compared to the other Machine Learning Classification Algorithms.
 
+|       Model        |      Accuracy      |
+|--------------------|--------------------|
+| Logistic Regression| 0.6503067484662577 |
+| SVM                | 0.6503067484662577 |
+| Decision Tree      | 0.7116564417177914 |
+| KNN                | 0.6196319018404908 |
+
 The final model demonstrates strong predictive power.
 
 ## Contributing

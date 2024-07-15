@@ -1,5 +1,6 @@
 # Health Insurance Cross Sell Prediction
 Dive into the intricacies of predicting which customers are likely to purchase additional health insurance based on their profiles. This project utilizes various machine learning models to analyze customer data and provide insights that can help insurance companies tailor their marketing strategies and improve customer engagement.
+<img width="922" alt="webapp" src="https://github.com/user-attachments/assets/f5de12fa-0144-4f3f-92dd-94c652f6e49c">
 
 ## 📝 Abstract
 Health Insurance Cross Sell Prediction involves using machine learning algorithms to predict whether a customer will purchase additional health insurance. This analysis provides valuable insights into customer behavior and helps insurance companies make informed decisions to optimize their marketing and sales strategies.
@@ -88,4 +89,4 @@ Health Insurance Cross Sell Prediction
 - Analyze the model's performance using the visualizations and metrics provided in the notebook.
 
 ## Connect with Me
-Tanuj Saxena [LinkedIn](https://www.linkedin.com/in/tanuj-saxena-970271252/)# Health-Insurance-Cross-Sell-Prediction
+Tanuj Saxena [LinkedIn](https://www.linkedin.com/in/tanuj-saxena-970271252/)

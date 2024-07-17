@@ -1,0 +1,16 @@
+
+Flask # for web server
+jinja2 # for Flask templates
+python-dotenv # for environment variables
+seaborn # for data visualization
+xgboost # for gradient boosting
+scikit-learn # for machine learning
+pandas # for data manipulation
+waitress
+numpy
+ipykernel
+matplotlib
+kneed # for knee point detection
+imbalanced-learn
+csv
+

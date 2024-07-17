@@ -20,6 +20,8 @@ The Sensor Fault Detection system is designed to monitor sensors and detect any 
   Your browser does not support the video tag.
 </video>
 
+[Video](https://github.com/abhisheks008/ML-Crate/assets/115637298/7712a38e-94b3-4463-ba65-c34f3e3a484d) 
+
 
 ### Signature ✒️
 ## [Github](https://www.github.com/daemonX10)

@@ -49,26 +49,37 @@ This dataset captures user engagement metrics from an online course platform, fa
 ### 📊 **Exploratory Data Analysis Results**
 
 **Univariate analysis**:  
+(Feature distributions)  
 ![Image](../Images/notebook_00/distribution_timespentoncourse.png)
 ![Image](../Images/notebook_00/distribution_numberofvideoswatched.png)
 ![Image](../Images/notebook_00/distribution_numberofquizzestaken.png)
 ![Image](../Images/notebook_00/distribution_quizscores.png)
 ![Image](../Images/notebook_00/distribution_completionrate.png)
 
-**Bivariate analysis**:
+**Bivariate analysis**:  
+Pairplots  
 ![Image](../Images/notebook_00/bivariate_pairplots.png)
+Pearson correlation
 ![Image](../Images/notebook_00/bivariate_pearson.png)
+Point-Biserial correlation
 ![Image](../Images/notebook_00/bivariate_pointbiserial.png)
+Tetrachoric correlation
 ![Image](../Images/notebook_00/bivariate_tetrachoric.png)
 
-**Feature selection**:
+**Feature selection**:  
+Point-Biserial correlation
 ![Image](../Images/notebook_00/featselect_pointbiserial.png)
-![Image](../Images/notebook_00/featselect_anova.png)
-![Image](../Images/notebook_00/featselect_chisquared.png)
-![Image](../Images/notebook_00/featselect_tetrachoric.png)
-![Image](../Images/notebook_00/featselect_mutualinformation.png)
-![Image](../Images/notebook_00/featselect_modelfimp_allfeatures.png)
-![Image](../Images/notebook_00/featselect_modelfimp_originalfeatures.png)
+ANOVA F-test
+![Image](../Images/notebook_00/featselect_anova.png)  
+Chi-squared test of independence
+![Image](../Images/notebook_00/featselect_chisquared.png)  
+Tetrachoric correlation
+![Image](../Images/notebook_00/featselect_tetrachoric.png)  
+Mutual Information
+![Image](../Images/notebook_00/featselect_mutualinformation.png)  
+Model-based feature importances
+![Image](../Images/notebook_00/featselect_modelfimp_allfeatures.png)  
+![Image](../Images/notebook_00/featselect_modelfimp_originalfeatures.png)  
 
 ### 📈 **Performance of the Models based on the Accuracy Scores**
 
@@ -76,23 +87,23 @@ Each model has **four** variations, one for each feature set: original (O), exte
 Only the best variation is included in the table. In most cases, the extended feature set, which consists of original features  
 along with the engineered features, resulted in the best performance. In special cases where other feature sets performed better, it is mentioned with the model.
 
-| Model configuration | Accuracy (%) | ROC-AUC Score
-|:-----:|:-----:|:-----:|:-----:
-| Logistic Regression | 94.83 | 0.9630
-| Linear Discriminant Analysis | 94.83 | 0.9597
-| Quadratic Discriminant Analysis | 93.48 | 0.9593
-| Bernoulli Naive Bayes (B) | 94.83 | 0.9582
-| K-Nearest Neighbours (M) | 94.83 | 0.9496
-| Decision Tree | 95.94 | 0.9660
-| Random Forest (O) | 96.43 | 0.9612
-| AdaBoost Classifier | **96.43** | **0.9660**
-| Hist-Gradient Boosting (O) | 96.31 | 0.9659
-| Multi-layer Perceptron | 94.96 | 0.9578
-| XGBoost (O) | 96.43 | 0.9599
-| CatBoost | 96.43 | 0.9625
-| Soft-Voting | 96.43 | 0.9643
-| Stacking without passthrough | 96.43 | 0.9644
-| Stacking with passthrough | 96.43 | 0.9632
+| Model configuration | Accuracy (%) | ROC-AUC Score  
+|:-----:|:-----:|:-----:
+| Logistic Regression | 94.83 | 0.9630  
+| Linear Discriminant Analysis | 94.83 | 0.9597  
+| Quadratic Discriminant Analysis | 93.48 | 0.9593  
+| Bernoulli Naive Bayes (B) | 94.83 | 0.9582  
+| K-Nearest Neighbours (M) | 94.83 | 0.9496  
+| Decision Tree | 95.94 | 0.9660  
+| Random Forest (O) | 96.43 | 0.9612  
+| AdaBoost Classifier | **96.43** | **0.9660**  
+| Hist-Gradient Boosting (O) | 96.31 | 0.9659  
+| Multi-layer Perceptron | 94.96 | 0.9578  
+| XGBoost (O) | 96.43 | 0.9599  
+| CatBoost | 96.43 | 0.9625  
+| Soft-Voting | 96.43 | 0.9643  
+| Stacking without passthrough | 96.43 | 0.9644  
+| Stacking with passthrough | 96.43 | 0.9632  
 
 ### 📢 **Conclusion**
 

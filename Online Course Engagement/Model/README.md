@@ -58,26 +58,26 @@ This dataset captures user engagement metrics from an online course platform, fa
 
 **Bivariate analysis**:  
 Pairplots  
-![Image](../Images/notebook_00/bivariate_pairplots.png)
-Pearson correlation
-![Image](../Images/notebook_00/bivariate_pearson.png)
-Point-Biserial correlation
-![Image](../Images/notebook_00/bivariate_pointbiserial.png)
-Tetrachoric correlation
-![Image](../Images/notebook_00/bivariate_tetrachoric.png)
+![Image](../Images/notebook_00/bivariate_pairplots.png)  
+Pearson correlation  
+![Image](../Images/notebook_00/bivariate_pearson.png)  
+Point-Biserial correlation  
+![Image](../Images/notebook_00/bivariate_pointbiserial.png)  
+Tetrachoric correlation  
+![Image](../Images/notebook_00/bivariate_tetrachoric.png)  
 
 **Feature selection**:  
-Point-Biserial correlation
-![Image](../Images/notebook_00/featselect_pointbiserial.png)
-ANOVA F-test
+Point-Biserial correlation  
+![Image](../Images/notebook_00/featselect_pointbiserial.png)  
+ANOVA F-test  
 ![Image](../Images/notebook_00/featselect_anova.png)  
-Chi-squared test of independence
+Chi-squared test of independence  
 ![Image](../Images/notebook_00/featselect_chisquared.png)  
-Tetrachoric correlation
+Tetrachoric correlation  
 ![Image](../Images/notebook_00/featselect_tetrachoric.png)  
-Mutual Information
+Mutual Information  
 ![Image](../Images/notebook_00/featselect_mutualinformation.png)  
-Model-based feature importances
+Model-based feature importances  
 ![Image](../Images/notebook_00/featselect_modelfimp_allfeatures.png)  
 ![Image](../Images/notebook_00/featselect_modelfimp_originalfeatures.png)  
 

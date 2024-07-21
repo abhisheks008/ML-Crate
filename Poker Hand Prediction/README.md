@@ -1,47 +1,52 @@
-# Poker Hand Prediction
+## **Poker Hand Prediction**
 
-TL;DR, predicting poker hands.
+### 🎯 **Goal**
 
-## The Problem
+To predict the most likely poker hand present with at least one of the players in the game, given the sequence of 5 'community' cards drawn from a standard deck.
 
-Given the sequence of 5 'community' cards, drawn from a standard deck of cards, what hand is most likely present with at least one of the players in the game.
+### 🧵 **Dataset**
 
-## Poker Hands
+The dataset is acquired from UCI's Machine Learning repository. Find it [here](https://archive.ics.uci.edu/ml/datasets/Poker+Hand).
 
-Texas Hold Em is played by dealing each player 2 cards (face down), called the `hole` cards, and dealing 5 `community` cards (face up), on the table.
+### 🧾 **Description**
 
-The player makes a poker `hand` using any combination of the 3 cards dealt to them, and the 5 cards on the table. 
+Texas Hold 'Em is played by dealing each player 2 'hole' cards (face down) and 5 'community' cards (face up) on the table. The player makes a poker hand using any combination of the 2 cards dealt to them and the 5 cards on the table. The objective is to predict the rank of the poker hand that is most likely to be present among the players, given the 5 community cards.
 
-The player with the strongest hands wins. Most commonly accepted ranking of hands, strongest to weekest :
+### 🧮 **What I had done!**
 
-| Rank | Hand | Description |
-| :--: | :--: | :---------: |
-| 0 | Royal Flush | `A K Q J 10` all of the same suit |
-| 1 | Straight Flush | Any 5 cards of the same suit, in sequence |
-| 2 | Four of a Kind | 4 cards of the same rank, like, `4 4 4 4` |
-| 3 | Full House | A 3 of a kind, and a pair, of different ranks |
-| 4 | Flush | Any 5 cards of the same suit |
-| 5 | Straight | Any 5 cards in sequence |
-| 6 | Three of a Kind | Any 3 cards of the same rank |
-| 7 | Two Pair | Any 2 pairs of cards |
-| 8 | One Pair | Any 2 cards of the same rank |
-| 9 | High Card | Highest Ranked card in hand |
+1. **Data Acquisition**: Downloaded the dataset from UCI's Machine Learning repository.
+2. **Data Preprocessing**: Cleaned and prepared the data for analysis.
+3. **Model Selection**: Implemented various machine learning models to predict poker hands.
+4. **Model Training**: Trained the models on the training dataset.
+5. **Model Evaluation**: Evaluated the models on the testing dataset.
+6. **Performance Comparison**: Compared the accuracy of different models to determine the best one.
 
+### 🚀 **Models Implemented**
 
-#### Ranking of Cards
+1. **Linear Regression**: Basic model to establish a baseline.
+2. **Support Vector Machine (SVM)**: Chosen for its effectiveness in classification tasks.
+3. **Adaboost**: Implemented to improve model performance through boosting.
+4. **Output Code Classifier**: Used for multiclass classification.
+5. **Random Forest**: Chosen for its robustness and ensemble learning capabilities.
+6. **Artificial Neural Network (ANN)**: Implemented for its potential in capturing complex patterns.
+7. **Deep Neural Network (DNN)**: Used for its ability to learn from large datasets.
+8. **Multi-Layer Perceptron (MLP)**: Chosen for its superior performance in the dataset.
 
-A K Q J 10 9 8 7 6 5 4 3 2 1
+### 📚 **Libraries Needed**
 
-## Data
+- numpy
+- pandas
+- scikit-learn
+- tensorflow
+- matplotlib
+- seaborn
 
-This data was acquired from UCI's Machine Learning repository. The data comes already split into training and testing data.
+### 📊 **Exploratory Data Analysis Results**
 
-Find it [here](https://archive.ics.uci.edu/ml/datasets/Poker+Hand).
+![EDA Result 1](https://github.com/aviralgarg05/ML-Crate/blob/main/Poker%20Hand%20Prediction/Images/ANN.png)
+![EDA Result 2](https://github.com/aviralgarg05/ML-Crate/blob/main/Poker%20Hand%20Prediction/Images/DNN.png)
 
-
-##### NOTE: The hands' class labels are in the reverse order of their strength, i.e, 0 is the weakest hand.
-
-## Machine Learning 🖥 
+### 📈 **Performance of the Models based on the Accuracy Scores**
 
 | Model | Accuracy |
 | :---: | :------: |
@@ -52,9 +57,14 @@ Find it [here](https://archive.ics.uci.edu/ml/datasets/Poker+Hand).
 | Random Forest | 56% | 
 | Artificial Neural Network | 45% | 
 | Deep Neural Network | 87% |
-| Multi Layer Perceptron | 97% |
+| Multi-Layer Perceptron | 97% |
 
-## Conclusion
+### 📢 **Conclusion**
 
-The Multi-layer Perceptron is clearly the best model for the dataset in hand.
+The Multi-layer Perceptron (MLP) is clearly the best model for the dataset in hand, achieving an accuracy of 97%. This indicates that MLP is highly effective in predicting the poker hands given the community cards.
 
+### ✒️ **Your Signature**
+
+**Aviral Garg**
+
+[LinkedIn](https://www.linkedin.com/in/aviral-garg-b7b053280/)

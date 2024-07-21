@@ -92,22 +92,22 @@ along with the engineered features, resulted in the best performance. In special
 | Logistic Regression | 94.83 | 0.9630  
 | Linear Discriminant Analysis | 94.83 | 0.9597  
 | Quadratic Discriminant Analysis | 93.48 | 0.9593  
-| Bernoulli Naive Bayes (B) | 94.83 | 0.9582  
+| Gaussian Naive Bayes (B) | 92.87 | 0.9388  
 | K-Nearest Neighbours (M) | 94.83 | 0.9496  
 | Decision Tree | 95.94 | 0.9660  
 | Random Forest (O) | 96.43 | 0.9612  
-| AdaBoost Classifier | **96.43** | **0.9660**  
-| Hist-Gradient Boosting (O) | 96.31 | 0.9659  
+| AdaBoost Classifier | 96.43 | 0.9660  
+| Hist-Gradient Boosting (O) | 96.31 | 0.9639  
 | Multi-layer Perceptron | 94.96 | 0.9578  
-| XGBoost (O) | 96.43 | 0.9599  
-| CatBoost | 96.43 | 0.9625  
-| Soft-Voting | 96.43 | 0.9643  
-| Stacking without passthrough | 96.43 | 0.9644  
+| **XGBoost (O)** | **96.43** | **0.9676**  
+| CatBoost | 96.43 | 0.9633  
+| Soft-Voting | 96.43 | 0.9644  
+| Stacking without passthrough | 96.43 | 0.9643  
 | Stacking with passthrough | 96.43 | 0.9632  
 
 ### 📢 **Conclusion**
 
-After comparing a variety of models based on accuracy and ROC-AUC score, the best performance was shown by AdaBoost. The best model was used for inference in a Streamlit web app to test new data points.
+After comparing a variety of models based on accuracy and ROC-AUC score, the best performance was shown by XGBoost. The best model was used for inference in a Streamlit web app to test new data points.
 
 ### ✒️ **Your Signature**
 

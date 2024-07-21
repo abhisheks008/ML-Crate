@@ -1,8 +1,34 @@
 # NAREDRA MODI TEXT SPEECH ANALYSIS
 
-###  Aim : This project is to analyze the speeches of Narendra Modi.
+###  🎯 Goal : This project is to analyze the speeches of Narendra Modi.
 
-###  Dataset : https://www.kaggle.com/adiamaan/modi-speeches
+###  🧵 Dataset : https://www.kaggle.com/adiamaan/modi-speeches
+
+### 🧾 Description : 
+
+- Objective: The key idea of this analysis is to extract meaningful insights from the 
+    speeches of a prominent political figure. The analysis aims to understand the themes, keywords, frequency trends, and sentiments expressed in the speeches.
+
+- Method: The analysis is conducted in four parts such as, Tag Frequency Analysis, Keyword Analysis, 
+    Speech Frequency Analysis and finally Sentimental Analysis. 
+
+- Outcome: Through these analyses, we gain a comprehensive insight into the content of the speeches 
+    and the thought  process of Narendra Modi. The results highlight the main themes, commonly used keywords, trends in speech frequency, and the positive sentiment consistently present in the speeches. 
+
+
+### 🧮 What I had done!(Analytics) :
+
+- Tag Frequency Analysis: Plotted the frequency of the 30 most popular tags on a bar graph, highlighting key
+    government goals such as Good Governance, Infrastructural Development, Promoting Digital India Campaign, and other government schemes.
+
+- Keyword Analysis: Analyzed the key words mostly included in the speeches, revealing a focus on India,
+    Economy People, World friends, Productional growth, and Welfare.
+
+- Speech Frequency Analysis: Analyzed the frequency of speeches over the years and months, 
+    showing a peak in 2019 due to the general election, with over 300 speeches.
+
+- Sentiment Analysis: Assessed the sentiment of the speeches, 
+    finding that all were positive with scores greater than 0.9.
 
 ### Library used :
 - Pandas
@@ -12,7 +38,7 @@
 - Seaborn
 - Word cloud
 
-### Visual plots :
+### 📊 Visual Plots :
 
 - ![](/Narendra%20Modi%20-%20Text%20Speeches%20Analysis/Images/Most%20common%20Tags.png)
 
@@ -25,11 +51,7 @@
 - ![](/Narendra%20Modi%20-%20Text%20Speeches%20Analysis/Images/Number%20of%20Speeches%20per%20Month.png)
 
 
-### Analysis :
-- Firstly, frequecy of most 30 popular tags are plotted on bar graph. We  can clearly observe the important goals of the government which includes Good Governance, Infrastructural Development, Promoting Digital India Campaign and Other government scemes.
-
-- Secondly, analysis his speech that what key words mostly he includes in his speeches. This shows that he includes India, Economy, People, World friends, Productional growth and Welfare like words.
-
-- Thirdly, frquency of its speeeches over a years and months. This concludes that in 2019 due to general election the frquency of speeches goes above 300, which was highest of all 4 years (excluding 2022, we have less data of that particular year).
-
-- Lastly, Analysis the sentimental score of speeches which all postive infact all are greater than 0.9 points.
+### ✒️ Contributor : 
+ *Harsh Raj*
+ 
+ *Abhishek Sharma* (Mentor)

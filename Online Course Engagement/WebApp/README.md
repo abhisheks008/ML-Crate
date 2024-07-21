@@ -15,6 +15,8 @@ User can input the following parameters:
 
 ## Video demonstration
 
+[streamlit-app-demo.webm](https://github.com/user-attachments/assets/544e3cc4-c4fa-4e1d-9d85-fe0b07eaa7ae)
+
 ## Screenshots
 
 ### Homepage

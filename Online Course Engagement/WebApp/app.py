@@ -1,7 +1,7 @@
 import joblib
 import streamlit as st
 
-MODEL_PATH = "Model/saved_models/02_adaboost_Extended.joblib"
+MODEL_PATH = "Model/saved_models/xgb_Original.joblib"
 loaded_model = joblib.load(MODEL_PATH)
 
 

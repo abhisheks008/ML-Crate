@@ -58,14 +58,14 @@ This project involves training and evaluating 10 different machine learning mode
 -  the most number of outliers in "discount_offered" column. I will use 2 method to handle with outliers; First, I will drop them from our data. Also, I will try to solve that problem with 
    winsorize so we can compare at the end which data set giving better results for prediction.
 
-[!eda imag 1](https://github.com/adi271001/ML-Crate/blob/e-commerce-shipping/E-commerce%20Shipping%20Data%20Analysis/Images/__results___6_0.png?raw=true)
-[!eda imag 1](https://github.com/adi271001/ML-Crate/blob/e-commerce-shipping/E-commerce%20Shipping%20Data%20Analysis/Images/__results___6_10.png?raw=true)
-[!eda imag 1](https://github.com/adi271001/ML-Crate/blob/e-commerce-shipping/E-commerce%20Shipping%20Data%20Analysis/Images/__results___6_2.png?raw=true)
-[!eda imag 1](https://github.com/adi271001/ML-Crate/blob/e-commerce-shipping/E-commerce%20Shipping%20Data%20Analysis/Images/__results___6_4.png?raw=true)
-[!eda imag 1](https://github.com/adi271001/ML-Crate/blob/e-commerce-shipping/E-commerce%20Shipping%20Data%20Analysis/Images/__results___6_6.png?raw=true)
-[!eda imag 1](https://github.com/adi271001/ML-Crate/blob/e-commerce-shipping/E-commerce%20Shipping%20Data%20Analysis/Images/__results___6_8.png?raw=true)
-[!eda imag 1](https://github.com/adi271001/ML-Crate/blob/e-commerce-shipping/E-commerce%20Shipping%20Data%20Analysis/Images/__results___8_1.png?raw=true)
-[!eda imag 1](https://github.com/adi271001/ML-Crate/blob/e-commerce-shipping/E-commerce%20Shipping%20Data%20Analysis/Images/__results___16_1.png?raw=true)
+![eda imag 1](https://github.com/adi271001/ML-Crate/blob/e-commerce-shipping/E-commerce%20Shipping%20Data%20Analysis/Images/__results___6_0.png?raw=true)
+![eda imag 1](https://github.com/adi271001/ML-Crate/blob/e-commerce-shipping/E-commerce%20Shipping%20Data%20Analysis/Images/__results___6_10.png?raw=true)
+![eda imag 1](https://github.com/adi271001/ML-Crate/blob/e-commerce-shipping/E-commerce%20Shipping%20Data%20Analysis/Images/__results___6_2.png?raw=true)
+![eda imag 1](https://github.com/adi271001/ML-Crate/blob/e-commerce-shipping/E-commerce%20Shipping%20Data%20Analysis/Images/__results___6_4.png?raw=true)
+![eda imag 1](https://github.com/adi271001/ML-Crate/blob/e-commerce-shipping/E-commerce%20Shipping%20Data%20Analysis/Images/__results___6_6.png?raw=true)
+![eda imag 1](https://github.com/adi271001/ML-Crate/blob/e-commerce-shipping/E-commerce%20Shipping%20Data%20Analysis/Images/__results___6_8.png?raw=true)
+![eda imag 1](https://github.com/adi271001/ML-Crate/blob/e-commerce-shipping/E-commerce%20Shipping%20Data%20Analysis/Images/__results___8_1.png?raw=true)
+![eda imag 1](https://github.com/adi271001/ML-Crate/blob/e-commerce-shipping/E-commerce%20Shipping%20Data%20Analysis/Images/__results___16_1.png?raw=true)
 
 
 ## Performance of the Models based on Accuracy Scores

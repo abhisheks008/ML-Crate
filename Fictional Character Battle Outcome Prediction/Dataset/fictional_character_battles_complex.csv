@@ -1,0 +1,2352 @@
+Character,Universe,Strength,Speed,Intelligence,SpecialAbilities,Weaknesses,BattleOutcome
+Wonder Woman,Marvel,7,8,3,Telekinesis,Kryptonite,0
+Iron Man,Marvel,4,7,9,Telekinesis,Kryptonite,0
+Iron Man,DC Comics,8,7,5,Telekinesis,Magic,0
+Spider-Man,DC Comics,5,6,10,Telekinesis,Kryptonite,0
+Flash,Marvel,7,6,2,Invisibility,Magic,0
+Spider-Man,DC Comics,10,9,7,Invisibility,Wooden Stake,1
+Wonder Woman,Marvel,3,6,2,Super Strength,Silver,1
+Thor,DC Comics,7,2,4,Invisibility,Magic,1
+Batman,DC Comics,8,2,7,Flight,Silver,0
+Iron Man,DC Comics,5,5,4,Flight,Wooden Stake,0
+Superman,DC Comics,4,4,7,Telekinesis,Kryptonite,0
+Thor,DC Comics,8,2,7,Flight,Wooden Stake,0
+Iron Man,DC Comics,8,3,1,Super Strength,Silver,0
+Batman,Marvel,3,7,6,Invisibility,Wooden Stake,0
+Flash,DC Comics,6,8,9,Invisibility,Kryptonite,0
+Superman,Marvel,5,6,2,Invisibility,Wooden Stake,0
+Iron Man,Marvel,2,5,3,Flight,Kryptonite,0
+Captain America,Marvel,8,1,10,Invisibility,Magic,1
+Wonder Woman,Marvel,6,8,5,Telekinesis,Silver,1
+Thor,Marvel,2,3,9,Telekinesis,Kryptonite,0
+Wonder Woman,Marvel,5,6,4,Telekinesis,Kryptonite,0
+Spider-Man,DC Comics,1,3,1,Flight,Wooden Stake,0
+Iron Man,DC Comics,10,7,4,Invisibility,Magic,1
+Superman,DC Comics,6,7,6,Flight,Kryptonite,0
+Superman,Marvel,9,9,5,Invisibility,Magic,0
+Thor,Marvel,1,5,1,Super Strength,Magic,0
+Thor,Marvel,10,8,4,Super Strength,Wooden Stake,1
+Wonder Woman,DC Comics,3,10,6,Flight,Kryptonite,0
+Superman,DC Comics,7,10,10,Telekinesis,Wooden Stake,1
+Superman,DC Comics,4,8,10,Flight,Silver,0
+Superman,Marvel,9,1,4,Telekinesis,Silver,0
+Iron Man,Marvel,3,5,9,Invisibility,Kryptonite,0
+Superman,Marvel,5,3,5,Telekinesis,Magic,0
+Spider-Man,DC Comics,3,1,8,Telekinesis,Kryptonite,0
+Superman,Marvel,7,4,9,Invisibility,Kryptonite,0
+Spider-Man,Marvel,5,8,10,Super Strength,Silver,1
+Iron Man,Marvel,9,3,5,Invisibility,Silver,0
+Thor,Marvel,7,10,6,Flight,Magic,1
+Flash,DC Comics,2,2,1,Flight,Magic,0
+Spider-Man,DC Comics,4,9,7,Flight,Kryptonite,0
+Iron Man,Marvel,9,10,4,Flight,Wooden Stake,0
+Flash,Marvel,2,5,2,Flight,Kryptonite,0
+Flash,DC Comics,10,7,5,Super Strength,Magic,1
+Superman,DC Comics,9,2,3,Super Strength,Wooden Stake,0
+Iron Man,Marvel,10,9,6,Telekinesis,Silver,1
+Flash,DC Comics,5,9,8,Flight,Magic,0
+Superman,DC Comics,2,4,7,Invisibility,Magic,0
+Wonder Woman,Marvel,4,4,3,Flight,Wooden Stake,0
+Iron Man,DC Comics,7,6,8,Super Strength,Magic,0
+Flash,DC Comics,8,10,2,Flight,Magic,0
+Thor,DC Comics,3,10,10,Super Strength,Magic,1
+Spider-Man,DC Comics,1,10,9,Telekinesis,Magic,0
+Wonder Woman,Marvel,4,6,4,Telekinesis,Magic,0
+Thor,DC Comics,2,1,1,Telekinesis,Magic,0
+Captain America,DC Comics,8,9,8,Super Strength,Magic,1
+Superman,Marvel,4,2,7,Flight,Magic,0
+Flash,DC Comics,2,5,5,Flight,Silver,0
+Spider-Man,Marvel,6,9,10,Invisibility,Magic,1
+Thor,Marvel,6,4,5,Super Strength,Silver,1
+Spider-Man,DC Comics,10,3,7,Invisibility,Silver,1
+Captain America,DC Comics,4,7,5,Telekinesis,Kryptonite,0
+Batman,DC Comics,6,6,8,Flight,Kryptonite,0
+Superman,DC Comics,2,8,6,Super Strength,Silver,1
+Superman,DC Comics,10,3,5,Invisibility,Silver,0
+Iron Man,Marvel,2,5,9,Invisibility,Magic,1
+Flash,DC Comics,10,10,2,Invisibility,Kryptonite,0
+Superman,Marvel,4,4,1,Flight,Wooden Stake,0
+Superman,DC Comics,8,4,8,Flight,Kryptonite,0
+Thor,Marvel,7,4,3,Flight,Silver,1
+Wonder Woman,DC Comics,9,10,7,Super Strength,Silver,1
+Superman,DC Comics,8,8,10,Flight,Magic,1
+Superman,DC Comics,5,6,8,Super Strength,Magic,1
+Flash,DC Comics,2,3,6,Invisibility,Kryptonite,0
+Captain America,DC Comics,5,10,10,Invisibility,Magic,1
+Wonder Woman,Marvel,8,5,9,Telekinesis,Wooden Stake,0
+Captain America,DC Comics,10,6,7,Flight,Wooden Stake,1
+Flash,DC Comics,9,5,10,Invisibility,Magic,1
+Spider-Man,DC Comics,9,6,5,Flight,Wooden Stake,1
+Spider-Man,Marvel,1,8,8,Super Strength,Wooden Stake,0
+Superman,DC Comics,9,7,2,Invisibility,Kryptonite,0
+Superman,Marvel,7,5,7,Flight,Wooden Stake,0
+Iron Man,DC Comics,9,10,4,Invisibility,Silver,1
+Spider-Man,Marvel,8,6,9,Invisibility,Silver,1
+Thor,DC Comics,1,4,1,Flight,Kryptonite,0
+Superman,DC Comics,8,9,7,Invisibility,Magic,1
+Thor,Marvel,8,4,6,Invisibility,Kryptonite,0
+Superman,DC Comics,3,1,8,Invisibility,Magic,0
+Flash,Marvel,1,7,5,Invisibility,Magic,0
+Thor,DC Comics,8,7,1,Super Strength,Magic,0
+Batman,DC Comics,3,4,1,Invisibility,Magic,0
+Thor,Marvel,3,3,9,Telekinesis,Magic,0
+Wonder Woman,DC Comics,1,8,10,Invisibility,Kryptonite,1
+Spider-Man,Marvel,5,5,6,Flight,Magic,0
+Superman,Marvel,10,10,10,Telekinesis,Wooden Stake,1
+Spider-Man,DC Comics,7,7,5,Super Strength,Wooden Stake,1
+Wonder Woman,DC Comics,10,4,1,Telekinesis,Magic,0
+Wonder Woman,DC Comics,9,4,6,Telekinesis,Wooden Stake,0
+Thor,Marvel,7,8,6,Telekinesis,Silver,1
+Captain America,Marvel,9,8,3,Flight,Kryptonite,0
+Captain America,DC Comics,8,2,8,Flight,Kryptonite,0
+Wonder Woman,Marvel,2,2,1,Flight,Magic,0
+Captain America,Marvel,1,3,1,Super Strength,Magic,0
+Superman,Marvel,7,3,6,Flight,Silver,0
+Iron Man,Marvel,7,1,10,Flight,Magic,0
+Batman,DC Comics,8,3,1,Telekinesis,Wooden Stake,0
+Thor,DC Comics,5,6,6,Flight,Silver,0
+Iron Man,DC Comics,3,8,1,Invisibility,Wooden Stake,0
+Captain America,Marvel,8,10,6,Flight,Kryptonite,1
+Thor,Marvel,6,6,3,Super Strength,Wooden Stake,1
+Iron Man,Marvel,3,5,8,Super Strength,Kryptonite,0
+Spider-Man,Marvel,1,4,6,Invisibility,Wooden Stake,0
+Captain America,DC Comics,3,3,1,Super Strength,Kryptonite,0
+Flash,Marvel,5,4,5,Super Strength,Magic,0
+Iron Man,Marvel,3,7,8,Telekinesis,Wooden Stake,0
+Flash,DC Comics,1,1,3,Invisibility,Kryptonite,0
+Superman,DC Comics,5,7,6,Telekinesis,Wooden Stake,0
+Spider-Man,DC Comics,10,1,5,Telekinesis,Silver,0
+Captain America,Marvel,7,2,6,Flight,Magic,0
+Batman,Marvel,7,4,10,Invisibility,Kryptonite,0
+Wonder Woman,Marvel,9,1,1,Flight,Silver,0
+Captain America,Marvel,10,9,7,Flight,Wooden Stake,1
+Flash,Marvel,10,6,9,Telekinesis,Silver,0
+Superman,Marvel,3,1,2,Super Strength,Wooden Stake,0
+Batman,DC Comics,7,1,10,Invisibility,Magic,1
+Batman,Marvel,1,6,5,Super Strength,Silver,0
+Batman,DC Comics,4,4,10,Telekinesis,Magic,0
+Thor,DC Comics,4,4,4,Telekinesis,Kryptonite,0
+Thor,DC Comics,5,6,6,Telekinesis,Wooden Stake,0
+Flash,Marvel,7,7,6,Telekinesis,Wooden Stake,1
+Wonder Woman,Marvel,7,9,2,Telekinesis,Magic,1
+Batman,DC Comics,4,10,2,Telekinesis,Magic,0
+Wonder Woman,Marvel,7,5,4,Super Strength,Kryptonite,0
+Spider-Man,Marvel,3,9,1,Flight,Silver,0
+Batman,DC Comics,6,4,9,Super Strength,Wooden Stake,1
+Iron Man,Marvel,2,10,7,Invisibility,Wooden Stake,0
+Batman,Marvel,10,2,7,Super Strength,Kryptonite,0
+Flash,Marvel,9,3,3,Telekinesis,Kryptonite,0
+Thor,Marvel,5,1,3,Super Strength,Magic,0
+Thor,DC Comics,6,6,1,Flight,Magic,0
+Iron Man,DC Comics,4,6,3,Invisibility,Silver,0
+Iron Man,Marvel,10,1,3,Super Strength,Kryptonite,0
+Captain America,Marvel,7,3,4,Flight,Silver,0
+Spider-Man,Marvel,9,5,4,Super Strength,Kryptonite,0
+Spider-Man,DC Comics,7,3,3,Invisibility,Wooden Stake,1
+Flash,Marvel,1,10,10,Super Strength,Kryptonite,1
+Flash,Marvel,1,3,8,Telekinesis,Kryptonite,0
+Flash,DC Comics,9,10,8,Super Strength,Wooden Stake,1
+Flash,Marvel,9,3,1,Flight,Kryptonite,0
+Flash,DC Comics,4,5,7,Super Strength,Silver,1
+Flash,Marvel,9,5,2,Flight,Magic,0
+Spider-Man,DC Comics,3,4,1,Invisibility,Magic,0
+Superman,Marvel,7,1,3,Super Strength,Silver,1
+Thor,Marvel,6,5,4,Invisibility,Wooden Stake,1
+Spider-Man,DC Comics,8,10,6,Invisibility,Kryptonite,0
+Flash,DC Comics,9,5,10,Super Strength,Silver,1
+Captain America,DC Comics,5,4,5,Flight,Magic,0
+Captain America,DC Comics,1,6,4,Invisibility,Magic,0
+Spider-Man,DC Comics,3,10,8,Invisibility,Silver,0
+Iron Man,Marvel,10,4,4,Super Strength,Magic,0
+Captain America,DC Comics,8,7,10,Super Strength,Silver,1
+Wonder Woman,DC Comics,6,7,2,Super Strength,Magic,0
+Iron Man,DC Comics,8,2,3,Super Strength,Silver,1
+Wonder Woman,DC Comics,9,3,6,Super Strength,Kryptonite,0
+Thor,Marvel,4,1,8,Telekinesis,Kryptonite,0
+Superman,Marvel,1,8,8,Super Strength,Kryptonite,0
+Captain America,Marvel,1,9,9,Flight,Kryptonite,0
+Iron Man,Marvel,10,4,7,Invisibility,Magic,1
+Flash,Marvel,4,6,2,Flight,Wooden Stake,0
+Wonder Woman,DC Comics,7,9,8,Flight,Silver,0
+Spider-Man,Marvel,2,6,7,Telekinesis,Wooden Stake,0
+Wonder Woman,Marvel,3,9,8,Super Strength,Magic,0
+Wonder Woman,DC Comics,1,4,3,Invisibility,Magic,0
+Thor,DC Comics,5,8,7,Flight,Wooden Stake,1
+Batman,Marvel,1,9,10,Super Strength,Wooden Stake,0
+Batman,Marvel,8,4,9,Super Strength,Magic,1
+Spider-Man,DC Comics,1,5,3,Telekinesis,Magic,0
+Thor,Marvel,1,8,10,Telekinesis,Silver,0
+Thor,DC Comics,2,10,6,Telekinesis,Kryptonite,0
+Flash,DC Comics,2,6,2,Invisibility,Kryptonite,0
+Thor,Marvel,6,7,2,Flight,Silver,0
+Thor,Marvel,7,3,5,Telekinesis,Wooden Stake,0
+Batman,Marvel,5,7,5,Telekinesis,Magic,1
+Iron Man,DC Comics,1,8,7,Telekinesis,Wooden Stake,0
+Thor,DC Comics,1,10,2,Flight,Kryptonite,0
+Iron Man,Marvel,3,6,7,Flight,Kryptonite,0
+Wonder Woman,Marvel,2,10,5,Telekinesis,Wooden Stake,0
+Wonder Woman,Marvel,5,9,6,Telekinesis,Kryptonite,0
+Thor,DC Comics,10,6,8,Super Strength,Magic,1
+Captain America,DC Comics,6,9,10,Telekinesis,Silver,1
+Superman,DC Comics,7,4,4,Invisibility,Wooden Stake,0
+Captain America,Marvel,4,8,7,Invisibility,Magic,1
+Wonder Woman,DC Comics,7,4,6,Telekinesis,Magic,0
+Superman,DC Comics,8,2,10,Flight,Kryptonite,1
+Captain America,Marvel,1,10,2,Super Strength,Magic,0
+Thor,DC Comics,6,9,8,Flight,Wooden Stake,1
+Iron Man,Marvel,8,5,10,Telekinesis,Magic,1
+Superman,DC Comics,5,4,9,Invisibility,Silver,0
+Batman,Marvel,4,2,5,Super Strength,Magic,0
+Spider-Man,Marvel,2,1,10,Flight,Magic,0
+Superman,DC Comics,6,7,4,Flight,Silver,0
+Superman,Marvel,6,6,6,Telekinesis,Magic,0
+Batman,DC Comics,1,2,8,Super Strength,Magic,0
+Thor,Marvel,9,8,3,Invisibility,Kryptonite,0
+Captain America,Marvel,6,4,10,Telekinesis,Wooden Stake,0
+Captain America,Marvel,3,8,1,Super Strength,Kryptonite,0
+Wonder Woman,DC Comics,4,7,4,Flight,Wooden Stake,1
+Iron Man,Marvel,4,5,4,Telekinesis,Silver,1
+Thor,Marvel,3,10,1,Flight,Silver,0
+Batman,DC Comics,10,10,9,Flight,Silver,1
+Thor,Marvel,3,8,3,Telekinesis,Wooden Stake,0
+Thor,Marvel,3,9,5,Telekinesis,Wooden Stake,0
+Captain America,Marvel,4,5,6,Telekinesis,Wooden Stake,0
+Batman,Marvel,7,10,8,Telekinesis,Silver,1
+Flash,DC Comics,4,5,6,Telekinesis,Wooden Stake,0
+Spider-Man,Marvel,9,2,3,Flight,Magic,0
+Superman,Marvel,1,5,6,Invisibility,Kryptonite,0
+Captain America,DC Comics,8,3,1,Invisibility,Silver,0
+Batman,Marvel,7,7,4,Telekinesis,Kryptonite,0
+Iron Man,Marvel,2,10,6,Flight,Magic,0
+Superman,DC Comics,8,5,7,Invisibility,Wooden Stake,1
+Superman,DC Comics,1,8,10,Invisibility,Kryptonite,0
+Flash,DC Comics,9,1,3,Invisibility,Magic,1
+Flash,DC Comics,9,3,9,Flight,Magic,0
+Captain America,Marvel,2,3,7,Telekinesis,Kryptonite,0
+Wonder Woman,DC Comics,7,9,1,Telekinesis,Silver,0
+Iron Man,Marvel,10,5,2,Telekinesis,Kryptonite,0
+Captain America,DC Comics,3,9,1,Super Strength,Silver,1
+Thor,Marvel,7,9,9,Super Strength,Wooden Stake,1
+Wonder Woman,DC Comics,10,1,9,Super Strength,Silver,0
+Batman,DC Comics,9,2,7,Flight,Wooden Stake,0
+Flash,Marvel,4,5,10,Invisibility,Kryptonite,0
+Iron Man,DC Comics,1,4,3,Invisibility,Wooden Stake,0
+Superman,DC Comics,2,10,5,Flight,Magic,1
+Captain America,DC Comics,1,9,4,Flight,Wooden Stake,0
+Flash,Marvel,5,7,7,Telekinesis,Silver,1
+Superman,DC Comics,5,6,9,Telekinesis,Silver,1
+Iron Man,DC Comics,7,7,2,Super Strength,Silver,1
+Flash,Marvel,9,1,8,Super Strength,Wooden Stake,0
+Flash,Marvel,9,1,9,Flight,Silver,1
+Superman,DC Comics,3,8,10,Super Strength,Silver,1
+Captain America,Marvel,3,2,10,Invisibility,Magic,0
+Wonder Woman,Marvel,3,10,9,Flight,Wooden Stake,0
+Captain America,Marvel,4,9,10,Flight,Magic,0
+Spider-Man,DC Comics,8,7,7,Invisibility,Silver,1
+Flash,DC Comics,6,6,9,Telekinesis,Silver,1
+Superman,Marvel,8,1,9,Telekinesis,Silver,0
+Spider-Man,DC Comics,1,1,3,Invisibility,Wooden Stake,0
+Wonder Woman,Marvel,8,2,4,Invisibility,Kryptonite,0
+Spider-Man,DC Comics,4,6,2,Super Strength,Silver,1
+Superman,Marvel,1,6,10,Flight,Silver,0
+Iron Man,DC Comics,8,2,3,Super Strength,Silver,1
+Thor,Marvel,4,1,5,Invisibility,Silver,0
+Wonder Woman,DC Comics,6,10,5,Super Strength,Wooden Stake,1
+Captain America,DC Comics,8,5,6,Invisibility,Kryptonite,1
+Batman,Marvel,4,5,7,Super Strength,Kryptonite,0
+Wonder Woman,DC Comics,3,2,7,Super Strength,Kryptonite,0
+Spider-Man,DC Comics,9,6,1,Telekinesis,Silver,1
+Iron Man,DC Comics,3,9,2,Invisibility,Silver,0
+Superman,DC Comics,9,2,9,Super Strength,Kryptonite,0
+Iron Man,DC Comics,2,10,10,Flight,Kryptonite,0
+Iron Man,DC Comics,2,2,2,Super Strength,Silver,0
+Superman,DC Comics,2,3,6,Super Strength,Silver,0
+Batman,DC Comics,6,7,1,Flight,Magic,0
+Superman,Marvel,3,6,3,Invisibility,Magic,0
+Batman,DC Comics,9,8,2,Telekinesis,Magic,0
+Superman,Marvel,4,8,3,Telekinesis,Kryptonite,0
+Spider-Man,DC Comics,1,6,5,Telekinesis,Wooden Stake,0
+Batman,Marvel,4,10,10,Flight,Silver,0
+Spider-Man,DC Comics,1,3,6,Super Strength,Magic,1
+Wonder Woman,Marvel,5,3,9,Invisibility,Wooden Stake,1
+Batman,Marvel,4,1,10,Super Strength,Silver,1
+Batman,DC Comics,8,7,4,Telekinesis,Wooden Stake,0
+Superman,Marvel,8,5,7,Super Strength,Kryptonite,1
+Batman,DC Comics,7,4,6,Flight,Kryptonite,0
+Spider-Man,DC Comics,3,10,2,Flight,Kryptonite,0
+Flash,Marvel,1,4,10,Invisibility,Magic,0
+Wonder Woman,DC Comics,1,4,8,Invisibility,Silver,0
+Flash,Marvel,3,6,7,Telekinesis,Kryptonite,0
+Superman,Marvel,6,8,7,Invisibility,Magic,1
+Captain America,DC Comics,7,8,8,Super Strength,Magic,1
+Wonder Woman,DC Comics,6,5,1,Flight,Magic,0
+Flash,DC Comics,6,6,1,Flight,Magic,0
+Wonder Woman,DC Comics,6,4,8,Flight,Kryptonite,0
+Flash,DC Comics,3,9,4,Invisibility,Magic,0
+Spider-Man,Marvel,6,8,5,Flight,Kryptonite,0
+Flash,Marvel,8,10,8,Flight,Kryptonite,0
+Wonder Woman,DC Comics,2,10,5,Flight,Magic,1
+Captain America,DC Comics,5,1,10,Telekinesis,Kryptonite,0
+Iron Man,DC Comics,1,2,4,Telekinesis,Silver,0
+Superman,Marvel,1,9,6,Invisibility,Silver,1
+Iron Man,Marvel,5,8,5,Flight,Wooden Stake,0
+Superman,Marvel,3,3,7,Invisibility,Silver,1
+Wonder Woman,DC Comics,4,8,10,Flight,Kryptonite,0
+Superman,DC Comics,3,1,7,Flight,Kryptonite,0
+Flash,Marvel,1,10,4,Flight,Silver,0
+Spider-Man,DC Comics,1,4,5,Invisibility,Magic,0
+Captain America,DC Comics,5,3,3,Invisibility,Magic,0
+Superman,Marvel,6,6,4,Flight,Kryptonite,0
+Captain America,Marvel,3,7,4,Super Strength,Magic,1
+Superman,DC Comics,9,4,3,Invisibility,Wooden Stake,0
+Captain America,Marvel,5,7,10,Telekinesis,Wooden Stake,0
+Iron Man,DC Comics,8,9,5,Invisibility,Silver,0
+Spider-Man,Marvel,1,2,5,Flight,Silver,0
+Superman,Marvel,5,3,7,Super Strength,Magic,1
+Thor,DC Comics,3,5,4,Flight,Kryptonite,0
+Captain America,DC Comics,1,3,4,Telekinesis,Silver,0
+Captain America,Marvel,4,8,9,Invisibility,Wooden Stake,1
+Flash,DC Comics,5,10,6,Invisibility,Silver,0
+Thor,Marvel,7,8,4,Flight,Silver,0
+Spider-Man,DC Comics,1,8,2,Flight,Wooden Stake,0
+Captain America,Marvel,3,9,6,Telekinesis,Kryptonite,0
+Spider-Man,Marvel,2,4,2,Super Strength,Silver,0
+Captain America,Marvel,9,5,5,Telekinesis,Silver,0
+Wonder Woman,DC Comics,10,5,6,Super Strength,Silver,1
+Batman,Marvel,6,8,4,Invisibility,Magic,1
+Wonder Woman,Marvel,10,7,3,Super Strength,Silver,1
+Captain America,Marvel,3,9,7,Super Strength,Wooden Stake,0
+Batman,Marvel,8,8,2,Invisibility,Kryptonite,0
+Superman,DC Comics,8,2,6,Invisibility,Kryptonite,0
+Spider-Man,DC Comics,2,10,4,Invisibility,Wooden Stake,1
+Captain America,Marvel,6,4,6,Telekinesis,Magic,0
+Flash,Marvel,7,6,4,Invisibility,Wooden Stake,0
+Iron Man,DC Comics,2,2,4,Flight,Kryptonite,0
+Flash,Marvel,10,7,4,Invisibility,Wooden Stake,1
+Iron Man,DC Comics,2,3,9,Invisibility,Magic,1
+Thor,Marvel,10,3,7,Invisibility,Kryptonite,0
+Iron Man,DC Comics,1,2,3,Super Strength,Magic,0
+Batman,Marvel,8,8,3,Telekinesis,Wooden Stake,1
+Iron Man,DC Comics,1,6,6,Invisibility,Silver,0
+Iron Man,DC Comics,9,1,6,Telekinesis,Wooden Stake,1
+Iron Man,DC Comics,6,1,4,Flight,Magic,0
+Captain America,Marvel,7,7,9,Flight,Wooden Stake,1
+Thor,DC Comics,10,8,4,Invisibility,Silver,1
+Spider-Man,DC Comics,7,5,9,Flight,Magic,1
+Thor,Marvel,10,5,4,Telekinesis,Wooden Stake,0
+Flash,Marvel,3,4,2,Super Strength,Magic,0
+Batman,Marvel,2,6,2,Invisibility,Magic,0
+Captain America,Marvel,9,6,5,Flight,Kryptonite,0
+Superman,DC Comics,8,3,4,Telekinesis,Kryptonite,0
+Captain America,Marvel,10,9,7,Telekinesis,Magic,1
+Wonder Woman,Marvel,7,7,5,Flight,Wooden Stake,0
+Iron Man,Marvel,9,1,6,Telekinesis,Wooden Stake,0
+Flash,Marvel,4,7,10,Telekinesis,Wooden Stake,0
+Iron Man,Marvel,4,5,4,Invisibility,Silver,0
+Batman,Marvel,1,5,2,Telekinesis,Magic,0
+Superman,Marvel,8,2,10,Flight,Magic,0
+Flash,DC Comics,3,4,9,Invisibility,Silver,1
+Wonder Woman,DC Comics,7,6,10,Flight,Magic,0
+Captain America,DC Comics,2,10,7,Super Strength,Magic,1
+Superman,DC Comics,2,7,4,Flight,Silver,0
+Spider-Man,DC Comics,7,5,3,Flight,Kryptonite,0
+Thor,Marvel,6,9,10,Invisibility,Magic,0
+Captain America,Marvel,3,3,3,Telekinesis,Silver,0
+Superman,Marvel,9,1,9,Flight,Wooden Stake,0
+Spider-Man,Marvel,10,4,5,Invisibility,Kryptonite,0
+Spider-Man,DC Comics,6,9,3,Super Strength,Wooden Stake,1
+Wonder Woman,DC Comics,10,4,5,Invisibility,Magic,0
+Wonder Woman,Marvel,10,2,2,Invisibility,Kryptonite,0
+Thor,Marvel,6,10,4,Telekinesis,Silver,0
+Spider-Man,DC Comics,1,5,10,Flight,Magic,0
+Flash,DC Comics,4,3,2,Super Strength,Silver,0
+Batman,DC Comics,10,9,2,Invisibility,Kryptonite,0
+Spider-Man,Marvel,6,4,8,Flight,Wooden Stake,0
+Superman,Marvel,6,6,1,Flight,Magic,0
+Wonder Woman,DC Comics,5,2,7,Invisibility,Magic,0
+Batman,DC Comics,1,6,5,Flight,Silver,0
+Flash,Marvel,8,3,8,Invisibility,Kryptonite,0
+Wonder Woman,Marvel,5,9,1,Invisibility,Silver,0
+Flash,Marvel,5,2,7,Invisibility,Kryptonite,0
+Wonder Woman,Marvel,7,9,5,Super Strength,Magic,1
+Wonder Woman,DC Comics,4,5,4,Invisibility,Kryptonite,0
+Spider-Man,DC Comics,6,8,7,Telekinesis,Magic,0
+Iron Man,DC Comics,4,2,10,Flight,Kryptonite,0
+Spider-Man,Marvel,3,6,2,Super Strength,Wooden Stake,1
+Wonder Woman,Marvel,7,3,1,Flight,Kryptonite,0
+Batman,Marvel,8,10,1,Super Strength,Wooden Stake,0
+Spider-Man,DC Comics,4,5,1,Telekinesis,Kryptonite,0
+Wonder Woman,DC Comics,2,8,5,Super Strength,Kryptonite,0
+Wonder Woman,DC Comics,10,10,10,Super Strength,Silver,1
+Spider-Man,Marvel,3,1,7,Super Strength,Silver,0
+Spider-Man,Marvel,1,5,2,Flight,Magic,0
+Batman,DC Comics,8,3,10,Invisibility,Silver,1
+Flash,Marvel,3,4,8,Flight,Kryptonite,0
+Spider-Man,DC Comics,10,2,4,Invisibility,Silver,0
+Thor,DC Comics,7,9,3,Flight,Kryptonite,0
+Superman,DC Comics,10,3,10,Telekinesis,Wooden Stake,1
+Thor,DC Comics,5,2,8,Telekinesis,Kryptonite,0
+Batman,Marvel,10,10,2,Super Strength,Magic,1
+Iron Man,Marvel,5,9,3,Telekinesis,Wooden Stake,0
+Thor,Marvel,7,7,3,Super Strength,Magic,1
+Flash,Marvel,9,6,10,Invisibility,Magic,1
+Wonder Woman,Marvel,5,1,1,Telekinesis,Magic,0
+Superman,Marvel,1,5,6,Invisibility,Silver,0
+Captain America,DC Comics,10,3,2,Flight,Magic,0
+Superman,Marvel,10,1,1,Invisibility,Wooden Stake,0
+Thor,Marvel,1,4,2,Flight,Kryptonite,0
+Captain America,Marvel,2,2,6,Invisibility,Magic,0
+Batman,DC Comics,6,2,4,Invisibility,Wooden Stake,0
+Flash,Marvel,9,3,6,Telekinesis,Magic,0
+Superman,DC Comics,8,8,9,Invisibility,Kryptonite,0
+Iron Man,Marvel,5,8,10,Telekinesis,Wooden Stake,0
+Captain America,Marvel,1,7,10,Telekinesis,Wooden Stake,0
+Captain America,Marvel,7,6,8,Super Strength,Kryptonite,1
+Superman,DC Comics,5,9,1,Super Strength,Wooden Stake,1
+Thor,DC Comics,6,4,8,Flight,Kryptonite,0
+Captain America,Marvel,7,1,9,Invisibility,Wooden Stake,1
+Batman,Marvel,3,8,6,Flight,Wooden Stake,0
+Superman,Marvel,10,7,10,Invisibility,Kryptonite,1
+Batman,DC Comics,3,7,5,Super Strength,Kryptonite,0
+Superman,DC Comics,5,3,6,Super Strength,Wooden Stake,0
+Batman,Marvel,6,4,6,Invisibility,Wooden Stake,1
+Thor,DC Comics,9,10,9,Invisibility,Kryptonite,1
+Superman,DC Comics,5,9,4,Super Strength,Silver,0
+Flash,DC Comics,1,6,2,Super Strength,Kryptonite,0
+Wonder Woman,DC Comics,4,5,9,Flight,Wooden Stake,0
+Iron Man,Marvel,5,3,2,Super Strength,Wooden Stake,1
+Thor,Marvel,10,9,10,Invisibility,Wooden Stake,1
+Batman,DC Comics,10,5,9,Flight,Kryptonite,1
+Flash,DC Comics,5,5,2,Invisibility,Wooden Stake,0
+Superman,DC Comics,7,4,8,Telekinesis,Silver,0
+Thor,Marvel,4,4,9,Flight,Magic,0
+Batman,Marvel,1,1,10,Invisibility,Silver,0
+Spider-Man,DC Comics,5,7,9,Super Strength,Kryptonite,0
+Spider-Man,DC Comics,7,9,10,Telekinesis,Wooden Stake,1
+Captain America,DC Comics,10,3,9,Invisibility,Kryptonite,0
+Iron Man,DC Comics,10,2,2,Flight,Magic,0
+Spider-Man,Marvel,6,3,4,Invisibility,Kryptonite,0
+Wonder Woman,Marvel,5,1,7,Telekinesis,Wooden Stake,0
+Batman,Marvel,4,6,2,Flight,Magic,0
+Thor,Marvel,2,7,1,Telekinesis,Magic,0
+Superman,Marvel,4,2,3,Invisibility,Wooden Stake,0
+Thor,Marvel,10,8,4,Super Strength,Wooden Stake,1
+Captain America,DC Comics,10,6,8,Super Strength,Wooden Stake,1
+Flash,DC Comics,3,4,6,Invisibility,Kryptonite,0
+Thor,Marvel,10,5,2,Invisibility,Silver,0
+Spider-Man,Marvel,1,8,9,Invisibility,Kryptonite,0
+Thor,Marvel,8,3,2,Flight,Kryptonite,0
+Spider-Man,DC Comics,5,3,5,Telekinesis,Silver,0
+Spider-Man,DC Comics,4,4,4,Telekinesis,Wooden Stake,0
+Iron Man,DC Comics,8,1,7,Telekinesis,Wooden Stake,0
+Captain America,DC Comics,7,9,8,Invisibility,Silver,1
+Wonder Woman,Marvel,2,8,5,Telekinesis,Silver,1
+Wonder Woman,DC Comics,1,8,10,Invisibility,Kryptonite,0
+Batman,Marvel,4,10,5,Flight,Magic,0
+Wonder Woman,DC Comics,8,6,2,Super Strength,Silver,0
+Spider-Man,DC Comics,2,7,8,Invisibility,Kryptonite,0
+Superman,DC Comics,3,6,2,Invisibility,Magic,0
+Captain America,DC Comics,1,9,10,Super Strength,Wooden Stake,1
+Batman,Marvel,1,3,6,Super Strength,Wooden Stake,0
+Wonder Woman,Marvel,3,3,8,Flight,Kryptonite,0
+Wonder Woman,Marvel,5,3,6,Telekinesis,Kryptonite,0
+Superman,Marvel,3,10,4,Invisibility,Silver,1
+Thor,Marvel,1,3,4,Telekinesis,Wooden Stake,0
+Captain America,Marvel,1,9,6,Invisibility,Kryptonite,0
+Superman,Marvel,8,4,4,Flight,Wooden Stake,0
+Wonder Woman,DC Comics,10,7,8,Super Strength,Wooden Stake,1
+Captain America,Marvel,2,9,9,Flight,Silver,1
+Captain America,DC Comics,3,7,1,Super Strength,Magic,0
+Wonder Woman,Marvel,2,9,4,Telekinesis,Silver,1
+Thor,DC Comics,3,3,4,Telekinesis,Kryptonite,0
+Thor,Marvel,7,4,2,Flight,Silver,0
+Wonder Woman,DC Comics,1,8,6,Super Strength,Silver,1
+Captain America,Marvel,10,6,3,Flight,Wooden Stake,0
+Superman,Marvel,8,5,7,Super Strength,Silver,1
+Iron Man,Marvel,10,4,5,Super Strength,Kryptonite,0
+Spider-Man,Marvel,10,8,4,Telekinesis,Magic,1
+Thor,DC Comics,10,1,5,Telekinesis,Silver,1
+Wonder Woman,Marvel,2,9,8,Super Strength,Silver,1
+Flash,Marvel,3,1,3,Super Strength,Magic,0
+Iron Man,DC Comics,9,8,7,Super Strength,Kryptonite,1
+Thor,Marvel,7,4,6,Telekinesis,Kryptonite,0
+Flash,DC Comics,4,9,1,Telekinesis,Silver,0
+Captain America,DC Comics,10,5,7,Invisibility,Wooden Stake,1
+Wonder Woman,Marvel,5,3,7,Super Strength,Silver,0
+Iron Man,Marvel,2,9,1,Invisibility,Magic,1
+Wonder Woman,DC Comics,8,9,9,Super Strength,Magic,1
+Superman,Marvel,4,4,6,Telekinesis,Magic,0
+Superman,DC Comics,9,4,2,Invisibility,Silver,1
+Batman,Marvel,5,8,5,Invisibility,Silver,0
+Spider-Man,Marvel,9,2,4,Flight,Kryptonite,0
+Spider-Man,DC Comics,4,9,7,Super Strength,Wooden Stake,0
+Thor,Marvel,10,6,8,Telekinesis,Silver,1
+Spider-Man,Marvel,5,9,1,Flight,Kryptonite,0
+Wonder Woman,Marvel,9,8,5,Flight,Silver,1
+Wonder Woman,DC Comics,8,7,3,Super Strength,Kryptonite,0
+Batman,Marvel,3,1,1,Flight,Kryptonite,0
+Flash,DC Comics,1,3,3,Super Strength,Wooden Stake,0
+Superman,Marvel,3,2,6,Flight,Silver,0
+Flash,DC Comics,4,5,7,Super Strength,Kryptonite,0
+Flash,Marvel,2,5,8,Telekinesis,Magic,0
+Iron Man,Marvel,1,5,4,Super Strength,Magic,0
+Iron Man,DC Comics,7,4,3,Super Strength,Magic,1
+Superman,Marvel,8,5,5,Invisibility,Wooden Stake,1
+Captain America,DC Comics,7,3,9,Telekinesis,Kryptonite,0
+Superman,Marvel,5,1,6,Telekinesis,Wooden Stake,0
+Iron Man,DC Comics,1,5,9,Telekinesis,Silver,1
+Flash,Marvel,7,9,6,Flight,Silver,1
+Thor,DC Comics,7,9,2,Invisibility,Kryptonite,0
+Batman,Marvel,9,4,5,Telekinesis,Magic,0
+Flash,DC Comics,3,3,9,Flight,Kryptonite,0
+Superman,DC Comics,9,1,8,Flight,Kryptonite,0
+Captain America,Marvel,1,2,7,Flight,Kryptonite,0
+Flash,DC Comics,1,8,1,Invisibility,Wooden Stake,0
+Thor,DC Comics,4,1,4,Flight,Silver,0
+Superman,Marvel,9,8,7,Invisibility,Kryptonite,0
+Thor,Marvel,6,7,7,Super Strength,Kryptonite,0
+Flash,Marvel,3,8,6,Flight,Kryptonite,0
+Superman,Marvel,1,6,8,Telekinesis,Wooden Stake,0
+Thor,Marvel,4,9,6,Flight,Wooden Stake,0
+Wonder Woman,Marvel,9,3,10,Super Strength,Wooden Stake,0
+Spider-Man,DC Comics,3,10,3,Super Strength,Kryptonite,0
+Thor,DC Comics,9,4,4,Flight,Magic,0
+Wonder Woman,DC Comics,7,6,3,Super Strength,Magic,1
+Flash,Marvel,4,8,1,Invisibility,Magic,0
+Spider-Man,Marvel,3,5,10,Invisibility,Silver,1
+Iron Man,DC Comics,10,3,5,Flight,Kryptonite,0
+Spider-Man,DC Comics,5,6,1,Invisibility,Magic,0
+Thor,Marvel,5,4,1,Invisibility,Magic,0
+Batman,DC Comics,3,9,2,Telekinesis,Magic,0
+Batman,Marvel,9,3,4,Flight,Kryptonite,0
+Iron Man,Marvel,4,4,6,Super Strength,Magic,1
+Thor,DC Comics,5,7,8,Flight,Magic,0
+Spider-Man,Marvel,4,7,3,Invisibility,Kryptonite,0
+Batman,Marvel,5,4,1,Telekinesis,Silver,0
+Superman,Marvel,7,6,3,Flight,Wooden Stake,1
+Captain America,Marvel,9,3,3,Flight,Magic,0
+Thor,DC Comics,7,6,5,Invisibility,Wooden Stake,1
+Wonder Woman,Marvel,5,2,4,Invisibility,Silver,0
+Wonder Woman,Marvel,10,8,4,Flight,Silver,1
+Superman,DC Comics,10,2,9,Invisibility,Magic,0
+Superman,Marvel,7,7,7,Invisibility,Kryptonite,1
+Thor,Marvel,10,9,4,Invisibility,Silver,1
+Captain America,DC Comics,5,1,3,Invisibility,Wooden Stake,1
+Batman,DC Comics,3,8,6,Invisibility,Wooden Stake,0
+Captain America,Marvel,7,7,3,Telekinesis,Wooden Stake,0
+Iron Man,Marvel,2,6,6,Invisibility,Wooden Stake,0
+Spider-Man,DC Comics,9,6,9,Super Strength,Silver,1
+Spider-Man,Marvel,10,6,6,Flight,Magic,0
+Superman,Marvel,10,9,4,Telekinesis,Magic,0
+Batman,Marvel,1,2,5,Telekinesis,Wooden Stake,0
+Captain America,DC Comics,6,1,6,Invisibility,Magic,0
+Superman,Marvel,7,6,3,Flight,Wooden Stake,0
+Thor,DC Comics,8,10,8,Super Strength,Wooden Stake,1
+Superman,DC Comics,10,8,4,Invisibility,Kryptonite,0
+Thor,DC Comics,9,3,8,Flight,Silver,1
+Thor,DC Comics,2,10,10,Invisibility,Silver,0
+Iron Man,Marvel,10,1,10,Invisibility,Wooden Stake,1
+Iron Man,DC Comics,2,9,3,Invisibility,Silver,0
+Thor,Marvel,5,1,10,Invisibility,Magic,1
+Flash,DC Comics,5,3,7,Invisibility,Wooden Stake,0
+Batman,DC Comics,6,8,9,Invisibility,Kryptonite,0
+Iron Man,Marvel,3,3,4,Invisibility,Magic,1
+Iron Man,DC Comics,8,4,8,Super Strength,Kryptonite,0
+Spider-Man,DC Comics,1,8,3,Telekinesis,Kryptonite,0
+Superman,Marvel,6,1,7,Super Strength,Silver,0
+Spider-Man,DC Comics,4,6,3,Invisibility,Silver,0
+Batman,DC Comics,1,1,7,Invisibility,Wooden Stake,0
+Iron Man,DC Comics,7,1,10,Super Strength,Silver,1
+Wonder Woman,Marvel,9,8,10,Super Strength,Kryptonite,1
+Flash,DC Comics,4,4,6,Telekinesis,Kryptonite,0
+Iron Man,Marvel,4,1,2,Super Strength,Magic,0
+Captain America,Marvel,6,10,3,Telekinesis,Kryptonite,0
+Batman,Marvel,3,7,6,Invisibility,Wooden Stake,1
+Wonder Woman,DC Comics,6,5,4,Flight,Wooden Stake,0
+Superman,DC Comics,7,5,6,Flight,Silver,0
+Superman,DC Comics,10,1,1,Flight,Silver,0
+Wonder Woman,DC Comics,10,10,10,Flight,Silver,1
+Superman,Marvel,3,6,1,Invisibility,Wooden Stake,0
+Flash,Marvel,7,9,3,Flight,Kryptonite,0
+Wonder Woman,DC Comics,3,9,8,Super Strength,Silver,0
+Batman,DC Comics,2,8,8,Super Strength,Magic,1
+Wonder Woman,Marvel,10,5,4,Flight,Silver,0
+Wonder Woman,DC Comics,4,1,6,Super Strength,Wooden Stake,0
+Captain America,DC Comics,8,9,8,Telekinesis,Silver,1
+Captain America,DC Comics,9,1,7,Invisibility,Kryptonite,0
+Spider-Man,DC Comics,7,8,7,Flight,Silver,1
+Batman,DC Comics,1,5,4,Flight,Wooden Stake,0
+Batman,DC Comics,3,3,9,Invisibility,Wooden Stake,1
+Captain America,Marvel,9,7,10,Super Strength,Magic,1
+Thor,Marvel,1,7,6,Invisibility,Wooden Stake,0
+Thor,Marvel,9,9,3,Invisibility,Magic,1
+Spider-Man,Marvel,8,7,5,Super Strength,Kryptonite,0
+Flash,DC Comics,1,3,5,Invisibility,Wooden Stake,0
+Thor,DC Comics,6,1,5,Super Strength,Silver,0
+Thor,Marvel,5,8,8,Super Strength,Kryptonite,0
+Thor,Marvel,6,3,9,Invisibility,Silver,0
+Flash,Marvel,10,8,9,Telekinesis,Silver,1
+Iron Man,Marvel,5,8,6,Super Strength,Silver,0
+Spider-Man,Marvel,6,5,6,Invisibility,Kryptonite,0
+Captain America,DC Comics,5,1,9,Super Strength,Kryptonite,0
+Thor,DC Comics,5,10,4,Telekinesis,Wooden Stake,0
+Superman,Marvel,4,7,6,Telekinesis,Silver,0
+Wonder Woman,Marvel,3,10,4,Flight,Magic,0
+Iron Man,DC Comics,3,5,1,Super Strength,Wooden Stake,0
+Flash,DC Comics,4,8,7,Super Strength,Kryptonite,0
+Flash,DC Comics,9,9,10,Invisibility,Magic,1
+Flash,Marvel,2,7,6,Super Strength,Kryptonite,0
+Thor,DC Comics,9,7,9,Flight,Magic,1
+Wonder Woman,Marvel,1,1,7,Telekinesis,Wooden Stake,0
+Wonder Woman,Marvel,1,4,7,Telekinesis,Magic,0
+Iron Man,DC Comics,5,2,2,Flight,Wooden Stake,0
+Spider-Man,DC Comics,6,2,9,Super Strength,Kryptonite,1
+Flash,DC Comics,6,2,10,Super Strength,Magic,0
+Superman,Marvel,3,4,9,Flight,Silver,1
+Superman,DC Comics,7,1,6,Invisibility,Silver,1
+Superman,DC Comics,9,4,3,Telekinesis,Kryptonite,0
+Flash,Marvel,10,2,1,Flight,Magic,0
+Thor,DC Comics,8,5,4,Flight,Silver,0
+Iron Man,DC Comics,6,3,3,Super Strength,Wooden Stake,0
+Flash,Marvel,8,8,1,Telekinesis,Magic,1
+Superman,Marvel,5,4,3,Super Strength,Magic,0
+Wonder Woman,Marvel,8,1,4,Flight,Silver,0
+Flash,Marvel,10,1,8,Invisibility,Wooden Stake,0
+Wonder Woman,Marvel,4,10,9,Telekinesis,Wooden Stake,0
+Batman,DC Comics,10,3,3,Flight,Wooden Stake,0
+Flash,DC Comics,8,9,6,Flight,Magic,0
+Batman,Marvel,10,7,10,Invisibility,Kryptonite,0
+Iron Man,DC Comics,2,2,5,Flight,Magic,0
+Flash,DC Comics,5,9,6,Flight,Magic,0
+Thor,Marvel,9,10,4,Telekinesis,Silver,0
+Thor,Marvel,4,2,10,Telekinesis,Kryptonite,0
+Spider-Man,Marvel,6,3,6,Telekinesis,Wooden Stake,0
+Spider-Man,DC Comics,1,10,7,Super Strength,Silver,0
+Superman,Marvel,9,2,9,Invisibility,Magic,1
+Captain America,DC Comics,1,3,10,Telekinesis,Kryptonite,0
+Wonder Woman,DC Comics,5,6,7,Super Strength,Wooden Stake,0
+Spider-Man,DC Comics,4,9,6,Super Strength,Wooden Stake,1
+Thor,DC Comics,3,9,1,Invisibility,Magic,0
+Wonder Woman,Marvel,6,7,2,Invisibility,Wooden Stake,0
+Captain America,DC Comics,2,3,1,Flight,Wooden Stake,0
+Spider-Man,Marvel,3,4,9,Super Strength,Kryptonite,0
+Iron Man,DC Comics,5,6,10,Telekinesis,Silver,1
+Batman,Marvel,9,5,10,Invisibility,Kryptonite,0
+Spider-Man,Marvel,2,2,9,Super Strength,Silver,1
+Flash,Marvel,10,6,7,Telekinesis,Silver,0
+Spider-Man,DC Comics,8,3,2,Super Strength,Silver,0
+Flash,DC Comics,2,8,6,Invisibility,Wooden Stake,0
+Iron Man,DC Comics,5,2,4,Flight,Kryptonite,0
+Thor,Marvel,7,1,1,Super Strength,Wooden Stake,0
+Superman,DC Comics,8,9,1,Telekinesis,Magic,1
+Iron Man,DC Comics,1,3,5,Invisibility,Kryptonite,0
+Superman,DC Comics,6,1,2,Flight,Silver,0
+Spider-Man,Marvel,1,7,4,Telekinesis,Wooden Stake,0
+Thor,DC Comics,2,10,1,Telekinesis,Wooden Stake,0
+Captain America,DC Comics,1,5,4,Telekinesis,Kryptonite,0
+Spider-Man,Marvel,5,5,6,Super Strength,Kryptonite,0
+Iron Man,Marvel,10,1,10,Invisibility,Silver,0
+Captain America,Marvel,9,9,4,Telekinesis,Silver,1
+Batman,Marvel,6,7,1,Super Strength,Magic,0
+Captain America,Marvel,1,8,7,Invisibility,Silver,0
+Iron Man,Marvel,1,9,2,Invisibility,Wooden Stake,1
+Wonder Woman,DC Comics,2,6,9,Super Strength,Magic,0
+Captain America,DC Comics,9,5,3,Super Strength,Magic,1
+Iron Man,Marvel,3,6,8,Telekinesis,Magic,0
+Wonder Woman,DC Comics,1,2,8,Invisibility,Kryptonite,0
+Spider-Man,Marvel,5,4,3,Flight,Silver,0
+Wonder Woman,DC Comics,7,3,4,Super Strength,Magic,0
+Thor,Marvel,6,7,2,Invisibility,Kryptonite,0
+Batman,Marvel,1,9,4,Invisibility,Kryptonite,0
+Wonder Woman,DC Comics,5,5,9,Telekinesis,Magic,0
+Thor,DC Comics,5,6,2,Flight,Magic,0
+Thor,DC Comics,6,10,3,Telekinesis,Wooden Stake,0
+Thor,DC Comics,3,2,4,Flight,Magic,0
+Wonder Woman,DC Comics,5,3,5,Flight,Wooden Stake,0
+Iron Man,DC Comics,7,3,1,Super Strength,Magic,0
+Flash,DC Comics,5,9,7,Invisibility,Magic,1
+Iron Man,DC Comics,5,7,10,Invisibility,Silver,0
+Batman,Marvel,5,8,7,Invisibility,Magic,1
+Iron Man,DC Comics,10,10,9,Flight,Magic,1
+Superman,DC Comics,10,9,4,Invisibility,Wooden Stake,1
+Iron Man,Marvel,3,6,6,Super Strength,Wooden Stake,0
+Iron Man,Marvel,1,4,2,Flight,Silver,0
+Iron Man,Marvel,5,1,4,Flight,Magic,0
+Spider-Man,Marvel,9,8,2,Flight,Magic,1
+Batman,DC Comics,1,7,10,Flight,Wooden Stake,0
+Superman,DC Comics,3,2,5,Super Strength,Kryptonite,0
+Iron Man,Marvel,4,8,7,Invisibility,Kryptonite,0
+Flash,Marvel,1,5,1,Super Strength,Kryptonite,0
+Batman,DC Comics,1,7,10,Invisibility,Wooden Stake,1
+Captain America,DC Comics,8,4,10,Super Strength,Wooden Stake,1
+Spider-Man,DC Comics,2,5,7,Telekinesis,Kryptonite,0
+Wonder Woman,DC Comics,8,8,10,Telekinesis,Kryptonite,0
+Flash,Marvel,7,1,6,Telekinesis,Magic,0
+Iron Man,DC Comics,10,1,6,Telekinesis,Wooden Stake,1
+Flash,Marvel,10,4,8,Flight,Wooden Stake,1
+Superman,Marvel,2,3,8,Flight,Kryptonite,0
+Spider-Man,Marvel,6,10,6,Super Strength,Kryptonite,0
+Superman,DC Comics,6,2,3,Super Strength,Silver,0
+Wonder Woman,Marvel,3,3,5,Telekinesis,Wooden Stake,0
+Wonder Woman,DC Comics,2,1,2,Invisibility,Silver,0
+Flash,Marvel,1,1,5,Telekinesis,Magic,0
+Spider-Man,DC Comics,6,6,9,Super Strength,Silver,1
+Captain America,Marvel,5,5,10,Telekinesis,Kryptonite,0
+Flash,Marvel,9,8,1,Super Strength,Wooden Stake,1
+Batman,DC Comics,1,2,10,Telekinesis,Wooden Stake,0
+Spider-Man,DC Comics,7,4,5,Invisibility,Silver,0
+Thor,Marvel,5,8,6,Telekinesis,Silver,0
+Wonder Woman,Marvel,5,6,7,Invisibility,Magic,1
+Captain America,DC Comics,2,1,9,Invisibility,Magic,0
+Flash,Marvel,3,4,6,Super Strength,Kryptonite,0
+Wonder Woman,DC Comics,7,1,5,Invisibility,Kryptonite,0
+Thor,DC Comics,6,2,7,Flight,Kryptonite,0
+Captain America,Marvel,2,5,1,Flight,Silver,0
+Wonder Woman,DC Comics,6,8,5,Flight,Silver,0
+Thor,Marvel,2,8,2,Super Strength,Wooden Stake,0
+Thor,DC Comics,2,3,4,Flight,Kryptonite,0
+Wonder Woman,DC Comics,2,4,7,Super Strength,Silver,1
+Flash,Marvel,3,10,5,Super Strength,Wooden Stake,0
+Wonder Woman,DC Comics,2,6,6,Flight,Kryptonite,0
+Superman,Marvel,4,10,2,Invisibility,Magic,0
+Spider-Man,DC Comics,9,3,3,Telekinesis,Magic,0
+Spider-Man,DC Comics,6,2,7,Super Strength,Silver,0
+Captain America,DC Comics,1,6,2,Flight,Wooden Stake,0
+Batman,DC Comics,8,5,6,Super Strength,Magic,1
+Wonder Woman,Marvel,7,10,5,Invisibility,Wooden Stake,1
+Flash,DC Comics,10,5,10,Invisibility,Wooden Stake,1
+Superman,DC Comics,3,10,1,Flight,Magic,0
+Spider-Man,DC Comics,1,5,10,Super Strength,Wooden Stake,0
+Spider-Man,Marvel,5,10,4,Telekinesis,Magic,1
+Flash,Marvel,4,5,2,Telekinesis,Silver,0
+Superman,Marvel,10,3,4,Super Strength,Kryptonite,0
+Iron Man,Marvel,8,7,1,Super Strength,Kryptonite,0
+Superman,DC Comics,1,6,2,Super Strength,Silver,0
+Flash,DC Comics,10,4,8,Flight,Magic,0
+Spider-Man,DC Comics,1,2,6,Invisibility,Magic,0
+Batman,Marvel,4,9,2,Telekinesis,Magic,0
+Iron Man,Marvel,8,1,6,Flight,Magic,0
+Flash,DC Comics,5,4,10,Super Strength,Silver,0
+Flash,DC Comics,2,1,9,Super Strength,Kryptonite,0
+Thor,DC Comics,6,6,7,Invisibility,Wooden Stake,1
+Superman,Marvel,5,4,9,Super Strength,Wooden Stake,1
+Thor,DC Comics,2,5,5,Flight,Kryptonite,0
+Iron Man,DC Comics,3,5,7,Flight,Silver,0
+Iron Man,Marvel,9,9,7,Invisibility,Wooden Stake,1
+Iron Man,Marvel,7,1,3,Flight,Kryptonite,0
+Captain America,DC Comics,7,2,7,Telekinesis,Silver,0
+Superman,Marvel,6,6,1,Flight,Wooden Stake,0
+Flash,DC Comics,8,5,9,Flight,Magic,1
+Wonder Woman,DC Comics,4,7,10,Flight,Magic,0
+Batman,DC Comics,8,3,6,Telekinesis,Silver,0
+Batman,DC Comics,4,3,5,Super Strength,Magic,0
+Flash,Marvel,8,10,7,Flight,Silver,0
+Thor,Marvel,9,2,5,Invisibility,Kryptonite,0
+Flash,Marvel,3,3,10,Telekinesis,Kryptonite,0
+Thor,DC Comics,3,10,5,Invisibility,Wooden Stake,0
+Wonder Woman,DC Comics,2,1,10,Flight,Silver,0
+Thor,DC Comics,10,5,7,Invisibility,Wooden Stake,1
+Superman,Marvel,3,5,10,Flight,Wooden Stake,0
+Spider-Man,Marvel,3,7,7,Telekinesis,Kryptonite,0
+Thor,DC Comics,5,4,3,Invisibility,Wooden Stake,0
+Iron Man,Marvel,5,3,3,Invisibility,Magic,0
+Thor,Marvel,2,1,10,Flight,Wooden Stake,0
+Iron Man,Marvel,10,8,3,Flight,Silver,1
+Captain America,Marvel,6,3,6,Super Strength,Magic,1
+Spider-Man,DC Comics,5,2,6,Flight,Kryptonite,0
+Spider-Man,Marvel,6,4,3,Flight,Silver,0
+Wonder Woman,DC Comics,1,3,3,Super Strength,Magic,0
+Superman,Marvel,5,1,8,Flight,Silver,0
+Flash,DC Comics,9,3,8,Flight,Magic,1
+Superman,DC Comics,10,2,7,Super Strength,Silver,1
+Batman,Marvel,2,8,10,Telekinesis,Silver,0
+Captain America,DC Comics,1,6,4,Telekinesis,Magic,0
+Wonder Woman,DC Comics,10,9,4,Flight,Kryptonite,0
+Superman,Marvel,9,8,3,Flight,Kryptonite,0
+Iron Man,DC Comics,10,10,5,Super Strength,Silver,1
+Captain America,Marvel,9,3,3,Super Strength,Silver,0
+Spider-Man,DC Comics,9,5,8,Telekinesis,Kryptonite,0
+Flash,Marvel,6,7,7,Invisibility,Kryptonite,0
+Flash,Marvel,8,5,3,Flight,Wooden Stake,0
+Iron Man,Marvel,1,8,9,Invisibility,Kryptonite,0
+Wonder Woman,Marvel,10,5,5,Invisibility,Silver,1
+Wonder Woman,Marvel,4,1,9,Super Strength,Magic,0
+Captain America,DC Comics,1,5,7,Flight,Kryptonite,0
+Spider-Man,DC Comics,8,4,7,Flight,Wooden Stake,1
+Superman,Marvel,1,6,6,Super Strength,Wooden Stake,1
+Iron Man,DC Comics,3,3,2,Invisibility,Wooden Stake,0
+Iron Man,DC Comics,4,5,9,Super Strength,Magic,0
+Spider-Man,DC Comics,8,2,6,Telekinesis,Kryptonite,0
+Iron Man,Marvel,6,6,8,Flight,Kryptonite,0
+Flash,Marvel,10,6,1,Telekinesis,Kryptonite,0
+Superman,DC Comics,7,5,5,Super Strength,Magic,0
+Superman,Marvel,8,6,1,Flight,Magic,0
+Superman,Marvel,2,7,10,Telekinesis,Silver,1
+Spider-Man,DC Comics,10,5,8,Telekinesis,Wooden Stake,1
+Thor,Marvel,8,1,8,Invisibility,Wooden Stake,1
+Thor,Marvel,3,8,1,Flight,Kryptonite,0
+Wonder Woman,Marvel,7,4,9,Telekinesis,Magic,1
+Wonder Woman,Marvel,3,9,2,Telekinesis,Magic,0
+Flash,Marvel,7,10,9,Invisibility,Kryptonite,0
+Iron Man,DC Comics,2,6,1,Telekinesis,Kryptonite,0
+Superman,Marvel,10,1,10,Telekinesis,Silver,1
+Iron Man,Marvel,6,3,9,Telekinesis,Wooden Stake,0
+Spider-Man,DC Comics,3,3,4,Invisibility,Wooden Stake,0
+Iron Man,DC Comics,3,10,9,Telekinesis,Wooden Stake,1
+Batman,Marvel,9,4,7,Telekinesis,Silver,1
+Thor,DC Comics,7,6,6,Flight,Kryptonite,0
+Iron Man,Marvel,5,7,5,Flight,Kryptonite,0
+Iron Man,DC Comics,10,10,9,Invisibility,Wooden Stake,1
+Captain America,Marvel,7,4,2,Super Strength,Wooden Stake,0
+Flash,DC Comics,9,6,2,Flight,Silver,0
+Iron Man,Marvel,1,1,9,Invisibility,Magic,0
+Batman,DC Comics,7,8,3,Telekinesis,Magic,1
+Thor,Marvel,6,7,8,Telekinesis,Wooden Stake,0
+Captain America,Marvel,10,9,9,Invisibility,Silver,1
+Flash,Marvel,9,3,8,Telekinesis,Wooden Stake,0
+Spider-Man,DC Comics,1,2,4,Telekinesis,Magic,0
+Wonder Woman,DC Comics,4,1,1,Super Strength,Wooden Stake,0
+Spider-Man,Marvel,9,3,4,Telekinesis,Magic,0
+Thor,Marvel,4,5,9,Flight,Magic,0
+Wonder Woman,Marvel,10,2,2,Telekinesis,Magic,0
+Spider-Man,Marvel,3,3,3,Invisibility,Kryptonite,0
+Flash,DC Comics,9,4,10,Super Strength,Kryptonite,1
+Batman,DC Comics,2,7,8,Telekinesis,Wooden Stake,0
+Iron Man,DC Comics,4,3,6,Invisibility,Magic,0
+Thor,Marvel,6,9,8,Flight,Kryptonite,1
+Wonder Woman,Marvel,2,8,7,Telekinesis,Wooden Stake,0
+Captain America,DC Comics,8,4,5,Super Strength,Wooden Stake,0
+Iron Man,DC Comics,8,1,9,Telekinesis,Wooden Stake,1
+Spider-Man,DC Comics,1,1,4,Invisibility,Wooden Stake,0
+Spider-Man,DC Comics,3,1,6,Super Strength,Wooden Stake,0
+Captain America,Marvel,10,1,2,Telekinesis,Silver,0
+Batman,Marvel,9,8,2,Flight,Magic,0
+Flash,Marvel,5,3,2,Super Strength,Wooden Stake,1
+Flash,DC Comics,6,6,10,Flight,Silver,0
+Captain America,Marvel,4,3,7,Invisibility,Magic,1
+Thor,DC Comics,10,5,2,Telekinesis,Kryptonite,0
+Captain America,DC Comics,2,7,2,Flight,Wooden Stake,0
+Spider-Man,DC Comics,8,2,9,Invisibility,Silver,1
+Batman,DC Comics,6,6,7,Telekinesis,Kryptonite,0
+Batman,DC Comics,5,6,3,Invisibility,Silver,0
+Superman,Marvel,9,3,3,Flight,Magic,0
+Captain America,Marvel,1,6,7,Invisibility,Magic,0
+Thor,Marvel,5,10,5,Super Strength,Kryptonite,0
+Spider-Man,DC Comics,6,10,10,Telekinesis,Silver,0
+Iron Man,Marvel,5,5,6,Invisibility,Wooden Stake,1
+Flash,DC Comics,6,2,8,Flight,Wooden Stake,1
+Flash,Marvel,6,9,9,Telekinesis,Kryptonite,0
+Flash,DC Comics,7,8,1,Super Strength,Kryptonite,0
+Batman,DC Comics,4,3,3,Telekinesis,Kryptonite,0
+Flash,Marvel,8,8,7,Super Strength,Silver,1
+Captain America,DC Comics,7,9,6,Telekinesis,Wooden Stake,0
+Superman,Marvel,9,3,7,Invisibility,Wooden Stake,0
+Thor,Marvel,7,3,8,Invisibility,Wooden Stake,0
+Thor,Marvel,3,2,6,Flight,Kryptonite,0
+Wonder Woman,DC Comics,3,8,3,Super Strength,Wooden Stake,0
+Flash,DC Comics,8,10,2,Flight,Magic,1
+Spider-Man,DC Comics,5,1,7,Invisibility,Kryptonite,0
+Batman,DC Comics,4,8,1,Super Strength,Wooden Stake,0
+Spider-Man,Marvel,8,7,3,Flight,Silver,1
+Flash,DC Comics,6,7,4,Flight,Kryptonite,0
+Superman,Marvel,2,3,1,Flight,Magic,0
+Iron Man,Marvel,4,1,5,Flight,Magic,0
+Flash,DC Comics,4,4,10,Flight,Silver,0
+Iron Man,DC Comics,6,9,3,Super Strength,Silver,1
+Iron Man,Marvel,6,5,2,Flight,Kryptonite,0
+Thor,DC Comics,1,1,3,Super Strength,Kryptonite,0
+Batman,Marvel,8,5,8,Flight,Magic,1
+Flash,DC Comics,6,8,6,Invisibility,Silver,1
+Spider-Man,DC Comics,3,8,7,Invisibility,Kryptonite,0
+Spider-Man,Marvel,9,5,6,Flight,Magic,0
+Superman,Marvel,2,9,6,Telekinesis,Silver,0
+Iron Man,Marvel,8,1,3,Invisibility,Magic,1
+Batman,DC Comics,10,4,8,Super Strength,Wooden Stake,1
+Batman,DC Comics,3,3,7,Flight,Silver,0
+Superman,DC Comics,5,2,7,Super Strength,Kryptonite,0
+Captain America,Marvel,6,8,6,Telekinesis,Kryptonite,0
+Batman,Marvel,10,7,5,Flight,Wooden Stake,0
+Batman,DC Comics,6,9,10,Invisibility,Silver,0
+Spider-Man,Marvel,4,2,8,Super Strength,Magic,1
+Superman,DC Comics,3,4,5,Invisibility,Kryptonite,0
+Flash,Marvel,4,6,9,Invisibility,Wooden Stake,1
+Batman,DC Comics,1,3,9,Flight,Wooden Stake,0
+Batman,DC Comics,4,8,1,Super Strength,Silver,0
+Spider-Man,DC Comics,1,3,6,Telekinesis,Silver,0
+Flash,Marvel,1,2,7,Invisibility,Kryptonite,0
+Flash,Marvel,10,3,3,Flight,Wooden Stake,1
+Batman,DC Comics,6,6,7,Flight,Magic,0
+Spider-Man,DC Comics,5,2,7,Telekinesis,Wooden Stake,0
+Captain America,DC Comics,4,8,2,Flight,Magic,1
+Thor,DC Comics,3,1,7,Invisibility,Magic,0
+Wonder Woman,DC Comics,1,7,1,Flight,Kryptonite,0
+Spider-Man,DC Comics,6,2,5,Super Strength,Wooden Stake,1
+Spider-Man,Marvel,2,10,9,Super Strength,Magic,1
+Batman,Marvel,8,6,7,Invisibility,Silver,1
+Spider-Man,Marvel,10,2,7,Super Strength,Magic,1
+Superman,Marvel,5,2,2,Telekinesis,Silver,0
+Iron Man,DC Comics,7,10,8,Flight,Silver,1
+Iron Man,DC Comics,10,8,3,Invisibility,Wooden Stake,0
+Captain America,DC Comics,2,2,8,Telekinesis,Silver,0
+Flash,Marvel,8,7,3,Flight,Magic,0
+Spider-Man,Marvel,2,3,10,Telekinesis,Silver,1
+Flash,DC Comics,4,8,7,Invisibility,Wooden Stake,0
+Superman,Marvel,1,7,2,Invisibility,Kryptonite,0
+Batman,Marvel,5,8,4,Telekinesis,Magic,0
+Batman,DC Comics,9,7,6,Flight,Magic,0
+Wonder Woman,DC Comics,1,6,9,Super Strength,Wooden Stake,1
+Thor,DC Comics,9,7,5,Super Strength,Wooden Stake,0
+Captain America,Marvel,8,5,9,Telekinesis,Wooden Stake,1
+Superman,DC Comics,6,7,5,Invisibility,Wooden Stake,0
+Flash,DC Comics,7,1,10,Flight,Magic,1
+Superman,DC Comics,3,1,8,Flight,Kryptonite,0
+Wonder Woman,Marvel,1,9,1,Invisibility,Silver,0
+Wonder Woman,Marvel,5,5,7,Super Strength,Silver,1
+Batman,DC Comics,2,5,4,Flight,Kryptonite,0
+Flash,DC Comics,5,3,5,Telekinesis,Kryptonite,0
+Thor,Marvel,8,5,6,Super Strength,Kryptonite,1
+Batman,Marvel,9,3,5,Telekinesis,Wooden Stake,0
+Thor,DC Comics,2,9,1,Super Strength,Magic,0
+Iron Man,Marvel,3,9,9,Invisibility,Magic,1
+Superman,DC Comics,3,6,2,Telekinesis,Magic,0
+Wonder Woman,DC Comics,1,1,9,Telekinesis,Wooden Stake,0
+Iron Man,Marvel,8,7,10,Invisibility,Magic,1
+Flash,DC Comics,6,7,2,Telekinesis,Wooden Stake,0
+Batman,DC Comics,8,10,9,Super Strength,Magic,1
+Captain America,Marvel,9,10,6,Flight,Kryptonite,0
+Spider-Man,DC Comics,5,4,9,Flight,Silver,1
+Captain America,Marvel,3,8,6,Invisibility,Silver,1
+Captain America,DC Comics,5,6,6,Super Strength,Wooden Stake,0
+Spider-Man,DC Comics,5,4,2,Telekinesis,Magic,0
+Superman,Marvel,5,4,8,Telekinesis,Silver,0
+Iron Man,Marvel,3,2,3,Flight,Kryptonite,0
+Iron Man,Marvel,10,2,7,Telekinesis,Kryptonite,0
+Superman,Marvel,4,4,5,Flight,Kryptonite,0
+Spider-Man,Marvel,9,5,3,Invisibility,Wooden Stake,0
+Thor,Marvel,10,8,1,Telekinesis,Wooden Stake,1
+Captain America,DC Comics,9,6,8,Super Strength,Magic,0
+Batman,Marvel,2,4,3,Telekinesis,Kryptonite,0
+Iron Man,DC Comics,8,7,2,Flight,Magic,0
+Superman,Marvel,8,8,1,Invisibility,Magic,0
+Batman,DC Comics,7,2,4,Flight,Kryptonite,0
+Wonder Woman,DC Comics,8,7,8,Telekinesis,Magic,0
+Spider-Man,Marvel,3,2,3,Flight,Silver,0
+Batman,DC Comics,6,2,1,Flight,Wooden Stake,0
+Flash,DC Comics,1,8,4,Invisibility,Magic,0
+Batman,DC Comics,7,2,9,Super Strength,Kryptonite,0
+Flash,Marvel,1,9,1,Telekinesis,Wooden Stake,0
+Captain America,Marvel,9,1,2,Invisibility,Wooden Stake,0
+Spider-Man,DC Comics,1,9,9,Super Strength,Magic,0
+Batman,Marvel,1,1,2,Flight,Silver,0
+Iron Man,Marvel,7,10,3,Super Strength,Magic,1
+Spider-Man,DC Comics,2,10,7,Flight,Silver,1
+Iron Man,DC Comics,5,2,3,Flight,Wooden Stake,0
+Superman,Marvel,8,6,9,Invisibility,Magic,1
+Superman,Marvel,8,6,6,Flight,Kryptonite,0
+Wonder Woman,Marvel,3,1,3,Invisibility,Magic,0
+Thor,DC Comics,7,7,9,Super Strength,Silver,1
+Superman,Marvel,3,8,1,Super Strength,Silver,0
+Batman,Marvel,6,2,10,Flight,Magic,1
+Spider-Man,Marvel,6,8,3,Invisibility,Silver,0
+Superman,DC Comics,3,9,1,Flight,Wooden Stake,0
+Iron Man,DC Comics,7,6,2,Invisibility,Magic,1
+Batman,DC Comics,3,5,8,Invisibility,Silver,0
+Superman,Marvel,8,9,7,Invisibility,Magic,1
+Flash,Marvel,10,9,2,Super Strength,Magic,1
+Flash,DC Comics,4,1,2,Invisibility,Kryptonite,0
+Captain America,Marvel,1,3,9,Super Strength,Magic,0
+Iron Man,Marvel,4,9,6,Invisibility,Kryptonite,0
+Wonder Woman,Marvel,7,2,5,Super Strength,Silver,1
+Wonder Woman,DC Comics,4,4,10,Telekinesis,Kryptonite,0
+Wonder Woman,Marvel,6,4,6,Super Strength,Kryptonite,0
+Iron Man,Marvel,9,2,9,Super Strength,Kryptonite,0
+Wonder Woman,DC Comics,1,3,7,Flight,Wooden Stake,0
+Thor,Marvel,5,3,10,Invisibility,Kryptonite,1
+Captain America,DC Comics,7,1,10,Telekinesis,Magic,0
+Thor,Marvel,1,6,9,Flight,Kryptonite,0
+Flash,DC Comics,4,8,4,Invisibility,Magic,1
+Superman,DC Comics,6,3,2,Telekinesis,Kryptonite,0
+Captain America,Marvel,2,5,8,Telekinesis,Wooden Stake,0
+Iron Man,Marvel,10,1,4,Telekinesis,Silver,0
+Thor,DC Comics,5,10,9,Invisibility,Kryptonite,0
+Batman,Marvel,10,7,4,Telekinesis,Kryptonite,0
+Captain America,DC Comics,1,10,8,Telekinesis,Wooden Stake,0
+Iron Man,Marvel,6,1,9,Flight,Kryptonite,0
+Spider-Man,Marvel,6,9,9,Super Strength,Magic,0
+Captain America,Marvel,4,8,10,Invisibility,Kryptonite,1
+Captain America,Marvel,8,7,4,Super Strength,Kryptonite,0
+Superman,DC Comics,4,10,1,Flight,Silver,0
+Batman,DC Comics,8,7,3,Super Strength,Silver,0
+Superman,Marvel,8,5,9,Telekinesis,Kryptonite,1
+Wonder Woman,Marvel,5,5,4,Telekinesis,Wooden Stake,0
+Captain America,Marvel,4,5,5,Invisibility,Silver,0
+Flash,Marvel,2,1,7,Invisibility,Kryptonite,0
+Captain America,Marvel,3,8,5,Invisibility,Silver,0
+Wonder Woman,DC Comics,3,1,4,Flight,Kryptonite,0
+Batman,DC Comics,4,4,2,Invisibility,Silver,0
+Batman,Marvel,4,9,2,Flight,Silver,0
+Flash,DC Comics,10,9,4,Telekinesis,Magic,1
+Flash,DC Comics,5,5,10,Super Strength,Kryptonite,0
+Thor,Marvel,4,4,10,Telekinesis,Kryptonite,0
+Iron Man,DC Comics,10,3,9,Telekinesis,Kryptonite,1
+Iron Man,DC Comics,8,3,8,Telekinesis,Kryptonite,0
+Thor,DC Comics,6,5,3,Invisibility,Silver,0
+Iron Man,DC Comics,6,10,9,Invisibility,Magic,1
+Captain America,Marvel,8,1,5,Invisibility,Magic,0
+Thor,DC Comics,7,5,3,Super Strength,Wooden Stake,0
+Thor,DC Comics,10,6,5,Invisibility,Kryptonite,1
+Iron Man,DC Comics,10,7,10,Flight,Wooden Stake,1
+Spider-Man,Marvel,8,9,4,Telekinesis,Silver,0
+Flash,DC Comics,2,3,8,Super Strength,Wooden Stake,1
+Iron Man,DC Comics,9,2,5,Super Strength,Kryptonite,1
+Superman,DC Comics,1,3,10,Super Strength,Magic,0
+Spider-Man,Marvel,8,9,8,Super Strength,Magic,1
+Thor,Marvel,4,7,9,Super Strength,Kryptonite,0
+Spider-Man,Marvel,4,9,4,Flight,Silver,0
+Captain America,Marvel,5,2,7,Telekinesis,Kryptonite,0
+Batman,Marvel,8,5,2,Super Strength,Silver,1
+Spider-Man,DC Comics,5,4,6,Telekinesis,Magic,0
+Superman,Marvel,8,2,8,Invisibility,Silver,0
+Batman,DC Comics,10,9,7,Super Strength,Kryptonite,0
+Captain America,Marvel,1,9,7,Super Strength,Kryptonite,0
+Superman,Marvel,10,6,8,Telekinesis,Kryptonite,1
+Wonder Woman,Marvel,9,6,7,Super Strength,Silver,1
+Batman,DC Comics,6,8,5,Super Strength,Silver,1
+Wonder Woman,DC Comics,3,6,7,Super Strength,Silver,0
+Captain America,DC Comics,8,1,10,Flight,Magic,0
+Batman,Marvel,9,4,3,Flight,Wooden Stake,0
+Batman,Marvel,6,7,5,Super Strength,Wooden Stake,1
+Iron Man,Marvel,7,2,7,Flight,Kryptonite,0
+Superman,Marvel,1,9,9,Invisibility,Magic,1
+Flash,Marvel,5,8,2,Super Strength,Silver,0
+Superman,Marvel,5,8,4,Invisibility,Kryptonite,0
+Spider-Man,DC Comics,10,7,7,Telekinesis,Magic,1
+Wonder Woman,DC Comics,4,4,1,Invisibility,Kryptonite,0
+Wonder Woman,Marvel,6,2,2,Telekinesis,Magic,0
+Superman,DC Comics,7,3,9,Super Strength,Magic,1
+Superman,DC Comics,9,6,10,Telekinesis,Wooden Stake,0
+Batman,DC Comics,1,5,7,Telekinesis,Kryptonite,0
+Wonder Woman,Marvel,6,8,10,Invisibility,Silver,1
+Thor,Marvel,7,6,7,Invisibility,Wooden Stake,0
+Flash,Marvel,3,6,6,Invisibility,Wooden Stake,0
+Iron Man,Marvel,8,1,3,Super Strength,Silver,0
+Flash,DC Comics,5,4,10,Super Strength,Magic,1
+Spider-Man,Marvel,9,5,3,Invisibility,Silver,1
+Flash,Marvel,5,3,2,Super Strength,Kryptonite,0
+Iron Man,Marvel,9,9,6,Super Strength,Silver,1
+Spider-Man,DC Comics,10,1,4,Telekinesis,Magic,0
+Captain America,DC Comics,4,6,5,Telekinesis,Silver,0
+Batman,DC Comics,9,6,3,Invisibility,Magic,1
+Superman,DC Comics,5,10,6,Super Strength,Magic,1
+Superman,DC Comics,10,5,3,Telekinesis,Kryptonite,0
+Thor,Marvel,9,5,8,Flight,Silver,1
+Flash,DC Comics,3,10,9,Super Strength,Silver,1
+Wonder Woman,DC Comics,4,5,4,Flight,Kryptonite,0
+Wonder Woman,Marvel,9,6,9,Invisibility,Magic,1
+Iron Man,Marvel,10,8,7,Super Strength,Silver,1
+Iron Man,Marvel,6,2,3,Invisibility,Kryptonite,0
+Iron Man,DC Comics,2,6,7,Invisibility,Magic,1
+Wonder Woman,Marvel,7,1,1,Invisibility,Kryptonite,0
+Superman,DC Comics,2,4,3,Invisibility,Silver,0
+Wonder Woman,Marvel,2,10,6,Invisibility,Kryptonite,0
+Iron Man,DC Comics,1,3,4,Super Strength,Wooden Stake,0
+Batman,DC Comics,3,9,7,Flight,Magic,0
+Spider-Man,DC Comics,6,3,3,Super Strength,Wooden Stake,0
+Superman,DC Comics,8,6,1,Super Strength,Wooden Stake,1
+Batman,Marvel,9,1,9,Super Strength,Magic,0
+Captain America,Marvel,7,6,6,Telekinesis,Magic,0
+Flash,DC Comics,4,4,8,Telekinesis,Kryptonite,0
+Batman,Marvel,6,8,3,Super Strength,Magic,0
+Flash,DC Comics,5,9,8,Flight,Wooden Stake,1
+Batman,Marvel,8,4,2,Super Strength,Wooden Stake,0
+Captain America,Marvel,1,10,4,Invisibility,Silver,0
+Batman,DC Comics,1,10,3,Telekinesis,Magic,0
+Spider-Man,DC Comics,6,6,10,Telekinesis,Wooden Stake,1
+Superman,Marvel,10,1,1,Super Strength,Silver,0
+Flash,DC Comics,2,4,7,Super Strength,Silver,0
+Thor,Marvel,5,7,10,Flight,Kryptonite,0
+Wonder Woman,Marvel,1,1,2,Flight,Wooden Stake,0
+Captain America,Marvel,7,8,4,Invisibility,Kryptonite,0
+Flash,DC Comics,1,10,9,Super Strength,Wooden Stake,0
+Superman,DC Comics,4,6,6,Super Strength,Kryptonite,0
+Iron Man,Marvel,9,5,8,Super Strength,Kryptonite,0
+Flash,DC Comics,1,10,2,Telekinesis,Magic,0
+Spider-Man,DC Comics,4,9,7,Invisibility,Kryptonite,0
+Thor,Marvel,6,2,6,Flight,Magic,0
+Spider-Man,DC Comics,6,5,9,Telekinesis,Silver,0
+Flash,DC Comics,8,6,7,Telekinesis,Wooden Stake,0
+Spider-Man,Marvel,1,7,1,Telekinesis,Silver,0
+Iron Man,DC Comics,7,5,8,Telekinesis,Wooden Stake,0
+Thor,Marvel,1,9,10,Invisibility,Silver,1
+Wonder Woman,DC Comics,7,1,3,Super Strength,Wooden Stake,0
+Spider-Man,DC Comics,3,7,2,Flight,Kryptonite,0
+Iron Man,Marvel,8,10,3,Flight,Wooden Stake,0
+Captain America,Marvel,3,7,6,Telekinesis,Wooden Stake,0
+Iron Man,DC Comics,1,4,3,Telekinesis,Silver,0
+Batman,Marvel,8,9,10,Invisibility,Silver,1
+Flash,Marvel,3,5,5,Telekinesis,Silver,0
+Superman,DC Comics,2,4,6,Flight,Magic,0
+Flash,Marvel,1,7,8,Flight,Magic,0
+Flash,DC Comics,3,4,7,Super Strength,Wooden Stake,0
+Iron Man,DC Comics,2,3,8,Super Strength,Wooden Stake,0
+Iron Man,Marvel,2,9,3,Flight,Kryptonite,0
+Iron Man,DC Comics,6,8,4,Flight,Kryptonite,0
+Flash,Marvel,1,1,6,Invisibility,Wooden Stake,0
+Wonder Woman,DC Comics,2,7,7,Invisibility,Magic,0
+Spider-Man,Marvel,6,9,9,Flight,Wooden Stake,1
+Wonder Woman,Marvel,3,8,1,Telekinesis,Kryptonite,0
+Thor,DC Comics,4,8,8,Super Strength,Magic,0
+Iron Man,Marvel,1,6,8,Flight,Magic,0
+Iron Man,Marvel,8,4,6,Telekinesis,Kryptonite,0
+Batman,Marvel,7,8,4,Flight,Wooden Stake,0
+Batman,DC Comics,7,3,3,Super Strength,Silver,1
+Captain America,DC Comics,3,9,3,Super Strength,Wooden Stake,0
+Captain America,Marvel,10,2,6,Invisibility,Wooden Stake,0
+Batman,Marvel,10,2,8,Invisibility,Kryptonite,0
+Thor,DC Comics,3,7,7,Invisibility,Magic,0
+Captain America,DC Comics,2,10,1,Invisibility,Kryptonite,0
+Superman,DC Comics,1,4,6,Super Strength,Wooden Stake,0
+Superman,Marvel,7,10,7,Telekinesis,Silver,1
+Thor,DC Comics,7,8,7,Telekinesis,Silver,1
+Batman,Marvel,2,9,9,Telekinesis,Silver,0
+Captain America,DC Comics,7,7,10,Flight,Kryptonite,0
+Iron Man,Marvel,8,5,5,Invisibility,Magic,1
+Batman,DC Comics,1,8,1,Invisibility,Kryptonite,0
+Captain America,Marvel,9,4,2,Super Strength,Silver,0
+Thor,DC Comics,7,2,4,Super Strength,Wooden Stake,1
+Superman,DC Comics,3,6,5,Flight,Magic,0
+Flash,Marvel,8,9,9,Flight,Kryptonite,0
+Thor,DC Comics,7,1,1,Telekinesis,Kryptonite,0
+Flash,DC Comics,8,10,3,Super Strength,Magic,1
+Captain America,DC Comics,6,7,5,Invisibility,Magic,0
+Thor,DC Comics,9,10,3,Telekinesis,Wooden Stake,0
+Captain America,Marvel,5,9,4,Invisibility,Magic,0
+Captain America,Marvel,3,10,3,Telekinesis,Wooden Stake,0
+Flash,DC Comics,3,9,4,Invisibility,Silver,1
+Thor,Marvel,1,10,1,Flight,Silver,0
+Spider-Man,Marvel,8,3,8,Telekinesis,Kryptonite,0
+Iron Man,Marvel,2,5,4,Invisibility,Silver,0
+Batman,Marvel,3,8,7,Invisibility,Silver,0
+Superman,Marvel,8,8,2,Super Strength,Wooden Stake,1
+Iron Man,DC Comics,8,4,2,Telekinesis,Kryptonite,0
+Batman,Marvel,4,1,6,Invisibility,Magic,1
+Batman,DC Comics,4,1,2,Super Strength,Kryptonite,0
+Superman,Marvel,5,4,6,Invisibility,Silver,1
+Iron Man,DC Comics,6,6,2,Telekinesis,Magic,0
+Superman,DC Comics,5,8,4,Flight,Kryptonite,0
+Captain America,DC Comics,7,6,7,Telekinesis,Kryptonite,0
+Superman,Marvel,2,9,8,Telekinesis,Kryptonite,0
+Flash,Marvel,7,9,3,Invisibility,Kryptonite,0
+Flash,DC Comics,10,2,9,Invisibility,Wooden Stake,1
+Thor,DC Comics,7,10,2,Telekinesis,Kryptonite,0
+Spider-Man,Marvel,1,1,8,Super Strength,Silver,0
+Spider-Man,Marvel,7,2,8,Super Strength,Silver,1
+Spider-Man,DC Comics,5,5,4,Super Strength,Wooden Stake,0
+Iron Man,Marvel,3,4,1,Invisibility,Magic,0
+Flash,Marvel,3,4,1,Invisibility,Magic,0
+Iron Man,Marvel,4,9,2,Telekinesis,Silver,0
+Captain America,Marvel,2,8,9,Flight,Silver,0
+Wonder Woman,Marvel,2,6,2,Invisibility,Wooden Stake,0
+Spider-Man,Marvel,1,1,2,Telekinesis,Magic,0
+Captain America,DC Comics,5,2,6,Telekinesis,Magic,0
+Flash,DC Comics,4,6,7,Flight,Kryptonite,0
+Wonder Woman,DC Comics,10,2,7,Super Strength,Kryptonite,0
+Spider-Man,DC Comics,2,10,9,Telekinesis,Kryptonite,0
+Iron Man,DC Comics,3,5,6,Telekinesis,Wooden Stake,0
+Wonder Woman,DC Comics,7,5,8,Telekinesis,Silver,0
+Thor,Marvel,7,6,6,Super Strength,Wooden Stake,0
+Thor,Marvel,4,6,2,Super Strength,Magic,1
+Thor,DC Comics,5,6,1,Flight,Silver,0
+Superman,DC Comics,5,2,5,Invisibility,Kryptonite,0
+Thor,DC Comics,6,10,9,Super Strength,Wooden Stake,1
+Batman,Marvel,9,3,8,Invisibility,Wooden Stake,0
+Spider-Man,Marvel,2,6,4,Invisibility,Kryptonite,0
+Thor,Marvel,5,8,5,Super Strength,Wooden Stake,0
+Wonder Woman,Marvel,3,1,5,Telekinesis,Kryptonite,0
+Flash,DC Comics,4,1,6,Flight,Magic,0
+Batman,DC Comics,10,2,3,Invisibility,Silver,0
+Batman,DC Comics,6,6,5,Telekinesis,Magic,0
+Batman,DC Comics,8,9,2,Super Strength,Magic,1
+Captain America,Marvel,1,4,10,Invisibility,Kryptonite,0
+Wonder Woman,Marvel,10,3,1,Invisibility,Wooden Stake,0
+Captain America,DC Comics,8,8,1,Invisibility,Magic,0
+Batman,Marvel,7,10,10,Telekinesis,Magic,1
+Superman,Marvel,1,9,7,Telekinesis,Magic,0
+Thor,Marvel,2,5,2,Telekinesis,Wooden Stake,0
+Flash,Marvel,3,9,4,Invisibility,Wooden Stake,0
+Spider-Man,DC Comics,1,2,5,Invisibility,Kryptonite,0
+Wonder Woman,Marvel,9,3,7,Flight,Magic,0
+Superman,DC Comics,8,7,2,Flight,Silver,0
+Iron Man,Marvel,2,7,6,Telekinesis,Wooden Stake,0
+Captain America,Marvel,9,6,1,Telekinesis,Kryptonite,0
+Thor,DC Comics,7,6,7,Super Strength,Magic,1
+Thor,DC Comics,9,2,9,Telekinesis,Silver,1
+Iron Man,Marvel,6,10,5,Flight,Wooden Stake,0
+Iron Man,Marvel,6,6,5,Flight,Silver,0
+Wonder Woman,DC Comics,4,4,4,Flight,Wooden Stake,0
+Thor,Marvel,10,3,3,Invisibility,Kryptonite,0
+Iron Man,Marvel,10,2,9,Invisibility,Silver,0
+Thor,DC Comics,2,1,5,Telekinesis,Magic,0
+Superman,Marvel,7,5,8,Super Strength,Magic,0
+Wonder Woman,Marvel,5,2,9,Super Strength,Wooden Stake,1
+Flash,Marvel,6,2,5,Super Strength,Magic,0
+Iron Man,Marvel,2,7,10,Invisibility,Silver,0
+Superman,Marvel,5,8,9,Flight,Kryptonite,0
+Superman,DC Comics,10,10,2,Flight,Wooden Stake,1
+Iron Man,Marvel,4,8,9,Invisibility,Silver,1
+Wonder Woman,DC Comics,9,4,4,Super Strength,Wooden Stake,1
+Thor,DC Comics,6,1,6,Super Strength,Kryptonite,0
+Flash,Marvel,2,7,6,Telekinesis,Wooden Stake,0
+Batman,DC Comics,1,1,6,Telekinesis,Magic,0
+Thor,Marvel,5,4,2,Super Strength,Magic,1
+Spider-Man,DC Comics,9,8,7,Invisibility,Wooden Stake,1
+Iron Man,DC Comics,6,2,6,Super Strength,Kryptonite,0
+Captain America,DC Comics,10,6,1,Telekinesis,Kryptonite,0
+Wonder Woman,Marvel,7,6,2,Super Strength,Magic,0
+Iron Man,DC Comics,5,9,7,Invisibility,Kryptonite,0
+Spider-Man,DC Comics,10,5,1,Flight,Wooden Stake,1
+Superman,DC Comics,6,10,1,Invisibility,Silver,0
+Captain America,Marvel,5,4,1,Invisibility,Wooden Stake,0
+Captain America,Marvel,9,5,8,Telekinesis,Magic,1
+Thor,DC Comics,6,10,4,Invisibility,Magic,0
+Batman,DC Comics,8,5,4,Invisibility,Magic,0
+Thor,DC Comics,2,8,2,Telekinesis,Kryptonite,0
+Wonder Woman,DC Comics,9,10,1,Telekinesis,Wooden Stake,0
+Captain America,Marvel,5,8,10,Flight,Silver,1
+Flash,Marvel,7,2,9,Super Strength,Wooden Stake,0
+Flash,Marvel,10,7,7,Invisibility,Silver,1
+Captain America,DC Comics,1,8,4,Telekinesis,Wooden Stake,0
+Flash,Marvel,10,6,6,Flight,Magic,1
+Flash,DC Comics,5,5,2,Super Strength,Silver,0
+Batman,DC Comics,10,9,7,Telekinesis,Wooden Stake,0
+Wonder Woman,DC Comics,2,3,2,Super Strength,Kryptonite,0
+Iron Man,Marvel,6,10,10,Super Strength,Kryptonite,1
+Batman,DC Comics,1,4,8,Invisibility,Wooden Stake,0
+Superman,Marvel,3,9,8,Invisibility,Magic,0
+Thor,DC Comics,5,6,1,Telekinesis,Silver,0
+Flash,Marvel,4,8,8,Super Strength,Wooden Stake,1
+Iron Man,DC Comics,3,7,2,Telekinesis,Kryptonite,0
+Thor,Marvel,10,2,6,Telekinesis,Silver,0
+Flash,DC Comics,5,3,1,Super Strength,Kryptonite,0
+Batman,Marvel,8,1,5,Telekinesis,Kryptonite,0
+Iron Man,DC Comics,4,9,7,Super Strength,Wooden Stake,0
+Batman,DC Comics,1,7,10,Super Strength,Kryptonite,1
+Superman,DC Comics,7,1,1,Super Strength,Silver,0
+Spider-Man,Marvel,8,3,2,Super Strength,Magic,0
+Captain America,DC Comics,3,4,7,Flight,Wooden Stake,0
+Wonder Woman,DC Comics,6,4,6,Super Strength,Silver,0
+Iron Man,DC Comics,2,5,3,Invisibility,Wooden Stake,0
+Captain America,Marvel,7,3,10,Invisibility,Kryptonite,0
+Spider-Man,DC Comics,8,3,2,Invisibility,Kryptonite,0
+Iron Man,DC Comics,6,1,10,Super Strength,Silver,1
+Captain America,Marvel,6,7,4,Invisibility,Silver,1
+Captain America,DC Comics,5,10,3,Flight,Magic,0
+Iron Man,Marvel,8,1,7,Telekinesis,Silver,0
+Captain America,DC Comics,1,2,8,Super Strength,Silver,0
+Captain America,Marvel,10,4,2,Invisibility,Wooden Stake,0
+Iron Man,Marvel,4,4,10,Flight,Kryptonite,0
+Wonder Woman,Marvel,4,5,7,Telekinesis,Silver,1
+Captain America,DC Comics,3,2,8,Flight,Magic,0
+Captain America,DC Comics,3,4,6,Invisibility,Silver,0
+Wonder Woman,Marvel,4,1,6,Flight,Kryptonite,0
+Thor,DC Comics,1,2,10,Telekinesis,Silver,0
+Superman,DC Comics,2,1,1,Invisibility,Wooden Stake,0
+Thor,Marvel,9,10,4,Telekinesis,Kryptonite,0
+Flash,Marvel,10,10,1,Flight,Silver,0
+Spider-Man,Marvel,2,4,4,Super Strength,Wooden Stake,0
+Thor,Marvel,5,4,2,Super Strength,Kryptonite,0
+Thor,DC Comics,9,7,5,Super Strength,Silver,1
+Spider-Man,DC Comics,9,10,10,Super Strength,Wooden Stake,1
+Captain America,DC Comics,8,9,9,Telekinesis,Magic,0
+Captain America,DC Comics,1,9,10,Super Strength,Wooden Stake,1
+Thor,DC Comics,1,5,3,Telekinesis,Magic,0
+Spider-Man,DC Comics,9,10,8,Invisibility,Silver,1
+Captain America,Marvel,8,1,3,Super Strength,Wooden Stake,1
+Batman,DC Comics,10,1,6,Telekinesis,Magic,1
+Iron Man,DC Comics,9,6,4,Super Strength,Kryptonite,0
+Iron Man,DC Comics,7,2,8,Super Strength,Wooden Stake,0
+Superman,Marvel,3,8,6,Super Strength,Silver,1
+Iron Man,Marvel,3,9,8,Telekinesis,Kryptonite,0
+Thor,DC Comics,2,4,1,Flight,Magic,0
+Iron Man,Marvel,5,5,6,Super Strength,Wooden Stake,0
+Iron Man,Marvel,3,8,1,Super Strength,Wooden Stake,0
+Batman,DC Comics,6,3,1,Invisibility,Silver,0
+Captain America,DC Comics,2,5,8,Flight,Kryptonite,0
+Batman,DC Comics,3,3,7,Telekinesis,Wooden Stake,0
+Thor,Marvel,5,10,3,Invisibility,Wooden Stake,1
+Iron Man,Marvel,1,3,6,Super Strength,Kryptonite,0
+Wonder Woman,DC Comics,1,3,9,Invisibility,Wooden Stake,1
+Captain America,Marvel,10,7,7,Invisibility,Kryptonite,0
+Superman,Marvel,9,7,3,Super Strength,Kryptonite,1
+Superman,Marvel,7,7,6,Flight,Kryptonite,0
+Flash,DC Comics,1,10,4,Flight,Silver,0
+Flash,DC Comics,8,8,3,Invisibility,Kryptonite,0
+Iron Man,DC Comics,3,5,9,Super Strength,Kryptonite,0
+Iron Man,DC Comics,8,5,10,Telekinesis,Magic,1
+Superman,DC Comics,5,4,2,Invisibility,Magic,0
+Superman,Marvel,1,7,1,Telekinesis,Silver,0
+Wonder Woman,Marvel,7,10,2,Invisibility,Kryptonite,0
+Thor,Marvel,5,4,7,Invisibility,Magic,0
+Iron Man,Marvel,6,2,10,Super Strength,Magic,0
+Superman,Marvel,6,4,1,Super Strength,Wooden Stake,0
+Wonder Woman,Marvel,8,8,6,Telekinesis,Kryptonite,0
+Spider-Man,DC Comics,9,9,7,Telekinesis,Magic,1
+Superman,DC Comics,2,3,9,Flight,Silver,0
+Captain America,Marvel,9,7,8,Super Strength,Wooden Stake,1
+Captain America,DC Comics,10,9,6,Invisibility,Wooden Stake,1
+Spider-Man,Marvel,9,4,3,Invisibility,Kryptonite,0
+Flash,Marvel,10,10,8,Flight,Kryptonite,1
+Thor,DC Comics,10,3,7,Super Strength,Wooden Stake,1
+Flash,DC Comics,7,5,3,Invisibility,Silver,0
+Iron Man,Marvel,1,1,9,Flight,Kryptonite,0
+Flash,DC Comics,7,3,2,Flight,Kryptonite,0
+Iron Man,Marvel,10,8,3,Invisibility,Wooden Stake,1
+Superman,Marvel,5,8,2,Invisibility,Wooden Stake,1
+Captain America,Marvel,6,4,1,Telekinesis,Kryptonite,0
+Thor,Marvel,10,2,4,Super Strength,Magic,1
+Thor,Marvel,7,8,5,Telekinesis,Kryptonite,0
+Thor,DC Comics,5,8,6,Flight,Magic,0
+Superman,Marvel,7,10,5,Invisibility,Wooden Stake,0
+Iron Man,DC Comics,9,4,1,Telekinesis,Magic,0
+Thor,Marvel,3,3,3,Flight,Silver,0
+Superman,DC Comics,8,2,1,Super Strength,Wooden Stake,0
+Superman,Marvel,2,9,5,Invisibility,Kryptonite,0
+Spider-Man,DC Comics,7,1,5,Telekinesis,Kryptonite,0
+Batman,Marvel,2,7,6,Super Strength,Wooden Stake,0
+Flash,Marvel,4,5,8,Telekinesis,Wooden Stake,0
+Thor,DC Comics,7,8,10,Flight,Silver,1
+Batman,DC Comics,3,4,1,Super Strength,Wooden Stake,0
+Iron Man,DC Comics,2,7,4,Telekinesis,Kryptonite,0
+Superman,DC Comics,10,5,10,Super Strength,Silver,1
+Wonder Woman,DC Comics,7,5,1,Flight,Kryptonite,0
+Flash,DC Comics,1,9,9,Super Strength,Magic,0
+Flash,Marvel,8,9,7,Telekinesis,Wooden Stake,0
+Thor,Marvel,3,9,7,Flight,Magic,0
+Wonder Woman,Marvel,2,6,5,Invisibility,Kryptonite,0
+Captain America,DC Comics,3,6,7,Telekinesis,Magic,0
+Iron Man,DC Comics,5,5,2,Telekinesis,Magic,0
+Spider-Man,DC Comics,8,9,4,Flight,Kryptonite,0
+Spider-Man,Marvel,10,10,7,Flight,Kryptonite,0
+Batman,DC Comics,7,8,3,Invisibility,Wooden Stake,0
+Superman,Marvel,7,7,2,Telekinesis,Magic,0
+Batman,DC Comics,7,7,10,Flight,Silver,0
+Captain America,DC Comics,8,6,2,Invisibility,Silver,1
+Captain America,DC Comics,1,5,1,Invisibility,Kryptonite,0
+Flash,Marvel,4,4,5,Flight,Kryptonite,0
+Spider-Man,DC Comics,6,3,6,Telekinesis,Magic,1
+Wonder Woman,Marvel,9,3,6,Super Strength,Kryptonite,0
+Thor,DC Comics,2,6,9,Super Strength,Silver,1
+Spider-Man,DC Comics,1,4,4,Invisibility,Wooden Stake,0
+Spider-Man,DC Comics,10,6,1,Super Strength,Wooden Stake,0
+Wonder Woman,DC Comics,2,3,6,Super Strength,Magic,0
+Flash,Marvel,7,4,5,Flight,Wooden Stake,0
+Flash,DC Comics,3,9,10,Invisibility,Kryptonite,1
+Wonder Woman,Marvel,10,5,6,Telekinesis,Kryptonite,0
+Captain America,DC Comics,2,7,3,Invisibility,Kryptonite,0
+Wonder Woman,DC Comics,7,10,2,Flight,Kryptonite,0
+Batman,DC Comics,2,2,6,Super Strength,Magic,0
+Captain America,Marvel,3,5,1,Telekinesis,Wooden Stake,0
+Wonder Woman,DC Comics,7,9,7,Invisibility,Silver,0
+Superman,Marvel,4,3,7,Super Strength,Wooden Stake,0
+Captain America,Marvel,1,9,10,Invisibility,Kryptonite,0
+Captain America,DC Comics,5,6,7,Telekinesis,Silver,1
+Spider-Man,Marvel,9,4,10,Invisibility,Magic,0
+Thor,DC Comics,8,7,1,Invisibility,Kryptonite,0
+Spider-Man,Marvel,9,8,4,Invisibility,Kryptonite,1
+Iron Man,Marvel,10,6,7,Super Strength,Silver,1
+Captain America,Marvel,9,5,9,Telekinesis,Magic,0
+Wonder Woman,Marvel,7,6,5,Telekinesis,Silver,0
+Wonder Woman,DC Comics,4,5,2,Super Strength,Magic,0
+Wonder Woman,Marvel,5,8,7,Super Strength,Kryptonite,0
+Captain America,DC Comics,1,1,10,Super Strength,Wooden Stake,0
+Wonder Woman,Marvel,1,7,1,Flight,Kryptonite,0
+Iron Man,DC Comics,3,10,7,Invisibility,Wooden Stake,1
+Captain America,DC Comics,8,10,6,Invisibility,Wooden Stake,1
+Wonder Woman,Marvel,2,2,7,Telekinesis,Magic,0
+Captain America,Marvel,4,9,10,Invisibility,Silver,1
+Superman,DC Comics,2,1,3,Flight,Magic,0
+Captain America,Marvel,5,10,3,Super Strength,Kryptonite,0
+Iron Man,Marvel,9,6,7,Telekinesis,Silver,0
+Spider-Man,Marvel,1,9,2,Telekinesis,Wooden Stake,0
+Captain America,Marvel,5,1,1,Invisibility,Wooden Stake,0
+Thor,Marvel,9,4,9,Telekinesis,Kryptonite,1
+Iron Man,Marvel,1,4,9,Super Strength,Silver,0
+Batman,Marvel,9,9,7,Telekinesis,Kryptonite,0
+Superman,Marvel,8,5,7,Super Strength,Kryptonite,0
+Iron Man,Marvel,4,5,3,Flight,Magic,0
+Spider-Man,DC Comics,10,6,10,Flight,Kryptonite,0
+Wonder Woman,Marvel,5,1,2,Super Strength,Silver,1
+Wonder Woman,Marvel,5,1,7,Invisibility,Kryptonite,0
+Iron Man,Marvel,6,9,9,Telekinesis,Silver,0
+Batman,Marvel,7,3,1,Invisibility,Wooden Stake,0
+Wonder Woman,Marvel,8,4,4,Telekinesis,Kryptonite,0
+Superman,DC Comics,8,1,6,Flight,Silver,0
+Thor,DC Comics,2,9,7,Flight,Wooden Stake,0
+Batman,Marvel,9,8,10,Flight,Silver,1
+Flash,DC Comics,7,2,7,Telekinesis,Wooden Stake,0
+Flash,Marvel,4,8,10,Flight,Magic,0
+Iron Man,Marvel,4,7,2,Flight,Kryptonite,0
+Batman,DC Comics,8,6,4,Flight,Kryptonite,0
+Wonder Woman,DC Comics,4,1,5,Flight,Wooden Stake,0
+Wonder Woman,DC Comics,6,7,1,Invisibility,Magic,1
+Iron Man,DC Comics,5,10,1,Flight,Silver,0
+Wonder Woman,DC Comics,3,7,10,Flight,Magic,0
+Wonder Woman,Marvel,10,9,3,Invisibility,Silver,1
+Thor,Marvel,2,1,10,Invisibility,Silver,0
+Thor,Marvel,9,2,3,Telekinesis,Kryptonite,0
+Spider-Man,DC Comics,10,9,8,Super Strength,Wooden Stake,1
+Thor,Marvel,9,9,9,Flight,Kryptonite,0
+Captain America,DC Comics,1,6,1,Flight,Kryptonite,0
+Batman,Marvel,10,6,2,Flight,Kryptonite,0
+Batman,DC Comics,3,4,10,Telekinesis,Silver,0
+Iron Man,DC Comics,8,4,2,Flight,Kryptonite,0
+Thor,Marvel,6,5,4,Super Strength,Silver,1
+Spider-Man,Marvel,5,3,2,Invisibility,Wooden Stake,0
+Wonder Woman,Marvel,5,1,7,Telekinesis,Silver,0
+Spider-Man,Marvel,6,1,9,Invisibility,Silver,0
+Spider-Man,DC Comics,7,7,7,Flight,Magic,1
+Superman,Marvel,1,1,6,Flight,Kryptonite,0
+Wonder Woman,DC Comics,9,1,10,Flight,Kryptonite,0
+Captain America,Marvel,3,3,1,Super Strength,Kryptonite,0
+Thor,Marvel,4,10,10,Super Strength,Kryptonite,1
+Wonder Woman,Marvel,10,4,9,Telekinesis,Magic,1
+Spider-Man,Marvel,1,4,5,Invisibility,Magic,0
+Wonder Woman,Marvel,10,2,5,Flight,Magic,0
+Captain America,DC Comics,3,1,6,Flight,Magic,0
+Batman,Marvel,2,3,9,Flight,Kryptonite,0
+Iron Man,DC Comics,2,4,8,Flight,Silver,0
+Thor,Marvel,1,3,8,Super Strength,Wooden Stake,0
+Thor,DC Comics,8,8,8,Invisibility,Magic,0
+Superman,Marvel,3,10,1,Invisibility,Silver,0
+Batman,Marvel,3,1,1,Telekinesis,Magic,0
+Thor,Marvel,6,2,8,Super Strength,Kryptonite,0
+Superman,DC Comics,8,7,5,Flight,Kryptonite,1
+Superman,DC Comics,9,4,9,Invisibility,Silver,1
+Superman,Marvel,9,8,2,Invisibility,Silver,1
+Flash,Marvel,4,3,9,Super Strength,Silver,1
+Thor,Marvel,5,6,8,Telekinesis,Kryptonite,0
+Thor,DC Comics,2,9,9,Telekinesis,Kryptonite,0
+Thor,Marvel,9,1,4,Flight,Wooden Stake,0
+Captain America,DC Comics,8,1,1,Telekinesis,Silver,0
+Superman,Marvel,3,8,1,Invisibility,Wooden Stake,0
+Captain America,DC Comics,9,3,5,Telekinesis,Magic,1
+Iron Man,DC Comics,3,5,2,Flight,Wooden Stake,0
+Thor,DC Comics,9,1,8,Invisibility,Magic,1
+Flash,Marvel,2,5,10,Telekinesis,Magic,0
+Wonder Woman,DC Comics,10,6,5,Telekinesis,Wooden Stake,1
+Batman,Marvel,9,8,5,Super Strength,Silver,1
+Flash,DC Comics,8,3,2,Flight,Magic,0
+Spider-Man,Marvel,9,3,7,Telekinesis,Silver,0
+Iron Man,DC Comics,5,10,8,Super Strength,Kryptonite,0
+Wonder Woman,DC Comics,2,9,10,Invisibility,Magic,1
+Spider-Man,Marvel,8,4,1,Super Strength,Kryptonite,0
+Spider-Man,Marvel,6,4,2,Super Strength,Wooden Stake,1
+Thor,DC Comics,8,7,10,Telekinesis,Silver,1
+Batman,DC Comics,5,2,4,Telekinesis,Wooden Stake,0
+Spider-Man,Marvel,10,8,5,Telekinesis,Magic,1
+Superman,DC Comics,2,6,2,Super Strength,Kryptonite,0
+Wonder Woman,DC Comics,6,3,1,Invisibility,Magic,0
+Flash,Marvel,5,9,9,Flight,Wooden Stake,0
+Flash,Marvel,5,5,1,Super Strength,Silver,0
+Spider-Man,Marvel,1,8,4,Telekinesis,Silver,0
+Iron Man,DC Comics,2,7,2,Flight,Magic,0
+Batman,DC Comics,8,8,4,Invisibility,Magic,0
+Batman,DC Comics,3,7,8,Flight,Kryptonite,0
+Flash,Marvel,10,3,8,Telekinesis,Wooden Stake,0
+Spider-Man,DC Comics,3,2,9,Super Strength,Magic,0
+Batman,Marvel,8,7,5,Super Strength,Kryptonite,0
+Iron Man,Marvel,8,3,7,Telekinesis,Magic,0
+Flash,DC Comics,2,3,3,Super Strength,Silver,0
+Wonder Woman,Marvel,8,2,10,Telekinesis,Kryptonite,0
+Iron Man,DC Comics,1,4,4,Super Strength,Kryptonite,0
+Iron Man,Marvel,6,8,10,Super Strength,Magic,1
+Superman,Marvel,8,1,9,Super Strength,Wooden Stake,1
+Thor,Marvel,3,1,10,Invisibility,Silver,0
+Spider-Man,DC Comics,8,5,10,Invisibility,Wooden Stake,1
+Wonder Woman,Marvel,1,5,1,Telekinesis,Kryptonite,0
+Flash,DC Comics,9,1,2,Invisibility,Wooden Stake,0
+Batman,Marvel,9,6,5,Telekinesis,Kryptonite,0
+Iron Man,Marvel,5,1,3,Flight,Wooden Stake,0
+Flash,Marvel,10,5,2,Flight,Magic,1
+Spider-Man,DC Comics,4,9,1,Invisibility,Wooden Stake,0
+Wonder Woman,DC Comics,6,5,10,Flight,Kryptonite,0
+Wonder Woman,DC Comics,7,6,3,Flight,Silver,1
+Spider-Man,DC Comics,5,8,1,Super Strength,Silver,0
+Thor,DC Comics,10,1,1,Super Strength,Silver,0
+Superman,Marvel,9,2,1,Telekinesis,Kryptonite,0
+Batman,Marvel,3,9,8,Flight,Wooden Stake,1
+Superman,DC Comics,7,3,3,Telekinesis,Silver,0
+Wonder Woman,DC Comics,10,6,1,Telekinesis,Silver,0
+Batman,DC Comics,10,5,7,Flight,Silver,1
+Wonder Woman,DC Comics,5,2,10,Invisibility,Magic,1
+Iron Man,Marvel,7,7,3,Flight,Kryptonite,0
+Iron Man,DC Comics,2,4,8,Super Strength,Kryptonite,0
+Spider-Man,DC Comics,4,1,4,Flight,Kryptonite,0
+Batman,DC Comics,2,4,4,Invisibility,Kryptonite,0
+Batman,DC Comics,7,6,5,Telekinesis,Kryptonite,0
+Wonder Woman,Marvel,2,7,6,Telekinesis,Magic,0
+Superman,Marvel,1,7,7,Super Strength,Wooden Stake,0
+Iron Man,DC Comics,9,7,4,Super Strength,Magic,1
+Captain America,Marvel,1,3,8,Super Strength,Silver,0
+Spider-Man,Marvel,8,6,6,Telekinesis,Magic,0
+Flash,DC Comics,2,8,1,Super Strength,Kryptonite,0
+Batman,DC Comics,8,4,1,Flight,Magic,0
+Thor,Marvel,3,8,9,Telekinesis,Kryptonite,0
+Thor,Marvel,6,2,10,Invisibility,Magic,0
+Captain America,Marvel,3,10,6,Telekinesis,Kryptonite,0
+Iron Man,Marvel,7,9,10,Flight,Silver,1
+Iron Man,Marvel,10,9,8,Flight,Kryptonite,0
+Iron Man,DC Comics,9,8,7,Super Strength,Magic,1
+Superman,Marvel,2,10,6,Telekinesis,Silver,0
+Wonder Woman,Marvel,5,10,4,Telekinesis,Magic,1
+Thor,Marvel,6,1,7,Telekinesis,Silver,0
+Iron Man,Marvel,4,2,9,Invisibility,Wooden Stake,0
+Thor,Marvel,4,6,10,Super Strength,Wooden Stake,0
+Captain America,Marvel,4,10,10,Flight,Wooden Stake,0
+Spider-Man,Marvel,2,5,7,Flight,Magic,0
+Wonder Woman,Marvel,4,9,1,Super Strength,Magic,1
+Superman,DC Comics,1,5,10,Flight,Silver,1
+Batman,DC Comics,6,2,9,Flight,Silver,0
+Captain America,Marvel,1,10,4,Super Strength,Silver,0
+Wonder Woman,DC Comics,10,4,3,Flight,Silver,0
+Thor,DC Comics,6,9,4,Telekinesis,Kryptonite,0
+Captain America,DC Comics,1,1,4,Invisibility,Wooden Stake,0
+Batman,DC Comics,6,1,10,Super Strength,Kryptonite,1
+Wonder Woman,DC Comics,10,7,2,Invisibility,Kryptonite,0
+Superman,DC Comics,8,3,1,Flight,Kryptonite,0
+Flash,Marvel,2,10,10,Flight,Kryptonite,0
+Spider-Man,Marvel,2,2,1,Telekinesis,Wooden Stake,0
+Batman,DC Comics,4,9,8,Super Strength,Kryptonite,1
+Wonder Woman,Marvel,3,3,2,Flight,Silver,0
+Superman,DC Comics,4,2,10,Super Strength,Magic,1
+Thor,Marvel,7,8,5,Super Strength,Silver,1
+Batman,Marvel,1,10,4,Super Strength,Magic,0
+Flash,Marvel,6,6,8,Super Strength,Silver,1
+Captain America,DC Comics,3,6,2,Super Strength,Silver,0
+Iron Man,Marvel,10,10,10,Invisibility,Magic,1
+Captain America,Marvel,7,7,9,Telekinesis,Wooden Stake,1
+Thor,DC Comics,10,7,7,Super Strength,Kryptonite,1
+Wonder Woman,DC Comics,2,6,7,Invisibility,Silver,0
+Flash,Marvel,2,4,1,Flight,Wooden Stake,0
+Spider-Man,DC Comics,4,9,2,Super Strength,Kryptonite,0
+Batman,Marvel,1,6,4,Flight,Wooden Stake,0
+Wonder Woman,Marvel,3,4,4,Super Strength,Wooden Stake,0
+Spider-Man,DC Comics,9,3,3,Invisibility,Kryptonite,0
+Thor,DC Comics,7,4,7,Invisibility,Silver,0
+Batman,Marvel,7,3,8,Invisibility,Wooden Stake,1
+Superman,DC Comics,4,2,2,Telekinesis,Silver,0
+Superman,Marvel,2,5,4,Flight,Silver,0
+Wonder Woman,DC Comics,4,2,3,Telekinesis,Silver,0
+Captain America,DC Comics,6,6,2,Super Strength,Kryptonite,0
+Wonder Woman,DC Comics,3,3,6,Flight,Magic,0
+Captain America,DC Comics,1,6,4,Invisibility,Silver,0
+Flash,DC Comics,8,10,6,Flight,Magic,1
+Thor,Marvel,5,9,2,Invisibility,Magic,0
+Superman,Marvel,5,1,4,Telekinesis,Wooden Stake,0
+Flash,Marvel,4,6,6,Telekinesis,Silver,0
+Batman,DC Comics,6,9,5,Invisibility,Silver,1
+Superman,Marvel,3,4,3,Invisibility,Silver,0
+Captain America,Marvel,9,2,8,Super Strength,Magic,1
+Wonder Woman,DC Comics,5,4,7,Telekinesis,Kryptonite,0
+Thor,DC Comics,3,1,3,Telekinesis,Magic,0
+Superman,DC Comics,1,3,6,Super Strength,Silver,1
+Flash,Marvel,10,10,4,Telekinesis,Silver,1
+Thor,Marvel,6,9,5,Invisibility,Silver,0
+Flash,DC Comics,2,10,5,Flight,Magic,1
+Superman,Marvel,3,5,7,Flight,Silver,0
+Wonder Woman,Marvel,1,6,5,Telekinesis,Wooden Stake,0
+Spider-Man,DC Comics,9,3,3,Super Strength,Silver,1
+Wonder Woman,Marvel,8,5,10,Invisibility,Kryptonite,0
+Superman,DC Comics,2,8,5,Flight,Wooden Stake,0
+Captain America,Marvel,8,6,7,Invisibility,Silver,0
+Wonder Woman,DC Comics,9,4,5,Telekinesis,Wooden Stake,0
+Batman,Marvel,1,2,5,Telekinesis,Silver,0
+Captain America,Marvel,5,9,9,Flight,Kryptonite,0
+Captain America,DC Comics,8,1,3,Telekinesis,Silver,0
+Captain America,DC Comics,2,1,6,Super Strength,Wooden Stake,1
+Thor,DC Comics,4,4,1,Telekinesis,Kryptonite,0
+Iron Man,DC Comics,7,7,10,Telekinesis,Magic,1
+Iron Man,Marvel,3,1,5,Telekinesis,Kryptonite,0
+Spider-Man,DC Comics,5,9,8,Invisibility,Kryptonite,0
+Flash,DC Comics,8,4,5,Invisibility,Kryptonite,0
+Flash,DC Comics,10,3,9,Flight,Wooden Stake,1
+Captain America,DC Comics,3,1,6,Flight,Kryptonite,0
+Iron Man,DC Comics,4,10,8,Flight,Silver,1
+Spider-Man,Marvel,9,4,10,Telekinesis,Kryptonite,1
+Thor,DC Comics,7,9,8,Invisibility,Kryptonite,0
+Captain America,DC Comics,1,10,3,Super Strength,Silver,0
+Batman,DC Comics,4,6,7,Telekinesis,Silver,1
+Thor,Marvel,4,6,7,Telekinesis,Magic,0
+Spider-Man,Marvel,9,1,10,Telekinesis,Kryptonite,0
+Thor,Marvel,6,10,6,Super Strength,Wooden Stake,1
+Batman,DC Comics,9,2,7,Flight,Kryptonite,0
+Flash,DC Comics,6,6,2,Super Strength,Kryptonite,0
+Thor,Marvel,6,2,9,Flight,Silver,1
+Spider-Man,Marvel,5,3,10,Super Strength,Magic,1
+Flash,DC Comics,5,4,10,Invisibility,Kryptonite,0
+Flash,DC Comics,2,5,1,Telekinesis,Wooden Stake,0
+Flash,DC Comics,8,9,1,Telekinesis,Kryptonite,0
+Batman,Marvel,8,4,3,Telekinesis,Wooden Stake,1
+Batman,DC Comics,1,9,3,Flight,Silver,0
+Flash,DC Comics,8,10,1,Super Strength,Magic,1
+Thor,Marvel,5,3,7,Invisibility,Kryptonite,0
+Batman,Marvel,2,8,4,Super Strength,Magic,0
+Wonder Woman,Marvel,2,1,10,Telekinesis,Kryptonite,0
+Thor,DC Comics,6,9,2,Invisibility,Wooden Stake,0
+Captain America,Marvel,9,9,10,Invisibility,Magic,1
+Batman,Marvel,1,10,5,Telekinesis,Kryptonite,0
+Thor,DC Comics,6,2,6,Super Strength,Silver,1
+Captain America,DC Comics,9,4,9,Telekinesis,Wooden Stake,1
+Batman,Marvel,8,8,4,Super Strength,Magic,1
+Captain America,DC Comics,6,7,2,Invisibility,Kryptonite,0
+Superman,Marvel,3,1,5,Invisibility,Magic,0
+Batman,DC Comics,8,5,3,Telekinesis,Kryptonite,0
+Superman,DC Comics,9,7,2,Invisibility,Wooden Stake,0
+Spider-Man,Marvel,1,4,1,Flight,Silver,0
+Spider-Man,Marvel,9,1,10,Invisibility,Wooden Stake,1
+Thor,Marvel,6,9,2,Flight,Magic,0
+Iron Man,DC Comics,6,5,6,Invisibility,Magic,1
+Superman,Marvel,4,2,8,Telekinesis,Kryptonite,0
+Superman,DC Comics,1,8,3,Telekinesis,Wooden Stake,0
+Spider-Man,DC Comics,10,2,9,Flight,Kryptonite,0
+Superman,Marvel,8,3,9,Telekinesis,Wooden Stake,0
+Iron Man,DC Comics,2,10,2,Invisibility,Magic,0
+Flash,DC Comics,1,1,8,Invisibility,Kryptonite,0
+Captain America,Marvel,2,2,10,Telekinesis,Kryptonite,0
+Captain America,DC Comics,1,7,5,Invisibility,Wooden Stake,0
+Iron Man,DC Comics,1,10,4,Super Strength,Silver,0
+Superman,Marvel,9,2,10,Super Strength,Wooden Stake,1
+Superman,Marvel,1,6,5,Invisibility,Silver,1
+Superman,DC Comics,4,3,4,Telekinesis,Wooden Stake,0
+Wonder Woman,DC Comics,10,4,8,Flight,Magic,1
+Thor,DC Comics,6,8,4,Telekinesis,Kryptonite,0
+Batman,DC Comics,7,3,10,Flight,Wooden Stake,1
+Iron Man,Marvel,2,10,6,Telekinesis,Magic,0
+Iron Man,DC Comics,6,6,2,Invisibility,Wooden Stake,0
+Wonder Woman,DC Comics,7,1,5,Super Strength,Kryptonite,0
+Iron Man,DC Comics,10,7,6,Telekinesis,Wooden Stake,1
+Flash,DC Comics,10,8,5,Flight,Silver,1
+Flash,Marvel,2,8,2,Super Strength,Kryptonite,0
+Iron Man,DC Comics,2,3,7,Flight,Silver,0
+Wonder Woman,Marvel,10,10,4,Invisibility,Magic,1
+Iron Man,Marvel,7,1,8,Super Strength,Magic,0
+Superman,Marvel,1,9,7,Flight,Wooden Stake,0
+Wonder Woman,Marvel,8,6,7,Telekinesis,Silver,0
+Thor,Marvel,3,9,9,Invisibility,Silver,1
+Spider-Man,DC Comics,6,7,1,Invisibility,Kryptonite,0
+Superman,Marvel,9,1,10,Invisibility,Silver,0
+Flash,Marvel,6,1,6,Telekinesis,Silver,0
+Superman,Marvel,9,6,6,Telekinesis,Kryptonite,0
+Batman,DC Comics,7,5,6,Super Strength,Kryptonite,0
+Wonder Woman,Marvel,9,9,6,Telekinesis,Silver,1
+Flash,DC Comics,2,2,10,Super Strength,Wooden Stake,0
+Spider-Man,Marvel,8,8,7,Invisibility,Kryptonite,0
+Iron Man,Marvel,8,5,10,Super Strength,Kryptonite,0
+Spider-Man,DC Comics,2,2,6,Flight,Silver,0
+Thor,DC Comics,4,10,1,Invisibility,Silver,0
+Captain America,DC Comics,7,6,3,Invisibility,Kryptonite,0
+Superman,Marvel,4,10,2,Super Strength,Silver,0
+Wonder Woman,DC Comics,4,8,6,Invisibility,Kryptonite,0
+Wonder Woman,DC Comics,6,4,8,Telekinesis,Wooden Stake,0
+Spider-Man,DC Comics,10,2,3,Flight,Wooden Stake,0
+Batman,DC Comics,6,5,10,Super Strength,Kryptonite,0
+Flash,DC Comics,10,2,8,Super Strength,Kryptonite,1
+Thor,Marvel,3,2,8,Invisibility,Magic,0
+Captain America,DC Comics,9,6,5,Telekinesis,Magic,0
+Thor,Marvel,10,10,8,Invisibility,Silver,1
+Wonder Woman,DC Comics,2,9,6,Invisibility,Silver,0
+Iron Man,DC Comics,6,4,5,Super Strength,Kryptonite,0
+Captain America,Marvel,7,6,9,Invisibility,Kryptonite,0
+Flash,Marvel,9,7,7,Flight,Magic,1
+Flash,Marvel,3,6,8,Invisibility,Magic,0
+Wonder Woman,Marvel,10,8,1,Invisibility,Kryptonite,0
+Batman,DC Comics,3,4,2,Super Strength,Wooden Stake,0
+Captain America,Marvel,7,1,8,Invisibility,Wooden Stake,0
+Wonder Woman,DC Comics,4,7,9,Telekinesis,Silver,1
+Batman,DC Comics,8,3,4,Super Strength,Kryptonite,0
+Iron Man,DC Comics,7,6,10,Invisibility,Kryptonite,1
+Batman,Marvel,5,2,10,Flight,Silver,0
+Thor,Marvel,7,9,9,Flight,Magic,1
+Spider-Man,Marvel,3,1,4,Super Strength,Magic,0
+Thor,DC Comics,2,6,10,Super Strength,Wooden Stake,1
+Flash,Marvel,6,6,10,Invisibility,Kryptonite,0
+Wonder Woman,Marvel,2,5,10,Telekinesis,Magic,0
+Wonder Woman,DC Comics,3,5,9,Invisibility,Wooden Stake,0
+Superman,Marvel,6,1,7,Flight,Wooden Stake,0
+Thor,DC Comics,5,10,2,Telekinesis,Wooden Stake,0
+Captain America,Marvel,8,5,9,Telekinesis,Magic,1
+Flash,Marvel,9,2,4,Telekinesis,Magic,0
+Iron Man,Marvel,3,7,8,Invisibility,Kryptonite,0
+Flash,Marvel,10,3,7,Flight,Kryptonite,0
+Superman,Marvel,3,4,7,Super Strength,Wooden Stake,1
+Superman,DC Comics,3,3,8,Invisibility,Wooden Stake,0
+Superman,Marvel,6,3,1,Super Strength,Magic,0
+Wonder Woman,Marvel,1,4,5,Telekinesis,Magic,0
+Spider-Man,Marvel,7,5,2,Telekinesis,Kryptonite,0
+Batman,Marvel,1,1,2,Invisibility,Kryptonite,0
+Captain America,Marvel,5,4,1,Flight,Silver,0
+Flash,Marvel,10,8,5,Telekinesis,Kryptonite,0
+Wonder Woman,Marvel,8,10,2,Super Strength,Magic,1
+Flash,DC Comics,4,7,4,Super Strength,Wooden Stake,1
+Iron Man,DC Comics,5,9,3,Invisibility,Silver,1
+Wonder Woman,Marvel,4,5,3,Super Strength,Kryptonite,0
+Spider-Man,DC Comics,4,10,2,Flight,Kryptonite,0
+Flash,Marvel,8,4,6,Telekinesis,Magic,1
+Wonder Woman,DC Comics,2,8,2,Super Strength,Silver,1
+Wonder Woman,Marvel,1,9,8,Super Strength,Kryptonite,0
+Thor,Marvel,3,7,8,Telekinesis,Wooden Stake,0
+Iron Man,DC Comics,9,7,5,Invisibility,Magic,1
+Superman,Marvel,4,5,10,Super Strength,Silver,0
+Iron Man,DC Comics,10,4,7,Invisibility,Kryptonite,0
+Iron Man,Marvel,5,10,4,Invisibility,Kryptonite,0
+Thor,Marvel,2,1,1,Super Strength,Silver,0
+Batman,Marvel,4,10,2,Flight,Magic,0
+Wonder Woman,Marvel,2,10,10,Invisibility,Silver,0
+Captain America,DC Comics,2,7,10,Super Strength,Silver,1
+Superman,Marvel,4,1,4,Invisibility,Magic,0
+Flash,DC Comics,6,1,1,Telekinesis,Kryptonite,0
+Batman,DC Comics,7,5,8,Flight,Wooden Stake,0
+Spider-Man,Marvel,10,9,9,Flight,Magic,1
+Wonder Woman,Marvel,3,6,4,Telekinesis,Wooden Stake,0
+Superman,DC Comics,3,3,10,Telekinesis,Kryptonite,0
+Captain America,DC Comics,10,3,3,Invisibility,Silver,0
+Wonder Woman,Marvel,6,7,2,Telekinesis,Wooden Stake,0
+Spider-Man,DC Comics,3,6,5,Flight,Kryptonite,0
+Thor,DC Comics,2,9,3,Telekinesis,Kryptonite,0
+Batman,DC Comics,8,6,10,Super Strength,Silver,1
+Wonder Woman,Marvel,5,5,7,Super Strength,Silver,0
+Superman,DC Comics,1,10,6,Invisibility,Kryptonite,0
+Iron Man,DC Comics,3,7,1,Flight,Kryptonite,0
+Flash,DC Comics,10,1,8,Super Strength,Wooden Stake,1
+Flash,DC Comics,8,7,2,Telekinesis,Kryptonite,0
+Flash,Marvel,4,3,5,Super Strength,Kryptonite,0
+Captain America,Marvel,7,9,9,Super Strength,Wooden Stake,1
+Wonder Woman,DC Comics,10,6,8,Invisibility,Magic,1
+Flash,DC Comics,2,9,2,Telekinesis,Wooden Stake,0
+Superman,DC Comics,7,5,9,Telekinesis,Wooden Stake,0
+Iron Man,Marvel,5,7,5,Telekinesis,Silver,0
+Superman,Marvel,5,4,10,Invisibility,Wooden Stake,0
+Wonder Woman,DC Comics,6,7,6,Telekinesis,Kryptonite,0
+Spider-Man,DC Comics,9,1,3,Telekinesis,Kryptonite,0
+Iron Man,Marvel,6,7,3,Super Strength,Kryptonite,0
+Iron Man,DC Comics,8,8,10,Super Strength,Magic,1
+Superman,DC Comics,7,5,8,Telekinesis,Kryptonite,0
+Thor,Marvel,9,2,10,Flight,Magic,1
+Wonder Woman,Marvel,4,5,10,Flight,Kryptonite,0
+Flash,Marvel,2,6,2,Telekinesis,Wooden Stake,0
+Thor,Marvel,7,2,2,Flight,Silver,0
+Batman,Marvel,6,6,5,Invisibility,Kryptonite,0
+Flash,DC Comics,1,6,6,Super Strength,Magic,0
+Spider-Man,Marvel,9,1,2,Invisibility,Magic,1
+Thor,Marvel,9,1,5,Super Strength,Silver,1
+Superman,Marvel,2,10,7,Flight,Kryptonite,0
+Wonder Woman,Marvel,3,3,10,Flight,Wooden Stake,0
+Thor,Marvel,5,10,10,Telekinesis,Kryptonite,0
+Batman,Marvel,5,10,8,Flight,Kryptonite,0
+Captain America,DC Comics,1,3,7,Flight,Silver,0
+Batman,Marvel,8,4,8,Telekinesis,Kryptonite,0
+Iron Man,DC Comics,8,2,9,Telekinesis,Wooden Stake,0
+Flash,DC Comics,4,9,5,Super Strength,Magic,1
+Wonder Woman,Marvel,7,10,5,Flight,Silver,0
+Iron Man,Marvel,10,7,10,Super Strength,Wooden Stake,1
+Thor,DC Comics,3,7,4,Super Strength,Magic,1
+Thor,DC Comics,6,6,9,Invisibility,Silver,0
+Batman,DC Comics,10,3,5,Flight,Silver,0
+Batman,Marvel,10,6,2,Flight,Magic,1
+Superman,DC Comics,9,8,10,Invisibility,Magic,1
+Spider-Man,Marvel,1,8,8,Super Strength,Wooden Stake,1
+Superman,Marvel,5,9,7,Flight,Kryptonite,0
+Iron Man,DC Comics,4,1,8,Super Strength,Kryptonite,0
+Superman,Marvel,8,1,3,Invisibility,Kryptonite,0
+Batman,Marvel,1,3,4,Telekinesis,Kryptonite,0
+Wonder Woman,DC Comics,9,3,5,Super Strength,Kryptonite,0
+Superman,DC Comics,6,10,6,Flight,Wooden Stake,0
+Captain America,Marvel,4,8,1,Telekinesis,Silver,0
+Flash,DC Comics,9,10,4,Super Strength,Wooden Stake,1
+Spider-Man,Marvel,5,1,10,Super Strength,Wooden Stake,1
+Batman,DC Comics,5,2,5,Telekinesis,Wooden Stake,0
+Wonder Woman,DC Comics,5,2,7,Telekinesis,Silver,1
+Thor,DC Comics,1,3,5,Telekinesis,Wooden Stake,0
+Flash,DC Comics,1,6,1,Flight,Wooden Stake,0
+Superman,Marvel,8,1,7,Flight,Silver,0
+Batman,DC Comics,8,2,8,Super Strength,Wooden Stake,1
+Thor,Marvel,6,1,7,Super Strength,Kryptonite,0
+Thor,Marvel,4,5,4,Invisibility,Magic,0
+Iron Man,DC Comics,2,7,8,Flight,Wooden Stake,0
+Iron Man,DC Comics,2,8,5,Super Strength,Magic,1
+Wonder Woman,DC Comics,9,10,10,Telekinesis,Wooden Stake,0
+Batman,DC Comics,5,1,9,Telekinesis,Wooden Stake,0
+Flash,DC Comics,4,7,10,Flight,Kryptonite,0
+Wonder Woman,Marvel,10,5,5,Telekinesis,Silver,0
+Batman,DC Comics,1,10,1,Invisibility,Magic,0
+Captain America,Marvel,7,1,9,Super Strength,Silver,1
+Spider-Man,Marvel,3,3,5,Super Strength,Kryptonite,0
+Spider-Man,Marvel,6,7,6,Super Strength,Kryptonite,0
+Flash,Marvel,5,10,4,Flight,Magic,0
+Batman,DC Comics,5,1,6,Telekinesis,Silver,0
+Iron Man,DC Comics,5,7,8,Invisibility,Kryptonite,0
+Flash,Marvel,1,5,3,Flight,Wooden Stake,0
+Superman,Marvel,1,1,5,Super Strength,Wooden Stake,0
+Wonder Woman,DC Comics,3,1,2,Invisibility,Wooden Stake,0
+Captain America,Marvel,10,1,2,Super Strength,Silver,0
+Spider-Man,DC Comics,4,9,7,Super Strength,Wooden Stake,0
+Batman,Marvel,5,3,10,Flight,Wooden Stake,1
+Iron Man,DC Comics,2,5,10,Super Strength,Kryptonite,0
+Iron Man,Marvel,8,10,10,Invisibility,Kryptonite,0
+Iron Man,Marvel,2,9,6,Super Strength,Wooden Stake,0
+Wonder Woman,Marvel,9,6,4,Telekinesis,Wooden Stake,1
+Superman,DC Comics,2,9,5,Super Strength,Kryptonite,0
+Thor,DC Comics,9,8,1,Flight,Magic,0
+Flash,DC Comics,7,8,7,Invisibility,Silver,1
+Wonder Woman,Marvel,8,1,8,Flight,Silver,0
+Superman,Marvel,2,9,9,Telekinesis,Kryptonite,0
+Iron Man,Marvel,7,6,8,Super Strength,Silver,1
+Batman,Marvel,6,9,5,Flight,Kryptonite,0
+Flash,Marvel,4,3,3,Flight,Kryptonite,0
+Captain America,Marvel,7,3,10,Flight,Kryptonite,0
+Superman,DC Comics,4,6,9,Flight,Kryptonite,0
+Batman,DC Comics,2,9,6,Telekinesis,Magic,0
+Wonder Woman,DC Comics,10,7,5,Telekinesis,Wooden Stake,1
+Wonder Woman,Marvel,7,3,3,Super Strength,Wooden Stake,0
+Flash,DC Comics,8,3,6,Super Strength,Magic,0
+Iron Man,Marvel,2,2,3,Invisibility,Silver,0
+Captain America,Marvel,5,9,10,Telekinesis,Silver,0
+Spider-Man,DC Comics,1,3,6,Flight,Wooden Stake,0
+Spider-Man,Marvel,7,5,4,Flight,Silver,1
+Wonder Woman,Marvel,8,9,2,Invisibility,Wooden Stake,1
+Batman,Marvel,6,8,8,Flight,Wooden Stake,1
+Captain America,Marvel,5,2,4,Invisibility,Magic,0
+Batman,Marvel,6,3,9,Super Strength,Silver,1
+Captain America,DC Comics,2,2,7,Telekinesis,Magic,0
+Captain America,DC Comics,1,8,2,Invisibility,Wooden Stake,0
+Wonder Woman,Marvel,7,6,4,Flight,Wooden Stake,0
+Batman,Marvel,7,6,5,Invisibility,Wooden Stake,0
+Wonder Woman,DC Comics,10,9,3,Super Strength,Kryptonite,0
+Flash,DC Comics,10,8,9,Flight,Kryptonite,0
+Captain America,DC Comics,2,4,5,Super Strength,Kryptonite,0
+Superman,Marvel,2,4,2,Super Strength,Magic,0
+Iron Man,DC Comics,1,9,3,Invisibility,Wooden Stake,0
+Flash,DC Comics,10,1,9,Super Strength,Silver,1
+Captain America,Marvel,8,2,7,Flight,Magic,1
+Superman,Marvel,8,2,2,Super Strength,Magic,0
+Captain America,DC Comics,1,6,9,Super Strength,Magic,0
+Superman,Marvel,8,4,4,Invisibility,Silver,0
+Batman,DC Comics,9,10,9,Super Strength,Wooden Stake,1
+Spider-Man,DC Comics,4,3,2,Telekinesis,Kryptonite,0
+Thor,Marvel,1,3,10,Invisibility,Wooden Stake,0
+Flash,Marvel,1,3,4,Invisibility,Wooden Stake,0
+Captain America,DC Comics,3,6,5,Flight,Magic,0
+Thor,Marvel,5,8,2,Flight,Magic,0
+Captain America,Marvel,5,7,10,Flight,Magic,1
+Batman,Marvel,9,4,1,Flight,Kryptonite,0
+Batman,Marvel,10,4,7,Telekinesis,Kryptonite,0
+Superman,Marvel,2,10,10,Invisibility,Kryptonite,0
+Captain America,Marvel,2,2,1,Super Strength,Wooden Stake,0
+Batman,Marvel,6,1,8,Flight,Magic,0
+Batman,DC Comics,9,9,3,Flight,Silver,1
+Captain America,Marvel,1,2,10,Flight,Wooden Stake,0
+Superman,DC Comics,9,8,6,Super Strength,Kryptonite,0
+Superman,Marvel,9,9,7,Flight,Silver,0
+Superman,DC Comics,9,4,10,Super Strength,Silver,1
+Superman,Marvel,5,8,1,Invisibility,Magic,1
+Spider-Man,DC Comics,9,9,6,Invisibility,Silver,1
+Captain America,Marvel,4,10,7,Invisibility,Kryptonite,0
+Wonder Woman,DC Comics,2,10,6,Telekinesis,Magic,0
+Spider-Man,Marvel,6,5,4,Super Strength,Silver,0
+Batman,Marvel,4,7,1,Flight,Magic,0
+Spider-Man,DC Comics,6,10,9,Flight,Silver,0
+Flash,DC Comics,3,4,4,Flight,Wooden Stake,0
+Wonder Woman,Marvel,6,1,7,Flight,Wooden Stake,0
+Wonder Woman,DC Comics,2,3,7,Telekinesis,Kryptonite,0
+Wonder Woman,DC Comics,2,5,2,Flight,Wooden Stake,0
+Superman,Marvel,9,3,1,Telekinesis,Wooden Stake,0
+Batman,DC Comics,7,7,8,Super Strength,Wooden Stake,1
+Spider-Man,Marvel,3,9,8,Invisibility,Silver,0
+Spider-Man,DC Comics,1,6,7,Flight,Silver,0
+Flash,Marvel,8,10,8,Invisibility,Magic,1
+Captain America,DC Comics,6,1,3,Super Strength,Silver,0
+Spider-Man,Marvel,7,7,2,Super Strength,Wooden Stake,0
+Flash,Marvel,9,3,7,Flight,Silver,0
+Batman,DC Comics,5,5,8,Super Strength,Kryptonite,0
+Superman,DC Comics,1,10,1,Invisibility,Magic,0
+Captain America,Marvel,10,4,10,Flight,Magic,1
+Flash,Marvel,7,10,9,Telekinesis,Silver,1
+Spider-Man,DC Comics,5,5,4,Flight,Wooden Stake,0
+Captain America,DC Comics,3,5,4,Invisibility,Magic,0
+Thor,DC Comics,9,6,3,Flight,Kryptonite,0
+Captain America,DC Comics,1,10,6,Flight,Kryptonite,0
+Wonder Woman,DC Comics,1,10,1,Invisibility,Magic,0
+Superman,DC Comics,1,6,6,Flight,Wooden Stake,0
+Wonder Woman,Marvel,3,8,2,Flight,Wooden Stake,0
+Thor,DC Comics,6,8,9,Invisibility,Silver,1
+Wonder Woman,DC Comics,10,9,2,Super Strength,Silver,0
+Thor,DC Comics,3,8,7,Invisibility,Magic,0
+Captain America,DC Comics,8,2,1,Flight,Silver,0
+Batman,Marvel,10,10,7,Telekinesis,Silver,1
+Superman,Marvel,2,1,5,Telekinesis,Silver,0
+Batman,Marvel,9,10,8,Invisibility,Kryptonite,1
+Superman,Marvel,3,2,4,Telekinesis,Silver,0
+Flash,DC Comics,5,2,10,Flight,Magic,0
+Superman,Marvel,10,3,7,Flight,Wooden Stake,0
+Wonder Woman,DC Comics,8,10,6,Invisibility,Silver,0
+Wonder Woman,DC Comics,2,7,5,Flight,Wooden Stake,0
+Batman,Marvel,6,2,4,Super Strength,Silver,1
+Iron Man,Marvel,5,1,7,Flight,Magic,0
+Flash,DC Comics,10,6,5,Invisibility,Kryptonite,1
+Thor,Marvel,9,9,5,Super Strength,Magic,0
+Wonder Woman,Marvel,5,3,1,Super Strength,Kryptonite,0
+Flash,DC Comics,2,6,2,Telekinesis,Silver,0
+Wonder Woman,DC Comics,5,3,5,Flight,Silver,0
+Wonder Woman,DC Comics,4,1,3,Invisibility,Kryptonite,0
+Captain America,DC Comics,7,5,2,Telekinesis,Magic,0
+Batman,DC Comics,6,10,4,Telekinesis,Magic,0
+Batman,Marvel,2,4,4,Flight,Kryptonite,0
+Wonder Woman,DC Comics,5,7,4,Flight,Silver,1
+Captain America,DC Comics,7,6,4,Invisibility,Kryptonite,0
+Wonder Woman,DC Comics,7,10,3,Telekinesis,Silver,0
+Thor,Marvel,5,7,7,Invisibility,Kryptonite,0
+Captain America,DC Comics,9,5,9,Telekinesis,Silver,1
+Wonder Woman,DC Comics,4,4,5,Telekinesis,Kryptonite,0
+Superman,Marvel,3,7,4,Telekinesis,Wooden Stake,0
+Iron Man,DC Comics,4,7,2,Flight,Silver,0
+Superman,DC Comics,5,6,2,Telekinesis,Magic,0
+Iron Man,DC Comics,6,8,5,Telekinesis,Kryptonite,0
+Captain America,Marvel,3,4,7,Telekinesis,Magic,0
+Superman,Marvel,2,10,10,Super Strength,Kryptonite,0
+Thor,DC Comics,4,5,10,Flight,Magic,1
+Flash,DC Comics,5,4,9,Super Strength,Magic,1
+Superman,DC Comics,4,1,7,Flight,Kryptonite,0
+Batman,Marvel,3,8,5,Invisibility,Kryptonite,0
+Flash,Marvel,8,1,10,Super Strength,Magic,0
+Flash,Marvel,10,5,10,Invisibility,Magic,1
+Iron Man,Marvel,4,6,10,Telekinesis,Magic,0
+Iron Man,Marvel,2,6,6,Invisibility,Silver,1
+Wonder Woman,Marvel,2,5,3,Invisibility,Silver,0
+Thor,DC Comics,1,3,5,Invisibility,Wooden Stake,0
+Iron Man,Marvel,4,5,8,Invisibility,Silver,0
+Iron Man,DC Comics,10,8,1,Flight,Silver,1
+Wonder Woman,Marvel,9,2,1,Super Strength,Kryptonite,0
+Thor,DC Comics,7,6,7,Flight,Wooden Stake,1
+Superman,Marvel,10,9,5,Flight,Wooden Stake,1
+Captain America,DC Comics,7,8,5,Flight,Silver,0
+Superman,DC Comics,7,8,1,Invisibility,Kryptonite,0
+Batman,DC Comics,8,8,9,Flight,Kryptonite,0
+Batman,Marvel,1,7,1,Super Strength,Wooden Stake,0
+Iron Man,Marvel,10,8,5,Flight,Kryptonite,1
+Flash,Marvel,10,6,10,Telekinesis,Magic,1
+Batman,DC Comics,8,2,9,Invisibility,Silver,1
+Captain America,DC Comics,4,2,4,Telekinesis,Magic,0
+Iron Man,DC Comics,4,8,8,Super Strength,Wooden Stake,0
+Wonder Woman,Marvel,4,1,6,Super Strength,Wooden Stake,1
+Batman,Marvel,6,6,3,Super Strength,Kryptonite,0
+Flash,DC Comics,7,6,4,Super Strength,Kryptonite,0
+Wonder Woman,Marvel,6,4,2,Flight,Wooden Stake,0
+Spider-Man,Marvel,1,10,1,Invisibility,Wooden Stake,0
+Spider-Man,Marvel,8,3,8,Super Strength,Magic,1
+Spider-Man,Marvel,10,3,1,Telekinesis,Magic,1
+Wonder Woman,DC Comics,7,1,1,Super Strength,Kryptonite,0
+Spider-Man,Marvel,6,3,4,Invisibility,Magic,1
+Superman,Marvel,6,4,10,Telekinesis,Kryptonite,0
+Spider-Man,DC Comics,5,5,10,Telekinesis,Kryptonite,0
+Iron Man,DC Comics,6,3,6,Telekinesis,Silver,0
+Thor,Marvel,9,6,9,Flight,Kryptonite,0
+Superman,Marvel,10,5,1,Super Strength,Magic,1
+Flash,Marvel,9,3,7,Flight,Wooden Stake,0
+Thor,Marvel,10,6,10,Telekinesis,Wooden Stake,0
+Iron Man,DC Comics,8,6,5,Flight,Magic,0
+Flash,DC Comics,10,8,8,Flight,Wooden Stake,0
+Iron Man,DC Comics,9,2,7,Flight,Kryptonite,0
+Captain America,Marvel,10,1,4,Super Strength,Wooden Stake,1
+Flash,Marvel,8,4,4,Telekinesis,Magic,1
+Superman,DC Comics,8,7,6,Telekinesis,Wooden Stake,1
+Thor,Marvel,1,10,6,Super Strength,Kryptonite,0
+Spider-Man,DC Comics,10,3,9,Flight,Kryptonite,1
+Iron Man,DC Comics,5,3,5,Flight,Magic,0
+Spider-Man,DC Comics,4,5,8,Invisibility,Magic,0
+Flash,DC Comics,2,5,5,Invisibility,Magic,0
+Thor,DC Comics,8,10,2,Invisibility,Silver,0
+Wonder Woman,DC Comics,3,3,6,Super Strength,Silver,0
+Superman,DC Comics,4,9,9,Telekinesis,Kryptonite,0
+Batman,Marvel,7,4,3,Invisibility,Silver,1
+Wonder Woman,DC Comics,10,3,1,Telekinesis,Silver,0
+Flash,DC Comics,9,2,1,Telekinesis,Wooden Stake,0
+Flash,Marvel,2,10,3,Telekinesis,Silver,0
+Wonder Woman,DC Comics,3,9,10,Super Strength,Wooden Stake,1
+Batman,Marvel,4,4,5,Super Strength,Magic,1
+Flash,DC Comics,10,3,3,Super Strength,Wooden Stake,1
+Flash,Marvel,1,7,9,Super Strength,Wooden Stake,1
+Iron Man,Marvel,7,8,8,Invisibility,Magic,1
+Captain America,Marvel,2,2,3,Flight,Magic,0
+Flash,DC Comics,5,7,9,Flight,Kryptonite,0
+Spider-Man,Marvel,1,5,6,Flight,Kryptonite,0
+Iron Man,DC Comics,3,5,7,Invisibility,Kryptonite,0
+Captain America,DC Comics,2,3,4,Flight,Kryptonite,0
+Spider-Man,DC Comics,1,5,4,Invisibility,Wooden Stake,0
+Thor,DC Comics,7,2,2,Invisibility,Wooden Stake,0
+Wonder Woman,DC Comics,5,4,5,Invisibility,Kryptonite,0
+Wonder Woman,DC Comics,1,6,8,Flight,Silver,0
+Batman,DC Comics,6,1,7,Telekinesis,Kryptonite,0
+Captain America,Marvel,5,10,7,Flight,Silver,0
+Spider-Man,DC Comics,3,4,6,Flight,Magic,0
+Flash,DC Comics,7,6,3,Super Strength,Wooden Stake,0
+Iron Man,Marvel,10,9,5,Invisibility,Wooden Stake,1
+Spider-Man,DC Comics,9,2,1,Telekinesis,Silver,0
+Iron Man,Marvel,9,7,7,Super Strength,Kryptonite,0
+Wonder Woman,Marvel,9,6,9,Telekinesis,Wooden Stake,1
+Batman,DC Comics,2,2,1,Telekinesis,Silver,0
+Flash,DC Comics,3,8,2,Invisibility,Magic,1
+Batman,Marvel,7,7,3,Flight,Magic,1
+Spider-Man,DC Comics,5,5,3,Invisibility,Wooden Stake,0
+Spider-Man,Marvel,2,5,8,Invisibility,Kryptonite,0
+Iron Man,Marvel,3,7,7,Super Strength,Silver,1
+Iron Man,DC Comics,10,9,6,Invisibility,Wooden Stake,1
+Captain America,Marvel,6,9,10,Flight,Magic,1
+Wonder Woman,DC Comics,7,9,10,Telekinesis,Kryptonite,0
+Captain America,DC Comics,9,6,4,Invisibility,Silver,0
+Captain America,Marvel,1,10,9,Telekinesis,Wooden Stake,0
+Spider-Man,Marvel,7,6,1,Invisibility,Silver,0
+Superman,DC Comics,8,3,2,Telekinesis,Kryptonite,0
+Superman,DC Comics,3,1,4,Invisibility,Kryptonite,0
+Superman,DC Comics,4,7,3,Super Strength,Magic,1
+Superman,Marvel,10,4,1,Telekinesis,Kryptonite,0
+Captain America,DC Comics,6,1,5,Invisibility,Wooden Stake,0
+Spider-Man,Marvel,10,8,7,Invisibility,Silver,1
+Superman,Marvel,7,6,2,Super Strength,Kryptonite,0
+Flash,Marvel,4,6,5,Super Strength,Kryptonite,0
+Batman,DC Comics,8,2,6,Super Strength,Wooden Stake,1
+Thor,Marvel,5,1,7,Telekinesis,Silver,0
+Batman,DC Comics,1,2,1,Telekinesis,Silver,0
+Spider-Man,Marvel,4,4,7,Super Strength,Magic,1
+Spider-Man,DC Comics,3,2,4,Flight,Magic,0
+Thor,DC Comics,9,1,8,Flight,Silver,0
+Iron Man,Marvel,8,7,4,Invisibility,Wooden Stake,1
+Iron Man,DC Comics,1,8,6,Flight,Wooden Stake,0
+Flash,Marvel,6,6,9,Invisibility,Magic,0
+Iron Man,Marvel,9,4,5,Telekinesis,Kryptonite,0
+Captain America,Marvel,7,6,4,Telekinesis,Wooden Stake,0
+Iron Man,Marvel,4,3,8,Flight,Kryptonite,0
+Wonder Woman,Marvel,1,8,9,Telekinesis,Wooden Stake,0
+Captain America,Marvel,2,10,4,Super Strength,Silver,1
+Captain America,Marvel,5,2,3,Super Strength,Magic,1
+Flash,DC Comics,5,5,8,Flight,Kryptonite,0
+Iron Man,Marvel,8,1,5,Flight,Kryptonite,0
+Iron Man,Marvel,6,6,2,Invisibility,Silver,0
+Flash,DC Comics,8,2,10,Telekinesis,Wooden Stake,1
+Thor,DC Comics,2,4,9,Invisibility,Kryptonite,0
+Superman,Marvel,3,6,3,Invisibility,Wooden Stake,0
+Flash,Marvel,6,10,2,Super Strength,Silver,0
+Thor,Marvel,10,8,1,Super Strength,Magic,0
+Captain America,DC Comics,3,8,8,Super Strength,Kryptonite,0
+Thor,Marvel,6,6,3,Super Strength,Wooden Stake,0
+Captain America,DC Comics,6,4,7,Invisibility,Kryptonite,0
+Spider-Man,Marvel,2,8,1,Super Strength,Wooden Stake,0
+Captain America,Marvel,7,8,1,Telekinesis,Wooden Stake,1
+Captain America,DC Comics,2,10,9,Super Strength,Wooden Stake,1
+Thor,Marvel,6,1,8,Super Strength,Silver,1
+Superman,Marvel,1,4,3,Super Strength,Magic,0
+Spider-Man,Marvel,3,4,6,Flight,Kryptonite,0
+Batman,DC Comics,2,7,3,Telekinesis,Magic,0
+Batman,Marvel,7,7,4,Telekinesis,Wooden Stake,1
+Superman,Marvel,4,8,1,Invisibility,Wooden Stake,0
+Batman,DC Comics,8,5,5,Invisibility,Magic,1
+Spider-Man,DC Comics,6,7,1,Super Strength,Magic,0
+Iron Man,Marvel,10,8,1,Flight,Kryptonite,0
+Spider-Man,Marvel,4,9,10,Invisibility,Wooden Stake,0
+Thor,DC Comics,5,3,7,Invisibility,Magic,0
+Flash,Marvel,9,3,6,Super Strength,Silver,1
+Wonder Woman,Marvel,7,4,2,Super Strength,Wooden Stake,0
+Captain America,DC Comics,10,5,2,Invisibility,Wooden Stake,1
+Captain America,Marvel,9,10,7,Invisibility,Kryptonite,0
+Flash,Marvel,7,1,1,Telekinesis,Silver,0
+Thor,DC Comics,1,7,2,Flight,Kryptonite,0
+Thor,Marvel,8,9,8,Telekinesis,Silver,0
+Wonder Woman,Marvel,4,8,6,Invisibility,Kryptonite,0
+Wonder Woman,Marvel,3,5,2,Telekinesis,Silver,0
+Captain America,DC Comics,7,4,7,Telekinesis,Silver,1
+Wonder Woman,Marvel,3,7,4,Invisibility,Silver,0
+Wonder Woman,DC Comics,8,5,2,Super Strength,Magic,1
+Wonder Woman,DC Comics,6,7,6,Invisibility,Wooden Stake,0
+Flash,Marvel,5,1,9,Super Strength,Silver,1
+Superman,DC Comics,4,1,9,Invisibility,Magic,1
+Iron Man,Marvel,8,10,8,Invisibility,Magic,1
+Wonder Woman,Marvel,8,3,3,Invisibility,Kryptonite,0
+Iron Man,Marvel,1,2,3,Flight,Wooden Stake,0
+Iron Man,DC Comics,9,2,2,Super Strength,Wooden Stake,1
+Thor,Marvel,5,7,5,Flight,Kryptonite,0
+Wonder Woman,Marvel,4,10,4,Invisibility,Wooden Stake,0
+Captain America,Marvel,6,2,7,Telekinesis,Kryptonite,0
+Superman,DC Comics,6,4,4,Flight,Magic,0
+Captain America,DC Comics,2,2,9,Super Strength,Magic,0
+Wonder Woman,Marvel,8,6,2,Invisibility,Silver,0
+Captain America,Marvel,7,8,6,Flight,Kryptonite,0
+Wonder Woman,Marvel,1,10,7,Telekinesis,Magic,0
+Superman,Marvel,5,4,4,Flight,Magic,0
+Spider-Man,DC Comics,6,5,6,Super Strength,Kryptonite,0
+Superman,DC Comics,4,4,7,Flight,Magic,0
+Flash,DC Comics,2,3,4,Telekinesis,Wooden Stake,0
+Spider-Man,DC Comics,4,5,8,Telekinesis,Magic,0
+Batman,DC Comics,1,9,9,Super Strength,Kryptonite,0
+Spider-Man,DC Comics,7,8,1,Telekinesis,Wooden Stake,1
+Iron Man,DC Comics,2,8,7,Invisibility,Wooden Stake,0
+Flash,Marvel,2,8,9,Telekinesis,Magic,1
+Iron Man,Marvel,9,8,10,Invisibility,Silver,1
+Flash,Marvel,5,7,5,Flight,Wooden Stake,0
+Superman,Marvel,2,8,2,Invisibility,Kryptonite,0
+Iron Man,Marvel,9,8,10,Invisibility,Silver,1
+Iron Man,Marvel,9,8,6,Flight,Silver,1
+Batman,DC Comics,1,10,7,Telekinesis,Wooden Stake,0
+Iron Man,Marvel,3,7,2,Invisibility,Magic,0
+Thor,DC Comics,4,1,2,Telekinesis,Silver,0
+Thor,Marvel,7,4,10,Flight,Magic,0
+Thor,DC Comics,10,4,10,Super Strength,Wooden Stake,1
+Spider-Man,DC Comics,4,5,1,Telekinesis,Kryptonite,0
+Superman,Marvel,2,10,4,Telekinesis,Silver,0
+Superman,Marvel,7,6,7,Super Strength,Kryptonite,1
+Captain America,Marvel,6,4,9,Super Strength,Magic,1
+Batman,Marvel,3,2,3,Flight,Magic,0
+Thor,Marvel,6,6,7,Telekinesis,Kryptonite,0
+Thor,DC Comics,6,8,7,Telekinesis,Wooden Stake,0
+Iron Man,Marvel,5,8,7,Flight,Wooden Stake,0
+Thor,DC Comics,4,7,2,Telekinesis,Silver,0
+Iron Man,DC Comics,10,6,6,Invisibility,Silver,1
+Iron Man,DC Comics,1,2,2,Invisibility,Wooden Stake,0
+Captain America,Marvel,10,7,6,Invisibility,Wooden Stake,1
+Spider-Man,Marvel,6,5,10,Telekinesis,Kryptonite,0
+Iron Man,Marvel,2,6,3,Invisibility,Magic,0
+Iron Man,Marvel,3,10,2,Invisibility,Magic,0
+Superman,Marvel,8,8,6,Flight,Silver,1
+Captain America,Marvel,10,8,2,Flight,Wooden Stake,1
+Iron Man,DC Comics,6,3,5,Super Strength,Kryptonite,0
+Batman,Marvel,3,7,2,Super Strength,Silver,0
+Spider-Man,DC Comics,7,1,3,Super Strength,Kryptonite,0
+Flash,DC Comics,4,1,3,Super Strength,Wooden Stake,0
+Batman,Marvel,9,7,6,Flight,Wooden Stake,1
+Thor,Marvel,5,10,6,Flight,Wooden Stake,0
+Spider-Man,Marvel,3,9,10,Flight,Magic,0
+Thor,Marvel,2,7,3,Invisibility,Wooden Stake,0
+Superman,Marvel,2,10,3,Invisibility,Silver,1
+Wonder Woman,Marvel,3,5,1,Super Strength,Magic,0
+Wonder Woman,DC Comics,2,8,7,Invisibility,Kryptonite,0
+Wonder Woman,DC Comics,4,2,8,Telekinesis,Silver,0
+Iron Man,DC Comics,2,9,2,Flight,Silver,0
+Captain America,DC Comics,10,6,4,Super Strength,Kryptonite,0
+Batman,DC Comics,9,9,10,Super Strength,Magic,1
+Thor,DC Comics,2,2,7,Telekinesis,Silver,0
+Iron Man,Marvel,9,3,8,Invisibility,Silver,1
+Wonder Woman,Marvel,6,8,1,Super Strength,Silver,1
+Batman,Marvel,1,1,4,Invisibility,Magic,0
+Batman,DC Comics,4,10,6,Invisibility,Magic,1
+Superman,DC Comics,1,7,3,Telekinesis,Magic,0
+Superman,DC Comics,6,7,5,Super Strength,Silver,0
+Wonder Woman,Marvel,4,1,10,Invisibility,Wooden Stake,0
+Thor,Marvel,3,9,9,Invisibility,Kryptonite,1
+Wonder Woman,Marvel,3,8,3,Telekinesis,Wooden Stake,0
+Wonder Woman,DC Comics,9,4,5,Telekinesis,Magic,1
+Iron Man,DC Comics,6,10,8,Invisibility,Silver,1
+Captain America,DC Comics,9,5,6,Telekinesis,Silver,1
+Wonder Woman,Marvel,5,2,4,Invisibility,Wooden Stake,0
+Thor,DC Comics,2,9,8,Super Strength,Wooden Stake,1
+Batman,Marvel,8,6,3,Flight,Kryptonite,0
+Batman,Marvel,5,3,3,Telekinesis,Silver,0
+Flash,Marvel,2,7,4,Flight,Wooden Stake,0
+Spider-Man,Marvel,4,9,9,Invisibility,Kryptonite,1
+Wonder Woman,Marvel,9,3,5,Invisibility,Magic,0
+Flash,Marvel,4,2,8,Invisibility,Wooden Stake,0
+Flash,Marvel,4,7,6,Flight,Magic,0
+Iron Man,DC Comics,2,7,3,Invisibility,Kryptonite,0
+Spider-Man,Marvel,6,4,8,Telekinesis,Magic,0
+Superman,DC Comics,2,9,9,Super Strength,Silver,0
+Captain America,Marvel,7,8,8,Super Strength,Silver,1
+Thor,Marvel,3,1,4,Telekinesis,Magic,0
+Wonder Woman,Marvel,3,1,6,Super Strength,Silver,0
+Batman,DC Comics,5,5,1,Flight,Kryptonite,0
+Iron Man,Marvel,3,6,4,Invisibility,Silver,1
+Batman,Marvel,2,3,8,Invisibility,Magic,1
+Wonder Woman,DC Comics,10,9,1,Invisibility,Magic,0
+Superman,DC Comics,9,10,3,Flight,Magic,0
+Spider-Man,DC Comics,2,6,1,Flight,Wooden Stake,0
+Wonder Woman,DC Comics,2,4,9,Flight,Magic,1
+Spider-Man,Marvel,8,7,2,Telekinesis,Kryptonite,0
+Thor,Marvel,9,8,9,Flight,Silver,0
+Iron Man,DC Comics,7,9,4,Super Strength,Silver,1
+Superman,Marvel,3,6,2,Telekinesis,Wooden Stake,0
+Iron Man,DC Comics,9,6,4,Telekinesis,Wooden Stake,0
+Thor,DC Comics,3,8,10,Telekinesis,Kryptonite,0
+Superman,DC Comics,5,5,6,Flight,Magic,0
+Flash,Marvel,9,3,7,Telekinesis,Wooden Stake,0
+Superman,DC Comics,3,3,3,Flight,Silver,0
+Spider-Man,Marvel,7,6,3,Flight,Wooden Stake,0
+Spider-Man,Marvel,1,2,10,Telekinesis,Wooden Stake,0
+Spider-Man,Marvel,4,6,8,Invisibility,Magic,1
+Batman,DC Comics,4,6,5,Invisibility,Wooden Stake,1
+Flash,Marvel,7,8,4,Telekinesis,Kryptonite,0
+Captain America,DC Comics,8,7,7,Invisibility,Silver,1
+Wonder Woman,Marvel,1,8,7,Super Strength,Magic,1
+Spider-Man,Marvel,5,9,9,Super Strength,Silver,1
+Captain America,Marvel,7,6,9,Flight,Kryptonite,0
+Captain America,DC Comics,4,3,5,Invisibility,Kryptonite,0
+Iron Man,DC Comics,4,10,8,Super Strength,Wooden Stake,1
+Thor,DC Comics,4,3,10,Telekinesis,Wooden Stake,0
+Batman,DC Comics,6,1,1,Invisibility,Wooden Stake,0
+Captain America,Marvel,7,5,9,Super Strength,Silver,1
+Wonder Woman,Marvel,2,4,8,Super Strength,Kryptonite,0
+Batman,DC Comics,5,9,6,Telekinesis,Magic,1
+Iron Man,DC Comics,4,9,3,Flight,Wooden Stake,0
+Spider-Man,DC Comics,3,5,3,Telekinesis,Silver,0
+Superman,DC Comics,7,10,8,Flight,Wooden Stake,1
+Captain America,Marvel,6,4,5,Super Strength,Kryptonite,0
+Thor,DC Comics,7,7,10,Flight,Magic,1
+Superman,DC Comics,5,6,7,Super Strength,Kryptonite,1
+Iron Man,Marvel,6,4,5,Super Strength,Silver,0
+Batman,DC Comics,5,10,8,Invisibility,Wooden Stake,1
+Wonder Woman,Marvel,7,2,10,Flight,Kryptonite,0
+Flash,DC Comics,2,1,10,Flight,Silver,0
+Spider-Man,Marvel,5,4,4,Flight,Wooden Stake,0
+Batman,DC Comics,6,4,2,Telekinesis,Magic,0
+Thor,DC Comics,6,1,3,Invisibility,Kryptonite,0
+Captain America,DC Comics,5,6,8,Invisibility,Wooden Stake,0
+Thor,DC Comics,10,4,7,Invisibility,Wooden Stake,1
+Batman,DC Comics,7,1,2,Telekinesis,Wooden Stake,0
+Batman,Marvel,10,1,6,Flight,Wooden Stake,0
+Superman,DC Comics,8,1,9,Flight,Kryptonite,0
+Thor,Marvel,7,8,4,Flight,Wooden Stake,0
+Thor,Marvel,5,10,9,Invisibility,Silver,1
+Thor,Marvel,1,8,2,Invisibility,Kryptonite,0
+Spider-Man,Marvel,5,2,2,Super Strength,Wooden Stake,0
+Wonder Woman,DC Comics,10,7,9,Telekinesis,Kryptonite,1
+Batman,DC Comics,2,8,7,Telekinesis,Silver,1
+Iron Man,DC Comics,5,8,7,Invisibility,Silver,0
+Spider-Man,DC Comics,5,10,1,Super Strength,Kryptonite,0
+Spider-Man,Marvel,2,7,6,Flight,Wooden Stake,1
+Spider-Man,Marvel,5,5,7,Invisibility,Wooden Stake,0
+Superman,Marvel,4,1,6,Telekinesis,Silver,0
+Flash,DC Comics,1,9,6,Telekinesis,Wooden Stake,0
+Wonder Woman,DC Comics,3,7,2,Telekinesis,Silver,0
+Wonder Woman,DC Comics,1,2,6,Flight,Wooden Stake,0
+Iron Man,DC Comics,5,6,4,Telekinesis,Silver,0
+Flash,Marvel,4,2,9,Flight,Magic,0
+Thor,DC Comics,7,1,1,Flight,Wooden Stake,0
+Superman,DC Comics,5,7,8,Flight,Wooden Stake,1
+Batman,Marvel,10,2,5,Invisibility,Wooden Stake,1
+Flash,Marvel,4,2,1,Flight,Kryptonite,0
+Captain America,DC Comics,2,5,4,Super Strength,Wooden Stake,1
+Superman,DC Comics,4,5,1,Telekinesis,Kryptonite,0
+Captain America,Marvel,2,7,6,Invisibility,Kryptonite,0
+Batman,DC Comics,8,1,2,Telekinesis,Silver,0
+Iron Man,Marvel,3,8,5,Flight,Kryptonite,0
+Wonder Woman,Marvel,9,3,7,Invisibility,Kryptonite,0
+Captain America,DC Comics,4,4,2,Super Strength,Magic,0
+Spider-Man,Marvel,6,9,6,Flight,Wooden Stake,1
+Superman,DC Comics,10,4,6,Telekinesis,Kryptonite,0
+Flash,DC Comics,5,10,5,Super Strength,Wooden Stake,1
+Flash,DC Comics,10,5,5,Flight,Kryptonite,0
+Captain America,DC Comics,1,7,3,Super Strength,Silver,0
+Batman,Marvel,9,4,10,Flight,Magic,0
+Wonder Woman,DC Comics,1,1,10,Invisibility,Kryptonite,0
+Spider-Man,DC Comics,8,9,2,Flight,Wooden Stake,0
+Flash,Marvel,9,4,7,Invisibility,Silver,1
+Captain America,DC Comics,9,9,1,Flight,Wooden Stake,0
+Wonder Woman,DC Comics,1,6,6,Flight,Silver,0
+Batman,DC Comics,2,1,6,Telekinesis,Magic,0
+Iron Man,DC Comics,1,3,3,Super Strength,Silver,0
+Batman,Marvel,10,2,2,Super Strength,Wooden Stake,1
+Iron Man,Marvel,2,9,2,Super Strength,Wooden Stake,0
+Flash,DC Comics,10,1,9,Flight,Kryptonite,0
+Wonder Woman,Marvel,8,9,5,Flight,Silver,0
+Wonder Woman,Marvel,5,9,7,Flight,Wooden Stake,1
+Spider-Man,Marvel,7,8,5,Invisibility,Kryptonite,0
+Batman,Marvel,2,8,7,Invisibility,Magic,0
+Thor,DC Comics,8,1,4,Telekinesis,Wooden Stake,0
+Flash,Marvel,6,8,8,Flight,Kryptonite,0
+Superman,DC Comics,8,10,10,Super Strength,Wooden Stake,1
+Thor,DC Comics,1,3,10,Super Strength,Silver,0
+Flash,Marvel,1,7,7,Telekinesis,Kryptonite,0
+Thor,DC Comics,7,1,10,Super Strength,Silver,0
+Thor,Marvel,8,1,5,Telekinesis,Magic,0
+Superman,DC Comics,3,10,6,Flight,Silver,0
+Thor,DC Comics,5,5,5,Super Strength,Kryptonite,0
+Iron Man,Marvel,1,5,7,Flight,Wooden Stake,0
+Batman,DC Comics,7,8,2,Invisibility,Kryptonite,0
+Wonder Woman,Marvel,5,7,5,Super Strength,Silver,1
+Spider-Man,DC Comics,8,8,10,Invisibility,Silver,1
+Thor,DC Comics,8,6,3,Super Strength,Wooden Stake,1
+Wonder Woman,Marvel,9,6,9,Flight,Magic,0
+Thor,Marvel,7,2,6,Telekinesis,Kryptonite,0
+Flash,Marvel,1,6,10,Flight,Wooden Stake,0
+Spider-Man,DC Comics,3,5,3,Flight,Wooden Stake,0
+Flash,Marvel,8,3,7,Flight,Wooden Stake,1
+Spider-Man,Marvel,3,6,4,Super Strength,Kryptonite,0
+Thor,Marvel,8,8,3,Telekinesis,Kryptonite,0
+Iron Man,Marvel,1,9,8,Invisibility,Kryptonite,0
+Wonder Woman,DC Comics,5,1,4,Flight,Magic,0
+Spider-Man,DC Comics,4,3,1,Super Strength,Wooden Stake,0
+Batman,DC Comics,5,3,6,Invisibility,Silver,1
+Wonder Woman,DC Comics,8,8,10,Flight,Silver,1
+Batman,DC Comics,10,1,1,Invisibility,Wooden Stake,0
+Wonder Woman,DC Comics,4,5,5,Flight,Silver,0
+Iron Man,Marvel,4,3,7,Invisibility,Magic,1
+Flash,DC Comics,3,2,6,Invisibility,Magic,0
+Superman,Marvel,7,8,2,Telekinesis,Kryptonite,0
+Flash,Marvel,3,3,4,Telekinesis,Kryptonite,0
+Captain America,Marvel,3,7,2,Flight,Kryptonite,0
+Iron Man,Marvel,10,1,1,Super Strength,Kryptonite,0
+Thor,DC Comics,5,6,3,Telekinesis,Kryptonite,0
+Captain America,DC Comics,5,3,3,Invisibility,Silver,0
+Thor,DC Comics,6,8,7,Telekinesis,Silver,1
+Batman,Marvel,8,6,1,Telekinesis,Kryptonite,0
+Spider-Man,DC Comics,10,2,9,Flight,Magic,1
+Wonder Woman,DC Comics,6,6,6,Telekinesis,Silver,0
+Thor,DC Comics,1,7,4,Telekinesis,Magic,0
+Batman,DC Comics,8,5,3,Invisibility,Magic,0
+Iron Man,DC Comics,8,3,3,Telekinesis,Wooden Stake,1
+Thor,DC Comics,9,4,2,Invisibility,Wooden Stake,0
+Flash,Marvel,9,4,2,Telekinesis,Kryptonite,0
+Batman,Marvel,2,6,10,Telekinesis,Magic,0
+Spider-Man,DC Comics,2,10,5,Super Strength,Silver,0
+Wonder Woman,Marvel,3,1,9,Telekinesis,Wooden Stake,0
+Thor,Marvel,1,4,2,Invisibility,Wooden Stake,0
+Superman,DC Comics,4,10,2,Invisibility,Magic,0
+Batman,Marvel,4,4,6,Flight,Wooden Stake,0
+Thor,DC Comics,9,10,10,Flight,Wooden Stake,0
+Spider-Man,Marvel,9,1,2,Super Strength,Silver,0
+Wonder Woman,DC Comics,9,9,4,Invisibility,Magic,1
+Thor,Marvel,10,4,6,Invisibility,Wooden Stake,1
+Thor,Marvel,7,7,5,Invisibility,Magic,1
+Wonder Woman,Marvel,2,3,1,Super Strength,Wooden Stake,0
+Superman,Marvel,10,10,6,Invisibility,Silver,1
+Batman,DC Comics,5,3,1,Flight,Magic,0
+Captain America,Marvel,4,8,3,Super Strength,Wooden Stake,0
+Flash,DC Comics,8,8,10,Flight,Silver,1
+Wonder Woman,DC Comics,2,1,5,Flight,Wooden Stake,0
+Thor,Marvel,6,10,10,Super Strength,Magic,1
+Captain America,Marvel,5,2,5,Telekinesis,Wooden Stake,0
+Iron Man,DC Comics,2,8,10,Telekinesis,Magic,0
+Thor,Marvel,10,1,6,Flight,Magic,0
+Captain America,DC Comics,1,8,10,Telekinesis,Wooden Stake,0
+Iron Man,Marvel,8,8,8,Invisibility,Silver,1
+Superman,DC Comics,2,2,5,Super Strength,Kryptonite,0
+Batman,Marvel,7,4,1,Flight,Silver,0
+Thor,Marvel,9,6,5,Invisibility,Silver,0
+Batman,DC Comics,9,9,3,Telekinesis,Wooden Stake,1
+Iron Man,DC Comics,8,8,4,Invisibility,Silver,0
+Batman,DC Comics,10,8,8,Telekinesis,Silver,1
+Batman,Marvel,9,7,7,Flight,Kryptonite,0
+Wonder Woman,Marvel,2,9,5,Invisibility,Silver,0
+Spider-Man,Marvel,6,2,2,Super Strength,Kryptonite,0
+Iron Man,Marvel,4,3,6,Flight,Wooden Stake,0
+Batman,DC Comics,4,10,6,Invisibility,Kryptonite,0
+Flash,DC Comics,5,8,10,Invisibility,Magic,0
+Captain America,Marvel,3,6,10,Telekinesis,Magic,1
+Iron Man,Marvel,1,10,6,Flight,Kryptonite,0
+Spider-Man,Marvel,8,9,9,Flight,Magic,1
+Thor,DC Comics,5,10,8,Flight,Wooden Stake,0
+Superman,DC Comics,3,4,8,Flight,Magic,0
+Batman,Marvel,10,8,1,Telekinesis,Kryptonite,0
+Captain America,DC Comics,7,10,5,Super Strength,Wooden Stake,1
+Spider-Man,Marvel,7,3,7,Flight,Magic,0
+Iron Man,Marvel,1,3,6,Telekinesis,Wooden Stake,0
+Superman,DC Comics,9,8,5,Super Strength,Kryptonite,0
+Superman,DC Comics,2,5,8,Super Strength,Magic,1
+Flash,DC Comics,5,3,3,Telekinesis,Wooden Stake,0
+Batman,DC Comics,5,10,6,Flight,Wooden Stake,1
+Spider-Man,Marvel,8,1,5,Super Strength,Magic,1

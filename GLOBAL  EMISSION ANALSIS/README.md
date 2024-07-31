@@ -8,12 +8,12 @@ The main goal of this project is to analyze and forecast greenhouse gas (GHG) em
 
 The dataset used in this project is compiled from multiple sources including governmental and environmental organizations. The data includes emissions of different gases from various countries over multiple years. 
 
-- [CH4 Emissions](link_to_dataset)
-- [N2O Emissions](link_to_dataset)
-- [CO2 Emissions](link_to_dataset)
-- [NOx Emissions](link_to_dataset)
-- [ODS Consumption](link_to_dataset)
-- [SO2 Emissions](link_to_dataset)
+- [CH4 Emissions]
+- [N2O Emissions]
+- [CO2 Emissions]
+- [NOx Emissions]
+- [ODS Consumption]
+- [SO2 Emissions]
 
 ## 🧾 **Description**
 
@@ -63,7 +63,7 @@ This project involves the collection, merging, and analysis of greenhouse gas em
 
 ## 📊 **Exploratory Data Analysis Results**
 
-![EDA Results](images/eda_result.png)
+![EDA Results](https://github.com/minal2577/ML-Crate/blob/main/GLOBAL%20%20EMISSION%20ANALSIS/Images/LSTM.png)
 
 *Include various images showcasing the EDA results here.*
 

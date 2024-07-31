@@ -63,7 +63,7 @@ This project involves the collection, merging, and analysis of greenhouse gas em
 
 ## 📊 **Exploratory Data Analysis Results**
 
-![EDA Results](https://github.com/minal2577/ML-Crate/blob/main/GLOBAL%20%20EMISSION%20ANALSIS/Images/LSTM.png)
+![EDA Results](https://github.com/minal2577/ML-Crate/blob/main/GLOBAL%20%20EMISSION%20ANALSIS/Images/global%20carbon%20emission%20anlysis.png)
 
 *Include various images showcasing the EDA results here.*
 

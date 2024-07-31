@@ -70,8 +70,9 @@ This project involves the collection, merging, and analysis of greenhouse gas em
 ## 📈 **Performance of the Models based on the Accuracy Scores**
 
 - **LSTM:**
-  - Accuracy: 85%
-  - Other relevant metrics: Precision, Recall, F1-Score
+ - Mean Squared Error (MSE): 0.11771341085785052
+ - Root Mean Squared Error (RMSE): 0.34309388053104434
+ - Mean Absolute Error (MAE): 0.17082083003785606
 
 - **ANN:**
   - Accuracy: 82%

@@ -70,20 +70,21 @@ This project involves the collection, merging, and analysis of greenhouse gas em
 ## 📈 **Performance of the Models based on the Accuracy Scores**
 
 - **LSTM:**
- - Mean Squared Error (MSE): 0.11771341085785052
- - Root Mean Squared Error (RMSE): 0.34309388053104434
- - Mean Absolute Error (MAE): 0.17082083003785606
+   - Mean Squared Error (MSE): 0.11771341085785052
+   - Root Mean Squared Error (RMSE): 0.34309388053104434
+   - Mean Absolute Error (MAE): 0.17082083003785606
 
 - **ANN:**
-  - Accuracy: 82%
-  - Other relevant metrics: Precision, Recall, F1-Score
+  - Mean Squared Error (MSE): 0.001151512867330171
+  - Root Mean Squared Error (RMSE): 0.03393394859620924
+  - Mean Absolute Error (MAE): 0.02689476781745063
 
 - **PCA:**
-  - Explained Variance Ratio: [0.45, 0.35] *Add more details as applicable*
+  - Explained Variance Ratio: [0.34, 0.17] 
 
 ## 📢 **Conclusion**
 
-The project successfully analyzed and forecasted greenhouse gas emissions using various machine learning models and geospatial analysis. The LSTM model performed slightly better than the ANN model in terms of accuracy. The PCA analysis helped in identifying the key factors contributing to emissions. The geospatial analysis provided valuable insights into regional emission trends, which can aid in policy-making for emission reduction.
+The project successfully analyzed and forecasted greenhouse gas emissions using various machine learning models and geospatial analysis. The ANN model performed slightly better than the LSTM model in terms of accuracy. The PCA analysis helped in identifying the key factors contributing to emissions. The geospatial analysis provided valuable insights into regional emission trends, which can aid in policy-making for emission reduction.
 
 ## ✒️ **Your Signature**
 

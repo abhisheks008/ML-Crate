@@ -1,0 +1,133 @@
+<!DOCTYPE html>
+<html lang="en">
+
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Salary Prediction</title>
+    <style>
+        body {
+            font-family: Arial, sans-serif;
+            background-color: #f4f4f4;
+            margin: 0;
+            padding: 0;
+        }
+
+        .container {
+            width: 50%;
+            margin: 50px auto;
+            background: #fff;
+            padding: 20px;
+            box-shadow: 0 0 10px rgba(0, 0, 0, 0.1);
+        }
+
+        h1 {
+            text-align: center;
+        }
+
+        form {
+            display: flex;
+            flex-direction: column;
+        }
+
+        label {
+            margin: 10px 0 5px;
+        }
+
+        input {
+            padding: 10px;
+            font-size: 16px;
+        }
+
+        button {
+            padding: 10px;
+            background: #28a745;
+            color: #fff;
+            border: none;
+            margin-top: 20px;
+            cursor: pointer;
+        }
+
+        button:hover {
+            background: #218838;
+        }
+
+        #result {
+            margin-top: 20px;
+            font-size: 18px;
+            text-align: center;
+        }
+    </style>
+</head>
+
+<body>
+    <div class="container">
+        <h1>Salary Prediction</h1>
+        <form id="prediction-form">
+            <label for="company_name">Company Name:</label>
+            <input type="text" id="company_name" name="Company Name" required>
+
+            <label for="job_title">Job Title:</label>
+            <input type="text" id="job_title" name="Job Title" required>
+
+            <label for="location">Location:</label>
+            <input type="text" id="location" name="Location" required>
+
+            <button type="submit">Predict Salary</button>
+        </form>
+        <div id="result"></div>
+    </div>
+    <script>
+        document.getElementById('prediction-form').addEventListener('submit', function (e) {
+            e.preventDefault();
+
+            const companyName = document.getElementById('company_name').value;
+            const jobTitle = document.getElementById('job_title').value;
+            const location = document.getElementById('location').value;
+
+          const data = {
+                "Company Name": companyName,
+                "Job Title": jobTitle,
+                "Location": location
+            };
+
+            fetch('/predict', {
+                method: 'POST',
+                headers: {
+                    'Content-Type': 'application/json'
+                },
+                body: JSON.stringify(data)
+            })
+                .then(response => response.json())
+                .then(data => {
+                    let salaryRange = '';
+                    switch (data.prediction) {
+                        case 0:
+                            salaryRange = 'greater than 50k';
+                            break;
+                        case 1:
+                            salaryRange = 'greater than 1 lakh';
+                            break;
+                        case 2:
+                            salaryRange = 'greater than 10 lakh';
+                            break;
+                        case 3:
+                            salaryRange = 'greater than 15 lakh';
+                            break;
+                        case 4:
+                            salaryRange = 'greater than 20 lakh';
+                            break;
+                        default:
+                            salaryRange = 'unknown';
+                    }
+                    document.getElementById('result').innerText = `Predicted Salary Range: ${salaryRange}`;
+                })
+                .catch(error => {
+                    console.error('Error:', error);
+                });
+
+                });
+    </script>
+</body>
+
+</html>

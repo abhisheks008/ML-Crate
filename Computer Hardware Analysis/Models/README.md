@@ -1,7 +1,7 @@
-# GPU Price Prediction Models
+# Computer Hardware Analysis Models
 
 ## Overview
-This document provides a summary of the machine learning models used to predict GPU prices, including their performance metrics such as RMSE and R2 score.
+This document provides a summary of the machine learning models used in analysis , including their performance metrics such as RMSE and R2 score.
 
 ## Models Implemented
 

@@ -1,0 +1,329 @@
+Name,Price,Producer,MPN,EAN,UPC,Base Clock,Turbo Clock,Unlocked Multiplier,Cores,Threads,TDP,Socket,Integrated GPU,Product Page
+AMD Ryzen 5 5600X,$158.86 USD,AMD,100-100000065BOX,0730143312042,,3.7 GHz,4.6 GHz,True,6,12,65 W,AM4,False,https://www.amazon.ca/dp/B08166SLDF?tag=pckombo04b-20&linkCode=osi&th=1&psc=1
+AMD Athlon 3000G,$53.22 USD,AMD,YD3000C6FHBOX,0730143311731,,3.5 GHz,"",True,2,4,35 W,AM4,Radeon RX Vega 3,https://www.amazon.ca/dp/B0815JGFQ8?tag=pckombo04b-20&linkCode=osi&th=1&psc=1
+AMD Ryzen 3 3300X,$150.09 USD,AMD,100-100000159BOX,0730143312172,,3.8 GHz,4.3 GHz,True,4,8,65 W,AM4,False,https://www.amazon.ca/dp/B0876YS2T4?tag=pckombo04b-20&linkCode=osi&th=1&psc=1
+AMD Ryzen 5 5500,$87.04 USD,AMD,100-100000457BOX,0730143314121,,3.6 GHz,4.2 GHz,True,6,12,65 W,AM4,False,https://www.amazon.ca/dp/B09VCJ171S?tag=pckombo04b-20&linkCode=osi&th=1&psc=1
+AMD Ryzen 5 5600,$133.46 USD,AMD,100-100000927BOX,0730143314190,,3.5 GHz,4.4 GHz,True,6,12,65 W,AM4,False,https://www.amazon.ca/dp/B09VCHR1VH?tag=pckombo04b-20&linkCode=osi&th=1&psc=1
+AMD Ryzen 5 5600G,$122.59 USD,AMD,100-100000252BOX,0730143313414,,3.9 GHz,4.4 GHz,True,6,12,65 W,AM4,"Radeon RX Vega 7, Cezanne",https://www.amazon.ca/dp/B092L9GF5N?tag=pckombo04b-20&linkCode=osi&th=1&psc=1
+AMD Ryzen 5 7600,$216.89 USD,AMD,100-100001015BOX,0730143314572,,3.8 GHz,5.1 GHz,True,6,12,65 W,AM5,Ryzen 7000 Graphics,https://www.amazon.ca/dp/B0BMQJWBDM?tag=pckombo04b-20&linkCode=osi&th=1&psc=1
+AMD Ryzen 5 7600X,$202.37 USD,AMD,100-100000593WOF,0730143314442,,4.7 GHz,5.3 GHz,True,6,12,105 W,AM5,Ryzen 7000 Graphics,https://www.amazon.ca/dp/B0BBJDS62N?tag=pckombo04b-20&linkCode=osi&th=1&psc=1
+AMD Ryzen 7 5700G,$188.59 USD,AMD,100-100000263BOX,0730143313377,,3.8 GHz,4.6 GHz,True,8,16,65 W,AM4,"Radeon RX Vega 8, Cezanne",https://www.amazon.ca/dp/B091J3NYVF?tag=pckombo04b-20&linkCode=osi&th=1&psc=1
+AMD Ryzen 7 5700X,$187.87 USD,AMD,100-100000926WOF,0730143314275,,3.4 GHz,4.6 GHz,True,8,16,65 W,AM4,False,https://www.amazon.ca/dp/B09VCHQHZ6?tag=pckombo04b-20&linkCode=osi&th=1&psc=1
+AMD Ryzen 7 5800X,$231.38 USD,AMD,100-100000063WOF,0730143312714,,3.8 GHz,4.7 GHz,True,8,16,105 W,AM4,False,https://www.amazon.ca/dp/B0815XFSGK?tag=pckombo04b-20&linkCode=osi&th=1&psc=1
+AMD Ryzen 7 5800X3D,$304.65 USD,AMD,100-100000651WOF,0730143313797,,3.4 GHz,4.5 GHz,False,8,16,105 W,AM4,False,https://www.amazon.ca/dp/B09VCJ2SHD?tag=pckombo04b-20&linkCode=osi&th=1&psc=1
+AMD Ryzen 7 7700,$319.16 USD,AMD,100-100000592BOX,0730143314497,,3.8 GHz,5.3 GHz,True,8,16,65 W,AM5,Ryzen 7000 Graphics,https://www.amazon.ca/dp/B0BMQHSCVF?tag=pckombo04b-20&linkCode=osi&th=1&psc=1
+AMD Ryzen 7 7700X,$318.44 USD,AMD,100-100000591WOF,0730143314428,,4.5 GHz,5.4 GHz,True,8,16,105 W,AM5,Ryzen 7000 Graphics,https://www.amazon.ca/dp/B0BBHHT8LY?tag=pckombo04b-20&linkCode=osi&th=1&psc=1
+AMD Ryzen 7 7800X3D,$384.44 USD,AMD,100-100000910WOF,0730143314930,,4.2 GHz,5.0 GHz,False,8,16,120 W,AM5,Ryzen 7000 Graphics,https://www.amazon.ca/dp/B0BTZB7F88?tag=pckombo04b-20&linkCode=osi&th=1&psc=1
+AMD Ryzen 9 5900X,$325.69 USD,AMD,100-100000061WOF,0730143312738,,3.7 GHz,4.8 GHz,True,12,24,105 W,AM4,False,https://www.amazon.ca/dp/B08164VTWH?tag=pckombo04b-20&linkCode=osi&th=1&psc=1
+AMD Ryzen 9 5950X,$224.86 USD,AMD,100-100000059WOF,0730143312745,,3.4 GHz,4.9 GHz,True,16,32,105 W,AM4,False,https://www.amazon.ca/dp/B0815XFSGK?tag=pckombo04b-20&linkCode=osi&th=1&psc=1
+AMD Ryzen 9 7900,$398.22 USD,AMD,100-100000590BOX,0730143314466,,3.7 GHz,5.4 GHz,True,12,24,65 W,AM5,Ryzen 7000 Graphics,https://www.amazon.ca/dp/B0BMQK718H?tag=pckombo04b-20&linkCode=osi&th=1&psc=1
+AMD Ryzen 9 7900X,$424.34 USD,AMD,100-100000589WOF,0730143314558,,4.7 GHz,5.6 GHz,True,12,24,170 W,AM5,Ryzen 7000 Graphics,https://www.amazon.ca/dp/B0BBJ59WJ4?tag=pckombo04b-20&linkCode=osi&th=1&psc=1
+AMD Ryzen 9 7950X,$544.02 USD,AMD,100-100000514WOF,0730143314534,,4.5 GHz,5.7 GHz,True,16,32,170 W,AM5,Ryzen 7000 Graphics,https://www.amazon.ca/dp/B0BBHD5D8Y?tag=pckombo04b-20&linkCode=osi&th=1&psc=1
+AMD Ryzen Threadripper 3960X,$1238.93 USD,AMD,100-100000010WOF,0730143311885,,3.8 GHz,4.5 GHz,True,24,48,280 W,TRX40,False,https://www.amazon.ca/dp/B0815JGCXP?tag=pckombo04b-20&linkCode=osi&th=1&psc=1
+AMD Ryzen Threadripper 3970X,$1777.16 USD,AMD,100-100000011WOF,0730143311908,,3.7 GHz,4.5 GHz,True,32,64,280 W,TRX40,False,https://www.amazon.ca/dp/B0815JJQQ8?tag=pckombo04b-20&linkCode=osi&th=1&psc=1
+AMD Ryzen Threadripper 3990X,$3917.02 USD,AMD,100-100000163WOF,0730143312110,,2.9 GHz,4.3 GHz,True,64,128,280 W,TRX40,False,https://www.amazon.ca/dp/B0815SBQ9W?tag=pckombo04b-20&linkCode=osi&th=1&psc=1
+Intel Core i3-12100,$87.04 USD,Intel,BX8071512100,5032037238458,735858503877,3.3 GHz,4.3 GHz,False,4,8,60 W,1700,Intel UHD 730,https://www.amazon.ca/dp/B09NPHJLPT?tag=pckombo04b-20&linkCode=osi&th=1&psc=1
+Intel Core i3-12100F,$87.04 USD,Intel,BX8071512100F,5032037238731,735858504423,3.3 GHz,4.3 GHz,False,4,8,60 W,1700,False,https://www.amazon.ca/dp/B09NPJX7PV?tag=pckombo04b-20&linkCode=osi&th=1&psc=1
+Intel Core i5-12400,$173.36 USD,Intel,BX8071512400,5032037237741,735858503020,2.5 GHz,4.4 GHz,False,6,12,65 W,1700,Intel UHD 730,https://www.amazon.ca/dp/B09NMPD8V2?tag=pckombo04b-20&linkCode=osi&th=1&psc=1
+Intel Core i5-12400F,$144.35 USD,Intel,BX8071512400F,5032037237758,735858503037,2.5 GHz,4.4 GHz,False,6,12,65 W,1700,False,https://www.amazon.ca/dp/B09NPJRDGD?tag=pckombo04b-20&linkCode=osi&th=1&psc=1
+Intel Core i5-12500,,Intel,BX8071512500,5032037238564,735858503983,3.0 GHz,4.6 GHz,False,6,12,65 W,1700,Intel UHD 770,
+Intel Core i5-12600,,Intel,BX8071512600,5032037238540,735858503969,3.3 GHz,4.8 GHz,False,6,12,65 W,1700,Intel UHD 770,
+Intel Core i5-12600K,$231.38 USD,Intel,BX8071512600K,5032037234108,735858499040,3.6 GHz,4.9 GHz,True,6,12,125 W,1700,Intel UHD 770,https://www.amazon.ca/dp/B09FX4D72T?tag=pckombo04b-20&linkCode=osi&th=1&psc=1
+Intel Core i5-12600KF,$268.0 USD,Intel,BX8071512600KF,5032037234115,735858499057,3.7 GHz,4.9 GHz,True,6,12,125 W,1700,False,https://www.amazon.ca/dp/B09FXFJW2F?tag=pckombo04b-20&linkCode=osi&th=1&psc=1
+Intel Core i5-13400,$224.13 USD,Intel,BX8071513400,5032037260275,735858528313,2.5 GHz,GHz,False,6,12,65 W,1700,False,https://www.amazon.ca/dp/B0BQ68QB6R?tag=pckombo04b-20&linkCode=osi&th=1&psc=1
+Intel Core i5-13400F,$195.84 USD,Intel,BX8071513400F,5032037260299,735858528337,3.3 GHz,GHz,False,6,12,65 W,1700,False,https://www.amazon.ca/dp/B0BQ6BRL4T?tag=pckombo04b-20&linkCode=osi&th=1&psc=1
+Intel Core i5-13600K,,Intel,BX8071513600K,5032037258746,,3.5 GHz,GHz,True,6,12,125 W,1700,Intel UHD 770,
+Intel Core i5-13600KF,,Intel,BX8071513600KF,5032037258760,,3.5 GHz,GHz,True,6,12,125 W,1700,False,
+Intel Core i7-12700,,Intel,BX8071512700,5032037237840,,2.1 GHz,4.9 GHz,False,8,16,65 W,1700,Intel UHD 770,
+Intel Core i7-12700K,$217.61 USD,Intel,BX8071512700K,5032037233989,735858498920,3.6 GHz,5.0 GHz,True,8,16,125 W,1700,Intel UHD 770,https://www.amazon.ca/dp/B09FXNVDBJ?tag=pckombo04b-20&linkCode=osi&th=1&psc=1
+Intel Core i7-13700,$340.19 USD,Intel,BX8071513700,5032037260213,735858528252,4.0 GHz,GHz,False,8,16,65 W,1700,False,https://www.amazon.ca/dp/B0BQ6BNY56?tag=pckombo04b-20&linkCode=osi&th=1&psc=1
+Intel Core i7-13700F,$347.45 USD,Intel,BX8071513700F,5032037260237,735858528276,4.0 GHz,GHz,False,8,16,65 W,1700,False,https://www.amazon.ca/dp/B0BQ6CSY9C?tag=pckombo04b-20&linkCode=osi&th=1&psc=1
+Intel Core i7-13700K,,Intel,BX8071513700K,5032037258708,,3.4 GHz,3.0 GHz,True,8,16,125 W,1700,Intel UHD 770,
+Intel Core i7-13700KF,,Intel,BX8071513700KF,5032037258715,,3.4 GHz,3.0 GHz,True,8,16,125 W,1700,False,
+Intel Core i9-12900,$485.99 USD,Intel,BX8071512900,5032037237925,735858503204,2.4 GHz,5.1 GHz,False,8,16,65 W,1700,Intel UHD 770,https://www.amazon.ca/dp/B09RPF28CG?tag=pckombo04b-20&linkCode=osi&th=1&psc=1
+Intel Core i9-12900K,$405.47 USD,Intel,BX8071512900K,5032037234641,,3.2 GHz,5.2 GHz,True,8,16,125 W,1700,Intel UHD 770,https://www.amazon.ca/dp/B09FXDLX95?tag=pckombo04b-20&linkCode=osi&th=1&psc=1
+Intel Core i9-12900KF,$419.98 USD,Intel,BX8071512900KF,5032037234221,735858499163,3.2 GHz,5.2 GHz,True,8,16,125 W,1700,False,https://www.amazon.ca/dp/B09FWYK5M9?tag=pckombo04b-20&linkCode=osi&th=1&psc=1
+Intel Core i9-13900,,Intel,BX8071513900,5032037260176,,4.3 GHz,GHz,False,8,16,65 W,1700,False,
+Intel Core i9-13900F,,Intel,BX8071513900F,5032037260183,,4.3 GHz,GHz,False,8,16,65 W,1700,False,
+Intel Core i9-13900K,,Intel,BX8071513900K,5032037258647,,3.0 GHz,3.0 GHz,True,8,16,125 W,1700,Intel UHD 770,
+Intel Core i9-13900KF,,Intel,BX8071513900KF,5032037258623,,3.0 GHz,3.0 GHz,True,8,16,125 W,1700,False,
+AMD A10-6790K,,AMD,AD679KWOHLBOX,0730143304238,,4.0 GHz,4.3 GHz,True,4,4,100 W,FM2,Radeon HD 8670D,
+AMD A10-7800,,AMD,AD7800YBJABOX,0730143304528,,3.5 GHz,3.9 GHz,False,2,2,65 W,FM2+,Radeon R7,
+AMD A10-7850K,,AMD,AD785KXBJABOX,0730143304467,,3.7 GHz,4.0 GHz,True,2,2,95 W,FM2+,Radeon R7,
+AMD A10-7860K,,AMD,AD786KYBJCSBX,0730143307864,,3.6 GHz,4.0 GHz,True,2,2,65 W,FM2+,False,
+AMD A10-7870K,,AMD,AD787KXDJCSBX,0730143307833,,3.9 GHz,4.1 GHz,True,2,2,95 W,FM2+,Radeon R7,
+AMD A10-7890K,,AMD,AD789KXDJCHBX,0730143307925,,4.1 GHz,4.3 GHz,True,2,2,95 W,FM2+,Radeon R7,
+AMD A10-9700,$31.74 USD,AMD,AD9700AGABBOX,0730143308601,730143308601,3.5 GHz,GHz,False,4,4,65 W,AM4,Radeon R7,https://www.amazon.ca/Startech-CDP2DPMM1MW-DisplayPort-External-Adapter/dp/B074NTJ3XC?SubscriptionId=AKIAI7B523DQIKTQ3BRQ&tag=pckombo04b-20&linkCode=xm2&camp=2025&creative=165953&creativeASIN=B074NTJ3XC
+AMD A10-9700E,,AMD,AD9700AHABBOX,0730143308588,,GHz,GHz,False,4,4,35 W,AM4,Radeon R7,
+AMD A12-9800,,AMD,AD9800AUABBOX,0730143308557,,3.8 GHz,GHz,False,4,4,65 W,AM4,Radeon R7,
+AMD A12-9800E,,AMD,AD9800AHABBOX,0730143308564,,3.1 GHz,GHz,False,4,4,35 W,AM4,Radeon R7,
+AMD A4-4020,,AMD,AD4020OKHLBOX,0730143304610,,3.2 GHz,3.4 GHz,False,1,1,65 W,"FM2, FM2+",False,
+AMD A4-5300,,AMD,AD5300OKHJBOX,0730143301961,,3.4 GHz,3.6 GHz,False,2,2,65 W,FM2,Radeon HD 7480D,
+AMD A4-7300,,AMD,AD7300OKHLBOX,0730143304962,,3.8 GHz,4.0 GHz,False,1,1,65 W,FM2,False,
+AMD A6-6400K,,AMD,AD640KOKHLBOX,0730143303583,,3.9 GHz,4.1 GHz,True,2,2,65 W,FM2,Radeon HD 8470D,
+AMD A6-6420K,,AMD,AD642KOKHLBOX,0730143304566,,4.0 GHz,4.2 GHz,True,1,1,65 W,"FM2, FM2+",Radeon HD 8670D,
+AMD A6-7400K,$49.0 USD,AMD,AD740KYBJABOX,0730143304948,,3.5 GHz,3.9 GHz,True,1,1,65 W,FM2+,False,https://www.amazon.ca/AMD-AD740KYBJABOX-7400K-3900MHz-Black/dp/B00LUH17XG?SubscriptionId=AKIAI7B523DQIKTQ3BRQ&tag=pckombo04b-20&linkCode=xm2&camp=2025&creative=165953&creativeASIN=B00LUH17XG
+AMD A6-7470K,,AMD,AD747KYBJCBOX,0730143307949,,3.7 GHz,4.0 GHz,True,1,1,65 W,FM2+,False,
+AMD A6-9500,,AMD,AD9500AGABBOX,0730143308625,730143308625,3.5 GHz,GHz,False,2,2,65 W,AM4,Radeon R5,
+AMD A6-9500E,,AMD,AD9500AHABBOX,0730143308632,,3.0 GHz,GHz,False,2,2,35 W,AM4,Radeon R5,
+AMD A8-6600K,,AMD,AD660KWOHLBOX,0730143303293,,3.9 GHz,4.2 GHz,True,4,4,100 W,FM2,Radeon HD 8570D,
+AMD A8-7600,$77.17 USD,AMD,AD7600YBJABOX,0730143304979,,3.1 GHz,3.8 GHz,False,2,2,65 W,FM2+,False,https://www.amazon.ca/AMD-CPU-AD7600YBJABOX-7600-3800MHz/dp/B00LUH1N4O?psc=1&SubscriptionId=AKIAI7B523DQIKTQ3BRQ&tag=pckombo04b-20&linkCode=xm2&camp=2025&creative=165953&creativeASIN=B00LUH1N4O
+AMD A8-7650K,,AMD,AD765KXBJABOX,0730143305389,,3.3 GHz,3.7 GHz,True,2,2,95 W,FM2+,Radeon R7,
+AMD A8-7650K,$79.83 USD,AMD,AD765KXBJASBX,0730143307703,,3.3 GHz,3.7 GHz,True,2,2,95 W,FM2+,Radeon R7,https://www.amazon.ca/AMD-A8-7650K-Radeon-Graphics-AD765KXBJASBX/dp/B01C8CI0TK?SubscriptionId=AKIAI7B523DQIKTQ3BRQ&tag=pckombo04b-20&linkCode=xm2&camp=2025&creative=165953&creativeASIN=B01C8CI0TK
+AMD A8-7670K,,AMD,AD767KXBJCSBX,0730143307710,,3.6 GHz,3.9 GHz,True,2,2,95 W,FM2+,False,
+AMD A8-9600,,AMD,AD9600AGABBOX,0730143308618,730143308618,3.1 GHz,GHz,False,4,4,65 W,AM4,Radeon R7,
+AMD Athlon 200GE,$68.31 USD,AMD,YD200GC6FBBOX,0730143309325,730143309325,3.2 GHz,GHz,False,2,4,35 W,AM4,Radeon RX Vega 3,https://www.amazon.ca/dp/B07HJWVJDN?tag=pckombo04b-20&linkCode=osi&th=1&psc=1
+AMD Athlon 220GE,$80.08 USD,AMD,YD220GC6FBBOX,0730143309516,,3.4 GHz,GHz,False,2,4,35 W,AM4,Radeon RX Vega 3,https://www.amazon.ca/dp/B07L9Q7DLQ?tag=pckombo04b-20&linkCode=osi&th=1&psc=1
+AMD Athlon 240GE,$71.52 USD,AMD,YD240GC6FBBOX,0730143309493,,3.5 GHz,GHz,False,2,4,35 W,AM4,Radeon RX Vega 3,https://www.amazon.ca/dp/B07L9V9F6H?tag=pckombo04b-20&linkCode=osi&th=1&psc=1
+AMD Athlon X4 845,,AMD,AD845XACKASBX,0730143307901,,3.5 GHz,3.8 GHz,False,2,2,65 W,FM2+,False,
+AMD Athlon X4 860K,,AMD,AD860KXBJASBX,0730143307727,,3.7 GHz,4.0 GHz,True,2,2,95 W,FM2+,False,
+AMD Athlon X4 860K,,AMD,AD860KXBJABOX,0730143305174,,3.7 GHz,4.0 GHz,True,2,2,95 W,FM2+,False,
+AMD Athlon X4 870K,,AMD,AD870KXBJCSBX,0730143307802,,3.9 GHz,4.1 GHz,True,2,2,95 W,FM2+,False,
+AMD Athlon X4 880K,,AMD,AD880KXBJCSBX,0730143307765,,4.0 GHz,4.2 GHz,True,2,2,95 W,FM2+,False,
+AMD Athlon X4 950,,AMD,AD950XAGABBOX,0730143308717,,3.5 GHz,GHz,False,4,4,65 W,AM4,False,
+AMD FX-4300,,AMD,FD4300WMHKBOX,0730143302647,,3.8 GHz,4.0 GHz,True,4,4,95 W,AM3+,False,
+AMD FX-4350,,AMD,FD4350FRHKBOX,0730143302616,,4.2 GHz,4.3 GHz,True,4,4,125 W,AM3+,False,
+AMD FX-6300,$87.16 USD,AMD,FD6300WMHKBOX,0730143302593,,3.5 GHz,4.1 GHz,True,6,6,95 W,AM3+,False,https://www.amazon.ca/dp/B009O7YORK?tag=pckombo04b-20&linkCode=osi&th=1&psc=1
+AMD FX-6350,,AMD,FD6350FRHKBOX,0730143302579,,3.9 GHz,4.2 GHz,True,6,6,125 W,AM3+,False,
+AMD FX-8150,,AMD,FD8150FRGUBOX,0730143300902,,3.6 GHz,4.2 GHz,True,8,8,125 W,AM3+,False,
+AMD FX-8300,$144.4 USD,AMD,FD8300WMHKBOX,0730143302555,,3.3 GHz,4.2 GHz,True,8,8,95 W,AM3+,False,https://www.amazon.ca/dp/B00T9RTT2U?tag=pckombo04b-20&linkCode=osi&th=1&psc=1
+AMD FX-8320,,AMD,FD8320FRHKBOX,0730143302531,,3.5 GHz,4.0 GHz,True,8,8,125 W,AM3+,False,
+AMD FX-8320E,,AMD,FD832EWMHKBOX,0730143305297,730143305297,3.2 GHz,4.0 GHz,True,8,8,95 W,AM3+,False,
+AMD FX-8350,,AMD,FD8350FRHKBOX,0730143302517,,4.0 GHz,4.2 GHz,True,8,8,125 W,AM3+,False,
+AMD FX-8370,,AMD,FD8370FRHKBOX,0730143305211,,4.0 GHz,4.3 GHz,True,8,8,125 W,AM3+,False,
+AMD FX-8370,$145.36 USD,AMD,FD8370FRHKHBX,0730143307390,,4.0 GHz,4.3 GHz,True,8,8,125 W,AM3+,False,https://www.amazon.ca/dp/B01798X7D2?tag=pckombo04b-20&linkCode=osi&th=1&psc=1
+AMD FX-8370E,,AMD,FD837EWMHKBOX,0730143305259,,3.3 GHz,4.3 GHz,True,4,4,95 W,AM3+,False,
+AMD FX-9370,$239.38 USD,AMD,FD9370FHHKWOF,0730143303644,,4.4 GHz,4.7 GHz,True,4,4,220 W,AM3+,False,https://www.amazon.ca/AMD-FD9370FHHKWOF-FX-9370-8-Core-Processor/dp/B00DGHD2TA?SubscriptionId=AKIAI7B523DQIKTQ3BRQ&tag=pckombo04b-20&linkCode=xm2&camp=2025&creative=165953&creativeASIN=B00DGHD2TA
+AMD FX-9590,$234.29 USD,AMD,FD9590FHHKWOF,0730143303637,,4.7 GHz,5.0 GHz,True,8,8,220 W,AM3+,False,https://www.amazon.ca/AMD-FD9590FHHKWOF-Fx-9590-8-Core-Processor/dp/B00DGGW3MI?SubscriptionId=AKIAI7B523DQIKTQ3BRQ&tag=pckombo04b-20&linkCode=xm2&camp=2025&creative=165953&creativeASIN=B00DGGW3MI
+AMD Phenom II X6 1090T,,AMD,HDT90ZFBGRBOX,0730143267557,,3.2 GHz,3.6 GHz,True,6,6,125 W,AM3,False,
+AMD Ryzen 3 1200,$117.1 USD,AMD,YD1200BBAEBOX,0730143308489,730143308489,3.1 GHz,3.4 GHz,True,4,4,65 W,AM4,False,https://www.amazon.ca/dp/B0741DN383?tag=pckombo04b-20&linkCode=osi&th=1&psc=1
+AMD Ryzen 3 1200 AF,,AMD,YD1200BBAFBOX,0730143312141,,3.1 GHz,3.4 GHz,True,4,4,65 W,AM4,False,
+AMD Ryzen 3 1300X,$75.16 USD,AMD,YD130XBBAEBOX,0730143308502,,3.5 GHz,3.7 GHz,True,4,4,65 W,AM4,False,https://www.amazon.ca/dp/B0747ZR6SN?tag=pckombo04b-20&linkCode=osi&th=1&psc=1
+AMD Ryzen 3 2200G,$101.55 USD,AMD,YD2200C5FBBOX,0730143309110,730143309110,3.5 GHz,3.7 GHz,True,4,4,65 W,AM4,Radeon RX Vega 8,https://www.amazon.ca/dp/B079D3DBNM?tag=pckombo04b-20&linkCode=osi&th=1&psc=1
+AMD Ryzen 3 3100,$120.4 USD,AMD,100-100000284BOX,0730143312202,,3.6 GHz,3.9 GHz,True,4,8,65 W,AM4,False,https://www.amazon.ca/dp/B0876Y2TMZ?tag=pckombo04b-20&linkCode=osi&th=1&psc=1
+AMD Ryzen 3 3200G,$100.81 USD,AMD,YD3200C5FHBOX,0730143309851,730143309851,3.6 GHz,4.0 GHz,True,4,4,65 W,AM4,Radeon RX Vega 8,https://www.amazon.ca/dp/B07STGHZK8?tag=pckombo04b-20&linkCode=osi&th=1&psc=1
+AMD Ryzen 3 4100,$86.86 USD,AMD,100-100000510BOX,0730143314060,,3.8 GHz,4.0 GHz,True,4,8,65 W,AM4,False,https://www.amazon.ca/dp/B09VCRQVWM?tag=pckombo04b-20&linkCode=osi&th=1&psc=1
+AMD Ryzen 5 1400,$181.21 USD,AMD,YD1400BBAEBOX,0730143308427,,3.2 GHz,3.4 GHz,True,4,8,65 W,AM4,False,https://www.amazon.ca/dp/B06XKWT8J4?tag=pckombo04b-20&linkCode=osi&th=1&psc=1
+AMD Ryzen 5 1500X,$148.04 USD,AMD,YD150XBBAEBOX,0730143308465,,3.5 GHz,3.7 GHz,True,4,8,65 W,AM4,False,https://www.amazon.ca/AMD-Processor-Wraith-Cooler-YD150XBBAEBOX/dp/B06XKVNRSM?psc=1&SubscriptionId=AKIAI7B523DQIKTQ3BRQ&tag=pckombo04b-20&linkCode=xm2&camp=2025&creative=165953&creativeASIN=B06XKVNRSM
+AMD Ryzen 5 1600,$129.64 USD,AMD,YD1600BBAEBOX,0730143308397,730143308397,3.2 GHz,3.6 GHz,True,6,12,65 W,AM4,False,https://www.amazon.ca/AMD-Processor-Wraith-Cooler-YD1600BBAEBOX/dp/B06XNRQHG4?psc=1&SubscriptionId=AKIAI7B523DQIKTQ3BRQ&tag=pckombo04b-20&linkCode=xm2&camp=2025&creative=165953&creativeASIN=B06XNRQHG4
+AMD Ryzen 5 1600 AF,$197.32 USD,AMD,YD1600BBAFBOX,0730143309752,,3.2 GHz,3.6 GHz,True,6,12,65 W,AM4,False,https://www.amazon.ca/dp/B07XTQZJ28?tag=pckombo04b-20&linkCode=osi&th=1&psc=1
+AMD Ryzen 5 1600X,$256.26 USD,AMD,YD160XBCAEWOF,0730143308441,,3.6 GHz,4.0 GHz,True,6,12,95 W,AM4,False,https://www.amazon.ca/dp/B073WQFXRZ?tag=pckombo04b-20&linkCode=osi&th=1&psc=1
+AMD Ryzen 5 2400G,$159.58 USD,AMD,YD2400C5FBBOX,0730143309080,730143309080,3.6 GHz,3.9 GHz,True,4,8,65 W,AM4,Radeon RX Vega 11,https://www.amazon.ca/dp/B079D8FD28?tag=pckombo04b-20&linkCode=osi&th=1&psc=1
+AMD Ryzen 5 2600,,AMD,YD2600BBM6IAF,8592978113834,,3.4 GHz,3.9 GHz,True,6,12,65 W,AM4,False,
+AMD Ryzen 5 2600,$181.34 USD,AMD,YD2600BBAFBOX,0730143309165,730143309165,3.4 GHz,3.9 GHz,True,6,12,65 W,AM4,False,https://www.amazon.ca/dp/B07B41WS48?tag=pckombo04b-20&linkCode=osi&th=1&psc=1
+AMD Ryzen 5 2600X,,AMD,YD260XBCAFMAX,0730143309479,,3.6 GHz,4.2 GHz,True,6,12,95 W,AM4,False,
+AMD Ryzen 5 2600X,$217.11 USD,AMD,YD260XBCAFBOX,0730143309226,730143309226,3.6 GHz,4.1 GHz,True,6,12,95 W,AM4,False,https://www.amazon.ca/dp/B07B428V2L?tag=pckombo04b-20&linkCode=osi&th=1&psc=1
+AMD Ryzen 5 3400G,$150.87 USD,AMD,YD3400C5FHBOX,0730143309837,,3.7 GHz,4.2 GHz,True,4,8,65 W,AM4,Radeon RX Vega 11,https://www.amazon.ca/dp/B07SXNDKNM?tag=pckombo04b-20&linkCode=osi&th=1&psc=1
+AMD Ryzen 5 3500X,,AMD,100-100000158BOX,0730143311700,,3.6 GHz,4.1 GHz,True,6,6,65 W,AM4,False,
+AMD Ryzen 5 3600,,AMD,100-100000031AWOF,0730143314350,,3.6 GHz,4.2 GHz,True,6,12,65 W,AM4,False,
+AMD Ryzen 5 3600,$166.8 USD,AMD,100-100000031BOX,0730143309936,730143309936,3.6 GHz,4.2 GHz,True,6,12,65 W,AM4,False,https://www.amazon.ca/dp/B07STGGQ18?tag=pckombo04b-20&linkCode=osi&th=1&psc=1
+AMD Ryzen 5 3600X,$378.86 USD,AMD,100-100000022BOX,0730143309912,730143309912,3.8 GHz,4.4 GHz,True,6,12,95 W,AM4,False,https://www.amazon.ca/dp/B07Z11JKHY?tag=pckombo04b-20&linkCode=osi&th=1&psc=1
+AMD Ryzen 5 3600XT,$239.37 USD,AMD,100-100000281BOX,0730143312646,,3.8 GHz,4.5 GHz,True,6,12,95 W,AM4,False,https://www.amazon.ca/dp/B089WC4VWF?tag=pckombo04b-20&linkCode=osi&th=1&psc=1
+AMD Ryzen 5 4500,$126.93 USD,AMD,100-100000644BOX,0730143314114,,3.6 GHz,4.1 GHz,True,6,12,65 W,AM4,False,https://www.amazon.ca/dp/B09VCJN7HZ?tag=pckombo04b-20&linkCode=osi&th=1&psc=1
+AMD Ryzen 7 1700,$363.77 USD,AMD,YD1700BBAEBOX,0730143308328,730143308328,3.0 GHz,3.7 GHz,True,8,16,65 W,AM4,False,https://www.amazon.ca/dp/B072KPW7YF?tag=pckombo04b-20&linkCode=osi&th=1&psc=1
+AMD Ryzen 7 1700X,$426.51 USD,AMD,YD170XBCAEWOF,0730143308342,730143308342,3.4 GHz,3.8 GHz,True,8,16,95 W,AM4,False,https://www.amazon.ca/dp/B073WQ4XBB?tag=pckombo04b-20&linkCode=osi&th=1&psc=1
+AMD Ryzen 7 1800X,$434.49 USD,AMD,YD180XBCAEWOF,0730143308366,730143308366,3.6 GHz,4.0 GHz,True,8,16,95 W,AM4,False,https://www.amazon.ca/dp/B073WPTQX8?tag=pckombo04b-20&linkCode=osi&th=1&psc=1
+AMD Ryzen 7 2700,,AMD,YD2700BBAFMAX,0730143309455,,3.2 GHz,4.1 GHz,True,8,16,100 W,AM4,False,
+AMD Ryzen 7 2700,$272.02 USD,AMD,YD2700BBAFBOX,0730143309189,730143309189,3.2 GHz,4.1 GHz,True,8,16,100 W,AM4,False,https://www.amazon.ca/dp/B07B41717Z?tag=pckombo04b-20&linkCode=osi&th=1&psc=1
+AMD Ryzen 7 2700X,$192.22 USD,AMD,YD270XBGAFBOX,0730143309202,730143309202,3.7 GHz,4.3 GHz,True,8,16,100 W,AM4,False,https://www.amazon.ca/dp/B07B428M7F?tag=pckombo04b-20&linkCode=osi&th=1&psc=1
+AMD Ryzen 7 3700X,$601.32 USD,AMD,100-100000071BOX,0730143309974,730143309974,3.6 GHz,4.4 GHz,True,8,16,65 W,AM4,False,https://www.amazon.ca/dp/B08ZJB58JC?tag=pckombo04b-20&linkCode=osi&th=1&psc=1
+AMD Ryzen 7 3800X,$433.96 USD,AMD,100-100000025BOX,0730143309899,730143309899,3.9 GHz,4.5 GHz,True,8,16,105 W,AM4,False,https://www.amazon.ca/dp/B07Z1211CC?tag=pckombo04b-20&linkCode=osi&th=1&psc=1
+AMD Ryzen 7 3800XT,$282.89 USD,AMD,100-100000279WOF,0730143312264,,3.9 GHz,4.7 GHz,True,8,16,105 W,AM4,False,https://www.amazon.ca/dp/B089WCXZJC?tag=pckombo04b-20&linkCode=osi&th=1&psc=1
+AMD Ryzen 9 3900X,$570.33 USD,AMD,100-100000023BOX,0730143309950,,3.8 GHz,4.6 GHz,True,12,24,105 W,AM4,False,https://www.amazon.ca/dp/B07SXMZLP9?tag=pckombo04b-20&linkCode=osi&th=1&psc=1
+AMD Ryzen 9 3900XT,,AMD,100-100000277WOF,0730143312554,,3.8 GHz,4.7 GHz,True,12,24,105 W,AM4,False,
+AMD Ryzen 9 3950X,$735.59 USD,AMD,100-100000051WOF,0730143311809,,3.5 GHz,4.7 GHz,True,16,32,105 W,AM4,False,https://www.amazon.ca/dp/B07ZTYKLZW?tag=pckombo04b-20&linkCode=osi&th=1&psc=1
+AMD Ryzen 9 7900X3D,$507.04 USD,AMD,100-100000909WOF,0730143314916,,4.4 GHz,5.6 GHz,False,12,24,120 W,AM5,Ryzen 7000 Graphics,https://www.amazon.ca/dp/B0BTRRNK7T?tag=pckombo04b-20&linkCode=osi&th=1&psc=1
+AMD Ryzen 9 7950X3D,$550.55 USD,AMD,100-100000908WOF,0730143314893,,4.2 GHz,5.7 GHz,False,16,32,120 W,AM5,Ryzen 7000 Graphics,https://www.amazon.ca/dp/B0BTRH9MNS?tag=pckombo04b-20&linkCode=osi&th=1&psc=1
+AMD Ryzen Threadripper 1900X,$194.56 USD,AMD,YD190XA8AEWOF,0730143309042,,3.8 GHz,4.0 GHz,True,8,16,180 W,TR4,False,https://www.amazon.ca/dp/B0754JNQBP?tag=pckombo04b-20&linkCode=osi&th=1&psc=1
+AMD Ryzen Threadripper 1920X,$284.33 USD,AMD,YD192XA8AEWOF,0730143308786,,3.5 GHz,4.0 GHz,True,12,24,180 W,TR4,False,https://www.amazon.ca/AMD-Threadripper-24-thread-Processor-YD192XA8AEWOF/dp/B074CBJHCT?psc=1&SubscriptionId=AKIAI7B523DQIKTQ3BRQ&tag=pckombo04b-20&linkCode=xm2&camp=2025&creative=165953&creativeASIN=B074CBJHCT
+AMD Ryzen Threadripper 1950X,$513.47 USD,AMD,YD195XA8AEWOF,0730143308755,730143308755,3.4 GHz,4.0 GHz,True,16,32,180 W,TR4,False,https://www.amazon.ca/AMD-Threadripper-32-thread-Processor-YD195XA8AEWOF/dp/B074CBH3R4?psc=1&SubscriptionId=AKIAI7B523DQIKTQ3BRQ&tag=pckombo04b-20&linkCode=xm2&camp=2025&creative=165953&creativeASIN=B074CBH3R4
+AMD Ryzen Threadripper 2920X,$569.62 USD,AMD,YD292XA8AFWOF,0730143309417,730143309417,3.5 GHz,4.3 GHz,True,12,24,180 W,TR4,False,https://www.amazon.ca/dp/B07JDF4QP2?tag=pckombo04b-20&linkCode=osi&th=1&psc=1
+AMD Ryzen Threadripper 2950X,$785.71 USD,AMD,YD295XA8AFWOF,0730143309301,730143309301,3.5 GHz,4.4 GHz,True,16,32,180 W,TR4,False,https://www.amazon.ca/dp/B07GFN6CVF?tag=pckombo04b-20&linkCode=osi&th=1&psc=1
+AMD Ryzen Threadripper 2970WX,$1182.35 USD,AMD,YD297XAZAFWOF,0730143309400,730143309400,3.0 GHz,4.2 GHz,True,24,48,250 W,TR4,False,https://www.amazon.ca/dp/B07JBQJ1D9?tag=pckombo04b-20&linkCode=osi&th=1&psc=1
+AMD Ryzen Threadripper 2990WX,$797.91 USD,AMD,YD299XAZAFWOF,0730143309288,730143309288,3.0 GHz,4.0 GHz,True,32,64,250 W,TR4,False,https://www.amazon.ca/dp/B07G25SD1P?tag=pckombo04b-20&linkCode=osi&th=1&psc=1
+AMD Ryzen Threadripper Pro 3955WX,$979.25 USD,AMD,100-100000167WOF,0730143312950,,3.9 GHz,4.3 GHz,False,16,32,280 W,sWRX80,False,https://www.amazon.ca/dp/B08V5J11BD?tag=pckombo04b-20&linkCode=osi&th=1&psc=1
+AMD Ryzen Threadripper Pro 3975WX,$2756.42 USD,AMD,100-100000086WOF,0730143312943,,3.5 GHz,4.2 GHz,False,32,64,280 W,sWRX80,False,https://www.amazon.ca/dp/B08V5H7GPM?tag=pckombo04b-20&linkCode=osi&th=1&psc=1
+AMD Ryzen Threadripper Pro 3995WX,$4968.82 USD,AMD,100-100000087WOF,0730143312936,,2.7 GHz,4.2 GHz,False,64,128,280 W,sWRX80,False,https://www.amazon.ca/dp/B08V5HPXVY?tag=pckombo04b-20&linkCode=osi&th=1&psc=1
+AMD Ryzen Threadripper Pro 5955WX,$1022.04 USD,AMD,100-100000447WOF,0730143314626,,4.0 GHz,4.5 GHz,False,16,32,280 W,sWRX8,False,https://www.amazon.ca/dp/B0BFVVC89M?tag=pckombo04b-20&linkCode=osi&th=1&psc=1
+AMD Ryzen Threadripper Pro 5965WX,$2255.18 USD,AMD,100-100000446WOF,0730143314404,,3.8 GHz,4.5 GHz,False,24,48,280 W,sWRX8,False,https://www.amazon.ca/dp/B0B5VJHT7L?tag=pckombo04b-20&linkCode=osi&th=1&psc=1
+AMD Ryzen Threadripper Pro 5975WX,$3125.63 USD,AMD,100-100000445WOF,0730143314381,,3.6 GHz,4.5 GHz,False,32,64,280 W,sWRX8,False,https://www.amazon.ca/dp/B0B5VH1WPC?tag=pckombo04b-20&linkCode=osi&th=1&psc=1
+AMD Ryzen Threadripper Pro 5995WX,$6244.74 USD,AMD,100-100000444WOF,0730143314367,,2.7 GHz,4.5 GHz,False,64,128,280 W,sWRX8,False,https://www.amazon.ca/dp/B0B5VLPVL5?tag=pckombo04b-20&linkCode=osi&th=1&psc=1
+Intel Celeron G1840,$47.15 USD,Intel,BX80646G1840,5032037062534,,2.8 GHz,GHz,False,2,2,54 W,1150,False,https://www.amazon.ca/dp/B00J2LIE9C?tag=pckombo04b-20&linkCode=osi&th=1&psc=1
+Intel Celeron G6900,,Intel,BX80715G6900,5032037238755,,3.4 GHz,GHz,False,2,2,46 W,1700,False,
+Intel Core i3-10100,,Intel,BX8070110100,5032037186957,,3.6 GHz,4.1 GHz,False,4,8,65 W,1200,Intel UHD 630,
+Intel Core i3-10100F,,Intel,BX8070110100F,0675901864039,,3.6 GHz,4.3 GHz,False,4,8,125 W,1200,False,
+Intel Core i3-10105,,Intel,BX8070110105,5032037214841,,3.7 GHz,GHz,False,4,8,65 W,1200,False,
+Intel Core i3-10300,,Intel,BX8070110300,5032037186933,,3.7 GHz,4.2 GHz,False,4,8,65 W,1200,Intel UHD 630,
+Intel Core i3-10305,,Intel,BX8070110305,5032037214827,,3.8 GHz,GHz,False,4,8,65 W,1200,False,
+Intel Core i3-10320,,Intel,BX8070110320,5032037186872,,3.8 GHz,4.4 GHz,False,4,8,65 W,1200,Intel UHD 630,
+Intel Core i3-13100,$137.81 USD,Intel,BX8071513100,5032037260312,735858528351,3.4 GHz,GHz,False,4,8,60 W,1700,False,https://www.amazon.ca/dp/B0BQ6CTTMK?tag=pckombo04b-20&linkCode=osi&th=1&psc=1
+Intel Core i3-13100F,$116.05 USD,Intel,BX8071513100F,5032037260336,735858528375,3.4 GHz,GHz,False,4,8,58 W,1700,False,https://www.amazon.ca/dp/B0BQ6BCWC4?tag=pckombo04b-20&linkCode=osi&th=1&psc=1
+Intel Core i3-4130,,Intel,BX80646I34130,5032037056533,,3.4 GHz,GHz,False,2,4,54 W,1150,Intel HD 4400,
+Intel Core i3-4160,,Intel,BX80646I34160,5032037066921,735858287180,3.6 GHz,GHz,False,2,4,54 W,1150,Intel HD 4400,
+Intel Core i3-4170,,Intel,BX80646I34170,5032037073479,,3.7 GHz,GHz,False,2,4,54 W,1150,False,
+Intel Core i3-4330,,Intel,BX80646I34330,5032037056113,,GHz,GHz,False,2,4,54 W,1150,Intel HD 4600,
+Intel Core i3-6098P,,Intel,BX80662I36098P,5032037084291,,3.6 GHz,GHz,False,2,4,54 W,1151,False,
+Intel Core i3-6100,$114.6 USD,Intel,BX80662I36100,5032037079051,735858305532,3.7 GHz,GHz,False,2,4,47 W,1151,Intel HD 530,https://www.amazon.ca/Intel-BX80662I36100-6th-Generation-i3-6100-Processor/dp/B015VPX2EO?psc=1&SubscriptionId=AKIAI7B523DQIKTQ3BRQ&tag=pckombo04b-20&linkCode=xm2&camp=2025&creative=165953&creativeASIN=B015VPX2EO
+Intel Core i3-6100T,$126.83 USD,Intel,BX80662I36100T,5032037079112,,3.2 GHz,GHz,False,2,4,35 W,1151,False,https://www.amazon.ca/Intel-Corp-BX80662I36100T-6100T-Processor/dp/B015XEXILK?psc=1&SubscriptionId=AKIAI7B523DQIKTQ3BRQ&tag=pckombo04b-20&linkCode=xm2&camp=2025&creative=165953&creativeASIN=B015XEXILK
+Intel Core i3-6300,$137.79 USD,Intel,BX80662I36300,5032037078870,,3.8 GHz,GHz,False,2,4,47 W,1151,Intel HD 530,https://www.amazon.ca/Intel-BX80662I36300-Boxed-i3-6300-Processor-LGA1151/dp/B015VPX3G6?SubscriptionId=AKIAI7B523DQIKTQ3BRQ&tag=pckombo04b-20&linkCode=xm2&camp=2025&creative=165953&creativeASIN=B015VPX3G6
+Intel Core i3-6300T,,Intel,BX80662I36300T,5032037078818,,3.3 GHz,GHz,False,2,4,35 W,1151,False,
+Intel Core i3-6320,$194.63 USD,Intel,BX80662I36320,5032037080095,,3.9 GHz,GHz,False,2,4,47 W,1151,Intel HD 530,https://www.amazon.ca/Intel-BX80662I36320-Boxed-Core-i3-6320-Processor/dp/B015VPX48I?SubscriptionId=AKIAI7B523DQIKTQ3BRQ&tag=pckombo04b-20&linkCode=xm2&camp=2025&creative=165953&creativeASIN=B015VPX48I
+Intel Core i3-7100,$117.87 USD,Intel,BX80677I37100,5032037096171,00735858330107,3.9 GHz,GHz,False,2,4,51 W,1151,Intel HD 630,https://www.amazon.ca/Intel-BX80677I37100-Generation-i3-7100-Processor/dp/B01NCESRJX?psc=1&SubscriptionId=AKIAI7B523DQIKTQ3BRQ&tag=pckombo04b-20&linkCode=xm2&camp=2025&creative=165953&creativeASIN=B01NCESRJX
+Intel Core i3-7100T,,Intel,BX80677I37100T,5032037096966,,3.4 GHz,GHz,False,2,4,35 W,1151,False,
+Intel Core i3-7300,$151.35 USD,Intel,BX80677I37300,5032037096232,,4.0 GHz,GHz,False,2,4,51 W,1151,Intel HD 630,https://www.amazon.ca/Intel-BX80677I37300-Core-Desktop-Processors/dp/B01N59LL8R?psc=1&SubscriptionId=AKIAI7B523DQIKTQ3BRQ&tag=pckombo04b-20&linkCode=xm2&camp=2025&creative=165953&creativeASIN=B01N59LL8R
+Intel Core i3-7300T,$159.46 USD,Intel,BX80677I37300T,5032037096782,,3.5 GHz,GHz,False,2,4,35 W,1151,False,https://www.amazon.ca/Core-i3-7300T-Processor-BX80677I37300T/dp/B01N1SH0IU?SubscriptionId=AKIAI7B523DQIKTQ3BRQ&tag=pckombo04b-20&linkCode=xm2&camp=2025&creative=165953&creativeASIN=B01N1SH0IU
+Intel Core i3-7320,$153.77 USD,Intel,BX80677I37320,5032037095570,,4.1 GHz,GHz,False,2,4,51 W,1151,False,https://www.amazon.ca/Intel-BX80677I37320-Core-Desktop-Processors/dp/B01MSTCUY8?SubscriptionId=AKIAI7B523DQIKTQ3BRQ&tag=pckombo04b-20&linkCode=xm2&camp=2025&creative=165953&creativeASIN=B01MSTCUY8
+Intel Core i3-7350K,$163.56 USD,Intel,BX80677I37350K,5032037095518,,4.2 GHz,GHz,True,2,4,60 W,1151,Intel HD 630,https://www.amazon.ca/Intel-BX80677I37350K-Generation-Desktop-Processor/dp/B01NCEJN24?psc=1&SubscriptionId=AKIAI7B523DQIKTQ3BRQ&tag=pckombo04b-20&linkCode=xm2&camp=2025&creative=165953&creativeASIN=B01NCEJN24
+Intel Core i3-8100,$166.81 USD,Intel,BX80684I38100,5032037107501,735858348430,3.6 GHz,GHz,False,4,4,65 W,1151,Intel UHD 630,https://www.amazon.ca/dp/B0759FTRZL?tag=pckombo04b-20&linkCode=osi&th=1&psc=1
+Intel Core i3-8300,$164.01 USD,Intel,BX80684I38300,5032037121804,00735858367479,3.7 GHz,GHz,False,4,4,62 W,1151,False,https://www.amazon.ca/Intel-BX80684I38300-i3-8300-Processor-LGA-1151/dp/B0793DCQLG?psc=1&SubscriptionId=AKIAI7B523DQIKTQ3BRQ&tag=pckombo04b-20&linkCode=xm2&camp=2025&creative=165953&creativeASIN=B0793DCQLG
+Intel Core i3-8350K,$391.46 USD,Intel,BX80684I38350K,5032037107716,,4.0 GHz,GHz,True,4,4,91 W,1151,Intel UHD 630,https://www.amazon.ca/dp/B08BSNDQ4W?tag=pckombo04b-20&linkCode=osi&th=1&psc=1
+Intel Core i3-9100,$137.66 USD,Intel,BX80684I39100,5032037156264,,3.6 GHz,4.2 GHz,False,4,4,65 W,1151,Intel UHD 630,https://www.amazon.ca/Intel-i3-9100-Desktop-Processor-LGA1151/dp/B07RXW4Y2K?psc=1&SubscriptionId=AKIAI7B523DQIKTQ3BRQ&tag=pckombo04b-20&linkCode=xm2&camp=2025&creative=165953&creativeASIN=B07RXW4Y2K
+Intel Core i3-9100F,$100.97 USD,Intel,BX80684I39100F,5032037158015,,3.6 GHz,4.2 GHz,False,4,4,65 W,1151,False,https://www.amazon.ca/Intel-i3-9100F-Desktop-Processor-Graphics/dp/B07R7Q3JZH?SubscriptionId=AKIAI7B523DQIKTQ3BRQ&tag=pckombo04b-20&linkCode=xm2&camp=2025&creative=165953&creativeASIN=B07R7Q3JZH
+Intel Core i3-9300,,Intel,BX80684I39300,5032037156202,,3.7 GHz,4.3 GHz,False,4,4,65 W,1151,Intel UHD 630,
+Intel Core i3-9320,,Intel,BX80684I39320,5032037156028,,3.7 GHz,4.4 GHz,False,4,4,65 W,1151,Intel UHD 630,
+Intel Core i3-9350KF,,Intel,BX80684I39350KF,5032037153379,,4.0 GHz,4.6 GHz,True,4,4,91 W,1151,False,
+Intel Core i5-10400,$163.2 USD,Intel,BX8070110400,5032037187138,,2.9 GHz,4.0 GHz,False,6,12,65 W,1200,Intel UHD 630,https://www.amazon.ca/dp/B086MN38Q2?tag=pckombo04b-20&linkCode=osi&th=1&psc=1
+Intel Core i5-10400F,,Intel,BX8070110400F,5032037187077,,2.9 GHz,4.0 GHz,False,6,12,65 W,1200,False,
+Intel Core i5-10500,,Intel,BX8070110500,5032037187114,,3.1 GHz,GHz,False,6,12,65 W,1200,False,
+Intel Core i5-10600,,Intel,BX8070110600,5032037187091,,3.3 GHz,GHz,False,6,12,65 W,1200,False,
+Intel Core i5-10600K,,Intel,BX8070110600K,5032037188647,,4.1 GHz,4.8 GHz,True,6,12,125 W,1200,Intel UHD 630,
+Intel Core i5-10600KF,,Intel,BX8070110600KF,5032037188708,,4.1 GHz,4.8 GHz,True,6,12,125 W,1200,False,
+Intel Core i5-11400,$347.43 USD,Intel,BX8070811400,5032037214902,735858477239,2.6 GHz,GHz,False,6,12,65 W,1200,Intel UHD 730,https://www.amazon.ca/dp/B09C1JCC2H?tag=pckombo04b-20&linkCode=osi&th=1&psc=1
+Intel Core i5-11400F,,Intel,BX8070811400F,5032037215534,,2.6 GHz,GHz,False,6,12,65 W,1200,False,
+Intel Core i5-11500,,Intel,BX8070811500,5032037214889,,2.7 GHz,GHz,False,6,12,65 W,1200,Intel UHD 750,
+Intel Core i5-11600,,Intel,BX8070811600,5032037214865,,2.8 GHz,GHz,False,6,12,65 W,1200,Intel UHD 750,
+Intel Core i5-11600K,$276.74 USD,Intel,BX8070811600K,5032037214926,,3.9 GHz,GHz,True,6,12,125 W,1200,Intel UHD 750,https://www.amazon.ca/dp/B08TX3M96F?tag=pckombo04b-20&linkCode=osi&th=1&psc=1
+Intel Core i5-11600KF,,Intel,BX8070811600KF,5032037215558,,3.9 GHz,GHz,True,6,12,125 W,1200,False,
+Intel Core i5-13500,$238.65 USD,Intel,BX8071513500,5032037260251,735858528290,2.5 GHz,GHz,False,6,12,65 W,1700,False,https://www.amazon.ca/dp/B0BQ6CFDCX?tag=pckombo04b-20&linkCode=osi&th=1&psc=1
+Intel Core i5-2500K,,Intel,BX80623I52500K,5032037011662,,3.3 GHz,3.7 GHz,True,4,4,95 W,1155,Intel HD 3000,
+Intel Core i5-3570K,,Intel,BX80637I53570K,5032037036399,,3.4 GHz,3.8 GHz,True,4,4,77 W,1155,Intel HD 4000,
+Intel Core i5-4440,,Intel,BX80646I54440,5032037054980,,GHz,GHz,False,4,4,84 W,1150,Intel HD 4600,
+Intel Core i5-4460,,Intel,BX80646I54460,5032037062763,,3.2 GHz,3.4 GHz,False,4,4,84 W,1150,Intel HD 4600,
+Intel Core i5-4590,,Intel,BX80646I54590,5032037061131,,3.3 GHz,3.7 GHz,False,4,4,84 W,1150,Intel HD 4600,
+Intel Core i5-4670K,,Intel,BX80646I54670K,5032037051156,,3.4 GHz,3.8 GHz,True,4,4,84 W,1150,Intel HD 4600,
+Intel Core i5-4690,$227.56 USD,Intel,BX80646I54690,5032037061193,,3.5 GHz,3.9 GHz,False,4,4,84 W,1150,Intel HD 4600,https://www.amazon.ca/Intel-i5-4690-Processor-Cache-BX80646I54690/dp/B00JST2QEW?SubscriptionId=AKIAI7B523DQIKTQ3BRQ&tag=pckombo04b-20&linkCode=xm2&camp=2025&creative=165953&creativeASIN=B00JST2QEW
+Intel Core i5-4690K,,Intel,BX80646I54690K,5032037066013,,3.5 GHz,3.9 GHz,True,4,4,88 W,1150,Intel HD 4600,
+Intel Core i5-5675C,,Intel,BX80658I55675C,5032037075237,,3.1 GHz,3.6 GHz,True,4,4,65 W,1150,Intel Iris Pro 6200,
+Intel Core i5-6400,,Intel,BX80662I56400,5032037076616,735858301497,2.7 GHz,3.3 GHz,False,4,4,65 W,1151,Intel HD 530,
+Intel Core i5-6402P,$184.24 USD,Intel,BX80662I56402P,5032037084116,,GHz,GHz,False,4,4,65 W,1151,False,https://www.amazon.ca/Intel-BX80662I56402P-i5-6402P-Quad-Core-Processor/dp/B01B2PJRN2?SubscriptionId=AKIAI7B523DQIKTQ3BRQ&tag=pckombo04b-20&linkCode=xm2&camp=2025&creative=165953&creativeASIN=B01B2PJRN2
+Intel Core i5-6500,$202.04 USD,Intel,BX80662I56500,5032037076500,,3.2 GHz,3.6 GHz,False,4,4,65 W,1151,Intel HD 530,https://www.amazon.ca/dp/B010T6CWI2?tag=pckombo04b-20&linkCode=osi&th=1&psc=1
+Intel Core i5-6600,$238.64 USD,Intel,BX80662I56600,5032037076081,,3.3 GHz,3.9 GHz,False,4,4,65 W,1151,Intel HD 530,https://www.amazon.ca/Intel-BX80662I56600-Generation-I5-6600-Processor/dp/B010T6D39O?SubscriptionId=AKIAI7B523DQIKTQ3BRQ&tag=pckombo04b-20&linkCode=xm2&camp=2025&creative=165953&creativeASIN=B010T6D39O
+Intel Core i5-6600K,$226.51 USD,Intel,BX80662I56600K,5032037076142,,3.5 GHz,3.9 GHz,True,4,4,91 W,1151,Intel HD 530,https://www.amazon.ca/Intel-BX80662I56600K-6th-Generation-Desktop-Processor/dp/B012M8M7TY?psc=1&SubscriptionId=AKIAI7B523DQIKTQ3BRQ&tag=pckombo04b-20&linkCode=xm2&camp=2025&creative=165953&creativeASIN=B012M8M7TY
+Intel Core i5-7400,$199.81 USD,Intel,BX80677I57400,5032037092982,735858326254,3.0 GHz,3.5 GHz,False,4,4,65 W,1151,Intel HD 630,https://www.amazon.ca/dp/B01MSTDS3N?tag=pckombo04b-20&linkCode=osi&th=1&psc=1
+Intel Core i5-7500,$264.49 USD,Intel,BX80677I57500,5032037092920,735858326193,3.4 GHz,3.8 GHz,False,4,4,65 W,1151,Intel HD 630,https://www.amazon.ca/dp/B01MSDHPL9?tag=pckombo04b-20&linkCode=osi&th=1&psc=1
+Intel Core i5-7600,$219.78 USD,Intel,BX80677I57600,5032037092869,,3.5 GHz,4.1 GHz,False,4,4,65 W,1151,Intel HD 630,https://www.amazon.ca/Intel-BX80677I57600-7th-Generation-i5-7600-Processor/dp/B01MYTYSMK?psc=1&SubscriptionId=AKIAI7B523DQIKTQ3BRQ&tag=pckombo04b-20&linkCode=xm2&camp=2025&creative=165953&creativeASIN=B01MYTYSMK
+Intel Core i5-7600K,$242.48 USD,Intel,BX80677I57600K,5032037092807,735858326070,3.8 GHz,4.2 GHz,True,4,4,91 W,1151,Intel HD 630,https://www.amazon.ca/Intel-i5-7600K-Desktop-Processors-BX80677I57600K/dp/B01MRRPPQS?psc=1&SubscriptionId=AKIAI7B523DQIKTQ3BRQ&tag=pckombo04b-20&linkCode=xm2&camp=2025&creative=165953&creativeASIN=B01MRRPPQS
+Intel Core i5-7640X,$210.35 USD,Intel,BX80677I57640X,5032037102483,,4.0 GHz,4.2 GHz,True,4,4,112 W,2066,False,https://www.amazon.ca/Intel-i5-7640X-Processor-Unlocked-LGA2066/dp/B071KMBHS8?psc=1&SubscriptionId=AKIAI7B523DQIKTQ3BRQ&tag=pckombo04b-20&linkCode=xm2&camp=2025&creative=165953&creativeASIN=B071KMBHS8
+Intel Core i5-8400,$235.75 USD,Intel,BX80684I58400,5032037108904,,2.8 GHz,4.0 GHz,False,6,6,65 W,1151,Intel UHD 630,https://www.amazon.ca/dp/B0759FGJ3Q?tag=pckombo04b-20&linkCode=osi&th=1&psc=1
+Intel Core i5-8500,$453.16 USD,Intel,BX80684I58500,5032037121743,735858367417,3.0 GHz,4.1 GHz,False,6,6,65 W,1151,Intel UHD 630,https://www.amazon.ca/dp/B08BSM9BZC?tag=pckombo04b-20&linkCode=osi&th=1&psc=1
+Intel Core i5-8600,$224.12 USD,Intel,BX80684I58600,5032037121675,00735858367349,3.1 GHz,4.3 GHz,False,6,6,65 W,1151,Intel UHD 630,https://www.amazon.ca/Intel%C2%AE-i5-8600-Desktop-Processor-LGA1151/dp/B0793CD3V2?psc=1&SubscriptionId=AKIAI7B523DQIKTQ3BRQ&tag=pckombo04b-20&linkCode=xm2&camp=2025&creative=165953&creativeASIN=B0793CD3V2
+Intel Core i5-8600K,$440.28 USD,Intel,BX80684I58600K,5032037108782,735858350365,3.6 GHz,4.3 GHz,True,6,6,95 W,1151,Intel UHD 630,https://www.amazon.ca/dp/B08BSM4LK2?tag=pckombo04b-20&linkCode=osi&th=1&psc=1
+Intel Core i5-9400,$239.65 USD,Intel,BX80684I59400,5032037140225,735858392549,2.9 GHz,4.1 GHz,False,6,6,65 W,1151,Intel UHD 630,https://www.amazon.ca/dp/B07MGZ9FJZ?tag=pckombo04b-20&linkCode=osi&th=1&psc=1
+Intel Core i5-9400F,$190.81 USD,Intel,BX80684I59400F,5032037150354,735858406079,2.9 GHz,4.1 GHz,False,6,6,65 W,1151,False,https://www.amazon.ca/dp/B07MRCGQQ4?tag=pckombo04b-20&linkCode=osi&th=1&psc=1
+Intel Core i5-9500,,Intel,BX80684I59500,5032037157896,,3.0 GHz,4.4 GHz,False,6,6,65 W,1151,Intel UHD 630,
+Intel Core i5-9600,,Intel,BX80684I59600,5032037157957,,3.1 GHz,4.6 GHz,False,6,6,65 W,1151,Intel UHD 630,
+Intel Core i5-9600K,$174.08 USD,Intel,BX80684I59600K,5032037140171,735858392488,3.7 GHz,GHz,True,6,6,95 W,1151,Intel UHD 630,https://www.amazon.ca/dp/B07HHLX1R8?tag=pckombo04b-20&linkCode=osi&th=1&psc=1
+Intel Core i5-9600KF,$239.34 USD,Intel,BX80684I59600KF,5032037151818,,3.7 GHz,4.6 GHz,True,6,6,95 W,1151,False,https://www.amazon.ca/dp/B07MQP5LNM?tag=pckombo04b-20&linkCode=osi&th=1&psc=1
+Intel Core i7-10700,,Intel,BX8070110700,5032037188722,,2.9 GHz,GHz,False,8,16,65 W,1200,False,
+Intel Core i7-10700F,$275.08 USD,Intel,BX8070110700F,5032037188760,,2.9 GHz,GHz,True,8,16,65 W,1200,False,https://www.amazon.ca/dp/B086MN2XYL?tag=pckombo04b-20&linkCode=osi&th=1&psc=1
+Intel Core i7-10700K,,Intel,BX8070110700K,5032037188609,,3.8 GHz,5.1 GHz,True,8,16,125 W,1200,Intel UHD 630,
+Intel Core i7-10700KF,,Intel,BX8070110700KF,5032037188685,,3.8 GHz,5.1 GHz,True,8,16,125 W,1200,False,
+Intel Core i7-11700,,Intel,BX8070811700,5032037214940,,2.5 GHz,GHz,False,8,16,65 W,1200,Intel UHD 750,
+Intel Core i7-11700K,$304.55 USD,Intel,BX8070811700K,5032037214964,,3.6 GHz,GHz,True,8,16,125 W,1200,Intel UHD 750,https://www.amazon.ca/dp/B08X6ND3WP?tag=pckombo04b-20&linkCode=osi&th=1&psc=1
+Intel Core i7-11700KF,,Intel,BX8070811700KF,5032037215602,,3.6 GHz,GHz,True,8,16,125 W,1200,False,
+Intel Core i7-12700F,$282.17 USD,Intel,BX8071512700F,5032037237826,735858503105,2.1 GHz,4.9 GHz,False,8,16,65 W,1700,False,https://www.amazon.ca/dp/B09NPJDPVG?tag=pckombo04b-20&linkCode=osi&th=1&psc=1
+Intel Core i7-12700KF,$282.17 USD,Intel,BX8071512700KF,5032037234047,735858498982,3.6 GHz,5.0 GHz,True,8,16,125 W,1700,False,https://www.amazon.ca/dp/B09FXKHN7M?tag=pckombo04b-20&linkCode=osi&th=1&psc=1
+Intel Core i7-2600K,,Intel,BX80623I72600K,5032037011709,,3.4 GHz,3.8 GHz,True,4,8,95 W,1155,Intel HD 3000,
+Intel Core i7-3770K,,Intel,BX80637I73770K,5032037036146,,3.5 GHz,3.9 GHz,True,4,8,77 W,1155,Intel HD 4000,
+Intel Core i7-4770K,,Intel,BX80646I74770K,5032037050371,,3.5 GHz,3.9 GHz,True,4,8,84 W,1150,Intel HD 4600,
+Intel Core i7-4790,,Intel,BX80646I74790,5032037061551,,3.6 GHz,4.0 GHz,False,4,8,84 W,1150,Intel HD 4600,
+Intel Core i7-4790K,,Intel,BXF80646I74790K,5032037066181,,4.0 GHz,4.4 GHz,True,4,8,88 W,1150,Intel HD 4600,
+Intel Core i7-4790K,,Intel,BX80646I74790K,5032037065948,735858285957,4.0 GHz,4.4 GHz,True,4,8,88 W,1150,Intel HD 4600,
+Intel Core i7-5775C,,Intel,BX80658I75775C,5032037075039,,3.3 GHz,3.7 GHz,True,4,8,65 W,1150,Intel Iris Pro 6200,
+Intel Core i7-5820K,$466.34 USD,Intel,BX80648I75820K,5032037065702,735858285490,3.3 GHz,3.6 GHz,True,6,12,140 W,2011-V3,False,https://www.amazon.ca/Intel-BX80648I75820K-Core-i7-5820K-Desktop-Processor/dp/B00MMLXIKY?psc=1&SubscriptionId=AKIAI7B523DQIKTQ3BRQ&tag=pckombo04b-20&linkCode=xm2&camp=2025&creative=165953&creativeASIN=B00MMLXIKY
+Intel Core i7-5930K,,Intel,BX80648I75930K,5032037065641,735858285438,3.5 GHz,3.7 GHz,True,6,12,140 W,2011-V3,False,
+Intel Core i7-5960X,,Intel,BX80648I75960X,5032037065481,735858285278,3.0 GHz,3.5 GHz,True,8,16,140 W,2011-V3,False,
+Intel Core i7-6700,$320.91 USD,Intel,BX80662I76700,5032037077187,,3.4 GHz,4.0 GHz,False,4,8,65 W,1151,Intel HD 530,https://www.amazon.ca/dp/B0136JONG8?tag=pckombo04b-20&linkCode=osi&th=1&psc=1
+Intel Core i7-6700K,$337.18 USD,Intel,BX80662I76700K,5032037076685,00735858301619,4.0 GHz,4.2 GHz,True,4,8,91 W,1151,Intel HD 530,https://www.amazon.ca/Intel-Quad-Core-FCLGA1151-Processor-BX80662I76700K/dp/B012M8LXQW?psc=1&SubscriptionId=AKIAI7B523DQIKTQ3BRQ&tag=pckombo04b-20&linkCode=xm2&camp=2025&creative=165953&creativeASIN=B012M8LXQW
+Intel Core i7-6800K,$432.82 USD,Intel,BX80671I76800K,5032037087131,,3.4 GHz,3.6 GHz,True,6,12,140 W,2011-V3,False,https://www.amazon.ca/Intel-BX80671I76800K-Boxed-Core-i7-6800K-Processor/dp/B01FJLA8NI?SubscriptionId=AKIAI7B523DQIKTQ3BRQ&tag=pckombo04b-20&linkCode=xm2&camp=2025&creative=165953&creativeASIN=B01FJLA8NI
+Intel Core i7-6850K,$594.8 USD,Intel,BX80671I76850K,5032037087193,00735858317689,3.6 GHz,3.8 GHz,True,6,12,140 W,2011-V3,False,https://www.amazon.ca/Intel-BX80671I76850K-Boxed-i7-6850K-Processor/dp/B01FJLAITC?psc=1&SubscriptionId=AKIAI7B523DQIKTQ3BRQ&tag=pckombo04b-20&linkCode=xm2&camp=2025&creative=165953&creativeASIN=B01FJLAITC
+Intel Core i7-6900K,$584.44 USD,Intel,BX80671I76900K,5032037087490,,3.2 GHz,3.7 GHz,True,8,16,140 W,2011-V3,False,https://www.amazon.ca/Intel-BX80671I76900K-Boxed-Core-i7-6900K-Processor/dp/B01FJLAIG0?SubscriptionId=AKIAI7B523DQIKTQ3BRQ&tag=pckombo04b-20&linkCode=xm2&camp=2025&creative=165953&creativeASIN=B01FJLAIG0
+Intel Core i7-6950X,$1639.34 USD,Intel,BX80671I76950X,5032037087551,735858318044,3.0 GHz,3.5 GHz,True,10,20,140 W,2011-V3,False,https://www.amazon.ca/dp/B01FJLA9IM?tag=pckombo04b-20&linkCode=osi&th=1&psc=1
+Intel Core i7-7700,$322.06 USD,Intel,BX80677I77700,5032037092623,00735858325899,3.6 GHz,4.2 GHz,False,4,8,65 W,1151,Intel HD 630,https://www.amazon.ca/Intel-BX80677I77700-Generation-i7-7700-Processor/dp/B01N0L41N7?psc=1&SubscriptionId=AKIAI7B523DQIKTQ3BRQ&tag=pckombo04b-20&linkCode=xm2&camp=2025&creative=165953&creativeASIN=B01N0L41N7
+Intel Core i7-7700K,$414.02 USD,Intel,BX80677I77700K,5032037092562,735858325837,4.2 GHz,4.5 GHz,True,4,8,91 W,1151,Intel HD 630,https://www.amazon.ca/dp/B072RC5PNJ?tag=pckombo04b-20&linkCode=osi&th=1&psc=1
+Intel Core i7-7740X,$337.98 USD,Intel,BX80677I77740X,5032037102421,,4.3 GHz,4.5 GHz,True,4,8,112 W,2066,False,https://www.amazon.ca/Intel-i5-7640X-Quad-Core-Processor-BX80677I77740X/dp/B072KTRQ9G?psc=1&SubscriptionId=AKIAI7B523DQIKTQ3BRQ&tag=pckombo04b-20&linkCode=xm2&camp=2025&creative=165953&creativeASIN=B072KTRQ9G
+Intel Core i7-7800X,$388.43 USD,Intel,BX80673I77800X,5032037105095,735858344302,3.5 GHz,GHz,True,6,12,140 W,2066,False,https://www.amazon.ca/Intel-BX80673I77800X-Core-i7-7800X-Processor/dp/B071H1B3Z1?psc=1&SubscriptionId=AKIAI7B523DQIKTQ3BRQ&tag=pckombo04b-20&linkCode=xm2&camp=2025&creative=165953&creativeASIN=B071H1B3Z1
+Intel Core i7-7820X,$582.22 USD,Intel,BX80673I77820X,5032037104913,735858344128,3.6 GHz,4.5 GHz,True,8,16,140 W,2066,False,https://www.amazon.ca/Intel-BX80673I77820X-Core-i7-7820X-Processor/dp/B072NF4BY3?psc=1&SubscriptionId=AKIAI7B523DQIKTQ3BRQ&tag=pckombo04b-20&linkCode=xm2&camp=2025&creative=165953&creativeASIN=B072NF4BY3
+Intel Core i7-8086K,$380.81 USD,Intel,BX80684I78086K,5032037131834,,4.0 GHz,5.0 GHz,True,6,12,95 W,1151,False,https://www.amazon.ca/Intel-i7-8086K-Desktop-Processor-Unlocked/dp/B07DGDWJ3P?psc=1&SubscriptionId=AKIAI7B523DQIKTQ3BRQ&tag=pckombo04b-20&linkCode=xm2&camp=2025&creative=165953&creativeASIN=B07DGDWJ3P
+Intel Core i7-8700,$331.05 USD,Intel,BX80684I78700,5032037108591,00735858350129,3.2 GHz,4.6 GHz,False,6,12,65 W,1151,Intel UHD 630,https://www.amazon.ca/Intel-BX80684I78700-Boxed-i7-8700-Processor/dp/B07598HLB4?psc=1&SubscriptionId=AKIAI7B523DQIKTQ3BRQ&tag=pckombo04b-20&linkCode=xm2&camp=2025&creative=165953&creativeASIN=B07598HLB4
+Intel Core i7-8700K,$372.23 USD,Intel,BX80684I78700K,5032037108652,735858350181,3.7 GHz,4.7 GHz,True,6,12,95 W,1151,Intel UHD 630,https://www.amazon.ca/dp/B07598VZR8?tag=pckombo04b-20&linkCode=osi&th=1&psc=1
+Intel Core i7-9700K,$384.44 USD,Intel,BX80684I79700K,0675901709767,,3.6 GHz,GHz,True,8,8,125 W,1151,Intel UHD 630,https://www.amazon.ca/Intel-BX80684I79700K-i7-9700K-Processor-Unlocked/dp/B07HHN6KBZ?psc=1&SubscriptionId=AKIAI7B523DQIKTQ3BRQ&tag=pckombo04b-20&linkCode=xm2&camp=2025&creative=165953&creativeASIN=B07HHN6KBZ
+Intel Core i7-9700KF,$450.2 USD,Intel,BX80684I79700KF,5032037151870,,3.6 GHz,4.9 GHz,True,8,8,95 W,1151,False,https://www.amazon.ca/dp/B07MJXYX62?tag=pckombo04b-20&linkCode=osi&th=1&psc=1
+Intel Core i9-10850K,$317.85 USD,Intel,BX8070110850K,5032037198844,735858459273,3.6 GHz,5.2 GHz,True,10,20,125 W,1200,Intel UHD 630,https://www.amazon.ca/dp/B08DHRG2X9?tag=pckombo04b-20&linkCode=osi&th=1&psc=1
+Intel Core i9-10900,,Intel,BX8070110900,5032037189163,,2.8 GHz,GHz,False,10,20,65 W,1200,False,
+Intel Core i9-10900F,,Intel,BX8070110900F,5032037188746,,2.8 GHz,GHz,False,10,20,65 W,1200,False,
+Intel Core i9-10900K,$462.75 USD,Intel,BX8070110900K,5032037188623,,3.7 GHz,5.3 GHz,True,10,20,125 W,1200,Intel UHD 630,https://www.amazon.ca/dp/B086MHSTVD?tag=pckombo04b-20&linkCode=osi&th=1&psc=1
+Intel Core i9-10900KF,,Intel,BX8070110900KF,5032037188661,,3.7 GHz,5.3 GHz,True,10,20,125 W,1200,False,
+Intel Core i9-10900X,,Intel,BX8069510900X,5032037171717,,3.7 GHz,4.5 GHz,True,10,20,165 W,2066,False,
+Intel Core i9-10920X,,Intel,BX8069510920X,5032037171731,,3.5 GHz,4.6 GHz,True,12,24,165 W,2066,False,
+Intel Core i9-10940X,,Intel,BX8069510940X,5032037171755,,3.3 GHz,4.6 GHz,True,14,28,165 W,2066,False,
+Intel Core i9-10980XE,,Intel,BX8069510980XE,5032037175340,,3.0 GHz,4.8 GHz,True,18,36,165 W,2066,False,
+Intel Core i9-11900,,Intel,BX8070811900,0675901933681,,2.5 GHz,GHz,False,8,16,65 W,1200,Intel UHD 750,
+Intel Core i9-11900F,$456.98 USD,Intel,BX8070811900F,5032037215626,735858478212,2.5 GHz,GHz,False,8,16,65 W,1200,False,https://www.amazon.ca/dp/B08X6KFM3N?tag=pckombo04b-20&linkCode=osi&th=1&psc=1
+Intel Core i9-11900K,,Intel,BX8070811900K,0675901933735,,3.5 GHz,5.2 GHz,True,8,16,125 W,1200,Intel UHD 750,
+Intel Core i9-11900KF,,Intel,BX8070811900KF,5032037215640,,3.5 GHz,GHz,True,8,16,125 W,1200,False,
+Intel Core i9-12900F,,Intel,BX8071512900F,5032037237901,735858503181,2.4 GHz,5.1 GHz,False,8,16,65 W,1700,False,
+Intel Core i9-12900KS,,Intel,BX8071512900KS,5032037247030,,3.4 GHz,5.5 GHz,True,8,16,150 W,1700,Intel UHD 770,
+Intel Core i9-13900KS,$688.38 USD,Intel,BX8071513900KS,5032037262057,735858530477,3.2 GHz,3.0 GHz,True,8,16,125 W,1700,False,https://www.amazon.ca/dp/B0BPXCRWB2?tag=pckombo04b-20&linkCode=osi&th=1&psc=1
+Intel Core i9-7900X,$1070.83 USD,Intel,BX80673I97900X,5032037104791,735858344005,3.3 GHz,4.5 GHz,True,10,20,140 W,2066,False,https://www.amazon.ca/dp/B072KTSCCS?tag=pckombo04b-20&linkCode=osi&th=1&psc=1
+Intel Core i9-7920X,$1177.74 USD,Intel,BX80673I97920X,5032037107655,735858348669,2.9 GHz,4.4 GHz,True,12,24,140 W,2066,False,https://www.amazon.ca/dp/B0756L5T93?tag=pckombo04b-20&linkCode=osi&th=1&psc=1
+Intel Core i9-7940X,$1365.93 USD,Intel,BX80673I97940X,5032037113748,735858356367,3.1 GHz,4.4 GHz,True,14,28,165 W,2066,False,https://www.amazon.ca/Intel-BX80673I97940X-Core-Processor/dp/B075ZP87QP?psc=1&SubscriptionId=AKIAI7B523DQIKTQ3BRQ&tag=pckombo04b-20&linkCode=xm2&camp=2025&creative=165953&creativeASIN=B075ZP87QP
+Intel Core i9-7960X,$1540.52 USD,Intel,BX80673I97960X,5032037113816,,2.8 GHz,4.4 GHz,True,16,32,165 W,2066,False,https://www.amazon.ca/Intel-i9-7960X-16-Core-Processor-BX80673I97960X/dp/B075XRYMDS?psc=1&SubscriptionId=AKIAI7B523DQIKTQ3BRQ&tag=pckombo04b-20&linkCode=xm2&camp=2025&creative=165953&creativeASIN=B075XRYMDS
+Intel Core i9-7980XE,$1970.84 USD,Intel,BX80673I97980X,5032037114905,,2.6 GHz,4.4 GHz,True,18,36,165 W,2066,False,https://www.amazon.ca/Intel-Core-i9-7980XE-Processors-BX80673I97980X/dp/B075XRYMDR?psc=1&SubscriptionId=AKIAI7B523DQIKTQ3BRQ&tag=pckombo04b-20&linkCode=xm2&camp=2025&creative=165953&creativeASIN=B075XRYMDR
+Intel Core i9-9900K,$507.76 USD,Intel,BX80684I99900K,5032037140102,735858392433,3.6 GHz,5.0 GHz,True,8,16,160 W,1151,Intel UHD 630,https://www.amazon.ca/Intel-I9-9900K-Desktop-Processor-Unlocked/dp/B005404P9I?psc=1&SubscriptionId=AKIAI7B523DQIKTQ3BRQ&tag=pckombo04b-20&linkCode=xm2&camp=2025&creative=165953&creativeASIN=B005404P9I
+Intel Core i9-9900KF,$349.48 USD,Intel,BX80684I99900KF,5032037151931,735858407823,3.6 GHz,5.0 GHz,True,8,16,95 W,1151,False,https://www.amazon.ca/dp/B07MGBZWDZ?tag=pckombo04b-20&linkCode=osi&th=1&psc=1
+Intel Core i9-9900KS,,Intel,BX80684I99900KS,5032037167000,,4.0 GHz,5.0 GHz,True,8,16,127 W,1151,Intel UHD 630,
+Intel Pentium G3240,,Intel,BX80646G3240,5032037061971,,GHz,GHz,False,2,2,54 W,1150,False,
+Intel Pentium G3250,,Intel,BX80646G3250,5032037067164,,GHz,GHz,False,2,2,54 W,1150,False,
+Intel Pentium G3258,,Intel,BX80646G3258,5032037065122,,3.2 GHz,GHz,True,2,2,54 W,1150,Intel HD Graphics for 4th Gen,
+Intel Pentium G3260,,Intel,BX80646G3260,5032037073233,,3.3 GHz,GHz,False,2,2,53 W,1150,Intel HD Graphics for 4th Gen,
+Intel Pentium G4400,$50.05 USD,Intel,BX80662G4400,5032037079655,735858306188,3.3 GHz,GHz,False,2,2,47 W,1151,Intel HD 510,https://www.amazon.ca/Intel-BX80662G4400-Pentium-Processor-G4400-3-3/dp/B015VPX05A?psc=1&SubscriptionId=AKIAI7B523DQIKTQ3BRQ&tag=pckombo04b-20&linkCode=xm2&camp=2025&creative=165953&creativeASIN=B015VPX05A
+Intel Pentium G4500,$81.93 USD,Intel,BX80662G4500,5032037079471,,3.5 GHz,GHz,False,2,2,47 W,1151,False,https://www.amazon.ca/Intel-BX80662G4500-Processor-3-5-2/dp/B015VPX190?psc=1&SubscriptionId=AKIAI7B523DQIKTQ3BRQ&tag=pckombo04b-20&linkCode=xm2&camp=2025&creative=165953&creativeASIN=B015VPX190
+Intel Pentium G4520,,Intel,BX80662G4520,5032037079716,,3.6 GHz,GHz,False,2,2,47 W,1151,False,
+Intel Pentium G4560,,Intel,BX80677G4560,5032037095693,735858329620,3.5 GHz,GHz,False,2,4,54 W,1151,Intel HD 610,
+Intel Pentium G4600,$110.27 USD,Intel,BX80677G4600,5032037095938,735858329866,3.6 GHz,GHz,False,2,4,51 W,1151,Intel HD 530,https://www.amazon.ca/Intel-BX80677G4600-Pentium-Desktop-Processors/dp/B01NADEVZI?SubscriptionId=AKIAI7B523DQIKTQ3BRQ&tag=pckombo04b-20&linkCode=xm2&camp=2025&creative=165953&creativeASIN=B01NADEVZI
+Intel Pentium G4620,,Intel,BX80677G4620,5032037095990,,3.7 GHz,GHz,False,2,4,51 W,1151,Intel HD 630,
+Intel Pentium G7400,,Intel,BX80715G7400,5032037238410,735858503839,3.7 GHz,GHz,False,2,4,46 W,1700,False,
+Intel Pentium Gold G5400,$72.53 USD,Intel,BX80684G5400,5032037121491,735858367165,3.7 GHz,GHz,False,2,4,58 W,1151,Intel UHD 610,https://www.amazon.ca/Pentium%C2%AE-Desktop-Processor-LGA1151-BX80684G5400/dp/B0793BQS3R?psc=1&SubscriptionId=AKIAI7B523DQIKTQ3BRQ&tag=pckombo04b-20&linkCode=xm2&camp=2025&creative=165953&creativeASIN=B0793BQS3R
+Intel Pentium Gold G5420,,Intel,BX80684G5420,5032037155168,,3.8 GHz,GHz,False,2,4,54 W,1151,False,
+Intel Pentium Gold G5500,$97.98 USD,Intel,BX80684G5500,5032037121552,,3.8 GHz,GHz,False,2,4,54 W,1151,Intel UHD 610,https://www.amazon.ca/Pentium%C2%AE-Desktop-Processor-LGA1151-BX80684G5500/dp/B0793DYTCQ?psc=1&SubscriptionId=AKIAI7B523DQIKTQ3BRQ&tag=pckombo04b-20&linkCode=xm2&camp=2025&creative=165953&creativeASIN=B0793DYTCQ
+Intel Pentium Gold G5600,$79.76 USD,Intel,BX80684G5600,5032037121613,,3.9 GHz,GHz,False,2,4,54 W,1151,Intel UHD 630,https://www.amazon.ca/Pentium%C2%AE-Desktop-Processor-LGA1151-BX80684G5600/dp/B0793GW74J?psc=1&SubscriptionId=AKIAI7B523DQIKTQ3BRQ&tag=pckombo04b-20&linkCode=xm2&camp=2025&creative=165953&creativeASIN=B0793GW74J
+Intel Xeon E3-1231 V3,,Intel,BX80646E31231V3,5032037061797,,3.4 GHz,3.8 GHz,False,4,8,80 W,1150,False,
+Intel Xeon E3-1241 V3,,Intel,BX80646E31241V3,5032037061735,,3.5 GHz,3.9 GHz,False,4,8,80 W,1150,False,
+Intel Xeon E3-1271 V3,,Intel,BX80646E31271V3,5032037061674,,3.6 GHz,4.0 GHz,False,4,8,80 W,1150,False,
+Intel Xeon E5-1620 V3,$346.33 USD,Intel,BX80644E51620V3,5032037065320,,3.5 GHz,3.6 GHz,False,4,8,140 W,2011-V3,False,https://www.amazon.ca/Intel-Processor-Xeon-E5-1620-LGA2011/dp/B00MU046J4?SubscriptionId=AKIAI7B523DQIKTQ3BRQ&tag=pckombo04b-20&linkCode=xm2&camp=2025&creative=165953&creativeASIN=B00MU046J4
+Intel Xeon E5-1650 V3,,Intel,BX80644E51650V3,5032037065269,,3.5 GHz,3.8 GHz,False,6,12,140 W,2011-V3,False,
+Intel Xeon E5-1650 V4,,Intel,BX80660E51650V4,5032037088008,735858318952,3.6 GHz,4.0 GHz,False,6,12,140 W,2011-V3,False,
+Intel Xeon E5-2603 V3,,Intel,BX80644E52603V3,5032037065382,735858285179,1.6 GHz,GHz,False,6,6,85 W,2011-V3,False,
+Intel Xeon E5-2603 V4,,Intel,BX80660E52603V4,5032037085502,735858313971,1.7 GHz,GHz,False,6,6,85 W,2011-V3,False,
+Intel Xeon E5-2609 V4,$320.65 USD,Intel,BX80660E52609V4,5032037085557,735858314022,1.7 GHz,GHz,False,8,8,85 W,2011-V3,False,https://www.amazon.ca/Intel-Computer-CPU-1-7-BX80660E52609V4/dp/B01D5AGKNW?SubscriptionId=AKIAI7B523DQIKTQ3BRQ&tag=pckombo04b-20&linkCode=xm2&camp=2025&creative=165953&creativeASIN=B01D5AGKNW
+Intel Xeon E5-2620 V3,$397.5 USD,Intel,BX80644E52620V3,5032037065597,,2.4 GHz,3.2 GHz,False,6,12,85 W,2011-V3,False,https://www.amazon.ca/Intel-Processor-Xeon-E5-2620-LGA2011/dp/B00M1BUUMO?SubscriptionId=AKIAI7B523DQIKTQ3BRQ&tag=pckombo04b-20&linkCode=xm2&camp=2025&creative=165953&creativeASIN=B00M1BUUMO
+Intel Xeon E5-2620 V4,$398.22 USD,Intel,BX80660E52620V4,5032037085601,735858314077,2.1 GHz,3.0 GHz,False,8,16,85 W,2011-V3,False,https://www.amazon.ca/dp/B01CNKEY8S?tag=pckombo04b-20&linkCode=osi&th=1&psc=1
+Intel Xeon E5-2630 V3,,Intel,BX80644E52630V3,5032037065542,,2.4 GHz,3.2 GHz,False,8,16,85 W,2011-V3,False,
+Intel Xeon E5-2630 V4,$683.38 USD,Intel,BX80660E52630V4,5032037085656,735858314121,2.2 GHz,3.1 GHz,False,0,20,85 W,2011-V3,False,https://www.amazon.ca/dp/B01D5AGOE2?tag=pckombo04b-20&linkCode=osi&th=1&psc=1
+Intel Xeon E5-2640 V3,,Intel,BX80644E52640V3,5032037065436,735858285223,2.6 GHz,3.4 GHz,False,8,16,90 W,2011-V3,False,
+Intel Xeon E5-2640 V4,$964.39 USD,Intel,BX80660E52640V4,5032037085755,735858314220,2.4 GHz,3.4 GHz,False,0,20,90 W,2011-V3,False,https://www.amazon.ca/Intel-Computer-CPU-2-4-BX80660E52640V4/dp/B01CSIS7BK?SubscriptionId=AKIAI7B523DQIKTQ3BRQ&tag=pckombo04b-20&linkCode=xm2&camp=2025&creative=165953&creativeASIN=B01CSIS7BK
+Intel Xeon E5-2650 V4,$1177.33 USD,Intel,BX80660E52650V4,5032037083072,735858310703,2.2 GHz,2.9 GHz,False,2,24,105 W,2011-V3,False,https://www.amazon.ca/dp/B01CNKEZ3C?tag=pckombo04b-20&linkCode=osi&th=1&psc=1
+Intel Xeon E5-2660 V3,,Intel,BX80644E52660V3,5032037064545,,2.6 GHz,3.3 GHz,False,0,20,105 W,2011-V3,False,
+Intel Xeon E5-2660 V4,$414.46 USD,Intel,BX80660E52660V4,0675901383707,735858310758,2.0 GHz,3.2 GHz,False,4,28,105 W,2011-V3,False,https://www.amazon.ca/Intel-Computer-CPU-2-0-BX80660E52660V4/dp/B01CNKEZVY?SubscriptionId=AKIAI7B523DQIKTQ3BRQ&tag=pckombo04b-20&linkCode=xm2&camp=2025&creative=165953&creativeASIN=B01CNKEZVY
+Intel Xeon E5-2680 V3,,Intel,BX80644E52680V3,5032037064590,735858283588,2.5 GHz,3.3 GHz,False,2,24,120 W,2011-V3,False,
+Intel Xeon E5-2680 V4,,Intel,BX80660E52680V4,5032037083171,735858310802,2.4 GHz,3.3 GHz,False,4,28,120 W,2011-V3,False,
+Intel Xeon E5-2683 V4,,Intel,BX80660E52683V4,5032037082914,,2.1 GHz,3.0 GHz,False,6,32,120 W,2011-V3,False,
+Intel Xeon E5-2687W V3,$2356.01 USD,Intel,BX80644E52687V3,5032037064491,,3.1 GHz,3.5 GHz,False,0,20,160 W,2011-V3,False,https://www.amazon.ca/Intel-Processor-LGA2011-3-E5-2687WV3-BX80644E52687V3/dp/B00NB0V10E?SubscriptionId=AKIAI7B523DQIKTQ3BRQ&tag=pckombo04b-20&linkCode=xm2&camp=2025&creative=165953&creativeASIN=B00NB0V10E
+Intel Xeon E5-2687W V4,,Intel,BX80660E52687V4,5032037083270,735858310901,3.0 GHz,3.5 GHz,False,2,24,160 W,2011-V3,False,
+Intel Xeon E5-2690 V3,,Intel,BX80644E52690V3,5032037064644,,2.6 GHz,3.5 GHz,False,2,24,135 W,2011-V3,False,
+Intel Xeon E5-2690 V4,,Intel,BX80660E52690V4,5032037083225,735858310857,2.6 GHz,3.5 GHz,False,4,28,135 W,2011-V3,False,
+Intel Xeon E5-2695 V3,,Intel,BX80644E52695V3,5032037063814,,2.3 GHz,3.3 GHz,False,4,28,120 W,2011-V3,False,
+Intel Xeon E5-2695 V4,,Intel,BX80660E52695V4,5032037310628,735858310628,2.1 GHz,3.3 GHz,False,8,36,120 W,2011-V3,False,
+Intel Xeon E5-2697 V3,,Intel,BX80644E52697V3,5032037063760,,2.6 GHz,3.6 GHz,False,4,28,145 W,2011-V3,False,
+Intel Xeon E5-2697 V4,,Intel,BX80660E52697V4,5032037082969,,2.3 GHz,3.6 GHz,False,8,36,145 W,2011-V3,False,

@@ -1,4 +1,4 @@
-# Playground Series - Season 4, Episode 8
+# Mushroom Binary Classification Model
 
 ## Goal
 The goal of this project is to build and evaluate various machine learning models to predict the class of mushrooms based on their characteristics provided in the dataset.

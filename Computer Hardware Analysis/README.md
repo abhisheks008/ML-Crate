@@ -1,10 +1,10 @@
-# GPU Price Prediction Project
+# Computer Hardware Analysis
 
 ## Goal
-The goal of this project is to predict the prices of GPUs based on various features such as HDMI support, boost clock, VRAM, and memory clock. Accurate price predictions can help consumers make informed decisions and manufacturers optimize pricing strategies.
+The goal of this project is to analyze the computer hardware dataset based on various features such as HDMI support, boost clock, VRAM, and memory clock. Accurate price predictions can help consumers make informed decisions and manufacturers optimize pricing strategies.
 
 ## Dataset
-The dataset used for this project is sourced from [GPUData.csv](https://www.kaggle.com/datasets/username/gpu-prices), which includes columns like:
+The dataset used for this project is sourced from [GPUData.csv](https://www.kaggle.com/datasets/dilshaansandhu/general-computer-hardware-dataset), which includes columns like:
 - `Name`: GPU model name
 - `Producer`: GPU producer
 - `HDMI`: HDMI support
@@ -19,6 +19,19 @@ The dataset is preprocessed to handle missing values and encode categorical vari
 1. **Data Preprocessing**: Cleaned and preprocessed the dataset by handling missing values, encoding categorical variables, and scaling features.
 2. **Model Training and Evaluation**: Trained multiple regression models and evaluated their performance using RMSE and R2 scores.
 3. **Results Visualization**: Plotted model performance metrics to compare their effectiveness.
+
+## EDA
+
+![EDA](https://github.com/adi271001/ML-Crate/blob/Computer-Hardware/Computer%20Hardware%20Analysis/Images/__results___5_0.png?raw=true)
+![EDA](https://github.com/adi271001/ML-Crate/blob/Computer-Hardware/Computer%20Hardware%20Analysis/Images/__results___6_0.png?raw=true)
+![EDA](https://github.com/adi271001/ML-Crate/blob/Computer-Hardware/Computer%20Hardware%20Analysis/Images/__results___7_0.png?raw=true)
+![EDA](https://github.com/adi271001/ML-Crate/blob/Computer-Hardware/Computer%20Hardware%20Analysis/Images/__results___8_0.png?raw=true)
+![EDA](https://github.com/adi271001/ML-Crate/blob/Computer-Hardware/Computer%20Hardware%20Analysis/Images/__results___9_0.png?raw=true)
+![EDA](https://github.com/adi271001/ML-Crate/blob/Computer-Hardware/Computer%20Hardware%20Analysis/Images/__results___10_0.png?raw=true)
+![EDA](https://github.com/adi271001/ML-Crate/blob/Computer-Hardware/Computer%20Hardware%20Analysis/Images/__results___11_1.png?raw=true)
+![EDA](https://github.com/adi271001/ML-Crate/blob/Computer-Hardware/Computer%20Hardware%20Analysis/Images/__results___12_0.png?raw=true)
+![EDA](https://github.com/adi271001/ML-Crate/blob/Computer-Hardware/Computer%20Hardware%20Analysis/Images/__results___13_0.png?raw=true)
+![EDA](https://github.com/adi271001/ML-Crate/blob/Computer-Hardware/Computer%20Hardware%20Analysis/Images/__results___14_1.png?raw=true)
 
 ## Models Implemented
 1. **Linear Regression**

@@ -1,47 +1,41 @@
-# Parameters of Cricket Analysis
+# Exploratory Data Analysis (Sports)
 
-### 🎯 Goal
-The main goal of this project is to analyze various parameters of cricket matches to derive meaningful insights and trends from historical data.
+This project involves the analysis of cricket match data to uncover insights and patterns. The datasets used in this analysis include detailed information about deliveries and match outcomes.
 
-### 🧵 Dataset
-The dataset used for this analysis can be accessed [(1)here](https://drive.google.com/file/d/1XzA-ID3bsvJc-4Z4ZO7RAfRILesWhCWd/view?usp=sharing) and [(2)here](https://drive.google.com/file/d/1jNROunijgW_mm_igrxXjh5yAwOEVI9t0/view?usp=sharing). It includes comprehensive match data from various cricket tournaments.
+## Datasets
 
-### 🧾 Description
-This project involves an in-depth analysis of cricket match parameters such as runs, wickets, player performance, and match outcomes. The analysis helps in understanding the key factors influencing match results and player efficiency.
+1. **deliveries.csv**: This dataset contains ball-by-ball information for each match, including details such as:
+   - `match_id`: Identifier for the match.
+   - `inning`: Inning number.
+   - `batting_team`: Team that is batting.
+   - `bowling_team`: Team that is bowling.
+   - `over` and `ball`: Over and ball number.
+   - `batsman`, `non_striker`, `bowler`: Players involved.
+   - Various run categories and dismissal information.
 
-### 🧮 What I had done!
-1. Collected and pre-processed the dataset.
-2. Performed exploratory data analysis to uncover patterns and trends.
-3. Implemented various statistical models to analyze match parameters.
-4. Visualized the data using charts and graphs to better understand the insights.
-5. Compared model performances to determine the best-fit model.
+2. **matches.csv**: This dataset provides match-level information, including:
+   - `id`: Match identifier.
+   - `season`: Year of the match.
+   - `city` and `date`: Location and date of the match.
+   - `team1` and `team2`: Teams playing the match.
+   - `toss_winner` and `toss_decision`: Toss winner and their decision.
+   - `result`, `dl_applied`: Match result and whether Duckworth-Lewis method was applied.
+   - `winner`, `win_by_runs`, `win_by_wickets`: Winning team and margin of victory.
+   - `player_of_match`, `venue`: Player of the match and match venue.
+   - `umpire1`, `umpire2`, `umpire3`: Umpires officiating the match.
 
-### 🚀 Models Implemented
-- Linear Regression: To predict runs scored.
-- Decision Trees: For classifying match outcomes.
-- K-Means Clustering: To group similar player performances.
-- Random Forest: For improving prediction accuracy.
+## Objectives
 
-### 📚 Libraries Needed
-- Pandas
-- NumPy
-- Matplotlib
-- Seaborn
-- Scikit-learn
+- Analyze player and team performances.
+- Identify key factors contributing to match outcomes.
+- Visualize trends and patterns in cricket matches.
 
-### 📊 Exploratory Data Analysis Results
-![EDA Results](https://drive.google.com/file/d/1CfGHu1oFRBjeUTvZww_S-28kspqofve7/view?usp=sharing)
+## Usage
 
-### 📈 Performance of the Models based on the Accuracy Scores
-- Linear Regression: 85% accuracy in run prediction.
-- Decision Trees: 78% accuracy in match outcome classification.
-- K-Means Clustering: Effectively grouped player performances.
-- Random Forest: 90% accuracy in various predictions.
+1. **Data Preprocessing**: Clean and prepare the datasets for analysis.
+2. **Exploratory Data Analysis (EDA)**: Perform statistical analysis and visualization to explore the data.
+3. **Insights and Conclusions**: Derive meaningful insights from the data and present conclusions.
 
-### 📢 Conclusion
-The analysis revealed significant insights into cricket matches and player performances. Random Forest emerged as the most accurate model for predictions. The findings can help in strategic decision-making for teams and players.
+## Conclusion
 
-### ✒️ Your Signature
-Somnath Shaw  
-[GitHub](https://github.com/somnathshaw)
-
+This project aims to provide a comprehensive analysis of cricket match data, helping to understand the dynamics of the game and the factors influencing outcomes.

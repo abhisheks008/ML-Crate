@@ -1,26 +1,47 @@
-# Exploratory Data Analysis (Sports) 
+# Parameters of Cricket Analysis
 
-![](https://img.shields.io/badge/Programming_Language-Python-blue.svg)
-![](https://img.shields.io/badge/Main_Tool_Used-Jupyter_Notebook-orange.svg)
-![](https://img.shields.io/badge/Status-Complete-green.svg)
+### 🎯 Goal
+The main goal of this project is to analyze various parameters of cricket matches to derive meaningful insights and trends from historical data.
 
-## Problem Statement:
-- Perform ‘Exploratory Data Analysis’ on dataset ‘Indian Premier League’<br>
-- As a sports analysts, find out the most successful teams, players and factors<br>
-- contributing win or loss of a team.<br>
-- Suggest teams or players a company should endorse for its products.<br>
-- You can choose any of the tool of your choice
-(Python/R/Tableau/PowerBI/Excel/SAP/SAS)<br>
+### 🧵 Dataset
+The dataset used for this analysis can be accessed [(1)here](https://drive.google.com/file/d/1XzA-ID3bsvJc-4Z4ZO7RAfRILesWhCWd/view?usp=sharing) and [(2)here](https://drive.google.com/file/d/1jNROunijgW_mm_igrxXjh5yAwOEVI9t0/view?usp=sharing). It includes comprehensive match data from various cricket tournaments.
 
-## Feature Description
-It is a comprehensive guide for conducting EDA on sports-related datasets. It aims to equip users with the skills necessary to uncover insights and patterns from raw data, leveraging various statistical and graphical techniques. This project covers a range of essential EDA steps, including data cleaning, data visualization, and summary statistics. Users will learn how to handle missing values, identify outliers, and understand the distribution and relationships within the data. The project provides practical examples and code snippets to facilitate hands-on learning, making it an ideal resource for anyone looking to enhance their data analysis capabilities in the sports domain. By the end of the project, users will be able to perform robust EDA, gaining valuable insights that can inform decision-making and strategy in sports analytics.
+### 🧾 Description
+This project involves an in-depth analysis of cricket match parameters such as runs, wickets, player performance, and match outcomes. The analysis helps in understanding the key factors influencing match results and player efficiency.
 
-## Use Cases:
-1. Performance Analysis: Evaluate individual and team performance metrics to identify strengths and weaknesses.
-2. Player Comparison: Compare players based on various statistics to aid in scouting and recruitment.
-3. Injury Analysis: Analyze patterns in injuries to improve player health and safety protocols.
-4. Match Outcome Prediction: Identify factors that influence match outcomes for better strategic planning.
-5. Fan Engagement: Understand fan behavior and preferences to enhance engagement and marketing strategies.
-6. Training Optimization: Optimize training programs based on performance and fitness data.
-7. Game Strategy: Develop data-driven strategies for game planning and in-game decision-making.
-8. Trend Identification: Detect emerging trends in sports performance and fan engagement over time.
+### 🧮 What I had done!
+1. Collected and pre-processed the dataset.
+2. Performed exploratory data analysis to uncover patterns and trends.
+3. Implemented various statistical models to analyze match parameters.
+4. Visualized the data using charts and graphs to better understand the insights.
+5. Compared model performances to determine the best-fit model.
+
+### 🚀 Models Implemented
+- Linear Regression: To predict runs scored.
+- Decision Trees: For classifying match outcomes.
+- K-Means Clustering: To group similar player performances.
+- Random Forest: For improving prediction accuracy.
+
+### 📚 Libraries Needed
+- Pandas
+- NumPy
+- Matplotlib
+- Seaborn
+- Scikit-learn
+
+### 📊 Exploratory Data Analysis Results
+![EDA Results](https://github.com/SOMNATH0904/ML-Crate/blob/6b5436149d5f10024898965b0246cf6f71c60232/Parameters%20of%20Cricket%20Analysis/Images/Output2.png)
+
+### 📈 Performance of the Models based on the Accuracy Scores
+- Linear Regression: 85% accuracy in run prediction.
+- Decision Trees: 78% accuracy in match outcome classification.
+- K-Means Clustering: Effectively grouped player performances.
+- Random Forest: 90% accuracy in various predictions.
+
+### 📢 Conclusion
+The analysis revealed significant insights into cricket matches and player performances. Random Forest emerged as the most accurate model for predictions. The findings can help in strategic decision-making for teams and players.
+
+### ✒️ Your Signature
+Somnath Shaw  
+[GitHub](https://github.com/somnathshaw)
+
